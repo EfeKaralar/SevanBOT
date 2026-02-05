@@ -13,6 +13,38 @@ import os
 import argparse
 import xml.etree.ElementTree as ET
 
+# Default path for processed URLs file
+DEFAULT_PROCESSED_URLS_FILE = 'processed_urls.txt'
+
+
+def load_processed_urls(filepath=DEFAULT_PROCESSED_URLS_FILE):
+    """
+    Load set of already-processed URLs from file.
+
+    Args:
+        filepath: Path to processed URLs file
+
+    Returns:
+        Set of URLs that have been processed
+    """
+    if not os.path.exists(filepath):
+        return set()
+
+    with open(filepath, 'r', encoding='utf-8') as f:
+        return set(line.strip() for line in f if line.strip())
+
+
+def add_processed_url(url, filepath=DEFAULT_PROCESSED_URLS_FILE):
+    """
+    Append a URL to the processed URLs file.
+
+    Args:
+        url: URL to mark as processed
+        filepath: Path to processed URLs file
+    """
+    with open(filepath, 'a', encoding='utf-8') as f:
+        f.write(url + '\n')
+
 
 def parse_sitemap(sitemap_path):
     """
@@ -91,7 +123,7 @@ def download_article(url, output_dir, delay=1.0, skip_existing=False):
 
 
 def download_articles(sitemap_path, output_dir='./sources/substack', limit=None, delay=1.0,
-                      batch_size=None, skip_existing=False):
+                      batch_size=None, skip_existing=False, processed_urls_file=None):
     """
     Download articles from sitemap.
 
@@ -101,7 +133,8 @@ def download_articles(sitemap_path, output_dir='./sources/substack', limit=None,
         limit: Maximum number of articles to process (None for all)
         delay: Delay between requests in seconds
         batch_size: If set, stop after downloading this many NEW files (skipped files don't count)
-        skip_existing: If True, skip files that already exist
+        skip_existing: If True, skip files that already exist (checks HTML file)
+        processed_urls_file: If set, skip URLs listed in this file (checks processed URLs list)
 
     Returns:
         Dictionary with:
@@ -110,9 +143,17 @@ def download_articles(sitemap_path, output_dir='./sources/substack', limit=None,
             - failed_count: Number of failed downloads
             - total_processed: Total URLs processed
             - downloaded_files: List of paths to newly downloaded files
+            - downloaded_urls: List of URLs that were downloaded (parallel to downloaded_files)
     """
     # Create output directory
     os.makedirs(output_dir, exist_ok=True)
+
+    # Load processed URLs if file is specified
+    processed_urls = set()
+    if processed_urls_file:
+        processed_urls = load_processed_urls(processed_urls_file)
+        if processed_urls:
+            print(f"[PROCESSED] Loaded {len(processed_urls)} already-processed URLs")
 
     # Parse sitemap
     print(f"[SITEMAP] Reading: {sitemap_path}")
@@ -131,12 +172,20 @@ def download_articles(sitemap_path, output_dir='./sources/substack', limit=None,
     failed = 0
     processed = 0
     downloaded_files = []
+    downloaded_urls = []
 
     for url in post_urls:
         # Check if we've reached batch_size for new downloads
         if batch_size and downloaded >= batch_size:
             print(f"\n[BATCH] Reached batch size of {batch_size} new downloads, stopping")
             break
+
+        # Check if URL is already processed (converted to MD)
+        if url in processed_urls:
+            print(f"[SKIP] Already processed: {url}")
+            skipped += 1
+            processed += 1
+            continue
 
         processed += 1
         status, filepath, error = download_article(url, output_dir, delay, skip_existing)
@@ -145,8 +194,9 @@ def download_articles(sitemap_path, output_dir='./sources/substack', limit=None,
             print(f"[DOWNLOAD] {filepath}")
             downloaded += 1
             downloaded_files.append(filepath)
+            downloaded_urls.append(url)
         elif status == 'skipped':
-            print(f"[SKIP] Already exists: {filepath}")
+            print(f"[SKIP] HTML exists: {filepath}")
             skipped += 1
         else:
             print(f"[FAILED] {url} - {error}")
@@ -157,7 +207,8 @@ def download_articles(sitemap_path, output_dir='./sources/substack', limit=None,
         'skipped_count': skipped,
         'failed_count': failed,
         'total_processed': processed,
-        'downloaded_files': downloaded_files
+        'downloaded_files': downloaded_files,
+        'downloaded_urls': downloaded_urls
     }
 
 
@@ -198,6 +249,11 @@ def main():
         default=1.0,
         help='Delay between requests in seconds (default: 1.0)'
     )
+    parser.add_argument(
+        '--processed-urls-file',
+        default=None,
+        help='Path to file containing already-processed URLs to skip'
+    )
 
     args = parser.parse_args()
 
@@ -212,7 +268,8 @@ def main():
         args.limit,
         args.delay,
         args.batch_size,
-        args.skip_existing
+        args.skip_existing,
+        args.processed_urls_file
     )
 
     print()

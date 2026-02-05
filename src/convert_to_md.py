@@ -119,13 +119,13 @@ def extract_article_content(soup):
 def convert_html_to_markdown(html_path, output_dir='./formatted/substack'):
     """
     Convert a single HTML file to Markdown.
-    
+
     Args:
         html_path: Path to HTML file
         output_dir: Directory to save markdown file
-        
+
     Returns:
-        Tuple of (success: bool, output_path: str or None, error: str or None)
+        Tuple of (success: bool, output_path: str or None, error: str or None, source_url: str or None)
     """
     try:
         # Create output directory
@@ -141,7 +141,7 @@ def convert_html_to_markdown(html_path, output_dir='./formatted/substack'):
         article = extract_article_content(soup)
         
         if not article['content_elem']:
-            return False, None, "No content found in HTML"
+            return False, None, "No content found in HTML", None
         
         # KEY STEP: Clean HTML whitespace BEFORE markdown conversion
         content_elem_cleaned = clean_html_whitespace(article['content_elem'])
@@ -178,11 +178,11 @@ def convert_html_to_markdown(html_path, output_dir='./formatted/substack'):
         # Save to file
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(markdown_content)
-        
-        return True, output_path, None
-        
+
+        return True, output_path, None, article['source_url']
+
     except Exception as e:
-        return False, None, str(e)
+        return False, None, str(e), None
 
 
 def convert_multiple_files(input_dir, output_dir='./formatted/substack', limit=None):
@@ -212,8 +212,8 @@ def convert_multiple_files(input_dir, output_dir='./formatted/substack', limit=N
         html_path = os.path.join(input_dir, filename)
         print(f"[{i}/{len(html_files)}] Converting: {filename}")
         
-        success, output_path, error = convert_html_to_markdown(html_path, output_dir)
-        
+        success, output_path, error, _source_url = convert_html_to_markdown(html_path, output_dir)
+
         if success:
             print(f"  ✓ Saved to {output_path}")
             successful += 1
@@ -312,11 +312,11 @@ Examples:
         else:
             # Single file
             print(f"Converting: {args.input_path}")
-            success, output_path, error = convert_html_to_markdown(
+            success, output_path, error, _source_url = convert_html_to_markdown(
                 args.input_path,
                 args.output_dir
             )
-            
+
             if success:
                 print(f"✓ Success! Saved to: {output_path}")
             else:

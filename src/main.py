@@ -16,7 +16,7 @@ This script orchestrates the complete pipeline:
 
 import argparse
 import os
-from download_substack import download_articles
+from download_substack import download_articles, add_processed_url, DEFAULT_PROCESSED_URLS_FILE
 from convert_to_md import convert_html_to_markdown
 
 
@@ -82,6 +82,11 @@ Examples:
         default=1.0,
         help='Delay between download requests in seconds (default: 1.0)'
     )
+    parser.add_argument(
+        '--processed-urls-file',
+        default=DEFAULT_PROCESSED_URLS_FILE,
+        help=f'File to track processed URLs (default: {DEFAULT_PROCESSED_URLS_FILE})'
+    )
 
     args = parser.parse_args()
 
@@ -106,9 +111,11 @@ Examples:
         print(f"[INFO] Found {len(files_to_convert)} HTML files to convert")
 
         for filepath in files_to_convert:
-            success, output_path, error = convert_html_to_markdown(filepath, args.output_dir)
+            success, output_path, error, source_url = convert_html_to_markdown(filepath, args.output_dir)
             if success:
                 print(f"[CONVERT] {os.path.basename(filepath)} -> {output_path}")
+                if source_url:
+                    add_processed_url(source_url, args.processed_urls_file)
             else:
                 print(f"[FAILED] {os.path.basename(filepath)} - {error}")
 
@@ -154,10 +161,12 @@ Examples:
             output_dir=args.source_dir,
             batch_size=current_batch_size,
             skip_existing=True,
-            delay=args.delay
+            delay=args.delay,
+            processed_urls_file=args.processed_urls_file
         )
 
         downloaded_files = result['downloaded_files']
+        downloaded_urls = result['downloaded_urls']
         total_downloaded += result['downloaded_count']
 
         print("-" * 70)
@@ -177,13 +186,16 @@ Examples:
             converted_count = 0
             files_to_delete = []
 
-            for filepath in downloaded_files:
-                success, output_path, error = convert_html_to_markdown(filepath, args.output_dir)
+            for filepath, url in zip(downloaded_files, downloaded_urls):
+                success, output_path, error, source_url = convert_html_to_markdown(filepath, args.output_dir)
 
                 if success:
                     print(f"[CONVERT] {os.path.basename(filepath)}")
                     converted_count += 1
                     files_to_delete.append(filepath)
+                    # Record URL as processed (use source_url from HTML if available, else use download URL)
+                    url_to_record = source_url if source_url else url
+                    add_processed_url(url_to_record, args.processed_urls_file)
                 else:
                     print(f"[FAILED] {os.path.basename(filepath)} - {error}")
 
