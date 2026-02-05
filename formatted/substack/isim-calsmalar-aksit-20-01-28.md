@@ -1,0 +1,21 @@
+# İsim çalışmaları: Akşit
+
+Jan 28, 2020
+
+**Source:** https://nisanyan.substack.com/p/isim-calsmalar-aksit-20-01-28
+
+---
+
+**Akşit** adını İngilizce talihsiz çağrışımlarından dolayı tanıyoruz. 1934-35’te sahaya sürülen Yeni Türk adlarından biri. Hem önad (84 erkek, 27 kadın), hem soyad olarak kullanılıyor. Baha Akşit Denizlili, vaktiyle Demokrat Parti milletvekili. Güldal Akşit Malatyalı, AKP milletvekili.
+
+TDK sözlüğüne göre ‘Akşit Muhammed b. Tuğac’ adlı Türk komutan 935 senesinde Mısır’da İhşidî hanedanını kurmuş. Akşit ise “1. Kutlu, uğurlu. 2. Nur, aydınlık” anlamına geliyormuş. Ak hadi nurla aydınlıkla alakalı olsun, şit ne demek onu açıklamamışlar. Eski ve yeni hiçbir Türkçede bu sözcüğün izi yok. Beyaz bir şit nasıl şeydir, bilmiyoruz.
+
+İslam Ansiklopedisi’ne başvuruyoruz. Bir kere babasının adı Tuğac değil Tuğc; en azından birinci elden bilgi veren Arap tarihçileri böyle yazmışlar. Hareke hatası mıdır, adamın adı Toğuş veya hatta Tunc muydu, bilmeye imkan yok. Adı değil ama unvanı ise Arapça yazıda daima İxşîd, yani إخشيد . Tek hareke farkıyla Axşid أخشيد okumak mümkün müdür acep? Sanmıyorum. Arap tarihçileri el-Makrizi, el-Halebi, İbn ül-Esir, İbn Hallikan, İbn Haldun, es-Suyuti ve onlara istinaden Wüstenfeld, konuya ilişkin klasik referans eseri *Die Statthalter von Ägypten zur Zeit der Chalifen*’de (1875), böyle aktarıyorlar. Mış.
+
+Peki İxşîd neymiş? Semerkand ve Fergana’nın Türkleşmesinden önceki dönemde orada hüküm süren Soğd hükümdarlarının unvanı olan *xşîd*’in Arapçaya uydurulmuş haliymiş. Yakut el-Hamavi, klasik devir Arap coğrafyacılığının başeserlerinden olan *Mu’cemül Buldan*’da dünyadaki çeşitli ülke hükümdarlarının unvanlarını sayarken Fergana’da Soğd hükümdarı ixşid’i anıyor. 750’li yıllarda Fergana’nın ixşid’i Arap yayılmacılığına karşı Çinlileri yardıma çağırınca meşhur Talas savaşı oldu diye İbnül Esir anlatıyor. Talas’tan sonra oraları Türkleşmiş, ama anlaşılan ixşid unvanı saygınlığını korumuş. Tuğc oğlu Muhammed’in dedesi İltekin oğlu Cuff Fergana’lıymış; Bağdat’a Abbasi ordusunda profesyonel askerlik için gelmiş. Oğlu ve torunu İslam devletinde mühim mevkilere ulaşmışlar. Atalarının Fergana’da hakan soyu olduğunu söylemişler. Muhammed Mısır valisi iken 939 yılında makamı babadan oğula geçecek şekilde sülalesine mal edince ixşid unvanını benimsemiş. Kendisinden sonra Mısır'da hüküm süren iki oğlu ile torunu da aynı unvanı taşımışlar.
+
+Sanırım burada ince bir ideolojik/hukuki problem var. 890’lardan sonra Abbasi devleti çözülmeye başlamıştır. Ancak teoride halife hala tek meşru hükümdardır. ‘Melik’ İslami teoride kötü şöhretlidir. ‘Sultan’ henüz tedavüle girmemiştir. ‘Padişah’ açıkça halifeye meydan okumak anlamına gelir. Buna karşılık ‘emîr’ ve ‘vali’ artık yetersiz gelmektedir. Egzotik bir terim olan ixşid, ne yana çeksen oraya gidecek bir ara çözüm olabilir: müstakil hükümdar desen değil, bağımlı vali desen o da değil. Tıpkı aynı şekilde, 19. yy’da Mehmet Ali Paşa sülalesi Mısır’da fiilen bağımsız hükümdar olduğunda, hala ‘vali’de ısrar eden Osmanlı protokolünü gocundurmamak için, hem vezir hem hükümdar anlamına gelen antika bir Farsça unvan olan *xedîv* (hıdiv) küflü sandıklardan çıkarılıp canlandırılacaktır. Patron değil, ama müdür de değil, CEO belki.
+
+Bosworth’un *Encyclopaedia of Islam*’daki makalesi Soğdca sözcüğün ya Avesta dilinde *xşaeta* kökünden “ışık, aydınlık” (karş. Farsça *xor-şîd* “güneş”) ya da Eski Persçe *xşāyathiya*sözcüğünden “şah, hükümdar” anlamına geldiğini belirtiyor; tüm ikincil kaynaklarda bu iki olasılık tekrarlanmış. Bediüzzaman Gharib’in Soğdca-Farsça sözlüğü birinci teoriyi benimsemiş, ancak “chief, commander – reis, fermandeh” tanımını vermiş. Bana ikinci teori sanki daha makul geliyor. Eski Türklerde mesela Kür-şad adında geçen *şâd* (“bey, emir”) unvanı da besbelli aynı kökten. Eski Türklerdeki egemenlik unvanlarının birçoğunun İrani kökten geldiğine, başta Bailey ve Clauson olmak üzere, birçok yazar işaret etmiştir.
+
+TDK sözlüğü “nurlu, aydınlık” tanımını belli ki İslam Ansiklopedisi’nden almış. Lakin bunun Türkçe değil başka bir dilde olduğunu ve sadece bir ihtimal olduğunu belirtmeye gerek görmemiş. “Kutlu, uğurlu”yu nereden bulmuşlar bilemedim.

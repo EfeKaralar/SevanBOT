@@ -1,0 +1,32 @@
+# Sözlük notları: Acur, incir, güğüm
+
+Sep 14, 2017
+
+**Source:** https://nisanyan.substack.com/p/sozluk-notlar-acur-incir-gugum-17-09-14
+
+---
+
+Yunanca **angúri**, tam yazımı *aggourion αγγούριον,* bildiğimiz salatalık, yani hıyar. Mesela “ful aksesuarlı salata yerine bize biraz domates salatalık doğra” diyeceksen *angurotomata* ısmarlıyorsun.
+
+Du Cange sözlüğüne göre Bizans Rumcasında, 11. yüzyıldan bir müddet önce zuhur etmiş bir kelime. O dönemde kültürel akımlar genellikle doğudan batıyadır. Belli başlı ciddi sözlüklerin hepsi kelimenin kökeni hakkında kesin bir şey söylemekten kaçınmışlar. Arapçaya bakmışız, Arapçada *ˁaccūr* var, Mısır lehçesinde *aggūr* olur, “bir çeşit şekilsiz ve pürtüklü salatalık veya yeşil kavun” diye geçiyor, bildiğimiz **acur**. Adana ve Antep yöresinde yaygındır, Ege’de de az çok bilinir. Nişanyan Sözlük buna kanmış, Yunanca sözcüğün muhtemelen Arap veya diğer Ortadoğu kökenli olduğuna hükmetmiş.
+
+Halbuki burada birkaç problem var. Bir kere *ˁaccūr* klasik devir Arapçasında yok, sonradan çıkma bir kelime, Wehr sözlüğü “Mısır lehçesi” diye belirtmiş, Lane sözlüğü Yunancadan alıntı olabilir demiş. İkincisi, sözcüğün Arapça bir etimolojisi yok, akrabaları, kökteşleri, benzerleri vb. görünmüyor. Üçüncüsü, ayınlı ve şeddeli *ˁaccūr* ve ayınsız-şeddesiz *acūr* diye çeşitli yazımları var ki bir kelimenin yabancı asıllı olduğunun en kuvvetli belirtilerinden biridir. Dördüncüsü ve en önemlisi, Du Cange’ın Latince icik bicik yarım sayfalık paragrafı içinde saklanmış bir detay, meğer en erken el yazması glossarium’larda *angúrion* yalnız salatalık değil, ayrıca incir (συκιά) diye tercüme edilmiş. Bu bizi heyecanlandıran bir bilgi. Çünkü Farsça **ancîr** ve Türkçe **incîr** sözcüğünün kaynağı konusunda eski sözlükler ihtilaflıdır. Farsçanın klasik sözlüğü Burhan-ı Katı bu kelimeye yer vermez, Meninski Türkçe der, Steingass Farsça olduğunu ima eder. Oysa besbelli nihai kaynak Bizans Rumcasındaki angúri olmalı. Ortaçağın ortak kültür dili Arapçada ve Arabize edilmiş (muarreb) Farsçada standart olan usul gereği /g/ sesinin /c/ olarak telaffuz edilmesi normal: *anguri > ancur >? ancîr*
+Problem şu: bir şey hem incir hem hıyar nasıl olur? Ne alaka?
+
+Angúrion, +ion ekiyle küçültülmüş bir isim; “angur-cuk” demek. Du Cange’a bakıyoruz, Ortaçağ Rumcasında *ánguros άγγουρος* neymiş? “Bal peteğinin bir hücresi” ve “balla yapılan bir çörek” demekmiş. İncire uyar, ama hıyarla alakasını kurmak zor. Antik Yunanca için Lewis & Short nihai otoritedir. Orada tabii bu kelimeler yok, ama *ángos άγγος* var: “kapçık, desti, her türlü sıvı kabı, şarap destisi, ölülerin küllerinin konduğu vazomsu kap (funeral urn)”, ve aha, en dipte ufak bir ek: “bal peteğinin hücresi”. Homeros’tan beri kaydedilmiş. En erken anlamı belli ki “susak, su kabağı” olmalı. İnsanoğlu MÖ 6000-7000’lerde çömleği keşfetmeden önce standart su kabı kabaktı, hani şimdi fener filan yapıyorlar, sert kabuklu ve saplı cinsi. İlkel dillerin çoğunda çömlek ve destinin adı oradan gelir. Mesela Latince *cucumis* “kabak” > “su kabı, bakraç”, oradan da bildiğimiz Türkçe **güğüm**. Ánguros’taki *+uros*’un işlevini burada kimse bana açıklayamadı, ama apaçık ki kelime esasen “kapçık” demek. Desti uyar, bal peteği hücresi de uyar, incir de uyar.
+
+[![](https://substackcdn.com/image/fetch/$s_!rYlh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9c851642-2cdc-4738-ad4a-a4551f1c13cd_200x150.jpeg)](https://substackcdn.com/image/fetch/$s_!rYlh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9c851642-2cdc-4738-ad4a-a4551f1c13cd_200x150.jpeg)
+
+Yaban hıyarı (Ecballium)Ama salatalık uymaz görünüyor. O yüzden önce ı-ıh dedim, inanmadım. Salatalığın incirle aynı adı taşıması tuhaf bir şey, mantığı yok, ayrı kelime olmalı. Sonra aniden aydım. Latince cucumis “kap, desti”, *cucurbita* ve daha sonra *cucumer* “hıyar”. Besbelli ona paralel bir mantıkla *ángos* “kap, desti”, *angúrion* “hıyar”. Şahane! Neyin kabıymış? Elbette eski çağın hıyarı bugünkü o devasa yeşil cilalı nesne değil, daha çok yol kenarlarında yetişen, olgunlaşınca cırt diye içini püskürten yaban hıyarına (*Ecballium elaterium,* Ebucehil karpuzu) benzer bir şey. Plinius *Doğa Tarihi,* 19.23’te hıyar denilen şeyin çok küçük ve genellikle siyah veya “mum rengi” olduğunu, içinin kıkırdaksı madde ile dolu olduğunu, Campania’da yetişen hıyarların “ayva şeklinde” olduğunu bildiriyor. Böyle düşününce “kapçık” fikri sanki anlam kazanıyor. Belki de halen Afrika’da yetiştirdikleri şu resimdeki hıyara (*Cucumis anguria*) benzeyen bir şey düşünmeli. İncir hıyarı? Mümkünmüş.
+
+[![](https://substackcdn.com/image/fetch/$s_!-jU2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c1225fd-a2aa-4a69-aaec-4fd7ae7ceff3_213x320.jpeg)](https://substackcdn.com/image/fetch/$s_!-jU2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c1225fd-a2aa-4a69-aaec-4fd7ae7ceff3_213x320.jpeg)
+
+Cucumis anguria
+Az daha devam edelim. Rusça *ogurets*, Lehçe *ogurek*, Çekçe *okurka* “hıyar”; Vasmer sözlüğü Bizans Rumcasından alıntıdır diyor. Angurion’ın bir kez daha küçültülmüş şekli bunlar, küçüle küçüle bir hal olmuş meret. Almanca *Gurke* “hıyar”, bir Slav dilinden, muhtemelen Lehçe veya Çekçeden alıntı diyorlar, oradaki /k/ sesi başka türlü açıklanamıyor. İngilizce *gherkin* de muhtemelen Almancadan ithal. Herhangi bir hıyar değil, turşu yapılan küçük cinsi için bu ad kullanılıyor.
+
+
+---
+
+Sözlüğün yeni baskısının çalışmaları, beş yıllık bir maratonun sonunda, geçen Cumartesi bitti. Ya da ben öyle zannettim. Derin bir nefes alıp, kuşlar gibi özgür, birkaç günlüğüne Atina’ya geldim. Burada bir angurion tartışmasına daldık, iki maddeyi baştan yazmak gerekti. Ertesi günü Şükrü Ilıcak’a rastladım, sende neler var, bende neler var derken 64 cigabayt pdf kitap yüklenip eve döndüm. Çıktı mı şimdi en az üç beş aylık ek iş?
+
+Bitmeyecek bu ırgatlık galiba.

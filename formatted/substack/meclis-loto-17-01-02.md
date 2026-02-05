@@ -1,0 +1,10 @@
+# Meclis – Loto
+
+Jan 02, 2017
+
+**Source:** https://nisanyan.substack.com/p/meclis-loto-17-01-02
+
+---
+
+Fikir bir süreden beri ortada dolaşıyor. Son zamanlarda David van Reybrouck adlı bir Belçikalı tarihçi başlıca sözcüsü oldu. Diyorlar ki temsili demokrasinin miadı dolmuştur. Bugünkü seçim yöntemleriyle bu iş yürümez. Halk temsilcilerini, antik Atina’daki gibi kurayla seçmek en iyisi. Demokrasi fikrini başka türlü kurtaramayız. Şimdiki sistem bir profesyonel siyasetçiler zümresi yaratıyor, ─ temel itiraz bu. Kamusal tartışmayı siyaset profesyonellerinin kontrolündeki siyasi partiler ve çıkar gruplarını temsil eden medya belirliyor. Siyasi söylem kamunun gerçek sorunlarından gitgide uzaklaşıyor. Ahalinin tek rolü oy vermek; ama oy, kapalı devre bir siyaset makinası içinde kayboluyor. Bu yüzden çoğu ülke referandumlara yöneldi. Ama o da çözüm değil, demagogların ekmeğine yağ sürüyor. Bak, yargıda jüri sistemi bin yıldan beri gayet güzel işliyor. Kurayla seçilen on iki vatandaşın ortak aklının, iyi kötü, vicdanı ve adaleti temsil edeceğine inanıyoruz. Yasama ve yönetimde neden aynı sistem yürümesin? İrlanda’da önceki sene denenmiş, şahane sonuç vermiş anlatılanlara göre. Avrupa’nın en muhafazakâr Katolik ülkesinde, eşcinsel evliliği çözmek için kura yoluyla yüz kişi seçmişler. Bir yıl süre tanımışlar, okuyun, tartışın, komisyon kurun, dilediğiniz uzmanı ve tanığı çağırıp dinleyin diye. İlk başta dörtte üçü eşcinsel evliliğine karşıymış. Bir yılın sonunda net çoğunlukla olur demişler. Ondan sonra referanduma gidilmiş, olur çıkmış.Akla ve rasyonel tartışmanın gücüne insanın güvenini tazeleyen bir hadise, değil mi? Kasım ayında Reybrouck’un Avrupa Komisyonu başkanı Juncker’e bir açık mektubu yayınlandı. Gelin diyor, Avrupa Birliği’nin 28 ülkesinde kurayla yüzer kişi seçelim. Bunlar bir hafta boyunca tartışsın, AB’den neler beklediklerini onar madde halinde yazsın. Üç ay sonra yine kurayla yirmişer delege seçilsin. Brüksel’de toplansınlar, ülkelerden gelen önerilerden yirmi beş tanesini seçsinler.
+Düşünmeye değer sanki.

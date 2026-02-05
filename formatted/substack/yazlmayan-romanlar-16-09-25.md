@@ -1,0 +1,26 @@
+# Yazılmayan romanlar
+
+Sep 25, 2016
+
+**Source:** https://nisanyan.substack.com/p/yazlmayan-romanlar-16-09-25
+
+---
+
+*Menemen Kapalı Cezaevinden kızım Anahit'e yazdığım bir mektup.*
+Bebişkom, bir iki aydan beri kafamda bir roman fikri dolanıyor. Bir değil aslında iki tane, birbiriyle alakasız iki hikaye.
+
+Birincisi eskilerin pikaresk dediği cinsten, bir seyahat romanı. Biraz sana anlattığım gezi hikayeleri gibi olsun, ama az da olsa bir olay örgüsü ve anlatı yapısı olsun istiyorum. Günümüzde değil geçmiş bir çağda geçecek, ya da belki çağlar arasında zıp zıp zıplayabilir. Tadında biraz Don Kişot, biraz Dekameron olsun istiyorum, ama en çok da Voltaire’in *Candide*’i. (Okudun mu bunları? Henüz okumadıysan mutlaka liseyi bitirmeden önce oku üçünü de. Dünyaya espri ve bilgelikle bakmana yardımcı olacak kitaplardır. Anlatı sanatının başyapıtlarıdır. Aklındaki – ve eğer kullanıyorsan – kalemindeki izleri hayat boyu silinmez.)
+
+Kahramanımız dünyanın merkezi olan İstanbul’dan yola çıkar. Belki Chaucer’ın *Canterbury Hikayeleri*’nin kahramanları gibi İspanya’daki Santiago de Compostela’ya hacca gidecektir. Yolda başına bin bir türlü absürt olaylar gelir. Rastladığı kişiler ve ülkeler hakkında gözlemler yapar; epigramlar yumurtlar; o ülkelerin gelecekteki evrimi hakkında kehanetlerde bulunur. Her gittiği yerde kadınlarla karma karışık gönül maceralarına girer. Sevilla’ya uğramışken Don Juan’ın, şimdi yaşlı kadınlar olan eski sevgilileri Donna Elvira ve Donna Anna ile tanışır. Cezayir korsanlarına esir düşer. Onlardan kurtulup bir süre Marakeş’in büyük meydanında dilencilik yapar. Orada tanıştığı insanlarla beraber Sahra çölünü geçip Mali sultanlığına ulaşır. Sultanla dostluk kurar. Esir tüccarı olur. Servet kazanır, kaybeder. Başına felaketler gelir. Dahomey kralının zindanlarına düşer. Tam idam edilecekken eski sevgilisi ile Fransız konsolosu olan bir tanıdığının yardımlarıyla canını kurtarır. Bir gemiyle Amerika’ya kaçar. Amazon ormanlarında altın madencilerine katılır. Kazandığı serveti Santiago de Compostela’ya adamak için tam yola çıkacakken başına başka şeyler gelir. Ölür.
+
+Felsefi bir roman olsun istiyorum. İçinde insan yaşamına, kadın erkek ilişkilerine, topluma ve dünyaya ilişkin komple bir felsefe olsun, ama katiyen uzun paragraflar ve teorik laflar olmasın. Hantallık olmasın, her cümlenin ve her kelimenin altından kıvrak bir espri göz kırpsın. Cümleler kısa, anlatı somut ve berrak olsun; on üç yaşında bir genç kolayca anlasın ve sevsin. Tarih ve coğrafya bilgileri manik bir titizlikle doğrulanmış olsun. Mesela Marakeş meydanındaki dükkanların sayısı ve detayları doğru bilinsin, Dahomey kralının unvanları tarihi kaynaklara uygun olsun, Donna Anna’nın babası olan kumandanın rütbesi ve maaşı Kastilya kraliyet arşivindeki bilgilerle uygunluk arz etsin. Tıkandığım nokta da orası zaten. Her şeyi gerçeğe uygun yapmaya kalkarsan hayal gücüne yer kalmıyor. Hiper-realist bir dünyanın içine masalı yerleştiremiyorsun. Çiğ kalıyor, sırıtıyor.
+
+Yalanı sevmiyorum, ya da beceremiyorum. Oysa roman demek uzun ve tutarlı bir yalan anlatmak demek.
+
+Bu birinci roman. Öbürü son bir haftadır aniden kafamı meşgul etmeye başladı. Türk kamuoyunu bu günlerde ilgilendiren Rıza Zarrab adlı İranlı bir iş adamı var. Görüntüsü şımarık bir diskotek çocuğu, birtakım karanlık işlerle akıllara durgunluk veren bir servete kavuştu, ünlü bir şarkıcıyla evlendi, Boğaziçi’nde bir değil iki yalı sahibi oldu. Sonra iskambil kağıtlarından inşa ettiği o şato yıkıldı, Rıza Amerika’da hapse atıldı, bir daha çıkıp çıkamayacağı belli değil. Şarkıcı olan eşi bu olaylar olurken aniden yüz seksen derece dönüş yaptı, boşanma davası açtı, kocasının servetinden arta kalanları ele geçirme çabasına girişti.
+
+Bir roman yazsam ve tam o ihanet anını anlamaya çalışsam nasıl olur diye geçiyor aklımdan. İsim tabii ki vermeyeceğim, biyografilerle serbestçe oynayacağım. Kadın kahramanımız mesela sefil bir çocukluktan ve pavyon şarkıcılığından gelmiş olsun. İlk gençliğinde Bollywood filmlerine layık bir aşk ve ihanet öyküsü yaşamış olsun, hatta öyle birkaç öykü olsun. Yeni koğuşumda Yılmaz adlı bir hükümlü var, akıllı ve duyarlı bir adam. Urfa ve Diyarbakır batakhanelerinde yıllarca fedailik, garsonluk, şarkıcılık yapmış. Oturup konuşturuyorum, akıllara durgunluk veren tutku, şiddet ve felaket öyküleri anlatıyor. Onları derlesem, bizim şarkıcının hayat hikayesiyle harmanlasam, birinci sınıf bir roman, o olmadı film senaryosu çıkar ortaya.
+
+Bunun da ilham kaynağı Mario Vargas Llosa’nın *Conversación en la Catedral*’indeki Hortensia karakteri olabilir belki. Müthiş bir romandır. Hortensia ününün zirvesindeyken düşer, ucuz pavyonlarda şarkıcı olur, sonunda öldürülür. Gazeteci kahramanım Santiago’nun o cinayeti çözmesi ve gerçek anlamını adım adım kavraması, herhalde Sofokles’in Kral Oidipus’undan bu yana anlatılmış olan en tüyler ürpertici keşif hikâyesi olmalı. Ben o kadarını yapabilir miyim? Sanmıyorum. O kadar uzun boylu değil yeteneklerim. Ama belki oradan ilham alabilirim, en azından bakış açımı biraz oradan alacağım esinle besleyebilirim.
+
+İşte Bebişkom, babacığın birkaç haftadır bu gibi mevzulara daldı, bu yüzden sana yazacağı mektupları ihmal etti. Umarım beni affedersin.

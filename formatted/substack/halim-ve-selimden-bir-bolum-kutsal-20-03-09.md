@@ -1,0 +1,55 @@
+# Halim ve Selim'den bir bölüm: Kutsal Kitaplar rehber midir? (2017 ürünü)
+
+Mar 09, 2020
+
+**Source:** https://nisanyan.substack.com/p/halim-ve-selimden-bir-bolum-kutsal-20-03-09
+
+---
+
+HALİM: Kuran-ı Kerim’in hemen her ayetinde insanlara yol gösterici yönergeler var. İncil de farklı değil yanılmıyorsam. Tevrat daha da net, gıda normlarından ceza yasalarına kadar gayet ayrıntılı kurallar getirmiş.
+
+SELİM: Tevrat ve Kuran’da somut yasalar var, doğru. Kurban nasıl kesilir, hangi etleri yemek caizdir, günde kaç kez ibadet etmek gerekir, zinanın cezası nedir vb. Bunlar bence spesifik bir toplumun spesifik bir tarih aralığındaki töresini yansıtan kurallar, prensip olarak Hammurabi kanunnamesinden ya da İsviçre Medeni Kanunundan bir farkı yok.
+
+Daha genel ahlaki yönergelere gelince iki olasılıkla karşılaşıyoruz. İlki, alabildiğine sıradan genel geçer doğrulardır: “anana babana saygı göster, kimseye zulmetme, ölçü ve tartıda adil ol” gibi. Bunların tersini söyleyen zaten olmamış, olsa da hiçbir toplum onları hatırlamaya değer bulmamış. İkincisi, eğer söylenen sözde en ufak bir özgünlük ya da belirleyicilik varsa mutlaka tam tersi öğütle dengelenmiştir. Sundukları şey gerçekten ilginç bir ahlak teorisi olsa fazla sübjektif olurdu zaten, kutsal kitap olmazdı. Kutsal kitap olması için, bin yıllar boyunca her cins, ırk ve eğilimdeki insana hitap edebilmesi, kuşaklar boyunca tartışılıp dersler çıkarılmaya yatkın olması lazım. Bunun için de en azından gerçek hayat kadar çok katmanlı ve çelişik olması şart. İnsan içgüdülerinde karşılığı olan her değer yargısına bir şekilde cevap verebilmesi gerekiyor. Ne yana çekerseniz oraya giden bir rehberin rehberlik değeri ne olabilir?
+
+Tevrat’ı ele alalım. Metnin ana gövdesi ilk bakışta alabildiğine katı bir aşiret ahlakının sözcüsüdür. Temel ödeviniz kavim töresine uymaktır; bizden olmayan düşmandır, şehirlerini yıkmak vaciptir, ve saire. Ama okumaya devam edin. Süleyman Özdeyişleri ve Vaiz’de (Ecclesiastes) bununla taban tabana zıt bir skeptisizmin, Mezmurlar ve Eyüp’te son derece bireysel bir dizi vicdan hesaplaşmasının izlerini bulursunuz.
+
+İncil’de anlatılan İsa hakikaten orijinal bir ahlaki öğreti koyar ortaya: düşmanını sev, aileni ve malını terk et, ruhen fakir ol, vs. Fakat, bu anlayışla bağdaştırılması güç şeyler de söyler. Sıra Pavlos’un mektuplarına gelince, güneşin altındaki aşağı yukarı her ahlaki önermeyi destekleyecek bir söz bulabilirsiniz. Bu tutarsızlıklar sayesindedir ki bunca yüzyıldan beri akla ve hayale gelebilecek her türlü ahlaki tutum, eylem, değer yargısı ve siyasi ilke, Yahudilik ve Hıristiyanlık adı altında savunulabilmiş; her görüş için Eski ve Yeni Ahit’ten lehte ve aleyhte yüz tane kanıt gösterilebilmiş.
+
+Bana öyle geliyor ki kutsal kitaplar bir eylem kılavuzundan çok bir ortak müzakere dili, bir referans çerçevesi sağlamış. İnsanlar bu kitaplardan aldıkları kavramları, deyimleri, meselleri, mitleri kullanarak tartışmışlar. Bunlarla ahlaki tercihlerini dillendirmeye ve temellendirmeye çalışmışlar. Şüphesiz insanlık tarihinde çok önemli rol oynamış bu kitaplar. Yol gösterici olarak değil, çünkü yol gösterici olarak değerleri sıfıra yakın, ama simgesel sistem olarak önem taşımışlar. Koca kültürler onların etrafında şekillenmiş. Onların diliyle konuşmuş, meramını onların simgeleriyle anlatmış.
+
+HALİM: Bravo, güzel söylediniz. Manevi dünyamızın dayanağı onlar.
+
+SELİM: Öyle imişler, doğru. Lakin bugün için artık bu rolü taşıyabileceklerine inanmıyorum. İçerik çok eskimiştir. Bugünkü yaşam tarzımıza ve bilgi dağarcığımıza çok yabancı kalmıştır. Bugünkü kültür çeşitliliği ve metinler bolluğu karşısında, tek ya da ana referans kaynağı olarak korunabilmeleri mümkün değildir. Tıpkı Homeros destanları ve Dede Korkut masalları gibi, geçmiş bir çağın edebi mirası olarak okunmalarında, manevi kültürümüzün birer unsuru olarak korunmalarında bir sakınca yok. Hatta sakınca olmamasından öte, kendimizi tanımak ve geçmişimizi bilmek açısından sonsuz yarar var. Fakat bugün artık Kenanlı koyun çobanlarının veya Mekkeli kervan soyucularının davranış normlarıyla yaşayamayız. Ürdün ırmağında vaftiz olmaya kalksak herhalde kimyasal atıklardan zehirleniriz. Dünya o dünya değil. Bilgi dağarcığımız, Allah altı günde dünyayı yarattı diyen aşiret masalcılarının bilgi dağarcığı değil.
+
+HALİM: Demin kutsal kitaplar ahlak kılavuzu olamaz diyordunuz, şimdi ahlak kılavuzu olarak bugüne uymaz diyorsunuz. Bu iki tez birbiriyle çelişir. Bugüne uymadığına göre düne uyuyor muydu?
+
+SELİM: Haklısınız, iyi ifade edemedim. Binlerce yıl önce yazılmış olan kitapların ahlaki müzakere terimleri bugünkü dünyanın ahlaki ve bilişsel problemlerini kucaklamakta yetersiz kalır demeliydim. O simgelerle, o mesel ve emsallerle bugünü anlamlandıramayız. Deve kervanıyla Mars’a gidemeyiz; Hz. Ali’nin kılıcıyla kanseri tedavi edemeyiz.
+
+HALİM: Bugünün problemlerinin cevabını kutsal kitaplarda bulduğuna inanan milyonlarca insan var dünyada. Hepsi yanılıyor mu?
+
+SELİM: İnsanoğlunun hayal gücü sınır tanımaz. Tutarsız metinlerden vaktiyle anlam çıkarmayı nasıl başarmışsa bugün de iddia edebilir ki ben kutsal kitaplarda her derdimin devasını görüyorum, her sorumun cevabını buluyorum. Allah zihin açıklığı versin, dünyadaki her haberi kahve falında okuyabilen de var. Ama marifet Ayşe teyzeyi memnun edecek bir masal anlatmak değil, sorgulama yeteneğine ve alışkanlığına sahip insanları ikna edecek bir masal anlatmak. O zor işte.
+
+İlkel pastoral aşiretlerde ya da nüfusu taş çatlasa yirmi bini bulmayan şehirlerde yaşayan insanların fikir ve simgeler dünyası elbette bugünün insanına da bir şeyler anlatabilir. Sonuçta ahlaki problemlerimizin bir kısmı yeniyse bir kısmı taş devri kadar eskidir. Ben şahsen Eski ve Yeni Ahit’in bazı bölümlerini okumaktan büyük bir haz alıyorum; başkalarının da Kuran’dan ya da Purana’lardan benzeri bir manevi haz almasını anlayabiliyorum.
+
+Ama şu gerçeği unutamayız. Bunları yazanlar insanlığın çocukluk çağının temsilcisidir. Düşünün, nelerden haberi yok. Amerika’yı ve Çin’i bilmiyor. Apartman ve uçak görmemiş. Trafik sorunundan haberi yok. Sosyal sigorta ve emeklilik maaşı bilmiyor. Banka bilmiyor, kredi kartı taksiti bilmiyor. Üniversite bilmiyor. Bırakın üniversiteyi, ilkokuldan haberi yok. Yatırım teşvikleri ve işsizlik konusunda fikri yok. Şizofreni ve depresyon konularını düşünmemiş. İç güvenlik ve polis yasaları hakkında söyleyecek sözü yok. Otoyol ihalelerinde yolsuzluk meselesini irdelememiş. İnternet güvenliği ve yapay zeka konularının kıyısına uğramamış. Eşcinsel evliliğini düşünmemiş. Nüfus yaşlanması problemine önerisi yok. Ölüm hakkına dair fikri yok. Kürtaj konusunda kör cahil. Sanayi devrimini bilmiyor. Freud’u duymamış. Matbaanın sosyal yapıya etkilerini bilmiyor. Gecekondulaşma nasıl önlenir bilmiyor. Sosyal konut görmemiş. Gösteri yürüyüşü görmemiş. Nükleer silahları duymamış. Fransız ihtilalinden habersiz. Moda bilmiyor. Siyasi parti bilmiyor. İnsan hakları teorisi bilmiyor, anayasa bilmiyor, İsviçre Medeni Kanunu bilmiyor. Hayatında restoran görmemiş, gece kulübüne gitmemiş, paket tura katılmamış. Dilenciye sadaka ver diyor ama üç milyon Suriyeli gelirse ne yapacağını söylemiyor. Doğum kontrol yöntemlerinden ve bunların cinsel ahlaka dair sonuçlarından bihaber. Hayvan haklarından bihaber. Genetik mühendislikten bihaber. Kat mülkiyeti kanununu bilmiyor. Esnek çalışma saatlerini duymamış. Gazeteciliğin ahlaki normlarından behresi yok. Bireysel silahlanma hakkını tartışmamış. Çiçek aşısını duymamış. Organ nakli aklının ucuna uğramamış.
+
+Neyin kılavuzu, allahaşkına? Bırakın çözüm önermeyi, bu konuları anlamlı, anlamlıyı geçtim, ruha hoş gelir bir şekilde tartışmaya imkan veren kavramları ve emsalleri mi var? Yok. Sıfır. Bu konuları kutsal kitaplar üzerinden tartışmaya kalktığınızda sonuç kakofonik bir kör döğüşüdür, kulak vermeye değecek bir tek fikir kırıntısı üretmez.
+
+O yüzden diyorum ki bu kitapların çağı geçmiştir. Geçmişte bazı toplumlara ortak bir dil, ortak ahlaki müzakere zemini sağlamış olabilirler. Bugün öyle bir işlevleri kalmamıştır. Kütüphanede Homeros ve Dede Korkut masallarıyla aynı rafa konmaları gerekir.
+
+HALİM: Hangi raf o?
+
+SELİM: Mitoloji.
+
+HALİM: Kuran-ı Kerim’de güncel ve evrensel değeri olan sayısız ahlaki önerme buluyoruz. Dünyada çok sayıda insan için bunlar hala ahlaki yol göstericilik vasfını koruyor.
+
+SELİM: Ne diyor? Mesela “ananıza saygı gösterin” diyor. Ee, bunu demeyen yok ki? Tarihteki her insan topluluğunda, ortalama aklı temsil eden her ahlakçı söylemiş bunu. Söylemese zaten döve döve kovarlardı ya da hatırlamaya değer görmeyip unuturlardı.
+
+Marifet bunu söylemek değil. Başka neler diyebilirdi de demedi, onu düşünün. Ananız kafir olsa – yani sizinle aynı kutsal değerleri paylaşmasa – ne yapacaksınız? Ananız kafir olmayıp “evladım bu Müslüman şeyine bulaşma, evde otur sana börek yapayım” dese ne yapacaksınız? Ananız Gestapo tarafından sorguya çekilip örgütü ele vermeye meyletse ne yapacaksınız? “Lezbiyen oldum evladım, Şükufe Teyzeyle tanış” dese ne yapacaksınız? Biyolojik ananızla taşıyıcı ananız mahkemelik olursa ne yapacaksınız? Ananız Alzheimer olup saçmalasa yahut ölümcül kanser olup “öldürün beni” diye yalvarsa ne yapacaksınız? Ananız altınlarını yastık altına istifleyip sizin dünyayı kurtaracak projenize destek olmayı reddetse ne yapacaksınız? Bir ahlak teorisi bu sorulara cevap veriyor veya vermeye teşebbüs ediyorsa değerlidir; yoksa sade suya tirit bir klişeler yığınıdır. Kuran’da var mı insanı heyecanlandıran, “vay, bu açıdan hiç düşünmemiştim” dedirten bir norm ya da öğüt? Ben şahsen bulamadım, siz belki yardımcı olabilirsiniz.
+
+Kaldı ki “ananıza saygı gösterin” dedikten iki satır sonra zıddını da söylemiş. Hicret edin demiş, aile ve akrabanızı terk edin, onlara karşı cihattan imtina etmeyin, ederseniz doğruca cehenneme gidersiniz diye uyarmış. Ne yana çekerseniz çekin. Radikal bir ihtilalcilik de çıkarmak mümkün bundan, ıhlamur kokulu bir nostalji de. Bir ahlak devrimi öneriyor, ama aynı zamanda muhafazakar olun yerleşik normlara uyun diyor.
+
+Gerçekten insan zihnini kurcalayan, zımnen sahip olduğumuz normların beklenmedik köşelerini aydınlatan bir ahlak teorisi istiyorsanız Sokrates okuyun. Budist kanonu okuyun, cidden derin bir tefekkürün ürünüdür. İsa okuyun, evet – Kefernahum dağındaki vaazı ahlak öğretisinin başyapıtlarındandır. Sadi’nin Gülistan ile Bostan’ını okuyun, Yunus Emre okuyun, Fuzuli okuyun: İslam zemini üzerinde inşa edilseler de olgun bir kültürün eserleridir. Dante okuyun: Akla gelecek her türlü insan davranışı hakkında söyleyecek sözü vardır. Martin Luther’in vaazlarını okuyun: Bağnaz fakat aynı ölçüde cüretkar bir düşünürdür. Spinoza okuyun, Kant okuyun, Rousseau okuyun, Tolstoy okuyun, Sartre okuyun, Hannah Arendt okuyun. Slavoj Žižek bile okuyabilirsiniz, hafif olsun baş ağrıtmasın derseniz.
+
+Tabii Muhammed de okursunuz isterseniz, ama şampiyonlar liginde yer almaz.

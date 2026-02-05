@@ -1,0 +1,20 @@
+# Türkçe yer adları dökümü
+
+Jul 26, 2019
+
+**Source:** https://nisanyan.substack.com/p/turkce-yer-adlar-dokumu-19-07-26
+
+---
+
+20. yüzyıl başları itibariyle kayıtlı olan 40.521 yer adımızdan 30.000 kadarı Türkçe. Yani Türkçe anlamlı kelimelerden veya Türkçede cari olan kişi ve soy adlarından türetilmiş. Türkçe anlamı kuşkulu olan isimleri sayıma katmadım, ya da hiç risk almadan "Türkçe" diye işaretledim. Tüm yer adları (devlet salnameleri, erkanı harbiye haritaları ve dahiliye vekaleti listeleri gibi) resmi kaynaklardan alınmıştır.Haritada bu adların illere göre yoğunluğunu görüyoruz. Türkçe adların %75'ten fazla olduğu iller koyu renk gösterildi. En yükseği %99'la Çorum ve Kırıkkale. En düşükleri %2 ile Mardin ve %7 ile Batman.Harita size tuhaf gelmiyor mu? Türkler bu ülkeyi hangi taraftan fethetmişti sahi?
+
+[![](https://substackcdn.com/image/fetch/$s_!FZhd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4dea3f50-4b88-441e-acbe-a87610a92eed_320x138.jpeg)](https://substackcdn.com/image/fetch/$s_!FZhd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4dea3f50-4b88-441e-acbe-a87610a92eed_320x138.jpeg)
+
+Şekil 1: Türkçe yer adları %75+
+
+[![](https://substackcdn.com/image/fetch/$s_!Nxeb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc8f5328-9fe7-4fef-b366-24a866510cd4_320x138.jpeg)](https://substackcdn.com/image/fetch/$s_!Nxeb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc8f5328-9fe7-4fef-b366-24a866510cd4_320x138.jpeg)
+
+Şekil 2: Türkçe yer adları %85-75-40
+**DÖKÜM**
+ **y. 1900 yer adı**  **Yun**  **Erm**  **Kr** **Gürc-Laz** **Ar-Sür**  **Türkçe**
+**oran** Kırıkkale 199 [1](https://www.blogger.com/null) 198 99 Çorum 765 5 1 3 756 99 Karabük 275 5 270 98 Eskişehir 406 8 398 98 Yozgat 645 1 11 3 630 98 Kütahya 638 16 622 97 Sakarya 574 11 3 1 559 97 Bilecik 265 5 2 258 97 Uşak 260 7 253 97 Bolu 526 16 510 97 Manisa 783 25 758 97 Afyon 493 16 477 97 Çankırı 397 14 1 382 96 Düzce 241 7 2 1 231 96 Yalova 56 2 54 96 Samsun 912 30 7 1 874 96 Zonguldak 333 14 1 318 95 Adana 583 6 15 1 5 556 95 Kocaeli 429 10 7 4 408 95 Denizli 445 23 2 420 94 Sinop 479 29 450 94 Burdur 214 13 201 94 Ankara 950 14 1 50 885 93 Çanakkale 607 46 561 92 Bartın 255 20 235 92 Edirne 279 22 257 92 Balıkesir 933 74 859 92 Amasya 386 25 6 355 92 Aydın 504 41 463 92 Tekirdağ 295 25 270 92 Mersin 552 38 9 505 91 Kırşehir 278 2 22 254 91 Nevşehir 183 16 167 91 Osmaniye 157 3 9 2 143 91 Ordu 480 42 5 433 90 Bursa 676 69 3 604 89 İzmir 748 85 1 662 89 Konya 852 63 2 38 749 88 Antalya 736 89 4 1 642 87 Kayseri 540 46 22 1 471 87 Kırklareli 206 27 179 87 Giresun 555 56 22 477 86 İstanbul 430 62 368 86 Aksaray 206 13 17 176 85 Muğla 501 76 425 85 Kastamonu 1169 175 2 1 991 85 Kahramanmaraş 512 13 27 32 8 432 84 Niğde 163 27 136 83 Sivas 1309 32 141 45 1091 83 Isparta 230 44 186 81 Tokat 690 115 40 535 78 Gaziantep 485 4 12 46 53 370 76 Kilis 147 2 2 21 10 112 76 Karaman 173 40 2 131 76 Hatay 423 13 6 1 87 316 75 Malatya 591 6 34 105 6 440 74 Iğdır 183 43 10 130 71 Gümüşhane 361 54 64 2 241 67 Adıyaman 552 3 45 128 32 344 62 Şanlıurfa 1056 17 236 145 658 62 Kars 389 3 145 21 6 214 55 Elazığ 649 162 158 3 326 50 Bingöl 379 132 58 189 50 Erzincan 606 1 275 30 300 50 Ardahan 256 37 5 89 125 49 Tunceli 503 197 78 228 45 Erzurum 1136 529 91 15 501 44 Diyarbakır 1091 121 503 32 435 40 Bayburt 180 2 111 3 64 36 Ağrı 595 101 296 198 33 Siirt 375 70 163 22 120 32 Rize 446 171 40 111 124 28 Trabzon 650 457 11 6 176 27 Şırnak 286 11 178 31 66 23 Van 808 1 437 186 184 23 Artvin 495 3 58 327 107 22 Muş 424 166 167 91 21 Bitlis 567 392 81 94 17 Hakkari 348 23 249 34 42 12 Batman 348 99 187 36 26 7 Mardin 719 7 571 128 13 2

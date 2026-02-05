@@ -1,0 +1,32 @@
+# Anadolu'da gezintiler: Kesdoğan Kalesi
+
+Feb 20, 2019
+
+**Source:** https://nisanyan.substack.com/p/anadoluda-gezintiler-kesdogan-kalesi-19-02-20
+
+---
+
+Kayseri’nin Akkışla ilçesini sulayan ırmağın adı **Kesdoğan**Çayı. Akkışla ilçe merkezinin 1 km kadar güneyinde Kesdoğan adı verilen yerde Anadolu’nun çorak bağrından yeryüzüne çıkıyor, yemyeşil güzel bir vadi oluşturuyor. Kaynağın olduğu yeri övmüşler, gürültüden uzak cennet gibi bir yerdir demişler. Akkışla belediyesinin 2016’da buraya “mesire yeri” yaptığını öğreniyoruz, içimiz kıyılıyor.
+
+1925 tarihli askeri haritada bu yeri كستووان Menbaı olarak göstermişler. Te ile yazıldığına göre *Kestüvan* olmalı. 1584 tarihli tahrir defterinde tı ile *Kestoğan* veya *Kestuğan* veya *Kesduğan*adlı bir köy kayıtlıymış. Bunu kendi gözümle görmedim, aktaranlar aktarmış.
+
+Kuş uçuşu 170 km kuzey doğuda, Divriği’nin karşı kıyısındaki kalenin adı da **Kesdoğan** Kalesi. Sarp kayaların tepesinde kartal yuvası gibi bir yer. Halk arasında “Ermeniden kalma” diye anılıyor. Evliya Çelebi كستكان Kal’ası demiş, *Kestigân* diye okunabilir. Ama Evliya’nın özel isimleri deforme etme huyu malum.
+
+Kale olunca konu aydınlanıyor. Ortaçağ Ermenicesinde **kastağon**կաստաղօն “küçük kale, hisar”. Bizans Rumcasındaki *kastéllion*’dan alıntı, nihai kaynağı Latince *castellum*, *castrum*’un küçültme hali, “küçük müstahkem yer” anlamında. İngilizceden bildiğiniz *castle*. Rumcadan direkt alınsa Türkçesi **kestel** olurdu; nitekim Türkiye’nin batı yarısında en az yarım düzine Kestel var. Ğ sesi Ermenice yoluyla alıntının delilidir, çünkü yabancı dillerden alınan ince l sesi Ermenicede daima ğ verir. Elisabeth > Yeğsapet, Leontius > Ğevont, Elias > Yeğya vs.
+
+Ermenice sözcük eski devir yazarlarında yok. En erken 1136 tarihli Urfalı Matteos Vekayinamesinde geçiyor. Buna göre 1105 yılında vefat eden Maraşlı Markos adlı aziz kişi “ulaşılmaz Vahka kalesi [= Adana Feke ilçesi] yakınındaki **Kastağon Manastırında**” defnedilmiş. Aslen Süryani olup keramet sahibi bir evliya imiş. Hiç ekmek yememiş, sadece otlarla beslenmiş. İki yerde dua gücüyle pınar çıkarmış. Frenkler Kudüs’ü zaptettiğinde Perslerin [= Selçukilerin] yeniden güçlenip dünyaya hakim olacağını, dinin zeval bulacağını, kiliselerin kapısına kilit vurulup terk edileceğini, insanların İncil yolundan sapıp günah denizinde boğulacağını haber vermiş.
+
+1198 yılında Kilikya hükümdarı 1. Levon’a “Ermeniler kralı” olarak biat eden ekabirin listesinde “Anazarb başpiskoposu ve **Kastağon Manastırı** önderi Kostantin Hazretleri” adlı bir muhterem anılmış.[[1]](file:///C:/Users/pc/Documents/aa%20-%20blog/Kesdo%C4%9Fan.docx#_ftn1)Bu biraz şaşırtıcı, çünkü Anavarza (şimdi Kozan Dilekkaya) ile Feke Kalesi arası yaklaşık 82 kilometre, bir insanın hem Anavarza başpiskoposu hem Feke yakınındaki bir manastırın önderi olması fiilen imkansız. Nitekim listedeki diğer ruhanilerin her birinin idari görevde olduğu kasaba ile ikamet ettiği manastır arasında azami üç beş kilometre uzaklık var. Dolayısıyla YA Kastağon Manastırı Vahka/Feke yakınında diyen Urfalı Matteos yanılmış YA DA iki ayrı Kastağon Manastırı varmış diyeceğiz.
+
+Yaygın bir isim olması normal. Roma İmparatorluğunun uzandığı her diyarda benzerleri bulunuyor. Yunanistan’da üstünkörü bir arayışta *Kastellion*adında yarım düzine yer buldum; Kos = İstanköy adasında da bir *Kastellion* Manastırı var. İngiltere'de chester ve caster ile biten bütün yer adları akraba (Chester, Manchester, Winchester, Colchester, Lancaster, Cirencester...). İç-İspanya ülkesinin adı olan **Kastilya** (“Kalecik-istan”) da aynı aileden geliyor. Hatta Katalonya da aynı kökten gelir diyenler var, ama netameli konudur, bulaşmayalım.
+
+
+---
+
+Şimdi Kesdoğan adının yerel mitolojideki anlatımı. “Türkiye’nin Doğa ve Kültür Arşivi” adlı bir sitede buldum. Belediyenin, kaymakamlığın, valiliğin, bakanlığın, kültür ve turizm ofisinin, milli eğitim müdürlüğünün, lisenin, ortaokulun, fotoğrafçılar derneğinin ve doğasevenler platformunun sitelerinde de aşağı yukarı aynı geyik öyküsünü bulacağınızdan eminim.
+
+“Divriği Kalesi’nin, Mengücekoğullarından Şah’ı Şahin Şah’ın Ertuğrul isimli bir oğlu vardır. Ertuğrul, günün birinde, geyik avına çıkar ve av izlerken, Çaltı Çayı’nın karşı yakasına geçer. O sırada adamlarıyla birlikte oradan geçmekte olan Ermeni Kralı’nın kızı Belkıs ile karşılaşır. Kız, öyle güzeldir ki, içine ateş düşer. Belkıs da, bu yiğit delikanlıdan hoşlanır. Ertuğrul, atını sürer ve babasının yanına gider. Belkıs ile evlenmek istediğini söyler. Kızın babası din ayırımı gösterip kızını vermez, savaş açmasını ister. Şah Ermeni Kralı’na, adamları ile durumu bildirir. Kral, Şahın elçilerini güler yüzle karşılar, ikramlarda bulunur. Şah’ı reddetmeyi hemen göze alamadığından “Savaş da neymiş, hiç Şahlar Şah’ı kızımı ister de, ben vermez miyim, yalnız, kızımla bir konuşayım, öyle cevaplayayım” der. Belkıs çoktan razıdır. Ancak kral, kızımla konuştum, o da istekli, ama kızım çok gururludur. Erkek çocuğum olmadığından onu bir erkek gibi yetiştirdim, şimdi o da: “Ben şahın oğluna varmak isterim, dillerini de dinlerini de kabul ederim, ancak, evleneceğim erkeğin de ne denli yiğit olduğunu görmeliyim” dediğini söyler. Elçiler bir ağızdan “Şahımızın oğlu dilediğinizden de yiğit, dilediğinizden de merttir. Dileğiniz nedir” derler. Ermeni Kral “Kalenin burcundan bir halat gerile, bu halat 3 gün 3 gece iç yağıyla yağlana, Şahımızın oğlu huzurumuzda bu halata tutunarak boğazı geçip bizim kalemize vara. Bunu başarırsa, kızımı veririm” der. Elçiler durumu, Şah’a anlatırlar. Şah bunu kabul etmek istemez ve oğlunu vazgeçirmek için çok yalvarır, ancak fayda etmez. Ertuğrul Bey, Belkıs’a kavuşmak için her şeyi kabul eder. Hazırlıklar tamamlanır. Ertuğrul halata tutunarak, karşıya geçmeye çalışır, Belkıs’ın yüreği ağzındadır. Ertuğrul Bey büyük bir gayretle karşıya geçmeye çalışırken, tam kale burcuna tutunacağı sırada, Ermeni kral, yanındaki pehlivana “Kes Doğan” diye seslenir. Pehlivan’ın halatı kesmesi ile uçuruma düşen Ertuğrul Bey ölür, Kale’nin burçlarında kendini aşağı atan Belkıs’da ölür ve aşıklar birbirine kavuşamaz. Bu olaydan sonra, kalenin adı Kesdoğan Kalesi olarak anılır.”
+
+---
+
+[[1]](file:///C:/Users/pc/Documents/aa%20-%20blog/Kesdo%C4%9Fan.docx#_ftnref1) 1274 yılında kesilen Smpat Sparabed Vekayinamesinde aktarılır. <http://www.attalus.org/armenian/css14.htm>, dokuzuncu paragrafta.
