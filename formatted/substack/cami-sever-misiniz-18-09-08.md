@@ -1,0 +1,9 @@
+# Cami sever misiniz
+
+Sep 08, 2018
+
+**Source:** https://nisanyan.substack.com/p/cami-sever-misiniz-18-09-08
+
+---
+
+Beni cidden etkilemiş olan cami Delhi'deki Cuma Mescidi'dir (Red Mosque ya da Cihan-numâ da deniyor). Belki dışarıdaki hengameden sonra avluların sükuneti hoşuma gitti; belki her köşede toplaşmış sohbet eden kınalı sakallı mollalar sevimli geldi. Saatlerce aralarında oturdum, tek başına oturanları, kitap okuyanları, üçer beşer müzakere edenleri, ders gören çocukları izledim, birkaç sohbete bulaştım. Bir şehrin kamusal "oturma odası" fikri hoşuma gidiyor; bir tür "agora" da diyebilirsiniz. Orada antik kentin agorasını çok net algıladım. Yozlaşmış bir ideolojinin cenderesinde de olsa, işlevi güzel. Ve önemli.Türkiye'de sanatsal açıdan en çarpıcı cami şüphesiz Divriği'deki Ulucami'dir. Çılgın bir eser. O dönemin İslam dekoratif sanatıyla ilgisi yok; bölgenin İslam-öncesi gelenekleriyle de pek ilgili görünmüyor. Hintli usta getirmiş olabilirler mi sorusu hep aklımdadır.13.-14. yüzyılların Ulucami modeli bana klasik devir Osmanlı camilerinden daha etkileyici gelir. En görkemlisi sanırım Bursa Ulucamii ile Edirne'deki Eski Cami'dir. Ama Sivrihisar yahut Beyşehir Ulucamileri gibi, daha mütevazı ahşap kolonlu örneklerde (şimdi yere serdikleri iğrenç halılara rağmen) daha kucaklayıcı olan bir şey var sanki.Gerçekten sevdiğin, burada olsam ara sıra uğrardım dediğin oldu mu diye soracak olursan, Doğu Karadeniz'deki ahşap camiler gelir aklıma. Sonradan vernikleyip rezil ettiler gerçi, ama Rize Şimşirli ile Güneyce'dekiler bildiklerimin en güzelidir. Samsun Tekkeköy ile Bekdemir köyünde varmış daha iyileri ama onları görmedim. Klasik Osmanlı camileri pek açmıyor beni, Kütahya Seramik showroom havası alıyorum.

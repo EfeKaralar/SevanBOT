@@ -1,0 +1,11 @@
+# Hintavrupa yenilendi
+
+Jul 02, 2019
+
+**Source:** https://nisanyan.substack.com/p/hintavrupa-yenilendi-19-07-02
+
+---
+
+Umut Akkoç ile 2013’te Linz’te kısaca tanışmıştım. Frankfurt’ta olan Mesut Asmên Keskin’le birlikte Zazaca Etimoloji Sözlüğü üzerinde çalışıyorlardı. Bir iki konuda fikrimi sordular, yardımcı olmaya çalıştım.İki yıl kadar önce Umut Nişanyan Sözlük’te Hintavrupa Anadilindeki etymonlarla ilgili bazı hatalar gördüğünü, düzeltmek istediğini yazdı. Buyur dedim. İki haftada biter dediğimiz iş iki yıla yayıldı. Umut dönem dönem manik bir yoğunlukla çalıştı; bazı günler onu aşkın mail attı. Sonuçta sözlükte yer alan 1687 adet Hintavrupaca örnek ince süzgeçten geçirildi. En önemli kalem olarak gırtlaksıllar (laryngaller) teorisi doğrutusunda nihai köklerin yazımı düzeltildi. Yanısıra Mayrhofer (*Etymologisches Wörterbuch des Altindoarischen*, Heidelberg 1986-2001) doğrultusunda İrani ve Hindi kaynaklarda epey düzeltme yapıldı. Don Ringe’nin Proto-Germenceye ilişkin çalışmasından (*From Proto Indo European to Proto Germanic*, Oxford UP 2006) istifade edildi.Ekteki tabloyu Umut üç hafta önce göndermişti. Geçen hafta hazır Tavit’i adada yakalamışken tabloyu server’a aktarma işini ona yıktım. Dün gece itibariyle 1600 küsur adet Hintavrupa referansı güncellenmiş Nişanyan Sözlük hizmetinize sunuldu.Şimdi Umut Akkoç’un bu tabloyu uzun bir makaleye, hatta ayrı bir kitaba dönüştürmesini bekliyoruz. Türkçe özelinde bugüne dek benzeri yapılmamış bir iştir. Farsça, Yunanca, Latince, Fransızca, Eski Germence, İngilizce, Almanca ve diğer HA dilleri üzerinden Türkçeye giren tüm PHA köklerin en güncel akademik literatüre uygun olarak yapılmış dökümüdür. Her bir aktarım kanalında gözlemlediğimiz fonolojik değişimler sistemli olarak tanımlanıp belgelense, kompleks alıntıların morfolojik yapısı üzerine birkaç söz eklense, bırakın Türkçeyi, uluslararası sahada ilgi çekecek bir eser çıkar ortaya diye düşünüyorum.Teşekkürler Umut, teşekkürler Mesut, teşekkürler Tavo.Tablonun tümü ekte. Kırmızı satırlar bende bulduğu ve silinmesini önerdiği yanlışlar. Sarılar kesin mutabakata varamadıklarımız. Yeşiller Umut’un ekledikleri.
+
+[https://drive.google.com/open?id=1HndmwjORMrn9gggWwAupuau-6AryL2b5Hintavrupa update - Umut Akkoç](https://drive.google.com/open?id=1HndmwjORMrn9gggWwAupuau-6AryL2b5)

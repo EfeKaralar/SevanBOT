@@ -1,0 +1,13 @@
+# İtiraflar
+
+Jul 03, 2017
+
+**Source:** https://nisanyan.substack.com/p/itiraflar-17-07-03
+
+---
+
+*Eylül 2016’da yazılmış bir mektuptan.*
+Rousseau, *İtiraflar*. Etkileyici ve tuhaf bir kitap. Türkçesi var, mutlaka okumalısın.Batı entelektüel tarihinin dönüm noktalarından biridir. “Aydınlanma” denen akılcılık idealinin defterini düren, Romantizme ve Fransız İhtilaline giden yolu açan şaşırtıcı fikir devriminin başlatıcısı. Ama özünde, paranoyak, vesveseli, aşırı derecede çekingen, beceriksiz, yalancı bir adamın itirafları.
+İlginç bir adam Rousseau. Antipatik biri. Kitabı bir çeşit bitmiş dostluklar ansiklopedisi. Kendisine canla başla kucak açan herkesi küstürüp kendine düşman etmeyi başarmış. Ama alttan alta olağanüstü bir duygusal dürüstlüğü ve entelektüel pırıltısı var. O sayede, bin defa çamura da batsa, Avrupa’nın en parlak ve etkili insanlarının dostluğunu ve himayesini kazanmayı başarmış. O sayede, altı yüz küsur sayfa kişisel ihanet, çirkeflik, dedikodu tarihini nefes kesici bir ilgiyle okutmayı başarıyor. Çünkü çok zeki ve, daha önemlisi, gerçek zekânın kaçınılmaz tamamlayıcısı olan saf ve adeta çocuksu bir dürüstlüğü var. Göz göre göre yalan konuşurken bile dürüst.
+O döneme ilişkin son aylarda okuduğum dördüncü kitap oldu bu – Boswell’in Samuel Johnson Hayatı, Schindler’in Beethoven biyografisi, Goethe [Lewes, The Life and Works of Goethe], şimdi de bu. Ondan az öncesine ilişkin üç kitap: 7. Henry dönemi tarihi [Thomas Penn, Winter King], Hilary Mantel’den Wolf Hall [8. Henry dönemi siyasi entrikaları, roman], Oliver Cromwell biyografisi, neydi o kadının adı. Az sonrasına ilişkin Dostoyevski’nin Ezilenler’i ile Disraeli’nin romanı [Sybil]. Bayağı bilgilendim sanıyorum. Otursam bir kitap, olmadı bir makale çıkar sanki: “Avrupa’da aristokratik düzenin kuruluşu, kusursuzlaştırılması ve çöküşü.” Yüz sayfa yazabilirmişim gibi geliyor bana. Ama tembel olduğum için yazamayacağım herhalde. Yazmak yerine konferans, sohbet, nutuk vb. cinsi bir çerçeve belki daha kolay ve benim mizacıma daha uygun olurdu.
+Ola ki çıkacak olursam ve Şirince’de kalacak olursam orada böyle bir seminer/konferans sistemi nasıl kurarım diye kafa patlatıyorum bazen. 2013’teki İslam semineri gibi, ama tek konu değil, her şey – antik tarih, modern siyaset, ahlak felsefesi, teoloji, turizm, anayasa hukuku vb. Teorik olarak ilgilenecek insan çok. Ama onları kalkıp Şirince’ye gelmeye nasıl ikna edersin?

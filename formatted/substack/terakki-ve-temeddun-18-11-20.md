@@ -1,0 +1,21 @@
+# Terakki ve temeddün
+
+Nov 20, 2018
+
+**Source:** https://nisanyan.substack.com/p/terakki-ve-temeddun-18-11-20
+
+---
+
+1908'den itibaren memlekete hakim olan kadroların neredeyse tamamı “Abdülhamit okulları” dediğimiz okulların mahsulüdür. Harbiye ile Tıbbiye ön plandadır. Onları Mülkiye izler. Hukuk Mektebi (belki talebesinin büyük bir oranı gayrimüslim olduğundan) ikinci planda kalır. Galatasaray Sultanisini bunlara ekleyelim. Darülfünun (İstanbul Üniversitesi) ancak 1901’de açıldığından henüz etkili olmaz.
+İttihat ve Terakki'nin ileri gelenleri, İkinci Meşrutiyet'in beyin takımı, Milli Mücadele şefleri, onlara karşı çıkan İstanbul polemikçileri, Ankara'nın ilk dönem ideologları, hepsi o takımdandır. Mustafa Kemal ile İsmet Paşa da onlardandır. Karabekir de, Rauf Bey de onlardandır. “Hain” Ali Kemal ile Refik Halit de aynı ekiptendir.Bunlar “modern” okullardır. Osmanlı’nın 1850-60’lardaki büyük entelektüel devriminin ürünleridir. Müfredatları baştan aşağı Fransa’dan tercümedir. Hocalarının ve yöneticilerin önemli bir bölümü Avrupa’dan ithaldir, veya bir kuşak önce Avrupa görmüş yerli gayrimüslimlerdir. Bu okullardan çıkan yeni nesil memleketin “medenileşme” ümidinin temsilcileridir. Toplumsal statülerini, kariyer beklentilerini, almış oldukları ayrıcalıklı eğitime borçludurlar. Dolayısıyla o okulları ve onların temsil ettiği “teceddüd/yenilenme” ideolojisini içselleştirirler. O okullarda öğrendiklerini Osmanlı’nın köhne bedenine aşılamayı vazife bilirler.Medrese hala vardır; ama toplumsal işlevini çoktan tüketmiştir. Elit zümre tarafından hor görülür. Mezunlarının bakan, vali, müdür, sefir, gazete yazarı, milli şair vb. olması düşünülemez. Zaten medresenin işlevi, ta eskiden beri, yönetici değil İslam alimi yetiştirmekti. İslam hukukunun 1850’lerden sonra marjinalleşmesiyle birlikte medresenin elit üretme fonksiyonu da dumura uğradı. [Arada Said-i Kürdi gibi istisnai kişilikler çıksa da marjinallikten kurtulamadı.]Daha enteresan olanı, Abdülhamit-öncesi elitleri yetiştirmiş olan özel hoca ve “kalem efendisi” sisteminin kırılmış olmasıdır. Sanılanın aksine, o sistemin ürünleri de (en azından 19. yy’da) çoğu zaman hayli sofistike ve kültürlü insanlardır. Fakat Abdülhamid’in uzun süren baskı rejiminde eski sistem tıkanmış, kadroları yaşlanmış, itibarı yıpranmıştır. Geriye ülke yönetiminde söz sahibi olabilecek tek sınıf olarak “asri” mekteplerin mezunları kalmıştır.20. yy’ın ilk çeyreğinde bunların dünya görüşü ve yaşam tarzları şaşılacak kadar homojendir. Bıyıkları ve önyargıları birbirinin eşidir. Aynı gazeteleri okurlar. Aynı modaları izlerler. Belli başlı noktalarda en sağcısı ile en solcusu, en İttihatçısıyla en yeminli İttihatçı düşmanı birleşir. O noktaları şöyle özetleyelim:
+
+> 1) Memleket behemehal medenileşmelidir. Medeniyet Batı'dır.
+> 2) İslam ayak bağıdır. Fakat İslam’dan vazgeçemeyiz zira gitgide palazlanıp küstahlaşan gayrimüslim unsurlar üzerindeki egemenliğimizin yegane dayanağı İslam’dır.
+> 3) Şanlı ecdadımızla iftihar ederiz. Çünkü bizi hor gören gayrimüslimlere karşı elimizdeki tek sermaye onların bize mirası olan Devlet’tir.
+> 4) İslam’ı bir yere kadar sorgulayabiliriz ama Devlet’i asla. O benimdir, o benim milletimindir ancak.
+
+Buyurun açın bakın; makalelerini, mektuplarını, hatıralarını okuyun. Enver böyledir, Talat da, Karabekir de, İsmet de, Ziya Gökalp de, “ilericilerin” idolü Abdullah Cevdet de, Tevfik Fikret de, İstanbul basınının orkestra şefi Ahmet Mithat da, Damat Ferit de, hanedanın “modern” üyesi son halife de, onun ekstra modern oğlu Ömer Faruk Efendi de, Halide Edip de, önce Cemal’in sonra Kemal’in Goebbels’i olmaya çalışan Falih Rıfkı da. Bir-iki egzantrik örnek hariç bütün askeri kumandanlar. Bütün romancılar. Bütün fikir önderleri. Hepsi.
+
+Yani demem o ki, Mustafa Kemal değil o kuşaktan kim gelirse gelsin çizgisi aşağı yukarı belliydi. Belki kişilik farkından doğan nüanslar olurdu, ama o kadar.
+
+İktidarını 1925-26’da pekiştirinceye dek büsbütün ilkesiz bir insan olarak şöhret bulan Mustafa Kemal’in oyun sahası da öyle zannettiğiniz kadar serbest değildi. Başarısının sırrı, akıntıyla yüzmeyi öbürlerinden daha iyi bilmesidir. Tarihteki büyük liderlerin - şimdiki de dahil - hepsinin ortak özelliğidir.

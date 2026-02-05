@@ -1,0 +1,21 @@
+# Kırk beş yıllık tecavüzün sonu
+
+Aug 16, 2021
+
+**Source:** https://nisanyan.substack.com/p/krk-bes-yllk-tecavuzun-sonu-21-08-16
+
+---
+
+[![](https://substackcdn.com/image/fetch/$s_!f-Se!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F46cfea2a-4070-465b-a9ee-6fca34d6456e_400x159.jpeg)](https://substackcdn.com/image/fetch/$s_!f-Se!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F46cfea2a-4070-465b-a9ee-6fca34d6456e_400x159.jpeg)
+
+Batı basının ‘Taliban’ adını verdiği Afganistan İslam Emirliği hakkında 25 senedir bildiğinizi zannettiğiniz her şey, istisnasız HER ŞEY, Amerikan savaş propagandasıdır. Savaş propagandası tanım gereği yalandır. Amacı düşmanın moralini bozmak, yanıltmak, aklını karıştırmak, olası dostların gözünü boyamaktır. Bir şey bilmiyorsunuz. Bilmiyoruz. Falan yerde kadınları kırbaçlamışlar mı, sebebi neymiş, yapan kimmiş, münferit olay mıymış sistemli bir davranış mıymış, bilmiyoruz. Geçmişteki davranışları şimdi ne yapacaklarının kanıtı mıymış, bilmiyoruz. Ben şahsen bilmiyorum. İki üç tane simgeye bakıp hazır analiz paketlerinden birini satın alanları acıklı buluyorum.
+
+Net bildiğimiz bir şey var. Dünyanın en uzak ve kapalı bölgelerinden biri olan bu zavallı ülke son 45 yılda Amerikalılar tarafından – ve çok daha düşük bir düzeyde Ruslar tarafından – evire çevire sikildi. Muazzam bir kibir ve hoyratlıkla, evet ırkçılıkla, insanların hayatı altüst edildi. Köyler ve kasabalar yakıldı. Kurumlar mahvedildi. İki kuşak insan korku ve aşağılama altında yaşatıldı. Genç insanların hayat beklentileri yok edildi. Asgari bilgi ve yetenek sahibi olanlar yurt dışına göçe zorlandı. Doğal kaynaklar yağmalandı. Yüz binlerce sıradan insan öldürüldü. Yüz binlercesi hapsedildi, dayak yedi, işkence gördü.
+
+İlk fitili yakan değerli hocam Z. Brzezinski ile çevresindeki bir gruptu. Sovyetler Birliğinin iki yumuşak karnından birinin Orta Asya olduğuna karar verdiler. Afganistan karışırsa Tacikistan ile Özbekistan da karışır diye hesapladılar. Karıştırdılar. Açmaz karşısında kalan Sovyet yönetimi işgalden başka çare bulamadı. Dokuz yıl ülkede kaldılar. Beyhude bir gayretle altyapı geliştirip, eğitim teşkilatı kurup, kızlara eğitim ve meslek alanı açıp, sağlık hizmetleri sağlayıp memleketi adam etmeye çalıştılar. Olmadı. Amerikalılar bu sefer Reagan’ın adamı Caspar Weinberger marifetiyle ülkedeki İslami direnişi kışkırttılar. Suudi parası ve eğitmenleriyle yabancı militanları devreye soktular. Pakistan’ı İslamcı Afgan direnişçilerine üs ve lojistik destek vermeye ikna ettiler. 1989’da Sovyetler pes edip çekildi. Ülke kaosa yuvarlandı. Eroin ticaretini kontrol eden kuzeyli (Türk) savaş ağaları galip gelir gibi olunca güneyde Pakistan’ın desteğiyle Taliban hareketi başlatıldı. 1997-98’de savaş ağalarını yenip ülkenin büyük bir bölümünde az çok barışa benzer bir şeyi tesis etmeyi başardılar.
+
+2001’den sonrası tam bir sahtekarlıktır. Bu seferki Amerikan işgalinin makul hiçbir stratejik amacı ve çıkış (=galibiyet) vizyonu yoktu. 11 Eylül saldırılarını bahane edip, paniğe kapılmış Amerikan kamuoyunu gaza getirdiler. Kendilerine yirmi sene boyunca sınırsız fon (1 trilyon dolar deniyor), itibar ve kariyer fırsatı veren bir oyun sahası açtılar. ‘Ülkeyi Talibancılığa karşı aşılıyoruz’ anlatısısı, en azından bugün gündemde olan diğer aşılar kadar aldatmaca idi. Kalıcı olabilecek hiçbir şey yapmadılar. Ülkenin şehirlerinde işgal kuvvetlerine taşeronluk, rüşvet ve uyuşturucu ticareti üzerine kurulu bir parazit katmanı yaratmakla yetindiler. Ayrıldıkları gün o yapının çökeceğini pekala biliyorlardı. (Son aylarda bunun tonla belgesi, yazışması yayınlandı.) Umurlarında olmadı.
+
+İslam Emirliğinin simge ve sloganlarını bir de bu açıdan değerlendirin isterseniz. O kıyafetler, sarıklar, sakallar, geçmiş tarihin çöplüğünden derlenmiş söz yığınları bir meydan okumadır. Gücünüze meydan okuyoruz diyorlar, 45 senedir bize cehennemi yaşatan medeniyetinize lanet olsun! Kravatlı adamları ve pantolonlu kadınları tanımışlar çünkü. Alçaklıklarını biliyorlar.
+
+Ha, o kıyafetler ve o sloganlar bir derde deva mıdır, o belli değil henüz. Yaşarsak belki görürüz.

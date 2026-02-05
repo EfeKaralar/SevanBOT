@@ -1,0 +1,33 @@
+# Anadolu'da gezintiler: Yeni Osmanlıca
+
+May 30, 2018
+
+**Source:** https://nisanyan.substack.com/p/anadoluda-gezintiler-yeni-osmanlca-18-05-30
+
+---
+
+Sonu +iye ile biten 934 eski yer adından 75 kadarı Hatay, Urfa, Antep, Adana ve Maraş’ta Arapça isimler. Dersim ve civarında kaydetmeyi başardığım on beş kadar Zazaca yer adı, yine +iye’li. Diğer otuz tane kadarının aslı +iya, Rumcadan alıntı, eski yazıda +iya ile +iye ayırt edilmediğinden +iye diye yerleşmiş (**İskefiye** < Skáphia, **Bademiye**< Potámia, **Kirasiye** < Kerásia, **Lazkiye** < Laodikeía...). Üç beş tane Osmanlı resmi dilinde Arapça dişil eki almış sıfat var (Kal’a-i Sultaniye, Beynevit-i Şarkiye). İki üç tane de Zaviye, ama orijinal zaviyelerin çoğu Türkçe kullanımda **Zeyve** olmuşlar.
+
+Geriye kalıyor 792 tane. Bunların hepsinin belli bir çağ ve belli bir siyasi atmosferin ürünü olduklarını kolayca görebiliyoruz.
+
+Osmanlı’nın eski tahrir defterlerinde tek tük Süleymaniye ile belki bir tane Selimiye dışında +iye’li köy ve kasaba adı gördüğümü hatırlamıyorum. +iye çılgınlığı 1850 ve 1860’lı yıllarda başlamış görünüyor. O yüzden mesela en az 17 tane **Aziziye**’miz var. Bu rakam eskiden muhtemel ki daha yüksekti, ancak Sultan Aziz devri geçince bazıları yeni döneme ayak uydurmuş olsa gerek. Bildiğim en eskisi 1864’te Çerkes mülteciler için kurulan Kayseri Aziziye, şimdiki Pınarbaşı ilçesi. Buna karşılık 27 tane **Mahmudiye** ile yine 27 tane **Mecidiye**’nin kaçı Sultan Aziz’in pederi ile büyük biraderi zamanında öyle adlandırılmış, kaçı sonradan onurlandırılmış, tespit edemedim.
+
+Rekor tabii **Hamidiye**’lerin: benim sayabildiğim 58 tane. Ki bunlar sadece yerleşim yeri olarak bugün müstakil birim olan yerler, kim bilir daha kaç tane mahalle, mevki, çiftlik, köprü, pınar, kışla, yayla vb. vardır şimdi veya eskiden o adı taşıyan. 1909’dan sonra yeni rejime intibak ettiği için gözümden kaçmış olanlar da cabası. **İhsanıhamid, Eserihamid, Lütfihamid, Bünyanıhamid, Umranıhamid, Kemerihamid, Bahşayişihamid, Mamuretülhamid** ve **Hamidabad**’ları da burada saymıyoruz.
+
+Sekiz **Muradiye**’nin kaçı Sultan Murat-ı Hamis’in üç aylık saltanatının anısıdır bilmiyorum. **Reşadiye**’ler 25 tane, buna karşılık Afyon Emridağ’daki **Vahdetiye** en talihsiz padişahın adını mı sürdürüyor, başka bir şey mi, emin olamadım. 19 **Sultaniye**ile 43 **Osmaniye**, ailenin belli bir üyesine angaje olmayıp, olası saltanat değişikliğinde isim değiştirme külfetine karşı kendilerini korumuşlar.
+
+Sadece sultanlar değil, onların evlad ü iyalinin isimleri de çeşitli köy ve kasabalarda ölümsüzleştirilmiş. 25 **Selimiye**’nin çoğu ile 20 **Burhaniye**’nin hepsi Sultan Abdülhamid’in iki büyük oğlunun adını taşıyor. Sekiz **Kadiriye** ile bir **Abidiye** onların küçük kardeşleridir sanıyorum ama emin değilim. Abdülaziz’in büyük oğlu Yusuf İzzeddin **Yusufeli**’nde, kızı Nazıme Sultan Dersim **Nazımiye**’de anılmışlardır, bu kesin bilgi. Padişah evladının öne çıkarılması Osmanlı ve İslam geleneğinde olmayan bir şey; İngiltere’den (veya Rusya’dan) ithal bir modernleşme özentisidir desek yanılır mıyız?
+
+Saltanatın sarsıldığı devrin siyasileri de haritamızda boy gösteriyorlar. On **Şevketiye**’nin tamamı Rumeli muhaciri yerleşkesi olduğuna göre, 1913’te Balkan Harbi mültecilerinin iskanına girişildiği günlerin sadrazamı Mahmut Şevket Paşa’nın adını hatırlamak yanlış olmaz. Aynı günlerde ya da kısa bir süre sonra adlandırılmış, Alanya’da bir **Talatiye**’miz, Konya’da bir **İttihadiye**’miz var. On tane **Kemaliye**ile üç tane **İsmetiye** sonraki saltanatın ürünleri.
+
+On adet **Fethiye**’nin birkaçı, 1913 bozgununun ardından muhacir iskânı için yerli Rum ve Ermeniden zaptedilen yerler. Dokuz **Cihadiye** belki Birinci Dünya Harbi başlangıcında Sultan Reşad’ın ilan ettiği Cihad-ı ekberi, bir **Sulhiye** ile üç **Zaferiye** ise kim bilir hangi boşa çıkmış zafer ve barış umudunu anımsatıyor.
+
+Listedekilerin büyükçe bir kısmı ihsan, lütuf, nimet ve minnet belirten adlar: **İhsaniye** (25), **Lütfiye**(12), **Şükriye** ve **Şükraniye** (10), **Hayriye** (10), **İnamiye**(3), **Rıfatiye** (2), **Şefkatiye** (1), **Erhamiye** (1), vs. Bir kısmı yeni imarı vurgulamış: **Umraniye** (6), **İcadiye** (6), **Mamuriye**(3), **İmariye** (1), **Cedidiye** (1). İki **Küşadiye** çekilişte çıkmış yerleri, 7 **Tevfikiye** “şanslı geldi” diye sevinenleri, bir **İbkaiye**“kaldık burada” diye üzülenleri (ya da mahkeme kararıyla teyit edilmiş bir hakkı), 1 **İcbariye** “mecbursak kalacağız” diye lanet okuyanları, 1 **Yaveriye** ise ya “şansımız yaver gitti” diye oynayanları, ya da belki yaver paşanın yaptığı bir kıyağı akla getiriyor.
+
+Hemen hepsi, imparatorluğun çöküş sürecinde elden giden ülkelerden ser ü sefil Anadolu’ya gelen mültecilerin iskanı için yeni kurulan, ya da eski sahiplerinden zaptedilen yerler. Çoğunluğu Fırat’ın batısı ile, kuzeyde Sivas ve Tokat’tan Erzurum’a uzanan hat üzerinde. Çok büyük bölümü İstanbul’un güney ve doğusunda 300 kilometrelik dairenin içinde -- Adapazarı, İzmit, Bursa, Balıkesir. Birçoğu 1880’lerin, 1890’ların haritalarında henüz isimsiz, Çerkesköy, Abaza köyü, Arnavutköy, Pomakköy, ya da kısaca Muhacir Köyü adıyla gösterilmiş. Kiepert haritalarında (ki 1890-1913 arası basıldıkları halde 1890’dan önce derlenmiş görünüyor) üçte ikisinin adı henüz yok. Sanırım bir muhacir iskanının kalıcı bir isme kavuşması yirmi otuz yılı bulan bir süreç.
+
+Cumhuriyet’e zemin hazırlayan büyük ulusal travmayı kavramak açısından ilginç detaylar bunlar.
+--------------------
+
+*(ertesi gün)*
+Doktora olmaz ama nefis master tezi konusu: "Türkiye'de Mahmudiye ve Mecidiye Yer Adlarının Orijini"Gerekçe: Aziziye, Hamidiye ve Reşadiye adlı yerlerin neredeyse tümünün, imparatorluğun çöküş sürecinde Rumeli ve Kafkasya'dan gelen mültecilerin iskanı için kurulmuş ya da bu amaçla işlev değiştirmiş yerler olduğu bilinir. Bu durumda II. Mahmut (1808-1839) ve Abdülmecit (1839-1861) adını taşıyan yerler ilginç bir istisna teşkil etmektedir. İmparatorluğun çöküş dönemindeki büyük demografik değişim gerçekte 1860'lardaki Kafkas göçünden önce mi başlamıştır? Yoksa padişah adıyla onurlandırılan yerleşimler 1860-öncesinde farklı bir sembolik işleve mi sahipti? Bu yerler ilgili padişahların vefatından sonra, belki Sultan Abdülhamid'in babası ile büyükbabasını anmak amacıyla adlandırılmış olabilir mi?Mahmudiye ve Mecidiye adını taşıyan 50 dolayında yerleşimin adlandırılış tarihini ve -- kaynakların izin verdiği ölçüde -- gerekçelerini incelemek bu açılardan 19. yy Osmanlı toplumsal tarihine ilişkin ilginç ipuçları sağlayabilir.

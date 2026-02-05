@@ -1,0 +1,77 @@
+# Karabağ hakkında bilmedikleriniz
+
+Oct 10, 2020
+
+**Source:** https://nisanyan.substack.com/p/karabag-hakknda-bilmedikleriniz-20-10-10
+
+---
+
+**Beş melikler**
+
+Karabağ’ın aşırı derecede dağlık (dolayısıyla ulaşımı güç ve ekonomik açıdan marjinal) olan iç kısmında Ermenilerin birtakım yerel beyler önderliğinde Türk hanlıklarına ve İran devletine karşı bir tür kısmi özerkliği yüzyıllar boyunca korudukları anlaşılıyor. Aynı durumu aşırı derecede dağlık olan başka yerlerde, mesela Sason’da, Zeytun’da, Ermeniler yerine Nasturileri koymak şartıyla Hakkari’de, Azeriler yerine Kızılbaş aşiretlerini koyarak Dersim’de görürüz. Hemşin 18. yy’a dek benzer yapıdadır. Rodoplarda, Arnavutluk’ta, Suli’de, Peloponnes’in Mani Yarımadasında, Ege adalarında da buna benzer öyküler buluyoruz. Türk-İslam egemenliği ekonomik açıdan verimli ve askeri açıdan kontrolü kolay olan ovalara yoğunlaşmış, dağlık kesimleri – bir miktar haraç ödemek ve ovayı fazla taciz etmemek şartıyla – dağlılara bırakmış görünüyor.
+
+Ermeni anlatısında Karabağ’ın soyları efsanevi Ermeni krallarına dayanan beş melik ‘hanedanından’ söz edilir. Hanedan sözcüğünün burada fazla iddialı olduğunu, beşli bir stabil yapıdan söz etmenin de tarihe taşıyamayacağı kadar fazla anlam yüklemek olduğunu düşünüyorum. Beyliklerin Rusya’ya biat ettiği 1799 tarihinde kendine ‘melik’ unvanını layık gören beş yerel şef mevcuttu demek daha doğru olabilir. Meliklerin isim ve unvanları, İslam ile Ermenilik arasında en azından 1799 öncesinde zaman zaman tereddütte kaldıklarını düşündürür: Melik Beğleryan, Hasan Celaliyan, Şahnazar Şahnazaryan, Atabekyan, Allahverdi Han, Allahkuli Sultan... (Yan yerine +oğlu yahut +kulu ikame etmek de mümkün olmalı.) Belki 1730’lardan itibaren Rus gücünün bölgede belirmesi, yerel egemenlerin Ermenilik hissiyatının keskinleşmesine hizmet etmiş olabilir.
+
+Her halükarda 19. yy başındaki Rus kayıtlarına göre dağlık bölgedeki köylerin tamamına yakını (77 köyün 70 kadarı) Ermenidir. İlginçtir ki, Türk fethinden 750 yıl sonra Ermeni coğrafyasının başka hiçbir yerinde bu denli kompakt bir Ermeni yoğunluğu bulunmamaktadır. Yani, şayet öyle terimlerle dünyayı algılayan biriyseniz, Dağlık Karabağ 19. yy başında dünyada kalmış olan en has Ermeni diyarıdır.
+
+**Cevanşir Han**
+
+Karabağ Hanlığının kurucusu – ve Karabağ adını coğrafyaya kazandıran kişi – Penah Ali Han Cevanşir’dir. Yerel Türk beylerindendir. Nadir Şah’ın ölümünden sonra İran’ın kargaşaya düştüğü 1748 yılında hanlığını ilan eder. Ağabeyini öldürterek melikliği gaspetmiş olan Şuşa bölgesi hakimi Melik Şahnazar ile diğer Ermeni meliklerine karşı ittifak eder; onun kızı Hurizad’ı oğluna alır. Daha sonra Hınzıristan köyünün (yine Ermeni) egemeni Mirzahan da ittifaka katılır. Cevanşir Şuşa’da görkemli bir saray inşa ettirerek oraya yerleşir. Yerel Ermenilerle İslam/Türk beyi arasındaki ilginç simbiyoz, bize belki Hakkari beyleri ile Ertoşi aşiretinin yerel Nasturi-Hıristiyan aşiretlerle yüzyıllar süren ittifakını anımsatıyor. Dersim’de Kızılbaş aşiretleri ile Ermeni köylüler arasındaki ilişkinin de çok farklı olduğunu sanmıyorum. Atlı ve silahlı İslam beyleri, ekip biçmeyi tercih eden Ermeni köylülerin işine gelmiş.
+
+Cevanşir’in oğlu Halil İbrahim Han Rus istilasına dek Karabağ hanı olarak kalır. İran’a karşı bir dizi savaştan sonra 1795’te Şahın egemenliğini kabul etmek zorunda kalır. Cevanşirler 1905 ve 1920 olaylarında da önemli roller oynarlar.
+
+Kaçıncı kuşak torunlarından merhum Dr. Behbut Cevanşir bir dönem Teşvikiye’de kulak doktorumdu. Sağır olan sağ kulağımı kurtaramadı.
+
+1813’te Gülistan Antlaşmasıyla bugünkü Azerbaycan (artı Karabağ) toprakları Rus egemenliğine girer. Bunu izleyen 15 yılda İran’dan gelen çok sayıda Ermeni muhacir Şuşa’ya yerleşir. Daha önce Ermeni köyleriyle çevrili bir Azeri kalesi olan Şuşa, yaklaşık eşit nüfusa sahip Türk ve Ermeni mahallelerinden oluşan kalabalık bir kent niteliği kazanır. Kafkasya’daki ilk Ermeni matbaası (galiba) burada kurulur, ilk Ermenice gazeteler burada yayımlanır, tiyatro vesaire denemeleri yapılır. Ancak 1828’de Türkmençay Antlaşması ile Erivan Hanlığı da Rus yönetimine girince, Rusların ‘Ermenileştirme’ politikasının odağı Şuşa’dan Erivan’a kayar. Bu kez Osmanlı’nın Kars, Ağrı, Erzurum bölgelerinden göçen büyük muhacir kitleleri Erivan ve çevresine iskan edilir. Şuşa ikinci plana düşer.
+
+**Ağaoğlu Ahmet**
+
+1905’te birinci Rus ihtilalinin en sıcak günlerinde Şuşa’da Türklerle Ermeniler arasında kanlı çatışmalar çıkar, iki taraftan yüzlerce insan öldürülür. Çatışmanın nedenleri konusunda doğru dürüst bir analiz bulamadım. Tahminimce Ermeni nüfusunun – hem Şuşa hem Erivan’da – hızlı artışının bozduğu toplumsal dengeler önemli bir faktördür. Ermeni tarafının 1890’lardan itibaren gütmeye başladığı bağımsız milli devlet ideali (tıpkı aynı dönemde Bulgaristan ve Makedonya’da yaşandığı gibi) bir etnik temizlik programına yol açmış olabilir. Tam aynı yıllarda Azerilerin de Osmanlı Türkiyesi ile birleşmeyi ya da en azından işbirliğini öngören Pantürkizm rüzgarlarına kapılmış olması, karşı tarafta da benzer emellerin rol oynamış olabileceğini düşündürüyor. Dağlık Karabağ, Rusya Türkleri ile Türkiye arasında aşılması güç bir coğrafi engeldir. Karabağ’daki toplumlararası çatışmalara katılan Azeri militanlarının şefi Ağaoğlu Ahmet de Pan-Türkçü düşüncenin Rusya çapında parlayan yıldızlarındandır.
+
+Ağaoğlu daha sonra Türkiye Cumhuriyetinin kurucu kadroları arasında yer alacak, Ankara’da TBMM hükümetinin basın ve propaganda müdürü olacaktır. Oğlu Samet Ağaoğlu Demokrat Parti döneminin İçişleri Bakanıdır. Torunlarından Tektaş Ağaoğlu Sovyet yanlısı Marksist partilerimizden TSİP’in başkanı oldu. Diğer torunu merhum Mustafa Kemal Ağaoğlu bir dönem yakın arkadaşımdı; az kalsın beraber şirket kuracaktık. Üçüncü kardeş Sitare Ağaoğlu ile 1986’nın yılbaşı gecesi Bilsak’ta karşılıklı sahne alışımız bir kuşağın belleklerine kazınmıştır.
+
+**Sovyet mühendisliğinin zaferi**
+
+1918’de Rus imparatorluğunun dağılmasından sonra Karabağ’ın statüsü Paris Barış Konferansına havale edilir. Çağın moda düşüncesi ‘ulusların kaderini tayin hakkı’dır. Karabağ ilinin (dağ + ova) nüfus çoğunluğu tartışmasız Azeri Türktür. Ama Dağlık Karabağ’ın nüfusu (Şuşa şehri hariç) açık farkla Ermenidir. Şimdi ne olacak?
+
+Mayıs 1919’da Dağ Karabağlılar İngilizlerin güvencesine kanarak, barış konferansı sonlanıncaya dek geçici olarak Azeri idaresine girmeyi kabul ederler. Azeriler derhal ulusların kaderini tayin etme sürecine girip 5 Haziranda Dağlık Karabağ köylerinde geniş çaplı bir Ermeni katliamı düzenler. Taşnak partisi bunun üzerine Azeri yönetimine karşı ayaklanma ve gerilla savaşı başlatır. Mart 1920’de Ermeni militanları Nevruz bayramından yararlanarak Karabağ’daki Azeri polisine yönelik büyük bir kıyım gerçekleştirir; yüzlerce polis öldürülür. Karşılık olarak Azeriler iki gün sonra Şuşa’nın Ermeni mahallesine saldırır. Mahalle yerle bir edilir; kime inanacağınıza bağlı olarak 500 ila 20.000 Ermeni öldürülür.
+
+Şuşa’nın Ermeni kesimi 1960’larda Kruşçev dönemine dek mahvolmuş bir harabe olarak kalacak, onun yerine dikey olarak 500 metre aşağıda Stepanakert (Hankendi) şehri kurulacak, Ermeni özerk yönetiminin başkenti olarak hizmet edecektir.
+
+Azerbaycan ve Ermenistan’ın Sovyet yönetimine girmesinden sonra Ankara yönetimi, Azerbaycan ile Türkiye arasında üçlü bariyer oluşturan Karabağ, Zangezur ve Nahçivan’ın Azerbaycan’a verilmesinde ısrarcı olur. Sovyet tarafı Zangezur’un Ermenistan’a katılması lehine oy kullanır. Bugünkü Ermenistan’ın güneye sarkan kısmı olan Zangezur’da Komutan Njdeh liderliğindeki Ermeni gerilla kuvvetleri üç yıl süren çatışmalarda evvelce çoğunluk olan Azerileri azınlığa düşürmeyi başarmıştır. Nahçivan, Türkiye ile ortak sınırı olmamak kaydıyla Azerbaycan’a bırakılır (sınır koridoru sağlayan Aralık ilçesini TC daha sonra İran’dan satın alacaktır). Dağlık Karabağ bir süre sürüncemede kaldıktan sonra Ermeni nüfusun özerk yönetimi garanti edilerek Azerbaycan’a bırakılır. Ankara bunun üzerine Ermenistan ile Dağlık Karabağ arasındaki Laçin ve Kelbecer koridorlarının Ermenilerden arındırılarak Karabağ-Ermenistan temasının kesilmesini talep eder. Ankara ile iyi ilişkileri gözeten Stalin, Lozan müzakerelerinin en sıcak dönemine denk gelen günlerde Türk talebini onaylamayı uygun bulur. Koridordaki Ermeni köyleri boşaltılır; lakin yerine Azeriler değil Kürtler yerleştirilir. 1923’te Laçin ve Kelbecer ilçelerini kapsayan **Kızıl Kürdistan** reyonu kurulur. Uzun ömürlü olmaz, 1929’da iptal edilir.
+
+İki ilçede Kürt nüfusu 1980’lere gelindiğinde ne kadardı, bilgi bulamadım.
+
+**1988-1994 savaşı**
+
+Sovyetler Birliği’nin dağılma sürecinde Karabağ’da yaşananları elbette hatırlıyorsunuz. 1988 başında Sovyetlerin günlerinin sayılı olduğu hissedilir. Azerbaycan’da milliyetçi politikalar Haydar Aliyev’in Parti Birinci Sekreteri olduğu 1969’dan itibaren artan oranda gündeme gelmiştir. Kavga Dağlık Karabağ’da Azericenin zorunlu eğitim dili yapılması meselesinden patlak verir. 11 Şubat 1988’de Dağlık Karabağ Ermenileri ayaklanır; Azeri memurlar bölgeden kovulur. Öfkeye kapılan Azeriler 28 Şubatta Bakü’ye yakın Sumgayıt kentinde Ermenilere karşı büyük bir pogrom düzenler. Türkiye’nin 6-7 Eylül, 1978 Maraş ve Çorum olayları, 1993 Madımak katliamı vs. münasebetiyle gayet iyi tanıdığı yöntemlerle organize kalabalıklar Ermeni evlerini basar, 100 civarında insan öldürülür. Bu tür olaylar sonraki yıllarda eski Sovyet coğrafyasında vukuat-ı adiyeden olacaktır. Ancak 1988 için bir ilktir ve tüm Sovyetler Birliğinde dehşet uyandırır. Kasım 1988’de Azerbaycan’ın ikinci kenti olan Gence’de (o zamanki adıyla Kirovabat’ta) yine bir Ermeni pogromu gerçekleşir; anlatan tarafın tercihine göre onlarca veya binlerce Ermeni öldürülür. İzleyen aylarda Azerbaycan’da yaşayan Ermeni nüfusun tamamı ile Ermenilere yakın sayılan Hıristiyan Udi halkı, çoğu zaman feci koşullarda Azerbaycan’ı terk etmek zorunda bırakılır. Sovyet sayımlarına göre 1988 öncesinde Azerbaycan’da 500.000’e yakın Ermeni ve 10.000 Udi vardır. Dağlık Karabağ reyonunda olan 120.000 kadar Ermeni kalır. Demek ki yaklaşık 390.000 kişi göçmüş olmalı. Buna karşılık Ermenistan’da yaşayan 120.00 (Ermeni iddiası) ila 180.000 Azeri (Azeri iddiası) yurtlarından sürülür.
+
+1994’e dek feci derecede kanlı bir savaş sürer. Ermenilerin zaferiyle sonuçlanır.
+
+Savaşta Şuşa’yı ellerinde tutan Azeri güçleri, Şuşa’dan kuşbakışı görünen Stepanakert kentini sürekli top ateşine tutarlar. Şehir yerle bir olur; sivil halktan çok sayıda kişi ölür. 2 Mayıs 1992’de Ermeni milisleri cüretkâr bir operasyonla Şuşa’yı ele geçirirler. Stepanakert’e ve 1920 katliamına bilmisil kentin Azeri kesimi yerle bir edilir.
+
+2008’de Arsen’le beraber Şuşa’nın yarı yıkık, terk edilmiş sokaklarını gezdik. Harabeye dönmüş Gevher Ağa Camiinin içine girdik. Ani’de ve eski Van kentinin yıkıntılarında hissettiğimiz duyguların benzerini yaşadık.
+
+**Gelelim bugüne**
+
+[![](https://substackcdn.com/image/fetch/$s_!zj5z!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28298c94-6340-44e3-b76f-266460605ce5_320x294.png)](https://substackcdn.com/image/fetch/$s_!zj5z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28298c94-6340-44e3-b76f-266460605ce5_320x294.png)
+
+Tavrımı baştan net söyleyeyim. Dağlık Karabağ halkı, yurdu, canı ve özgürlüğü için bir mücadele vermiş ve kazanmıştır. Kaybetseler bugün Azerbaycan’ın geri kalan kısmında olduğu gibi Dağlık Karabağ’da da Ermeni kalmazdı.
+
+Olay bundan ibarettir. Siyah ve beyazdır. Uluslararası diplomasinin birtakım kaypaklıklarını gerekçe ederek, aradan otuz yıl geçtikten sonra bunu rövanş konusu yapmak savunulabilir bir tavır değildir. Vaktiyle Sırbistan, Yunanistan, Romanya, Bulgaristan, Arabistan vesaire de aynı gerekçelerle ve aynı yöntemlerle mücadele etmiş ve hukuken Osmanlı devletine ait görünen birtakım toprakları silah zoruyla elde etmişlerdir. Bugün Karabağ’a “hukuken Azeri toprağıdır” diye saldırmayı hak görenlerin yarın Balkanlarda ve Ortadoğuda aynı iddia ile ortaya çıkmamaları şaşırtıcı olur.
+
+Dağlık Karabağ dışında Ermenistan ve Karabağ kuvvetlerinin işgal ettiği diğer topraklarda Ermeni pozisyonunun bu kadar berrak olmadığını teslim etmek zorundayız.
+
+İşgal edilen yerleri ikiye, hatta belki Agdam’ı ayrı tutarak üçe ayırabiliriz.
+
+Birinci bölge, Laçin ve Kelbecer koridorları, Dağlık Karabağ’ın güvenliği için elzemdir. Bu koridorlar olmadan Dağlık Karabağ makul bir siyasi birim olarak varlığını sürdüremez. İki koridordan işlek olanı Laçin bağlantısıdır. Kelbecer yolu, Karadeniz vadileri gibi dehşetli sarp, dar bir boğazdır. Sadece Dağlık Karabağ’ın kuzey kesimi ile Ermenistan’ın Geğarkunik vilayetini birbirine bağlar; Azerbaycan’ın geri kalan kısmıyla mantıklı bir bağlantısı yoktur. Buranın iadesini savunanlar bence coğrafyadan pek haberdar olmadıkları için bu fikre kapılıyorlar.
+
+İkinci bölge güneydeki Fuzuli, Cebrayil, Kubatlı ilçeleri ile Bazarçay/Vorotan vadisidir. Bu bölgede sayıları yüzü bulan Azeri kasaba ve köyleri boşaltılmış, mal varlıkları talan edilmiş, evler sistemli olarak yıkılmış, geriye dünyanın hiçbir bölgesinde 21. yüzyılda benzeri olmayan bir harabeler zinciri kalmıştır. Ermeni devleti açısından bir utanç vesilesi olması gereken bu korkunç tabloyu Google haritasında kolayca izleyebilirsiniz. Evet, tüyler ürperticidir.
+
+Ermenistan 1992-1994’te ele geçirdiği bu yerleri iskan etmemiş veya edememiştir. Çünkü Ermenistan’ın buralara iskan edecek ekstra nüfusu yoktur. Azerbaycan’dan kaçan 400 bine yakın Ermeni Ermenistan’a değil Rusya’ya veya Batı ülkelerine göçmeyi tercih etmiştir. Ermenistan’ın bu yerleri ayağa kaldıracak ekonomik gücü de yoktur. Bu yüzden yüze yakın kasaba ve köy, otuz yıldan beri hayaletkent olarak kalmıştır.
+
+Ve fakat Ermenistan’ın bu bölgeden geri çekilmesi de kolay değildir. Çünkü Ermenistan – tıpkı İsrail gibi – bir devlet olarak varolma hakkını dahi sorgulayan iki güçlü düşmanla çevrilidir. Uzak hamisi Rusya dışında sınırdaş olan tek potansiyel dostu İran’dır. Ve asıl Ermenistan’ın İran’la 55 kilometrelik sınırı, askeri açıdan neredeyse hiç değerinde olan olağanüstü dağlık ve sapa bir hattır. Dağlık Karabağ’ın güney tamponunu ele geçirmekle Ermeniler İran’a 130 kilometrelik bir sınır açmakla kalmamış, İran ile Ermenistan arasındaki tek makul karayolu bağlantısı olan Bazarçay vadisini de elde etmiştir. Askeri açıdan bu bölgeyi terk edebilirler mi? Ya da karşılığında ne tür güvenceler isteyebilirler? Bu konularda bilgim yok. Öte yandan 400 kilometrekarelik bir saha ilelebet nüfustan arındırılmış bir no man’s land olarak tutulabilir mi? Onu da sanmıyorum.
+
+Hayal kuralım. Bölgenin askeri kontrolünün Ermenistan’a bırakılması, buna karşılık göçertilen Azerilerin, güvenlikleri ve kültürel ve siyasi hakları sıkı uluslararası güvencelere bağlanmak suretiyle geri gelmelerine izin verilmesi acaba bir çözüm olabilir mi? Sanırım şimdilik ütopik bir yol olarak görünüyor. Türk ve Azeri milli duygularının otomatik bir refleksle karşı çıkacağı kesin. Yani Türkler, Ermenilerin egemenliğinde mi yaşayacak? Daha neler?
+
+Buna karşılık Azeri/Türk tarafı Dağlık Karabağ Ermenilerinin Azerbaycan bünyesinde özerk bir birim olarak mutlu mesut yaşayabileceklerini savunuyorsa, Azerilerin Ermenistan bünyesinde özerk bir birim olarak yerleştirilmesine niye karşı çıksın? Bu sorunun da çok makul bir cevabı olduğunu düşünmüyorum.

@@ -1,0 +1,23 @@
+# Diller nasıl doğdu
+
+Mar 06, 2019
+
+**Source:** https://nisanyan.substack.com/p/diller-nasl-dogdu-19-03-06
+
+---
+
+Afrika’da yaşayan, fare avlayıp meşe palamudu yiyerek geçinen bir Homo erectus kabilesine bir gün tuhaf bir yavru doğdu. Büyüdükçe tuhaflığı arttı. Çok gevezeydi; herkesin bildiği sesli sinyalleri durmadan tekrarlaması tuhaf ve çoğu zaman sinir bozucuydu. Bir tür glossolalia olduğunu düşündüler. Orada aslan var: warf. Orada aslan var diyor: warf warf. Orada aslan var diyor dedim: warf warf wırf. Orada aslan var diyor dediğimi duymadınız mı: warf warf wırf hımm. Orada aslan var diyorlar dedim duymuyor hıyarlar: warf warf wırf hımm mhımm.
+
+Sakattı, o belli. Kabile yaşlıları öldürülmesine ya da uygun bir yere terk edilmesine karar verdi. Ama sevenleri buna izin vermedi, “o bizim kıymetlimiz, yüce ruhlar onu böyle yaratmış, ne yapalım” deyip onu korudular. Alıştıkça fark edildi ki aslında hiç de öyle geri zekalı değildir, kendine göre acayip bir mantığı ve pratik becerileri vardır. Bir süre sonra onun tanrılar tarafından seçilmiş biri olduğuna kanaat getirdiler. En iyilerinden dört dişi almasına müsaade ettiler.
+
+Adamımız – adına Adem diyelim – milyarda bir görülen bir genetik bozukluktan mustaripti. Hz. Naim peygamberin (Chomsky) recursive grammar adını vereceği beyin deformasyonuna uğramıştı. Her dil eylemini başka bir dil eyleminin alt-kümesi haline getiriyor, böylece sonsuza dek uzanabilen karmaşık mesajlar üretebiliyordu. Çok sinir bozucu, ama tanrılar böyle uygun görmüş, ne yaparsın?
+
+Dört eşinden kırk dört yavrusu oldu. Mendel yasaları uyarınca bunlardan yirmi ikisi babalarının bozukluğunu aynen tevarüs ettiler. İki kuşak sonra kabilede huzur muzur kalmadı, gevezelik tahammül edilmez boyutlara ulaştı. Komşu kabileler bunlardan yaka silkmekte, onlara kız vermemeye ve onlardan kız almamaya yemin etmekteydi.
+
+“Çok konuşanlar” soyu bu ailevi özelliğin avantajlarını keşfetmekte gecikmedi. Kendi aralarında iyi anlaşıyorlar, karmaşık mesajlar yardımıyla eylemlerini öbürlerinden daha iyi koordine edebiliyorlardı. Ayrıca tanrılar tarafından seçilmiş olduklarını biliyor, diğerleri üzerinde bu sayede psikolojik üstünlük kurabiliyorlardı. Adem babaya madem dört eş verildi, biz de isterük deyip bunu bir aile ayrıcalığı haline getirmeyi başardılar. Az zamanda sayıları arttı. Mendel yasalarını el yordamıyla öğrenmişlerdi, o yüzden kendilerinden olmayan kızlarla evlenmeyi yasaklayıp, doğacak yavruların %50 değil %75 veya daha yüksek oranda sakat doğmasını sağladılar. Bir süre sonra bununla da yetinmediler, gevezelik hastalığıyla malul doğmayan yavruları tanrılara kurban etmeye yahut başka kabilelere evlatlık vermeye başladılar.
+
+Gerisi tarih. Kısa zamanda bütün Afrika kıtası car car konuşan Homo kabileleriyle dolup taştı. Kendilerini pek beğendikleri için Homo erectus adını hor gördüler, Homo sapiens diye afili bir ad takındılar. “Kıro” saydıkları erectus’larla cinsel münasebeti yasakladılar; o yasağa rağmen iş tutanlardan doğan yavruları köle yaptılar ya da eski tip erectus’lara sattılar. Afrika onlara dar geldi. Bundan 400 bin sene önce Tarık bin Ziyad’ın atalarından biri önderliğinde Cebelitarık boğazını aşıp İspanya’ya, 180 bin sene önce de Sina Çölünü aşıp Ortadoğu’nun bereketli ormanlarına yol aldılar.
+
+---
+
+NOT: Arasıra sohbetlerine katıldığım bir Face grubunda şöyle bir şey paylaşmıştım: Bu yazı ondan doğdu.“İnsan dilini diğer mahlukların iletişim araçlarından ayıran özellik recursion dedikleri hadisedir. Türkçe "özyineleme" öneriliyor, arzu ederseniz.İnsan dili grameri, her bir dil eyleminin bir başka dil eyleminin alt-kümesi (nesnesi diyelim) olmasına izin verir. Dolayısıyla sonsuz sayıda dil eylemi üretebilir. Bu özellik hiçbir başka mahlukta yok."Orada aslan var" mesajını verebilen pek çok hayvan var. "Orada aslan var diyorlar" diyebilen yok. "Orada aslan var diyenler kim" sorusunu sorabilen ve dolayısıyla "orada aslan var diyenler" yerine mesela "nöbetçi" kavramını ikame edebilen hiç yok.Recursive grammar (özyineleyişsel dilbilik?) yeteneği genetik bir özellik. İnsanda var şempanzede yok. Belli DNA serileri hasar görünce yitirilebiliyor. Dolayısıyla YA cenabı hakkın müdahalesiyle YA DA tek bir defada gerçekleşmiş olması gereken bir mutasyonla açıklanabiliyor. Başka makul açıklama duymadım.Sorunuz şu: recursive grammar üreten yaratış eylemi VEYA mutasyon, homo sapiens'e mi mahsustur, sapiens ve neanderthalensis'in ortak atasına mı mahsustur. Bildiğim kadarıyla henüz cevabı tatmin edici şekilde verilememiş bir soru. Epey literatür var, kesin sonuç yok.”
