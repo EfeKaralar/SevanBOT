@@ -8,10 +8,10 @@ RAG system for querying Sevan Nisanyan's writings. Scrapes articles from Substac
 Sources (Substack sitemap / SevanNisanyan.com API)
     |
     v
-HTML Downloads --> Markdown Conversion --> Chunking --> pgvector (embeddings)
-                                              |
-                                              v
-                                       REST API (FastAPI)
+HTML Downloads --> Markdown Conversion --> Chunking --> Qdrant (vector DB)
+                                              |            |
+                                              v            v
+                                    OpenAI Embeddings  REST API (FastAPI)
 ```
 
 ## Tech Stack
@@ -20,11 +20,11 @@ HTML Downloads --> Markdown Conversion --> Chunking --> pgvector (embeddings)
 |-----------|--------|--------|
 | Scraping | Python (requests, BeautifulSoup) | Done |
 | Markdown conversion | Python (markdownify) | Done |
-| Vector database | pgvector | Decided |
+| Vector database | Qdrant (local storage) | Done |
 | Chunking | Semantic/recursive | Done |
-| Embedding model | multilingual-e5-large-instruct | Decided |
-| Query interface | FastAPI | Decided |
-| Contextual retrieval | - | Planned |
+| Contextual retrieval | LLM-based (Claude Haiku) | Done |
+| Embedding model | OpenAI text-embedding-3-small/large | Done |
+| Query interface | FastAPI | Planned |
 | Hybrid search | BM25 + vector | Planned |
 | Reranking | - | Planned |
 
@@ -126,8 +126,48 @@ Create ground truth dataset with 50-100 real user queries:
 
 ---
 
-## Notes
+## Implementation Notes
 
-- pgvector chosen for simplicity: single Postgres instance handles vectors + metadata
-- Using `intfloat/multilingual-e5-large-instruct` (560M params, 1024 dimensions)
+### Embedding Model Decision
+
+**Chosen**: OpenAI `text-embedding-3-small` (1536 dims) / `text-embedding-3-large` (3072 dims)
+
+**Rationale**:
+- **Performance**: text-embedding-3-large ranks 2nd globally on MTEB (64.6%), outperforming multilingual-e5-large-instruct (62%)
+- **Multilingual**: Massive improvements (31.4% → 54.9% on MIRACL benchmark)
+- **Operational**: Zero local RAM usage (critical for 8GB systems), API-based
+- **Cost-effective**: $0.05 (small) / $0.35 (large) for full corpus (~6,850 chunks)
+- **Incremental updates**: Only pay for new chunks (<$0.001 for 100 new chunks)
+
+- **text-embedding-3-small (1536 dims)**
+  - Cost: $0.05 for full corpus
+  - Speed: Faster inference
+  - Lower Qdrant storage
+  - Quality: 62.3% MTEB score
+
+- **text-embedding-3-large (3072 dims)**
+  - Cost: $0.35 for full corpus (7x more)
+  - Storage: 2x dimensions = 2x Qdrant disk space
+  - Quality: 64.6% MTEB score (+2.3% better retrieval)
+  - Turkish: Likely better on multilingual tasks
+
+**Alternative considered**: `intfloat/multilingual-e5-large-instruct` (560M params, 1024 dims) - leads Turkish TR-MTEB benchmarks but requires 2-3GB RAM and doesn't support incremental updates without re-embedding.
+
+### Vector Database Decision
+
+**Chosen**: Qdrant with local storage
+
+**Rationale**:
+- Native hybrid search support (dense + sparse/BM25)
+- Local deployment option (no cloud dependency)
+- Better suited for RAG: optimized for vector similarity + filtering
+- pgvector alternative considered but Qdrant offers better retrieval performance
+
+### Contextual Retrieval
+
+Implemented LLM-based context generation using Claude Haiku:
+- Generates semantic context for each chunk
+- Prompt caching reduces cost by ~10x
+- Cost: ~$2-3 for full corpus
+- Fallback: Simple metadata prepending (free, instant)
 
