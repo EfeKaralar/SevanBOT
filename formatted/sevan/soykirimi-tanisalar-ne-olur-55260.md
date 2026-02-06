@@ -1,0 +1,25 @@
+# Soykırımı tanısalar ne olur
+
+*Pazar Sohbeti*
+
+02 May 2021
+
+**Anahtar Kelimeler:** Biden, CIA, Ermeni soykırımı, Kamuran İnan
+
+**Kaynak:** https://www.sevannisanyan.com/metin/soykirimi-tanisalar-ne-olur-55260
+
+---
+
+**ABD Başkanı Biden’ın Ermeni soykırımını tanıması hakkında ne düşünüyorsunuz?**
+
+Biden’ın Ermeni soykırımını tanıması Türkiye haricinde dünyada hiç kimsenin sikinde değil. Herkesin bildiği bir gerçeği bir tane bunak Amerikalı politikacı tekrarlamış, so what yani? Türkiye de pek ahım şahım bir tepki vermedi. Çünkü konu bayat. Son kullanım tarihi geçti. O defterin bundan 60 sene önce kapatılmış olması gerekiyordu. Türkiye Cumhuriyeti muhtemelen dünya ahmaklıklar tarihine altın harflerle yazılacak bir politikayla, Türkiye dahil dünyada herkesin bildiği, açık, seçik ve bariz bir gerçeği inkar ederek, yalan konuşarak, yalanı bir devlet politikası haline getirerek inatla sürdürdü. Türkiye dışında her yerde, Batı’da, Rusya’da, Arap ülkelerinde, Afrika’da, Çin’de, Hindistan’da alemin bildiği gerçeği yalanla örtebileceğini zannetti.
+
+Bu politika, Türk dış politikasına yön veren üç beş tane ahmağın başının altından çıkmıştır: Kamuran İnan, Coşkun Kırca, Gündüz Aktan vesaire. Neden böyle bir yola saptılar, emin olamıyorum. Belki kibirle karışık düz ahmaklıktır. Belki kendilerini askere beğendirmek kaygısıyla hareket ettiler. Askerliğin temeli emirdir biliyorsunuz. Emirle bir şey gerçekleşir. Emirle hakikat arasındaki farkı bir süre sonra algılama yeteneğini kaybeder askerlik mesleğinde olanlar. Emirle bir tarihi gerçeğin ortadan kalkabileceğini düşündüler belki.
+
+Üçüncü bir ihtimal daha var ki yeterince üzerinde durulmamıştır. Saydığım üç ismin ortak bir özelliği var. Üçü de Amerikan Devlet kurumlarıyla fazlaca iç içe olan insanlar. Soğuk Savaş çağında Amerika’ya sadakatleri diğer angajmanlarının önüne geçmiş görünen insanlar. Uyguladıkları politikanın Türkiye’yi dünyada parya konumuna düşüreceğini idrak edemedikleri için mi öyle davrandılar, yoksa bilhassa onun için mi görevlendirildiler, sanırım şimdilik bilmemize olanak yok.
+
+Türkiye açısından bir fiyaskodur soykırım inkarı politikası. Türkiye bu yüzden en az elli yıldan beri bütün dünyada sözüne güvenilmez ülke muamelesi görüyor. Bu derece yalancı, özeleştiri yeteneğinden bu denli yoksun bir milletin, dünya sahnesinde ciddiye alınmasını bekleyemezsiniz. Fakat Türkiye’nin başardığı bir diğer şey var ki, gerçekten trajik olan odur. Bu arsızca yalan, Ermeni milletini 1915 yılına kilitledi. Bu geçmişi anlatmak ve bu geçmişi kabul ettirmek Ermeni kültürünün ve ulusal varlığının yegane konusu haline geldi. Tüm bir ulus — yazarıyla çizeriyle, cemiyetiyle, siyasi partisiyle, Ermenilikle uzak yakın alakası olan herkes, bu geçmişi anlatma, tekrar tekrar anlatma, bu geçmişin yasını tutma, bu geçmişin intikamını planlama sevdasına düştü. 2800 yıllık yazılı geçmişi olan bir halk, bundan ötürü bugün sadece 1915 yılında başına gelmiş bir felaketle anılır olmaya başladı. Ermeni tarihiyle ilgili Amazon’da kitap arayın mesela. Yüz kitabın 88 tanesi soykırım hakkındadır. Ermeni tarihi soykırıma indirgenmiştir. Ve koskoca bir millet, bunun yüzünden dumura uğramıştır. Başka şey düşünemez olmuştur.
+
+Ben bunun asıl büyük felaket olduğunu düşünüyorum. Bir kültürel felakettir. Ermeniler tarih boyunca esneklikleriyle temayüz etmiş bir millet. Her kabın şeklini alan bir millet. Misal, Gürcistan’da mimariyi Ermeniler yapmış, Azerbaycan’da mimariyi Ermeniler yapmış. Bu ülkelerde bütün tarihi binalar Ermenilerin elinden çıkmış. Kendilerine özgü bir mimari mi yapmışlar? Hayır, Fransız ve Rus modalarını izlemişler. O günün modası neyse onu yapmışlar. Kabın şeklini almışlar, pragmatik olmuşlar. Güç ve para Ruslardaysa Ruslara çalışmışlar. Ruslar sipariş etmiş, Ermeniler bina yapmış. Bolşoy Tiyatrosu’na balerin gerekmiş, Ermeniler gitmiş balerin olmuş. Osmanlı Devletine maliye nazırı gerekmiş, karantina müdürü gerekmiş. Ermeniler yapmış. Opera gerekmiş, batıdan alıp Ermeniler getirmiş. Gazete basmak gerekmiş. Ermeniler yapmış. Geleneksel Fransız şansonun kralını da Ermeni yapmış, Kaliforniya usulü televizyon soytarılığı gerekiyorsa onu da Ermeni başarmış. Bu niteliklere sahip, bu açıdan Yahudilere benzeyen bir millet.
+
+Bugüne gelince, bugün dünyanın tüm Ermenilerini ulusal kimlik olarak tanımlayan şey ağlaklık. Vah, vah, vah dedelerimiz, vıy, vıy, vıy ninelerimiz. Neden böyle oldu? Çünkü tarihte eşine az rastlanır bir yüzsüzlüğe muhatap oldular. Türk Devleti sistemli olarak bir küsur milyon Ermeniyi yok etti, kovdu, sildi. Ondan sonra yoktur öyle bir şey, biz yapmadık, zaten kendileri gittiler. Her aile kendi geçmişinden biliyor olanları, neler yapıldığını, yapılan zulmün ve ahlaksızlığın boyutlarını. Türkiye Cumhuriyeti Devleti gasp edilmiş Ermeni ve Rum malı üzerine kuruludur. Yok hiç öyle bir şey yapmadık dedikleri zaman insan kuduruyor, başka bir şey düşünemez hale geliyor. Bu da Türklerden çok Ermenilere zarar vermiştir. Türklere de zarar vermiştir, fakat en çok Ermenilere vermiştir.

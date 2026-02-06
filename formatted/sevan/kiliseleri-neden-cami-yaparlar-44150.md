@@ -1,0 +1,33 @@
+# Kiliseleri neden cami yaparlar
+
+*Pazar Sohbeti*
+
+12 July 2020
+
+**Anahtar Kelimeler:** Ani, Ayasofya, kiliseleri cami yapmak, Menuçihr Camii
+
+**Kaynak:** https://www.sevannisanyan.com/metin/kiliseleri-neden-cami-yaparlar-44150
+
+---
+
+**Ayasofya tek değil, Trabzon Ayasofya’sını da cami yaptılar. Tam Ermenistan sınırındaki Menüşehr Camii’ni de açacaklarmış.**
+
+Trabzon Ayasofya’sı, Türkiye’nin en şiirsel diyebileceğim dini yapılarından biriydi. Yıllardan beri metruktu aslına bakarsan. Müzeydi sözde, de Allahlık bir yer olmuştu. Orayı cami yaptılar. O güzelim fresklerin üstünü suntayla ve kartonla kapattılar. İğrenç bir şey oldu. Tek kelimeyle vandalizm, bir vahşet eseri oldu.
+
+Ani şehrini biliyor musunuz? Çok etkileyici, dehşet verici bir yerdir. Allah’ın kaybettiği bir yaylada devasa surlar, içeride her biri bir mimarlık harikası olan büyük kiliseler, falan. 960’lardan 1040’lara dek, seksen yıl kadar yeniden kurulan Ermeni krallığınan başkentiydi. Çok parlak bir dönem geçirdi. Uluslararası ticaretin bir odak noktası oldu, büyük bir servet aktı buraya. 1064 yılında Selçuklular kenti yağmaladılar. Peşinden yönetimi, Selçuklulara haraç veren bir taşeron Kürt beyliğine ihale ettiler. Menüşehr veya Minuçihr dediğimiz kişi o beylerden biri. Var olan bir binaya kale burcu gibi bir minare ekleyip camiye çevirmiş. 1180’lerde bu sefer Gürcüler Ani’yi ele geçirdiler. Şehir yüz yıl kadar yeniden Hristiyan egemenliğine girdi. O devirde Minuçihr Camii cami olarak hizmete devam etti mi, etmedi mi bilmiyorum. Sonuçta Timur geldi, 1390’larda şehri yerle bir etti, konu kapandı.
+
+1878’den sonra Kars ile beraber Ani Rus idaresine girince ilk kez ciddi arkeolojik çalışma yapıldı. Nikolai Marr adlı Rus vatandaşı İskoç asıllı bir Gürcü kazıları yönetti, nefis çizimleri olan birkaç kitap yayımladı, bir de müze kurdu. Müze Minuçihr Camii olan eski meclis binası içindeydi. Siyah beyaz bir sürü fotoğrafı vardır. 1970’lerde ben Ani’ye ilk gittiğimde camiin içi paramparça edilmiş cam yığınlarıyla doluydu. Bir anlam verememiştik. Ancak yıllar sonra Marr’ın müzesinin fotoğraflarını görünce ikisini bir araya getirdim. Müzenin sergi camekanları parçalanmış. Camlar altmış yıl boyunca orada öylece kalmış, süpürmeye tenezzül etmemişler. Sonra bir daha 86’da gittiğimde süpürmüşlerdi. Şimdi restore etmek istedikleri cami işte o cami.
+
+Bu hadisenin altındaki psikoloji nedir? Bunu iyi düşünmek lazım.
+
+Biliyorsunuz ben İslam medeniyeti konusunda önyargılı biri değilim. Geçmişte parlak işler başardıklarını bilirim ve söylerim. Lakin şu da bir gerçek, son beş yüz yıldır İslam dünyasının insanlığa yapmış olduğu hiçbir pozitif katkı yok. Sıfır. Yeni bir fikir, yeni bir keşif, yeni bir bilgi, yeni bir organizasyon biçimi, büyük bir sanat eseri, edebiyat eseri, yeni bir devlet teşkilatlanması modeli, yeni bir ekonomik tarz, yeni bir muhasebe sistemi, yeni bir sebze, yeni bir meyve, yeni bir moda, hiçbir şey yok. Diğer insanlara, kardeş bak siz de insansınız, biz de insanız, yeni şeyler keşfettik, buyurun siz de kullanın diyebilecekleri hiçbir şey yok. Buna yönelik bir çaba da göremiyoruz. 19. yüzyıl başlarına kadar hala İslami sanatlarda belli bir kalite duygusu, güzel bir şey yapma iradesi vardır, özellikle Hindistan’a, Fas’a, belki Mısır’a baktığınız zaman. Güzel evler, güzel camiler yapılmış. Fakat insanlığın ortak mirasına mal olabilecek bir şey yapılmamış. Son yüz yıl ise büsbütün çöl. Bir çaba da yok. Herhangi bir İslam ülkesinde, dünya çapında bir şey yapayım, öyle bir şey yapayım ki daha önce kimse yapmamış olsun diyen, diyebilecek, bu cürete sahip olan kimseyi düşünüyor musunuz? Şanlı cumhuriyetimiz dahil olmak üzere, hiç birinde yok böyle bir şey.
+
+Böyle olunca, haliyle bir buçuk milyarlık bir nüfus bugün kendini ezik hissediyor. Zengin evinin sığıntısı gibi hissediyor. İstediği kadar inkar etsin, yaşanan gerçek budur. Ve bunun getirdiği muazzam bir öfke birikimi var. Tüm insanlar gibi tüm toplumlar da kendini kanıtlama, ben değerliyim deme ihtiyacını duyar. Bu ihtiyacı nasıl karşılayacak? Bir şey üreterek değil, insanlık nezdinde itibar kazanacağı bir şey yaratarak bunu yapmaya çalışmıyor. Var olanın iyisini yaparak başarıya ulaşma imkanı görmediği için, var olanı kaparak yükselmeye çalışıyor. Başkasının eserine el koymak, ben senden daha güçlüyüm demenin bir biçimidir. El koymakla da kalmıyor, tahrip ediyor. Trabzon Ayasofya’da yapılan şey, Ani kilisesinde yapılan şey, bütün Türkiye çapında gördüğün şey budur. Gasp etmekle kalmıyor, alıp yıkmak istiyor. Çünkü çok derin bir kompleks var, derin ve haklı bir aşağılık duygusu var. Bizim size vereceğimiz bir şey yok, sizinkini alırız diyor. İşin özeti bu. Çok trajik bir şeydir. Bir aczin ve çaresizliğin dışa vurumudur.
+
+Nominal olarak, hatta gerçek anlamda Müslüman olan sevdiğim, saydığım, sohbet edebildiğim, akıllı ve değerli bulduğum insanlar var. Kendimi onların yerine koymaya çalışıyorum. Böylesine çürümüş bir kültürün mensubu olmak, onunla tanımlanmak nasıl bir duygudur? Cahilsen, yani davranışlarının sonuçlarını tartmaktan aciz biriysen işin daha kolay. Kin beslersin, Ayasofya fethedilince bayram edersin, fırsat bulursan yıkarsın, yakarsın. Cahil değilsen, yani asgari bir ahlaki donanımın varsa, o zaman ne yaparsın? Avama açık olan birtakım tatmin yolları sana açık değil. Çünkü terbiyen buna müsaade etmez. Bir katkıda bulunabilecek altyapın da yok. Toplum sana bu imkanı vermemiş. Türk üniversitelerinde oturup keşif mi yapacaksın, icat mı yapacaksın? Şirket kurup dünyaya teknoloji mi ihraç edeceksin? Güldürmeyin beni.
+
+Ne kadar acıklı bir durum, ne büyük bir çıkmaz! Pek çok arkadaşımız bu çıkmazın çözümünü göçüp gitmekte buluyor. Çocuklarıma John veya Jasmin gibi isim vereyim, bitsin bu çile, bu lanetten kurtulayım diye düşünüyor. Bu da ancak iki kuşak sonra semere verecek, belki de hiç vermeyecek bir yol. Kolay bir şey değil kimlik değiştirmek, asimile olmak.
+
+**Ayasofya’nın cami yapılmasını Avrupalı siyasetçilerin gram umursadıklarını sanmıyorum. Ne değişti ki onlar için?**
+
+Katılıyorum, doğrudur. Ayasofya’nın cami yapılmasını umursayan, bunu kendisine yönelik bir varoluşsal saldırı olarak gören tek millet Yunanlardır. Fakat Batı açısından... şeyimden aşağı şey paşa, umurlarımda bile değil Ayasofya. Ne olduğunu bilmezler bile. Fakat Türkiye’nin verdiği sembolik mesaj doğru olarak algılanıyor sanırım. Türkiye savaş açıyor. Biz sizin kurduğunuz uluslararası düzeninin bir parçası değiliz artık diyor. Biz İslam’ın şampiyonlarıyız, Fatih Sultan Mehmet gibi elde kılıç bugün olmazsa yarın Viyana’yı alırız diyor. Olay Ayasofya değil, olay fetih arzusudur. Bu çağda ve bu devirde fetih arzusunu bu şekilde ulusal politikasının önüne koyan bir devlet nereye kadar gidebilir, onu da göreceğiz.

@@ -1,0 +1,19 @@
+# Rusya ve Kafkasya ne kadar Batı
+
+*Pazar Sohbeti*
+
+11 September 2022
+
+**Anahtar Kelimeler:** Batılılaşma, Kafkasya, Rusya
+
+**Kaynak:** https://www.sevannisanyan.com/metin/rusya-ve-kafkasya-ne-kadar-bati-15137
+
+---
+
+**Rusya ve Kafkas ülkeleri Avrupa ülkesi midirler?**
+
+Rusya tartışmasız bir şekilde bir Avrupa ülkesidir. Büyük Petro’dan sonra, yani 18. yüzyıl başından başlayarak muazzam bir çabayla Türkiye’nin başaramadığını Rusya başardı. Egemen kültürün Avrupa ile harmanlanmasını, Avrupa kültürü ayarında, Avrupa’nın herhangi bir ülkesiyle boy ölçüşecek, onlara ilham kaynağı olacak, zenginlik boyutunda onlarla yarışabilecek eserler üretmesini sağladı. Rus yönetici sınıfları 19. yüzyıldan itibaren yaşamlarının bir kısmını Avrupa’nın başkentlerinde geçirmeye başladılar. Tatillerinde oraya gittiler, mülk edindiler, Beethoven’a senfoni ısmarladılar. Avrupa sermayesiyle iç içe geçtiler, ortaklıklar kurdular. Kendi ülkelerinde Avrupa sermayesine kapılar açtılar. Şüphesiz Batı ve Orta Avrupa’nın, yani Katolik ve Protestan dünyasının, kendi tarihinden ve dininden gelen önemli farkları vardı. Fakat Rusya başka hiçbir ülkenin yapamadığını yapıp, bir tür ikincil Avrupa, alternatif Avrupa olmayı başardı. Petersburg kenti bu inanılmaz dönüşümün simgesidir. Avrupa’dan daha Avrupa bir başkent kurdular orada. Rus çarları Batı Avrupa sanatının muhtemelen en büyük ve en mükemmel koleksiyonunu edindiler. O koleksiyondan arta kalanı şimdi Ermitaj Müzesinde görüyoruz.
+
+Kafkas ülkeleri ise tarihte Avrupa’nın bir parçası değildiler, hala da Avrupa ülkesi demek için kavramları epey zorlamak lazım. Ancak gerek Çarlık gerekse Sovyet idaresi altında bu ülkeler Avrupa kültürünün birçok avantajından istifade ettiler. Avrupa tarzı şehircilikle, Avrupa tarzı bilim kurumlarıyla, sanatla, müzikle tanıştılar. Avrupa tarzı spor etkinliklerine, Avrupa tarzı müzelere, Avrupa tarzı yerel yönetim organlarına kavuştular. Avrupa’nın üst cilasını benimsediler. Hayret edilecek şeydir ki o üst cilayı, yüzlerce yıl Avrupa kolonisi olmuş yerlerden kat be kat daha fazla benimsediler. İki yüz yıl İngilizlerin yönettiği Hindistan’a, yüz küsur yıl Fransa’nın parçası olmuş Cezayir’e bakın. Bu ülkelerdeki Avrupa cilası, sert bir rüzgar çıkınca toz olup gitmiş bir ciladır. Bu ülkelerde sözde medenileştirici bir misyon üstlendiler İngilizler, Fransızlar ve daha sonra Filipinlerde Amerikalılar, Endonezya’da Holandalılar, en berbadı Kongo’da Belçikalılar. Bu misyonda, eğer sahiden böyle bir niyetleri var idiyse, feci surette hezimete uğradılar. Hiçbir şey yapamadılar. Nefretle kovuldular o ülkelerden ve bütün izleri de silindi.
+
+Oysa, Rusya’nın kolonize ettiği Avrupa-dışı ülkelerde hala bugüne kadar gözle görülür bir şekilde etkisini sürdüren bir Avrupalılık yaldızı mevcut. Yerevan’da son bir iki sene epey vakit geçirdim biliyorsunuz. Orada çok belirgin bu. Gürcistan’da daha da güçlü. Azerbaycan’da da ülkeye girer girmez hissettiğin bir şey. Azerbaycan tüm İslam ülkeleri arasında en modern, en Batılı olandır, ya da olanlarından biridir. Kadın-erkek ilişkileri açısından, şehircilik açısından, verdikleri eğitimin niteliği açısından, opera ve senfoni orkestrasının kalitesi açısından, müzelerinin canlılığı açısından, Türkiye’nin hiçbir kentiyle kıyaslanmayacak ölçüde batılı bir ülke. Bunda da başarının sahibi Azeriler değil, Ruslardır. Medeniyet götürdüler gittikleri yerlere. İngilizlerin ve Fransızların götüremediği medeniyeti Ruslar, eksik de olsa, yanında bir sürü çöpüyle de gelse, götürdüler. Bunu inkar etmek haksızlık olur. Haksızlıktan öte, cahillik olur. Bilmezlikten gelinen bir şey olur.

@@ -1,0 +1,37 @@
+# Ermeniler neden Hristiyan, Kürtler neden Müslüman
+
+*Pazar Sohbeti (Düzenlenmiş)*
+
+15 December 2019
+
+**Anahtar Kelimeler:** asimilasyon, Ermeni tarihi, Kürtler
+
+**Kaynak:** https://www.sevannisanyan.com/metin/ermeniler-neden-hristiyan-kurtler-neden-musluman-87726
+
+---
+
+**Ermeniler neden Hristiyanlığı seçtiler de Kürtler neden Müslümanlığı seçtiler? İkisi de aynı bölgede yaşıyorlar oysa.**
+
+Ermenilerin vaktiyle Hristiyanlığı seçmesi siyasi bir olaydır ve Ermenilerin uluslaşma süreciyle yakından alakalı bir şeydir. 4. yüzyılda Ermeni krallığının siyasi bir tercihi olarak benimsendi Hristiyan dini. Birkaç kuşak süren büyük bir mücadele sonunda Ermeni beyliklerine ve onların hükmü altında olan halka kabul ettirildi. Çok parçalı bir yapıda olan ve o devirde Sasani İran tarafından yutulma tehlikesi altında olan Ermeni devleti bu sayede kimliğini koruyabildi. Sonraki yüzyıllarda Ermeni olmakla Ermeni dinine mensup olmak, hemen hemen eş anlamlı ifadeler oldular. Kilise Ermeni ulusunu tanımlayan ve bir arada tutan yegane kurum niteliğini kazandı. Krallık 5. yüzyılda ortadan kalktıktan sonra irili ufaklı Ermeni feodallerine tabi olanlar aynı zamanda Ermeni kilisesinin kurumlarına tabi oldular, Ermeni kilisesinin işlettiği okullarda okuyup çocuklarına okuma yazma öğrettiler, yetenekli gençlerini hizmet kariyeri için Ermeni manastırlarına gönderdiler ve Ermenileştiler. Ermeni diyarının dış sınırlarında kökenleri farklı olan zümrelerden Kürtler, Asuriler, Gürcüler, Udiler, hatta Kars’taki, Ahıska’daki Türki unsurlardan Ermeni beylerinin hükmü altına girenler Ermenileşti, girmeyenler ya Kürtler gibi ayrı kimliğini korudu, yahut da, işte, Rumdu, Gürcüydü, Azeriydi, başka kimlikler içinde eridi.
+
+Kürt halkının asıl yurdu olan Şırnak ve Hakkari bölgesi çok kısa süreler dışında Ermeni krallığının egemenliği altına girmedi, dolayısıyla ayrı kimliğini koruyabildi. Hristiyan dini buraya bir miktar nüfuz etse de ciddi bir karşılık bulmadı. Buna karşılık Van yaylalarında, Nahcivan’da, belki Müküs’te, Ermeni kaynaklarında Mard veya Med diye anılan İrani unsurlar Ermeni sistemine dahil oldular, Ermeni feodalitesi içinde makam ve mevki edindiler ve muhtemelen zaman içinde eridiler. 9. yüzyılda yeniden palazlanmaya başlayan Ermeni feodal egemenlerinden bazılarının Ermeni dinine ve kültürüne asimile olmuş Kürt kökenliler olduğu malumdur.
+
+İslam dininin zuhurundan sonra Kürt beylerinin büyük bir bölümü Müslüman oldu. Niye Kürtler Müslüman oldu da Ermenilerin çoğu olmadı? Çeşitli nedenler ileri sürülebilir. İlk önce, Ermeni kilisesi organize bir kurum. Merkezi otoritesi, hiyerarşisi, yerel birimleri, malı mülkü olan bir örgüt. Eritilmesi daha zordu, bin yıldan fazla sürdü. Kürtlerin ise buna eşdeğer bir dini teşkilatı yoktu. İkincisi, belki göçebe ve akıncı yaşam tarzı Müslümanlığın esprisine daha uygundu. Belki Bağdat’a daha yakın oldukları için direnemediler. Belki de kitabi bir dine mensup olmadıkları için İslam hukuku altında eski törelerini korumaları daha riskliydi, ondan Müslüman oldular.
+
+Müslümanlaşmaları epey zahmetli ve yavaş oldu. Erken devirde büyük bir karşı dalga yaşandı ve Kürtler arasında Yezidilik yahut yeni moda imlasıyla Êzidilik denilen hareket ortaya çıktı. Genel kanının aksine Yezidilik, İslam öncesi bir din değildir, Kürtlerin İslam egemenliğine girmesinden sonra ortaya çıkmış bir oluşumdur. Bir dönem Kürtlerin büyük bölümü Yezidi geleneğine bağlandı. Ne Hristiyan ne Müslüman olan bir dini topluluk oluşturdular. 16. yüzyılda Kürt beylerinin İran’a karşı Osmanlı devleti ile ittifakı seçmesi üzerine Kürtler bölgede Şiiliğe karşı Sünniliğin şampiyonu oldular. Bu hadise bana 4. yüzyılda Ermenilerin İran tehdidine karşı Rum dini olan Hristiyanlığı seçerek direnmelerini anımsatır. O olaydan 1300 yıl sonra bu kez Kürtler İran tehdidine karşı Rum diyarının — yani Osmanlı’nın — dinini seçerek ayakta kaldılar.
+
+Osmanlı yüzyıllarında hala bölge nüfusunun yarıdan fazlası Ermeniydi. Ermenilerden şu veya bu nedenle Ermenilik yükünü taşımak istemeyip Müslüman olanlar genellikle Kürtleştiler. Bu dönüşümün mantığını anlamak da zor değildir. Ermeni dili ve kültürü, Ermeni kilisesinin himayesi altında, Ermeni kilisesinin kurumları sayesinde sürdürülebilen bir olguydu. Çocuklarını eğitecek bir Ermeni kilisesi yoksa, zeki gençlerine kariyer yolu açacak Ermeni manastırı yoksa, her Pazar kilisede seni ayıplayacak komşuların yoksa, Ermeniceyi nasıl sürdüresin? Yeni kuşaklar bölgenin ortak dili olan Kürtçe ile yetişti. Bir iki kuşak sonra aslını unuttu.
+
+Öyle anlaşılıyor ki 19. yüzyıl ortalarına dek İslam, Kürtler arasında yeterince derinliği olan bir kültür değildi. Kürtlerin önemli bir bölümü, Müslümanlığı benimsemiş ve benimser görünmüş Ermenilerden oluşuyordu. Dönemin Türk kaynaklarında olsun, Avrupalı seyyahların anlatılarında olsun, Kürtlerin Müslümanlığından çoğu zaman istihzayla söz edilir.
+
+19. yüzyılda eski Kürt beyliklerinin çökertilmesiyle birlikte, Osmanlı devletinin de teşvikiyle, çeşitli Sufi tarikatleri, önceleri Kadirilik sonra Nakşibendilik, özellikle Nakşibendiliğin Halidiye kolu, etkin bir görev üstlendiler. Kürt ülkesinin her bölgesinde Nakşibendi dergahları ve Nakşibendi şeyhleri muazzam bir rol oynadılar. Kürtleri bu coğrafyanın en Müslüman ve en Sünni topluluğu haline getirmeyi başardılar. Oldukça yeni sayılacak bir hadisedir, azami 150 yıllık hikaye.
+
+**Kürtler Müslümanlıktan önce hangi dine mensuptu?**
+
+Bu konuda elimizde çok fazla bilgi yok. Ciddi anlamda bir organize dine mensup olmamaları da pekala mümkündür. Anadolu’nun, Orta Doğu’nun alt düzey inanç sistemleri vardır. Bunlar bugüne dek gerek Hristiyanlık, gerek Müslümanlık bünyesinde varlığını sürdüren bir dizi dini töre. İnsanlar çaput bağladığı kutsal ağaçlar var biliyorsunuz. Her köyün, her ilçenin, her dağın, derenin evliyaları var. İnsanlar asıl kalpten gelen dualarını gidip evliya türbelerinde, aziz ziyaretgahlarında icra ederler. Bunun ne Müslümanlıkla ne Hristiyanlıkla bir alakası yoktur, memleketin primitif dininin yani alt katmandaki dininin devamıdır.
+
+Bölgedeki tüm kavimler aşağı yukarı buna benzer eski geleneklere sahipti. Yerel tanrıların ve yerel azizlerin kutsanması, belli makamların, mesela pınarların veya bir dağın, Dersim’deki Düzgün Baba dağının yahut da Abhazya’daki bilmem ne ormanının kutsal sayılması, aziz ve velilerin belirli vesilelerle dilek dilemek amacıyla ziyaret edilmesi üzerine kurulu bir geleneksel din vardı.
+
+Kitabi denilen dinler devlet dinleridir. Yani bir devlet organizasyonuna kavuştuğun zaman ancak bir anlam ifade eden, bu sayede bağlayıcı olan ve insanları kontrol altında tutabilen dinlerdir. Kürtlerin de öyle anlaşılıyor ki İran’ın Zerdüşti geleneklerinden kaynaklanan birtakım töreleri, birtakım mitleri, yani anlatıları mevcuttu. Aynı şekilde Kürtler arasında Hristiyanlıktan gelen bir dizi töre ve anlatı mevcuttu. İslam’dan da gelen böyle şeyler vardı. Fakat organize bir devlet yapısına sahip olmadıkları için, hiçbir devlete gerçek anlamda kuvvetli bağlarla bağlı olmadıkları için, organize bir dinden de yoksun idiler.
+
+Müslümanlık döneminde, özellikle Abbasi imparatorluğunun çöküşe geçtiği 900’lü yıllarda ilk kez Kürtler, doğan siyasi boşluktan ötürü, devlet yapılanmasına doğru birtakım adımlar attılar. Selahattin Eyyubi’nin kişiliğinde Müslümanlığa adım attılar. Fakat öyle anlaşılıyor ki o dönemde Müslümanlığı az çok kitabi içeriğiyle benimseyen Kürtlerin sadece egemen sınıfıydı. Kürtlerin kitlesel olarak Müslüman olmaya başlaması daha geç bir tarihtedir.

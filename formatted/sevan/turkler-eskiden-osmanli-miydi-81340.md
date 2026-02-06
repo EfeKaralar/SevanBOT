@@ -1,0 +1,33 @@
+# Türkler eskiden Osmanlı mıydı
+
+*Pazar Sohbeti*
+
+28 November 2021
+
+**Anahtar Kelimeler:** Azeri, Osmanlı, Türkler
+
+**Kaynak:** https://www.sevannisanyan.com/metin/turkler-eskiden-osmanli-miydi-81340
+
+---
+
+**Türkler eskiden kendini Osmanlı olarak mı ifade ediyordu? Bir de, Azerilere ve diğer Türki halklara nasıl bakıyorlardı? Hep barışçıl mı?**
+
+Türkler kendilerini ‘Müslüman’ olarak tanımlıyorlardı Osmanlı Devletinde. Anadolu ve Rumeli coğrafyasında fazla bir anlam ifade etmeyen Arapları ve Kürtleri bir yana bıraksanız, bugünkü ‘Türk’ kimliğiyle hemen hemen aynı kapsama alanına ve aynı duygusal içeriğe sahip olan bir tanımdı. ‘Siz kimlerdensiniz’ sorusunun cevabı buydu: ‘Biz Müslümanız’. Boşnağı, Arnavutu, Lazı, Rum dilli Ofluyu bir araya getiren ortak kimlik buydu.
+
+Fakat ulusal kimliğin tek boyutu bir insanın veya bir topluluğun kendini nasıl tanımladığı değildir. Komşuları onu nasıl tanımlıyorlar? Bu da diğer boyutudur. Senin ‘ben Japonum’ demen, kendimi Japon hissetmen yetmez. Diğerlerinin de seni Japon görmesi ve sana öyle muamele etmesi gerekir. Türkler haricinde herkes Türkleri ‘Türk’ olarak tanımlıyordu. Rumlar, Sırplar, Hristiyan Arnavutlar, Hristiyan Bulgarlar, Ermeniler, Araplar, Kürtler, Türklere Türk diyordu. Avrupalılar da öyle diyordu. Bir topluluğun kendine verdiği isme endonim, yabancıların verdiği isme eksonim denir. Demek ki endonim Müslüman, eksonim Türk. Kendine Deutsch diyenlere nasıl biz ‘Alman’ diye bir ad veriyorsak, yahut geçmişte Nemçe demişsek, aşağı yukarı öyle bir şey.
+
+Bu topluluğun ortak dili Türkçe idi. Anadili değil, bakın, ortak dili dedim. Anadili Sırpça olan bir Boşnakla Anadolulu bir Müslümanın da ortak dili Türkçeydi. Tuna boylarından Fırat’a hatta Dicle’ye kadar olan sahada Müslümanların ortak kültürel platformu Türkçeydi. Fakat ortak kimliği dille tanımlamak, 19. yüzyıl ortalarına dek içeridekilerden kimsenin aklına gelmemişti. Dışarıdakilerin fikriydi, Türk sultanının egemen olduğu sahanın egemen ümmetine ‘Türk’ diye isim vermek.
+
+Bu ikili tanımlamayı anladığınız zaman sanırım Türk ve Osmanlı kimliğine dair sorularınızın hepsi çözülmüş olur.
+
+Osmanlı
+
+Hayır, hiçbir zaman kendilerine Osmanlı demiyorlardı. Osmanlı bir hanedanın adıdır. Bir devletin adıdır. Sokaktaki adamın kendine Osmanlı demesi, hadsizliğin son derecesi olurdu. Böyle bir şey 19. yüzyıl ortalarına dek görülmemiştir. 1850’lerden 60’lardan sonra, yani Tanzimattan bir süre sonra, Osmanlı entelektüelleri bir Osmanlı milleti yaratma sevdasına düştüler. Şöyle bir mantığın ürünüydü bu değişim. Osmanlı yönetici sınıfının okumuş yazmış, Avrupa görmüş kesimi modern dünyada milliyetçiliğin revaçta olduğunu keşfettiler. Peki Osmanlı’da milliyetçilik nasıl olacak? Osmanlı devletinin egemen sınıfı olan Müslümanlarla reaya olan Gayrimüslimleri ortak bir platformda buluşturacak bir milli kimlik lazım. O halde bir Osmanlı milleti yaratalım. Bunun ortak dilini standardize edelim, adına Osmanlıca diyelim. Ortak ulusal simge olarak da fes’i seçelim. Fes, bir Osmanlı milleti yaratma arzusunun ve projesinin simgesidir. Fesin özelliği nedir? Bu coğrafyanın tarihinde ilk kez farklı cemaatlere ve farklı dinlere mensup olan insanlar aynı serpuşu taşımaya başladılar. 1836-37’dir yanılmıyorsam, fes, devlet bürokrasisinin resmi kıyafeti oldu. Bunun hemen ardından gayrimüslimler de büyük sayılarla devlet bürokrasisine dahil olmaya başladılar. Tüm Osmanlı efendi sınıfının, kendini Osmanlı devletinin mensubu olarak görenlerin ortak serpuşu oldu fes. Buna paralel olarak, ‘biz’ Osmanlı seçkinleri, ‘biz’ Osmanlı mütefekkirleri gibi kavramlar yaygınlık kazanmaya başladı. Ama çok küçük bir çevrede, İstanbul’un ve belki birkaç vilayet merkezinin seçkin çevrelerinde duyulan bir kavramdı Osmanlı milliyeti. Toplumun ezici çoğunluğu açısından milletin tanımı değişmedi. Bir tarafta Müslüman milleti, diğer tarafta Ermeni milleti, Rum milleti, Katolik milleti kaldı. Ve bu sonuncular 1913-1923 sürecinde yok edilinceye dek, Müslüman milleti kendi ayırt edici niteliğini arka plana itip kendine ‘Türk’ demeyi kabul etmedi.
+
+Azeri
+
+Azerilere nasıl bakıyorlardı? Azeri diye bir şey yoktu. Rus icadıdır Azeri. Ruslar işi ele almadan önce belki 1905-1910’larda İran devleti parçalanmaya yüz tutunca İran Türkleri arasında ortaya çıkan bir kavramdır. Tebriz ve hinterlandının halkı Türklerin bakış açısından Acemdi, yani İranlıydı. Acemin bir kısmının Türkçe konuştuğu bilinirdi. Fakat tanımlayıcı unsur asla dil değildi, dindi. Acemler Caferiydiler, yani Osmanlı Türklerinin gözünde Müslüman değildiler. Türkçe aksanlarıyla dalga geçilirdi. Türkçe romanlarda, Karagöz oyunlarında klasik bir komedi karakteridir İran ağzıyla Türkçe konuşan Acem.
+
+İran Azerbaycan’ının yarısı 1828’de Rus yönetimine girdi. Bu tarihten takriben otuz yıl sonra Ruslar sistemli olarak kendi yönetimleri altındaki Türk dilli Acemlerin İran’la manevi ve kültürel bağını koparma çabasına giriştiler. Bu çerçevede Azeri Türkçesiyle yayınları teşvik ettiler. İsmail Gaspıralı’nın Türkçü-Turancı fikirleri 1890’lardan itibaren Rus Azerbaycan’ında da etkili olmaya başladı. Fakat gerek Rus gerek İran Azerbaycan’ının Türkçe konuşan halkının bir çeşit Türk olduğu fikri ancak 1905 Rus ihtilalinde, hemen peşinden patlak veren İran İhtilalinde, 1910-12’lere doğru yaygınlık kazanan bir görüştür. Osmanlı ülkesinde de eskiden Müslüman diye anılan halkın kendini ‘Türk’ olarak yeniden tanımlaması sürecinde rol oynamış bir faktördür.
+
+Rusya’daki 1905 ihtilalinden sonra Rusya’nın o zamanlar Tatar diye adlandırılan halkları, yani bugün Azeri, Kırgız, Kazak, Tatar, Başkır dediğimiz gruplar bir araya gelerek bir siyasi hareket oluşturmaya çalıştılar. Bu Türkiye’de duyuldu ve büyük heyecanla karşılandı. Çünkü bu tarihten önce, bildiğim kadarıyla, Türkiye’de kimsenin aklına gelmemişti Rusya’da Türkçeye benzer birtakım diller konuşan kavimlerle ortak bir milli veya kavmi birliktelik kurmak. 1906’da İran’da ihtilal çıktığında devrimin önderlerinin birçoğu Azerilerdi. 1908’de Türkiye’de hürriyet ilan edilince Rusya’da 1905 ihtilalinin yenilgisinden sonra köşeye çekilmiş, sürgüne gitmiş veya hapse düşmüş olan Müslüman aydınların bir kısmı İstanbul’a geldiler. 1910’da Rusyalı sürgün aydınların öncülüğünde İstanbul’da Türk Ocakları kuruldu. Yabancıların ‘Türk’ adını verdiği Osmanlı Müslümanlarıyla Rusya Müslümanlarının ortak bir ulusal kimliğe sahip oldukları fikri, ilk kez ciddi bir şekilde Türk Ocakları bünyesinde dile getirildi. Eskiden beri ‘Şii, zındık, dinsiz’ diye bilinen Azerilerin Türklerle ortak bir ulusa mensup oldukları fikri de aşağı yukarı o tarihlerde etkili olmaya başladı.

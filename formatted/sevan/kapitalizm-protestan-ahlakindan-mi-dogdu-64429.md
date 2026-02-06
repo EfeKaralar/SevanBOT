@@ -1,0 +1,23 @@
+# Kapitalizm Protestan ahlakından mı doğdu
+
+*Pazar Sohbeti*
+
+03 March 2024
+
+**Anahtar Kelimeler:** kapitalizm, Katolik Kilisesi, matbaa, Protestanlık
+
+**Kaynak:** https://www.sevannisanyan.com/metin/kapitalizm-protestan-ahlakindan-mi-dogdu-64429
+
+---
+
+**Birçoklarından duyuyoruz, Protestan ahlakı modern Avrupa’nın kuruluşunda baş rolü oynamıştır. Protestan ahlakı sayesinde kapitalizm doğmuş, büyümüş ve gelişmiştir. Ne dersiniz?**
+
+Weber adlı Alman muhteremin ismiyle beraber anılan bir görüş bu. Tam doğru olduğunu sanmıyorum. Daha doğrusu korelasyonun asıl belirleyici olan boyutunu göz ardı ediyor. Evet, İngiltere’nin, Kuzey Almanya’nın, Hollanda’nın, Kuzey Amerika’nın kapitalizm sahasında mesela İtalyanlardan yahut İspanyollardan çok önce yola çıkmış ve fersah fersah ileri gitmiş olmalarıyla Protestanlık ilişkisiz değil. Fakat o ilişkinin mahiyeti pek anlaşılmıyor bence. Protestan ahlakıyla alakası yok. Zaten ahlak düzeyi ve ahlakın motivasyonları toplumdan topluma çok değişmez. “Bizim ahlakımız var, o yüzden alemleri zaptettik, Hint ile Çin bize boyun eğdi” fikri, aslına bakarsanız, pek de ahlaklı bir bakış açısı sayılmaz. Hint ile Çin’in ahlaksız olduğunu ima eder zımnen.
+
+Protestanlığın Avrupa’da bir tane çok esaslı sonuç getirici etkisi oldu. Protestanlar dediler ki, kiliseye kulak asma, Papa’yı da dinleme, kitabı oku. Her evde mutlaka bir Kutsal Kitap bulunmalı ve her aile sabah, öğlen, akşam bu kitabı okumalı, çocuklarına da okutmalı. Tesadüf değil şüphesiz, matbaanın icadına denk geldi Protestanlığın zuhuru. Bunun sonucu olarak Protestan olan ülkelerde okuryazarlıkta müthiş bir patlama yaşandı. Geçenlerde sizinle bir harita paylaştım, 19. yüzyıl başında Avrupa’da okuryazarlık oranı haritası. Protestan ülkelerde %50-60 arası okuryazarlık, Katolik ülkelerde %5-10 arası. Şoke edici bir harita. Mezheple okuryazarlık arasında bire bir ilişki var.
+
+İngiltere’nin, Amerika’nın, Kuzey Almanya’nın, Hollanda vesairenin kapitalistleşmesinde ve şehirleşmesindeki asıl faktör ahlaklarının Protestan ahlakı olması değil, okuryazar olmaları. Köylülükten çıkıp şehirli orta sınıfa terfi etmenin temel kriteri her zaman okuryazarlık olmuş. Türkiye’de öyle olmuş, başka yerlerde de öyle olmuş. Burjuvalaşmanın temel göstergesi okul görmüş olmak. Okul gördükten sonra meslek imkanların değişir, ticaret kapasiten değişir. Okur yazar olmayan adamın ticarette ulaşabileceği mertebe, benim çocukluğumdaki Sivaslı miskin bakkal gibi olmaktır. Oysa okuryazarlığı varsa, ne bileyim, komşu ülkedeki tüccarla yazışır, ticari ve sınai gelişmeleri izler, gazete okur, hukuku ve muhasebeyi öğrenir, kapitalist olur. Okuryazarlık kilit değişken oradaki.
+
+Demokrasi fikri de ancak okuryazar olan bir toplumda anlam ifade eder. Kişi hak ve özgürlükleri fikri de, liberalizm fikri de ancak okuryazar bir toplumda filizlenebilir. Okuryazar değilsen, temel insan hakları varmış yokmuş, kimin umurunda? Okuryazarlığın gelişmemiş olduğu toplumlarda kamu hakları cemaat dayanışmasına istinat eder. Sen ait olduğun din ve mezhebin geleneklerini sürdürürsün, ortak ibadete katılırsın. Oradaki cemaatin bir kardeşlik cemaati olmasını bekler ve umarsın. Bu kardeşlik cemaatinin yarın öbür gün seni güçlülerin tasallutuna karşı koruyacağına güvenirsin. Cemaat sayesinde birtakım haklara, bir onura sahip olan bir birey olabilirsin. Gerçek anlamda bireysel hak iddia etmek ve bunu gerekirse kendi gücüne veya devletin formel kurumlarına dayanarak koruyabilmek için okuryazar olmak birinci şart. Katolikle Protestan arasında ahlak farkı varmış, boş verin ona. Temel fark, Katolikler okumamış, Protestanlar okumuş.
+
+Küçük bir anekdot anlatayım size. Biliyorsunuz Eprigyan adlı muhteremin Ermeni Coğrafyası kitabını çevirdim. Orada falan kasabadaki Ermenilerden söz ederken bir ifade kullanıyor. Herkesin evinde mutlaka İncil bulunur diyor. İlk okuyuşta önemsemedim, klişe bir övgü diye düşündüm, sonra birdenbire uyandım. Herkesin evinde İncil bulunur demek koddur. Hepsi Protestandır yahut Protestanların etkisi altına girmiş demektir. Yazarımız Protestanlardan hiç hazzetmediği için hepsi Protestan olmuştur demiyor, bunu kibarca örtüyor. Çünkü biliyoruz ki o devirde normal Ermenilerin evinde İncil bulunmaz. Niçin bulunsun? Hem pahalı, hem de kadim Ermenilerin kullandığı versiyon kimsenin anlamadığı bir dilde. Uğrarsın çarşıya giderken kiliseye, papaz efendi sana okur. Anlamasan bile terennümü ruhuna iyi gelir.

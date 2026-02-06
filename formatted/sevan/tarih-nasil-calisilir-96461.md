@@ -1,0 +1,23 @@
+# Tarih nasıl çalışılır
+
+*Pazar Sohbeti*
+
+06 February 2022
+
+**Anahtar Kelimeler:** Edhem Eldem, Noel Malcolm, tarihin konusu
+
+**Kaynak:** https://www.sevannisanyan.com/metin/tarih-nasil-calisilir-96461
+
+---
+
+**Tarih bilimiyle hobi olarak ilgilenebilir miyiz? Yoksa akademik olarak bir tahsil aracı olarak mı başvurulmalıdır?**
+
+Tabii ki hobi olarak her şeyle ilgilenebilirsiniz. Uçak mühendisliğiyle de hobi olarak ilgilenebilirsiniz, Wright Kardeşler öyle yapmış. Ben ilkokul ikinci sınıftan beri bir hobi olarak tarihle ilgileniyorum. Çok zevkli bir uğraştır.
+
+Burada iki şeyi ayırt etmek istiyorum. Basitleştirerek söylersem, iki çeşit tarih yazımı var. İlk başta tanışacağın ve insanların ezici çoğunluğunun aşamayacağı düzey, tarih masalları diye anlatacağım düzeydir. Tarihte olanları keyifli bir anlatıya dönüştüren ve bunu tatlı tatlı anlatan öyküler. Bunlar lazımdır. Bunlar olmadan bir perspektif sahibi olamazsın. Gerçek dünyada tarih, anlamsız bir olaylar dizisinden ibarettir. Aynı anda gerçekleşen, birbirinden bağımsız, milyonlarca abuk subuk, random olaylardan ibarettir. Bu kargaşayı anlaşılır hale getirmek, bunu bir dizi sebep-sonuç zincirine bağlamak, tarihçinin sanatıdır. Bir şekilde tarihteki ipe sapa gelmez hadiseleri seçip ayırarak bir anlatı dizisine oturtmak, iyi tarih yazımının yüzde doksan küsurudur. Dediğim gibi, amatör olarak tarihle ilgilenen insanlar bu seviyenin ötesine kolay kolay geçemezler.
+
+İkinci seviye asıl keyifli olan tarih disiplinidir. Şöyle anlatmaya çalışayım. Bir tarih anlatısı kurarken, aslında iki ayrı düzlemde çalışıyoruz. Bir düzlem, olan olaylar şöyle oldu diye anlattığın, ontolojik düzlem diyelim. Olayların kendisinin hikayenin kahramanı olduğu anlatı. Bir de, bunları nereden biliyorsun sorusu var. Yani kaynakların neler? Kim yazmış? Tam olarak ne yazmış? Hangi belgede yazıyor? O belgeye nasıl ulaştın? O el yazması doğru mu aktarılmış? Doğru mu yorumlanmış? Kim yayınlamış? Nasıl yayınlamış? Hangi dilde yazılmış? Hangi alfabeyle yazılmış? Niçin öyle yazılmış da böyle yazılmamış? Elindeki belge orijinali mi yoksa kopyası mı, yoksa kopyanın kopyası mı, yoksa yorumunun yorumu mu? Bir yanda savaş sahalarında ve saraylarda gerçekleşen tarih var, bir de kütüphanede gerçekleşen tarih var. Tarihçinin asıl fiziksel olarak temasta olduğu şey, Milattan önce 300 yılındaki savaş değildir, o savaşı anlatan metindir. Daha doğrusu, o metnin 2300 yıllık süreçten geçmiş halidir. Kopyalanmış, aktarılmış, tercüme edilmiş, düzeltilmiştir; bu metin korunurken diğer yüzlercesi kaybolmuştur. Metnin kim tarafından neden yazıldığı, neden öyle değil de böyle yazıldığı hayati bir konudur.
+
+İki ayrı platform bunlar. Bu iki platformun arasındaki etkileşimi bilinçli bir şekilde fark eden ve fark ettiren tarih yazımlarının lezzeti bambaşkadır. Tarihçilik çok katmanlı bir detektif çalışmasıdır. ‘History is about evidence’ demiş adam. Tarihin konusu kanıttır. Hani derler ya matematiğin konusu kanıttır diye. Esas, tarihçiliğin konusudur kanıt.
+
+Önceki gün güzel bir konferans vardı Paris’te. Edhem Eldem, tarihçi, benim de eski bir tanıdığım. Collège de France’da Abdülhamit hakkında bir konferans verdiğini duydum. Gittim. Sonra bir kafede oturup bayağı muhabbet kaynattık. Orada tarih yazımının biçimleri ve çeşitleri konusu bir şekilde gündeme geldi. Size daha önceden sözünü ettiğim bir kitap vardı, Noel Malcolm, “Agents of the Empire” adı. 16. yüzyılda hem Batı hem Doğu Akdeniz’de, yani hem Osmanlı dünyasında hem İspanya ve Venedik’te dal budak salmış bir Arnavut ailenin üç dört kuşağının öyküsü. Yazar profesyonel akademisyen bile değil, gazeteci, diplomat, belki başka bir şey. Fakat sırf hobi aşkıyla tam otuz beş sene arşiv çalışmış. Olmadık bilgileri toprak altından çıkarmış. Osmanlı Devleti’nin Balkanlarda buğday ticaretinin organizasyonundan tut, Adriyatik’teki İtalyan şehirlerinin seçkin sınıflarının Venedik’le ilişkilerine, Trent Konsili’nin ince diplomasisinden tut, Malta Şövalyelerinin mülk ve maaş politikalarına kadar, Eflak ve Boğdan beyliklerindeki ekonomik krize kadar, İstanbul’da 16. yüzyılda Batılı diplomatların düğün törenlerine kadar akla gelecek her konuda evrak üstüne evrak çıkarmış ortaya. Bunları bir detektif keyfi ile deşmiş. Her aşamada sormuş, bu evrak niye var, kim yazdı, neden yazdı, neden o dilde değil bu dilde yazdı, neden o arşive değil bu arşive girdi. Ne güzel bir kitap! Böyleleri hoşuma gidiyor.

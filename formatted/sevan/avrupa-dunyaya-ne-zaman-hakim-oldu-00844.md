@@ -1,0 +1,27 @@
+# Avrupa dünyaya ne zaman hakim oldu
+
+*Pazar Sohbeti*
+
+27 November 2022
+
+**Anahtar Kelimeler:** Avrupa dünya hakimiyeti, keşifler, matbaanın icadı, Ortaçağ
+
+**Kaynak:** https://www.sevannisanyan.com/metin/avrupa-dunyaya-ne-zaman-hakim-oldu-00844
+
+---
+
+**Avrupa dünyaya ne zaman ve neden hakim oldu? Diğer kıtalar veya medeniyetler neden bunu başaramadı?**
+
+Genel kabule göre Avrupa’nın dünyanın diğer bölgelerine üstünlüğünü net olarak göstermeye başlaması 15. yüzyılın ikinci yarısıdır. Yani 1450 ile 1500 yılları arası. Üç önemli olay olur bu tarihte. Bir, dünyayı keşfetmeye başlarlar. 1450’lerden itibaren Portekizliler bu işe soyunur, peşinden İspanyollar, peşinden Fransızlar, İngilizler hep beraber gemilere binip dünyanın o güne kadar görülmemiş, duyulmamış yerlerini keşfetmeye başlarlar.
+
+Amaçları soygundur ya da meraktır ya da her ikisi bir aradadır. Daha önce dünya tarihinde çok nadir görülmüş bir olaydır. Vikingler var güçlü bir örnek, hatta Vikinglerin hatırası Avrupalının keşif ve istila hevesine kısmen ilham kaynağı olmuş görünüyor. Vikinglerin de daha arkasında Cermen kavimlerinin 4.-5. yüzyıldaki istila furyasının izleri duruyor olabilir. Çinlilerin 14. yüzyılda Ming hanedanı zamanında başlatıp çeşitli nedenlerle hemen kısa kestikleri keşif seferleri var. Arapların daha önce Amerika kıtasına bir iki sefer yaptıkları anlaşılıyor. Gidip görmüşler oraları, fakat bunu dünyaya borazanlarla ilan etmemişler. Belki bunun büyük bir keşif olduğunun farkına varmamışlar. Ha orada da bir sahil varmış, bakalım işe yarar bir şey var mı? O kadar. Bunun ötesine geçip, sistemli olarak, dünyada Afrika diye bir yer var, dünya yuvarlakmış, bunun haritasını çıkarmak mümkünmüş, ayrıntılı hesaplarla bulunduğun noktayı keşfetmek mümkünmüş, bunları ortaya koymak, yepyeni bir bakış açısıdır, yeni bir olaydır ve bir güç gösterisidir.
+
+İkincisi matbaanın icadıdır. Diğeriyle tastamam aynı tarihtir. 1455’te başlar, 1470’lerden itibaren yayılır. Bunun sonucu olarak üretilen yazı ve bilgi miktarı birdenbire yüz katı gibi bir oranda artar. Üretilen kitapların ve bunları okuyanların sayısında büyük bir patlama yaşanır. Bunun getirdiği fikir devrimi, düşünce devrimi çok çarpıcı bir devrimdir.
+
+Üçüncüsü, Rönesans dediğimiz olay ki siyasi yapıdaki birtakım değişikliklerin sonucudur. Felsefe konusunda, yayıncılık konusunda, filoloji konusunda, ülkelerin yazılı kültürünün objektif bir şekilde incelemesi disiplinleri konularında dünyada daha önce ulaşılmamış bir zenginlik seviyesine ulaşır Avrupa.
+
+Bu atılımların mutlak askeri ve siyasi egemenliğe dönüşmesi 200 yıl sonradır. 16. yüzyılda gidip Amerika kıtasını fethederler bir uçtan bir uca, fakat Avrupa’ya eskiden beri ciddi bir rakip olan, Avrupa’yla eş güçte olan iki büyük yerin, yani Osmanlı devleti ve Hindistan’ın boyun eğmeye başlaması 18. yüzyıldır.
+
+Bunlar bilinen şeyler. Ders kitaplarında yazar. Hangi ansiklopediyeye bakarsanız, aşağı yukarı buna benzer bir anlatı bulursunuz. Şimdi buna bir boyut daha eklemek istiyorum. Bu sene Batı Avrupa’yı didik didik epey dolaşma imkanı buldum. Hayatımda görmediğim kadar çok mimari eser görme vesilesi oldu. Peyderpey şu fikir yer etti kafamda. Bütün Avrupa’da sayısı zannediyorum bini geçen görkemli Ortaçağ katedralleri var. Hepsi çok büyük emek eseri olan, her biri birbirinden farklı olan, tüyler ürpertici eserler. Daha da önemlisi, muazzam maliyetli eserler. Büyük yatırımlar. Elbette dünyanın başka yerlerinde de bunlar ayarında olan, hatta bunlardan daha da göz alıcı olan binalar var. Hindistan’da bir sürü eser, İslam dünyasında muazzam eserler var, Kamboçya’da Angkor Wat var, Cava krallığındaki büyük tapınaklar var. Var, ama bin tane yok. Yani her kasabaya, her şehre birbiriyle yarışırcasına bir tane başyapıt kondurmamışlar. Bu da bana şunu söylüyor. Demek ki Avrupa’nın üstünlüğü belki dışarıdan yeterince fark edilmediği bir çağda başlamış. Belki başlangıç noktasını Avrupa’nın ilk özgün anıtsal mimari geleneği olan Gotik’in başladığı 1150 yılı civarına yerleştirmek lazım. O zamandan bir şeyler değişmiş ki, dünyada eşine rastlanmadık ölçüde sık ve yoğun başyapıtlar üretmeye girişmişler. Büyük iktidar gösterisi ve zenginlik gösterisi olan, başı göklere uzanan ve her santimetre karesi ince ince işlenmiş, her biri insana hayranlık ve coşku duygusu veren eserler yaratmışlar. Osmanlı da büyük ve görkemli camiler yapmış. Ama İstanbul’da yapmış, Edirne’de yapmış, hadi Bursa’da da yapmış diyelim. Başka yerde yapmamış. Yanına bile yaklaşmamış.
+
+12. ve 13. yüzyılda Avrupa henüz medeniyet modeli olarak Araplara bakar. Üniversitelerinde Arapça öğretir, ders kitaplarını Arapçadan tercüme eder. Bilimde, astronomide, çağın zirvesinin Araplar olduğunu düşünür. Lüks tüketim maddeleri için İslam dünyasına bakar, oradan kopya çeker. Pahalı kumaşları, mücevheratı, egzotik baharat ve meyveleri oradan ithal eder. Kıyafet modalarında oradan etkilenir. Ama bir yandan da bakarsan, mimari gibi büyük yatırım gerektiren bir sahada, olağanüstü işler yapmaya başlar. Bir başka deyimle henüz kültürel özgüven kazanmamıştır ama dikkatle bakarsan belli ki çapı vardır. Standart anlatımda ‘Ortaçağ karanlığı’ denilen dönemdir bu, 1150’den 1300’lere kadar. Daha o çağda işin nasıl dönüşmeye başladığını çoğu popüler tarih anlatımında göz ardı ederler.

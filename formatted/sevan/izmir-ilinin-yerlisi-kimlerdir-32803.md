@@ -1,0 +1,25 @@
+# İzmir ilinin yerlisi kimlerdir
+
+*Pazar Sohbeti (Düzenlenmiş)*
+
+02 February 2020
+
+**Anahtar Kelimeler:** izmir, Rumeli muhacirleri, Türkmenler, Yörükler
+
+**Kaynak:** https://www.sevannisanyan.com/metin/izmir-ilinin-yerlisi-kimlerdir-32803
+
+---
+
+**Balkan Savaşları öncesi ve sonrası İzmir ilinin etnik yapısından bahseder misiniz?**
+
+İzmir ili derken, onun adı Aydın sancağı veya Aydın vilayetidir Osmanlı zamanında. Bugünkü İzmir ile Aydın illerini kapsar. Güneyinde Menteşe beyliği, doğusunda Denizli, kuzeyinde Saruhan ile birlikte sosyal yapı açısından bir bütündür. Bildiğim kadarıyla 19. yüzyıl başında nüfusu ezici çoğunlukla iki unsurdan oluşur. Bunlar Yörükler ve Türkmenlerdir. Evliya Çelebi çağında, yani 17. yüzyılda devlet otoritesi tamamen çökmüştür. Tarım sıfırlanmıştır. Yollarda eşkiya kol gezer. Belli bir adreste oturup bağ bahçe tarla açmak akıl karı olmadığından köyülerin çoğu dağa çıkıp hayvancılığa ve fırsat buldukça soygunculuğa girişmiştir. Bunlardan bölgenin eski yerlisi olanlara Yörük denir. 16. yüzyıldan itibaren doğudan gelenlere Türkmen denir. Yörük ile Türkmen asla anlaşamaz, sık sık savaşıp birbirlerini boğazlarlar.
+
+Ege’nin sahil kasabalarında Hristiyan Rum nüfus vardır. Mesela Bodrum, Marmaris, Meğri yani Fethiye, Çeşme, Urla, Dikili, Bademli, Ayvalık ağırlıkla Rum yerleşimleridir. İzmir şehrinde de büyük bir Rum kitlesi vardır. Gerçi 20. yüzyıl başındaki gibi yarı yarıya Rum nüfus düşünmeyin, 19. yüzyıl başındaki Rum oranı daha düşüktür, 19. yüzyıl zarfında artmıştır. İçteki kasabalarda da ticaretle uğraşan belli sayıda bir Rum ve Ermeni nüfus olduğu anlaşılıyor. Tire’de, Ödemiş’te, Milas’ta va başka bazı kasabalarda kayda değer birer Yahudi cemaati vardı. Tabii İzmir kentinde de vardı.
+
+19. yüzyıldan önce köylü Rum, yani tarımla uğraşan Rum nüfus var mıydı veya ne kadar yaygındı, doğrusunu isterseniz bilmiyorum. Fakat 19. yüzyılda bölge genelinde tarımcı Rum nüfusta büyük bir artış olmuştur. Bunun nedeni bir yandan Osmanlı devletinde tütün, kuru incir, çekirdeksiz üzüm gibi ekonomik açıdan rantabl tarım sektörlerinin hızla gelişmesi, diğer yandan Ege adaları ve Epir gibi Yunan diyarlarında açlık ve yoksulluğun kol gezmesidir. Bunun sonucunda adalardan ve Güney Arnavut topraklarından Anadolu’ya ciddi boyutlarda göç olmuş. Karaosmanoğlu gibi büyük arazi sahibi hanedanlar mesela İzmir ilinin kuzey kısmında ve Manisa’da sayısız yeni köy kurup Rum tarım işçisi ithal etmişler. Bizim Şirince köyünün de, mesela, 1790’lardan önceki iki üç yüzyılda meskun olduğuna dair pek bir belirti yok. Anlaşılan o ki III. Selim zamanında Rumlar bir yerlerden, belki bugünkü Arnavutluk’un güneyinden gelerek köye yerleşmişler. İncir ve üzüm sektöründeki büyük kalkınmadan yararlanmışlar.
+
+Anadolu’nun demografik değişimi, biliyorsunuz, 19. yüzyılın son çeyreğinde hız kazanır. 1877-78 Savaşının ertesinde Balkan ülkelerinden ve Kafkasya’dan muazzam bir insan seli gelir Anadolu’ya. Binden fazla yeni muhacir köyü kurulur. Fakat Ege bölgesi bu göçten nispeten az etkilenmiştir. 93 muhacirleri denilen 1878 göçmenleri daha çok Marmara bölgesine iskan edilmiştir. Ege Bölgesinde Torbalı, Aydın Yenipazar, Yeni Çine gibi birkaç kasaba var 1878 göçüyle kurulan. Asıl büyük göçmen akını 1912-13 Balkan Savaşını izleyen dönemdedir. Bu ikinci büyük Balkan göçünde, ilkinin aksine, yeni yerleşimler kurulmadı. Ege bölgesinin Rum halkı sistemli olarak boşaltılarak, onların yerine göçmenler yerleştirildi.
+
+Bu trend 20. yüzyılın ilk yıllarında gelen Girit muhacirlerinin Bodrum ve Ayvalık’a iskanıyla başlar. 1913 ve 1914’te bölgedeki Rum nüfusun büyük bir bölümü pogromlarla, terör eylemleriyle kaçırılır. Nihayet 1923’te Anadolu Rumlarının tamamı Mübadele anlaşmasıyla Yunanistan’a gönderilir. Karşılığında Yunanistan’ın Makedonya ilinde, yani Osmanlı’nın Selanik vilayetinde oturan Müslüman halk Türkiye’ye gönderilir. Bugün Ege bölgesinin şehir ve kasabalarında yaşayan ve bölgenin ekonomik canlılığına yön veren halkın çok büyük bir kısmı Yunanistan ve Makedonya muhaciridir. 1910’larda ve 20’lerde gelmişlerdir. Büyük çoğunluğu Türktür veya kendini Türk kökenli sayar. Diğerleri Pomak, Arnavut, Boşnak, Patriyot ve benzeri Müslüman gayri-Türk gruplardandır. Bizim Selçuk’tan bildiğim kadarıyla onlarla yerli Yörük ve Türkmenler arasında çok fazla uyum yoktur. Mahalleleri ayrıdır, kız alıp vermeye karşı ciddi bir toplumsal direnç vardır. Karşılıklı önyargılar epey şiddetlidir.
+
+Ya da, ben bölgeyi tanımaya başladığım yıllarda böyleydi. 1990’lardan itibaren Ege bölgesine doğu illerinden muazzam bir Kürt akını geldi. Çoğu ilçelerde Kürtler nüfusun %30, 40 gibi bir oranını temsil etmeye başladılar. Bu da Ege’nin hem yerlisine hem muhacirine, etnik önyargılarını başka bir yöne yönlendirme imkanı sağladı. Şimdiki zamanda Muhacir ile Yörük az çok barıştı, Kürt’e karşı uzlaştı görünüyor. Kızlarının gidip Yörük’le veya Türkmen’le nişanlanmasına bile artık pek itiraz etmiyorlar.

@@ -1,0 +1,29 @@
+# Özgürlük Batı’nın hamurunda mı var
+
+*Pazar Sohbeti*
+
+21 May 2023
+
+**Anahtar Kelimeler:** Avrupa tarihi, Magna Carta, özgürlük, Şark despotizmi
+
+**Kaynak:** https://www.sevannisanyan.com/metin/ozgurluk-batinin-hamurunda-mi-var-36226
+
+---
+
+**Batı dünyasında özgürlüklerin tarihini Aydınlanma ile başlatıyorsunuz. Oysa ta Ortaçağ’da Magna Carta var Batı’nın geleneğinde. Onu göz ardı mı ediyorsunuz?**
+
+Batı dünyasında Ortaçağ’dan itibaren, daha doğrusu 13. yüzyıldan itibaren teorisi yapılan özgürlük kavramı başka bir şeydir. Siyasi erk sahiplerinin kral karşısındaki nisbi özerkliği demektir. Bir vatandaş kavramı yoktur orada. Beylerin, düklerin, kontların, kendi ordusuna sahip olan ve kendi haracını toplayan hüküm sahiplerinin, karşılıklı saygı ve riayet kurallarına uyması kastedilmiştir. Diğer boyutu da din otoritesinin, yani kilisenin, dünyevi hüküm sahiplerinin tecavüzüne karşı korunmasıdır. Şunu diyorlar: Hükümdar kiliseye karışamaz, diğer silahlı egemenlere de ancak belli terbiye sınırları içinde karışabilir.
+
+Aslına bakarsanız eski dünyanın her yerinde buna benzer güç dengeleri mevcuttur. İslam dünyasında da vardır, 4. yüzyılın Ermeni feodalitesinde de vardır, bildiğim kadarıyla Cengiz Han’ın Moğol devletinde de vardır. Sonuç olarak bugünkü gibi siyasi erki bütünüyle monopolize eden büyük merkezi bürokrasiler yaratma imkanı yok o çağda. Mecbursun silahlı kuvvet sahibi başka iktidar sahipleriyle ittifak ve işbirliği yapmaya. İşbirliği yapınca da karşılıklı tavizler vereceksin, misal, adamı sırtından bıçaklamayı planladığın günün arifesinde taahhütname imzalayacaksın, vallahi senin haklarına ve sınırlarına saygılıyım diye. Ortaçağ Avrupa’sının bir farkı belki bu informel güç paylaşımlarını yazılı hükümlere bağlama, bir yazılı hukuk sistemine dönüştürme eğilimidir. Bilmiyorum, çok emin değilim bundan. Belki de Avrupa daha sonraki yüzyıllarda yazılı evrakı koruma konusunda diğer medeniyetlerin çoğundan daha özenliydi, onun sonucu doğan bir yanılsamadır. Yani 13. yüzyılda Avrupa feodalizminin hukuki altyapısı, aynı çağın Selçuklu ya da Moğol beylikleri sisteminden gerçekten nitelikçe çok farklı mıydı, emin değilim doğrusu.
+
+Özgür Avrupa vs. Şark despotizmi
+
+16. yüzyıldan itibaren şöyle bir soyut ikilem oluştu Avrupalıların kafasında. Bunun ipuçlarını Machiavelli’de görürsünüz de, asıl teorileştiren 1560-70’lerde Jean Bodin’dir. Biz, Avrupa ülkeleri, özgürüz. Bir de Şark tipi despotizmi vardır ki örneği Osmanlı’dır. Osmanlı’da yönetici sınıfların hükümdar karşısında hiçbir hukuki dayanağı yoktur. Hükümdar istediğini asar, istediğini keser, istediğini görevden alır. Avrupa’nın yönetici sınıfları beydir, derebeyidir, hanedandır, mülk sahibidir. Güçleri ellerinden kolay kolay alınamaz. Osmanlı’nın yönetici sınıfları ise memurdur. İstikballeri padişahın iki dudağı arasındadır. İstediğini görevden alır, istediğinin servetine el koyar. Bak, ne kadar üstünüz biz Avrupa olarak!
+
+Doğruluk payı var mıdır bu modelde? Vardır, eğer terazinin karşı kefesine Osmanlı’yı koyarsan. Osmanlı yetmezsa bir de o tarihte kimsenin hakkında doğru dürüst bir şey bilmediği Çin’i örnek getirirsen, buyur Asya tipi bir tarafta Avrupa tipi öbür tarafta. Avrupa’da baronlar kralla pazarlık edip senet imzalatabilirler. Baronlar Meclisi toplanıp onay vermedikçe kral vergi alamaz. Osmanlı’da ise bütün mülkün sahibi zaten padişah, memurlarını gönderip köylüden istediği haracı keser, dilediği vergiyi toplar. Kim direnecek?
+
+Karikatürleştirilmiş bir anlatıdır ama kısmen de olsa vardır doğruluk payı. Asya’nın ve Avrupa’nın değişmez özü değildir anlattıkları, ama 16. yüzyılın durumu kabaca böyledir. Osmanlı’nın doğusu ayrı hikaye fakat batısında, Fırat batısındaki Anadolu ile Rumeli’nin bereketli ovalarında Osmanlı, yerel egemenleri hemen hemen tümüyle tasfiye etmeyi başarmıştır. Vergiyi yerel egemenler toplamaz, padişahın memurları toplar. Dolayısıyla, en azından teorik olarak, tahsil edilen verginin ne kadarını merkez hazinesine aktaracağız, ne kadarını elde tutacağız pazarlığı yoktur. Vergi tahsildarı, en azından teorik olarak, maaşını merkezden alır. Tahsilat işinde ona asist eden silahlı güç kendi ordusu değil, padişahın ordusudur. En azından teorik olarak öyledir. Gerçi 16. yüzyıl sonunda bu sistem alayü vala ile çökecektir, ama işin teorisi budur.
+
+Daha da önemli gözlemimiz şu. ‘Asya tipi’ diyerek genelledikleri bu model, spesifik bir tarih döneminin düzenini yansıtır. Son yıllarda gitgide merakımı celbeden, gitgide ne kadar cahilmişim ben diyerek keşfettiğim bir kıta var. O da Osmanlı öncesi İslam dünyasıdır. İslam dünyasının asıl parlak çağını feodal Avrupa’nın özgürlükleriyle kıyasladığım zaman burada anlatılan modeli anımsatacak hiçbir şey göremiyorum. Abbasilerin inkırazıyla başlayıp İstanbul’un fethine kadar süren aşağı yukarı 500 yıllık dönem, siyasi iktidarın çok fazla sayıda egemenlik odağı arasında parçalanması açısından Avrupa feodalizminden yapıca farksız demeyelim, ama onu bir hayli andıran bir yapıdadır. Dini otoritenin hükümdar karşısında nisbi özgürlüğü açısından baktığınızda ise doğrusunu isterseniz Avrupa’ya fark atar. Hukuken mutlaklaştırılmış bir özgürlük alanı vardır dinin. Hiçbir hükümdarın bu alana tecavüz etmeye cüret edemeyeceği varsayılır. Bu özgürlük alanında palazlanan ruhban sınıfı — pardon ruhban demiyorduk, ulema ve fukaha diyelim — hukuken ve iktisadi açıdan hükümdarın otoritesinden bağımsızdır. Tabi olduğu hükümetleri hiçe sayan uluslararası bağlantılara sahiptir. Padişahla kavga etse çekip başka devlete gidebilir, orada şansı yaver giderse padişah müsteşarı ve vezir olabilir.
+
+Özetle, klasik öğretide karşımıza çıkan Asya tipi ile Avrupa tipi ayrımı geniş tarihi perspektiften bakınca pek anlamlı bir ayrım görünmüyor. Belli bir çağın, bir konjonktürün ifadesi gibi görmek daha doğru olur.
