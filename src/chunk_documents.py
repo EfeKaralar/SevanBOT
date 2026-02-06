@@ -1,31 +1,96 @@
 #!/usr/bin/env python3
 """
-Semantic chunking for SevanBot documents (v2).
+Semantic chunking for SevanBot documents (v3).
 
 Splits markdown articles into chunks suitable for embedding:
 - Primary split: paragraphs
 - Merges small paragraphs until minimum size reached
 - Fallback: sentences (if paragraph > max tokens)
-- Sentence-level overlap between chunks
+- Percentage-based overlap between chunks (improved from v2)
 - Filters noise (footnotes, images, Ottoman examples)
+
+v3 Improvements (based on 2025 RAG research):
+- Context enrichment: prepends title/date/keywords to chunk for better retrieval
+- Improved metadata: prechunk_id, postchunk_id, doc_id for context expansion
+- Percentage-based overlap (10-20% recommended)
+- Outputs both raw text and text_for_embedding (context-enriched)
 """
 
 import json
 import re
+import hashlib
 from pathlib import Path
 from transformers import AutoTokenizer
 
 # Directories
 FORMATTED_DIR = Path(__file__).parent.parent / "formatted"
 OUTPUT_FILE = Path(__file__).parent.parent / "chunks.jsonl"
+OUTPUT_FILE_V2 = Path(__file__).parent.parent / "chunks_v2.jsonl"  # Old format for comparison
 
-# Chunking parameters
+# Chunking parameters (adjusted based on research: 256-512 optimal)
+# Note: E5 model has 512 token limit, so we leave room for context prefix + overlap
 MAX_TOKENS = 400
-MIN_TOKENS = 150
-OVERLAP_SENTENCES = 1
+MIN_TOKENS = 200
+OVERLAP_PERCENT = 0.15  # 15% overlap (research suggests 10-20%)
 
 # Ottoman text detection (special diacritics used in transliteration)
 OTTOMAN_PATTERN = re.compile(r'[ˁāīūḥḍṣṭẓġʿʾ]')
+
+
+def generate_doc_id(file_path: str, title: str) -> str:
+    """Generate a unique document ID from file path and title."""
+    content = f"{file_path}:{title or 'untitled'}"
+    return hashlib.md5(content.encode()).hexdigest()[:12]
+
+
+def build_context_prefix(metadata: dict) -> str:
+    """
+    Build a context prefix to prepend to chunk text.
+
+    This implements the "Document Title Prepending" technique from
+    contextual retrieval research - simple but effective for improving
+    retrieval by providing document-level context to each chunk.
+    """
+    parts = []
+
+    if metadata.get("title"):
+        parts.append(f"Makale: {metadata['title']}")
+
+    if metadata.get("date"):
+        parts.append(f"Tarih: {metadata['date']}")
+
+    if metadata.get("keywords"):
+        parts.append(f"Konular: {metadata['keywords']}")
+
+    if not parts:
+        return ""
+
+    return " | ".join(parts) + "\n\n"
+
+
+def get_overlap_text(text: str, tokenizer, target_tokens: int) -> str:
+    """
+    Get overlap text from the end of a chunk.
+
+    Uses percentage-based overlap instead of fixed sentence count
+    for more consistent context across different chunk sizes.
+    """
+    sentences = split_into_sentences(text)
+    if not sentences:
+        return ""
+
+    # Build overlap from end, staying under target tokens
+    overlap_sentences = []
+    current_tokens = 0
+
+    for sent in reversed(sentences):
+        sent_tokens = count_tokens(sent, tokenizer)
+        if current_tokens + sent_tokens > target_tokens:
+            break
+        overlap_sentences.insert(0, sent)
+        current_tokens += sent_tokens
+
+    return " ".join(overlap_sentences)
 
 
 def load_tokenizer():
@@ -196,10 +261,15 @@ def get_last_sentences(text: str, n: int = 1) -> str:
     return " ".join(sentences[-n:])
 
 
-def chunk_document(metadata: dict, tokenizer) -> list[dict]:
+def chunk_document(metadata: dict, tokenizer, enrich_context: bool = True) -> list[dict]:
     """
-    Chunk a document into pieces suitable for embedding.
-    Returns list of chunk dicts with text and metadata.
+    Chunk a document into pieces suitable for embedding (v3).
+
+    Returns list of chunk dicts with:
+    - text: raw chunk text
+    - text_for_embedding: context-enriched text (if enrich_context=True)
+    - metadata: title, date, source, keywords, file
+    - references: doc_id, chunk_id, prechunk_id, postchunk_id, total_chunks
     """
     content = metadata["content"]
     if not content:
@@ -213,6 +283,9 @@ def chunk_document(metadata: dict, tokenizer) -> list[dict]:
 
     if not paragraphs:
         return []
+
+    # Generate document ID
+    doc_id = generate_doc_id(metadata["file"], metadata["title"])
 
     # Build chunks by merging small paragraphs
     raw_chunks = []
@@ -278,12 +351,132 @@ def chunk_document(metadata: dict, tokenizer) -> list[dict]:
         else:
             raw_chunks.append(chunk_text)
 
-    # Add sentence-level overlap
+    total_chunks = len(raw_chunks)
+
+    # Build context prefix once (same for all chunks in this document)
+    context_prefix = build_context_prefix(metadata) if enrich_context else ""
+
+    # Add percentage-based overlap and build final chunks
     final_chunks = []
     for i, chunk_text in enumerate(raw_chunks):
-        if i > 0 and OVERLAP_SENTENCES > 0:
-            overlap = get_last_sentences(raw_chunks[i-1], OVERLAP_SENTENCES)
-            # Only add if overlap is meaningful and not too long
+        # Calculate overlap tokens based on previous chunk size
+        if i > 0:
+            prev_chunk_tokens = count_tokens(raw_chunks[i-1], tokenizer)
+            target_overlap_tokens = int(prev_chunk_tokens * OVERLAP_PERCENT)
+
+            # Add overlap from previous chunk
+            if target_overlap_tokens > 10:
+                overlap = get_overlap_text(raw_chunks[i-1], tokenizer, target_overlap_tokens)
+                if overlap:
+                    chunk_text = overlap + " " + chunk_text
+
+        # Generate chunk ID
+        chunk_id = f"{doc_id}#{i}"
+
+        # Build the chunk with improved metadata
+        chunk = {
+            # Content
+            "text": chunk_text,
+            "text_for_embedding": context_prefix + chunk_text if enrich_context else chunk_text,
+
+            # Document metadata
+            "title": metadata["title"],
+            "date": metadata["date"],
+            "source": metadata["source"],
+            "keywords": metadata["keywords"],
+            "file": metadata["file"],
+
+            # Chunk references (for retrieval-time context expansion)
+            "doc_id": doc_id,
+            "chunk_id": chunk_id,
+            "chunk_index": i,
+            "total_chunks": total_chunks,
+            "prechunk_id": f"{doc_id}#{i-1}" if i > 0 else None,
+            "postchunk_id": f"{doc_id}#{i+1}" if i < total_chunks - 1 else None,
+        }
+        final_chunks.append(chunk)
+
+    return final_chunks
+
+
+def chunk_document_v2(metadata: dict, tokenizer) -> list[dict]:
+    """
+    Legacy v2 chunking (for comparison).
+    Uses fixed 1-sentence overlap and no context enrichment.
+    """
+    content = metadata["content"]
+    if not content:
+        return []
+
+    paragraphs = extract_paragraphs(content)
+    paragraphs = [p for p in paragraphs if not is_noise(p) and not is_ottoman_example(p)]
+
+    if not paragraphs:
+        return []
+
+    # Use old parameters
+    old_max = 400
+    old_min = 150
+
+    raw_chunks = []
+    current_chunk = []
+    current_tokens = 0
+
+    for para in paragraphs:
+        para_tokens = count_tokens(para, tokenizer)
+
+        if para_tokens > old_max:
+            if current_chunk:
+                raw_chunks.append("\n\n".join(current_chunk))
+                current_chunk = []
+                current_tokens = 0
+
+            sentences = split_into_sentences(para)
+            sent_chunk = []
+            sent_tokens = 0
+
+            for sent in sentences:
+                sent_tok = count_tokens(sent, tokenizer)
+                if sent_tokens + sent_tok > old_max and sent_chunk:
+                    raw_chunks.append(" ".join(sent_chunk))
+                    sent_chunk = []
+                    sent_tokens = 0
+                sent_chunk.append(sent)
+                sent_tokens += sent_tok
+
+            if sent_chunk:
+                leftover = " ".join(sent_chunk)
+                if sent_tokens >= old_min:
+                    raw_chunks.append(leftover)
+                else:
+                    current_chunk = [leftover]
+                    current_tokens = sent_tokens
+            continue
+
+        if current_tokens + para_tokens > old_max and current_chunk:
+            if current_tokens >= old_min:
+                raw_chunks.append("\n\n".join(current_chunk))
+                current_chunk = [para]
+                current_tokens = para_tokens
+            else:
+                current_chunk.append(para)
+                current_tokens += para_tokens
+        else:
+            current_chunk.append(para)
+            current_tokens += para_tokens
+
+    if current_chunk:
+        chunk_text = "\n\n".join(current_chunk)
+        if current_tokens < old_min and raw_chunks:
+            raw_chunks[-1] = raw_chunks[-1] + "\n\n" + chunk_text
+        else:
+            raw_chunks.append(chunk_text)
+
+    # Fixed 1-sentence overlap
+    final_chunks = []
+    for i, chunk_text in enumerate(raw_chunks):
+        if i > 0:
+            overlap = get_last_sentences(raw_chunks[i-1], 1)
             overlap_tokens = count_tokens(overlap, tokenizer)
             if 10 < overlap_tokens < 100:
                 chunk_text = overlap + " " + chunk_text
@@ -303,7 +496,7 @@ def chunk_document(metadata: dict, tokenizer) -> list[dict]:
 
 
 def process_all_documents():
-    """Process all markdown files and output chunks."""
+    """Process all markdown files and output chunks (v3)."""
     tokenizer = load_tokenizer()
 
     # Collect all markdown files
@@ -323,7 +516,7 @@ def process_all_documents():
 
         try:
             metadata = parse_markdown(file_path)
-            chunks = chunk_document(metadata, tokenizer)
+            chunks = chunk_document(metadata, tokenizer, enrich_context=True)
             if chunks:
                 all_chunks.extend(chunks)
             else:
@@ -342,8 +535,111 @@ def process_all_documents():
     print(f"  Documents: {len(md_files)}")
     print(f"  Skipped (empty): {skipped_docs}")
     print(f"  Chunks: {len(all_chunks)}")
-    print(f"  Avg chunks/doc: {len(all_chunks) / (len(md_files) - skipped_docs):.1f}")
+    if len(md_files) > skipped_docs:
+        print(f"  Avg chunks/doc: {len(all_chunks) / (len(md_files) - skipped_docs):.1f}")
+
+
+def process_sample_documents(file_paths: list[Path], compare: bool = True):
+    """
+    Process a list of sample documents and optionally compare v2 vs v3.
+
+    Args:
+        file_paths: List of markdown file paths to process
+        compare: If True, output both v2 and v3 for comparison
+    """
+    tokenizer = load_tokenizer()
+
+    print(f"\n{'='*60}")
+    print("SAMPLE DOCUMENT CHUNKING COMPARISON")
+    print(f"{'='*60}\n")
+
+    for file_path in file_paths:
+        if not file_path.exists():
+            print(f"File not found: {file_path}")
+            continue
+
+        metadata = parse_markdown(file_path)
+        print(f"\n{'─'*60}")
+        print(f"Document: {metadata['title'] or file_path.name}")
+        print(f"Date: {metadata['date']}")
+        print(f"Keywords: {metadata['keywords']}")
+        print(f"{'─'*60}")
+
+        # Process with v3 (new)
+        chunks_v3 = chunk_document(metadata, tokenizer, enrich_context=True)
+        print(f"\n[V3 - New] {len(chunks_v3)} chunks")
+
+        if compare:
+            # Process with v2 (old)
+            chunks_v2 = chunk_document_v2(metadata, tokenizer)
+            print(f"[V2 - Old] {len(chunks_v2)} chunks")
+
+        # Show comparison
+        print("\n" + "─"*40)
+        print("V3 CHUNKS (with context enrichment):")
+        print("─"*40)
+
+        for i, chunk in enumerate(chunks_v3[:3]):  # Show first 3 chunks
+            tokens = count_tokens(chunk["text_for_embedding"], tokenizer)
+            print(f"\n[Chunk {i}] ({tokens} tokens)")
+            print(f"  chunk_id: {chunk['chunk_id']}")
+            print(f"  prechunk_id: {chunk['prechunk_id']}")
+            print(f"  postchunk_id: {chunk['postchunk_id']}")
+            print(f"\n  text_for_embedding (first 500 chars):")
+            print(f"  {chunk['text_for_embedding'][:500]}...")
+
+        if compare:
+            print("\n" + "─"*40)
+            print("V2 CHUNKS (old format):")
+            print("─"*40)
+
+            for i, chunk in enumerate(chunks_v2[:3]):
+                tokens = count_tokens(chunk["text"], tokenizer)
+                print(f"\n[Chunk {i}] ({tokens} tokens)")
+                print(f"  text (first 500 chars):")
+                print(f"  {chunk['text'][:500]}...")
+
+        # Statistics comparison
+        print("\n" + "─"*40)
+        print("STATISTICS COMPARISON:")
+        print("─"*40)
+
+        v3_tokens = [count_tokens(c["text_for_embedding"], tokenizer) for c in chunks_v3]
+        print(f"\nV3 (New):")
+        print(f"  Total chunks: {len(chunks_v3)}")
+        print(f"  Avg tokens/chunk: {sum(v3_tokens)/len(v3_tokens):.0f}")
+        print(f"  Min/Max tokens: {min(v3_tokens)}/{max(v3_tokens)}")
+
+        if compare:
+            v2_tokens = [count_tokens(c["text"], tokenizer) for c in chunks_v2]
+            print(f"\nV2 (Old):")
+            print(f"  Total chunks: {len(chunks_v2)}")
+            print(f"  Avg tokens/chunk: {sum(v2_tokens)/len(v2_tokens):.0f}")
+            print(f"  Min/Max tokens: {min(v2_tokens)}/{max(v2_tokens)}")
+
+    return chunks_v3, chunks_v2 if compare else None
+
+
+def list_sample_files(n: int = 5) -> list[Path]:
+    """List sample markdown files for testing."""
+    md_files = []
+    for subdir in ["substack", "sevan"]:
+        dir_path = FORMATTED_DIR / subdir
+        if dir_path.exists():
+            md_files.extend(list(dir_path.glob("*.md"))[:n])
+    return md_files[:n]
 
 
 if __name__ == "__main__":
-    process_all_documents()
+    import sys
+
+    if len(sys.argv) > 1 and sys.argv[1] == "--sample":
+        # Run on sample documents for comparison
+        sample_files = list_sample_files(3)
+        if sample_files:
+            process_sample_documents(sample_files, compare=True)
+        else:
+            print("No sample files found in formatted/ directory")
+    else:
+        # Full processing
+        process_all_documents()
