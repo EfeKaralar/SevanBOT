@@ -24,6 +24,9 @@ HTML Downloads --> Markdown Conversion --> Chunking --> pgvector (embeddings)
 | Chunking | Semantic/recursive | Done |
 | Embedding model | multilingual-e5-large-instruct | Decided |
 | Query interface | FastAPI | Decided |
+| Contextual retrieval | - | Planned |
+| Hybrid search | BM25 + vector | Planned |
+| Reranking | - | Planned |
 
 ## Dataset
 
