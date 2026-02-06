@@ -317,16 +317,39 @@ def get_last_sentences(text: str, n: int = 1) -> str:
     return " ".join(sentences[-n:])
 
 
-def chunk_document(metadata: dict, tokenizer, enrich_context: bool = True) -> list[dict]:
+def chunk_document(
+    metadata: dict,
+    tokenizer,
+    enrich_context: bool = True,
+    context_mode: str = "simple",
+    anthropic_client = None,
+    stats_tracker = None
+) -> list[dict]:
     """
     Chunk a document into pieces suitable for embedding (v3).
+
+    Args:
+        metadata: Document metadata (title, date, content, etc.)
+        tokenizer: Tokenizer for counting tokens
+        enrich_context: Whether to enrich chunks with context (default: True)
+        context_mode: "simple" (metadata prepending) or "llm" (Claude-generated)
+        anthropic_client: Anthropic client (required if context_mode="llm")
+        stats_tracker: ContextGenerationStats object to track costs (optional)
 
     Returns list of chunk dicts with:
     - text: raw chunk text
     - text_for_embedding: context-enriched text (if enrich_context=True)
     - metadata: title, date, source, keywords, file
     - references: doc_id, chunk_id, prechunk_id, postchunk_id, total_chunks
+    - context_mode: "simple" or "llm"
+    - llm_context: LLM-generated context (only if context_mode="llm")
     """
+    # Validate context_mode
+    if context_mode not in ["simple", "llm"]:
+        raise ValueError(f"context_mode must be 'simple' or 'llm', got: {context_mode}")
+
+    if context_mode == "llm" and anthropic_client is None:
+        raise ValueError("anthropic_client is required when context_mode='llm'")
     content = metadata["content"]
     if not content:
         return []
@@ -427,8 +450,11 @@ def chunk_document(metadata: dict, tokenizer, enrich_context: bool = True) -> li
 
     total_chunks = len(raw_chunks)
 
-    # Build context prefix once (same for all chunks in this document)
-    context_prefix = build_context_prefix(metadata) if enrich_context else ""
+    # Build simple context prefix once (same for all chunks in this document)
+    simple_context_prefix = build_context_prefix(metadata) if enrich_context else ""
+
+    # For LLM mode, we need the full document content
+    full_doc_content = metadata["content"] if context_mode == "llm" else None
 
     # Add percentage-based overlap and build final chunks
     final_chunks = []
@@ -447,8 +473,43 @@ def chunk_document(metadata: dict, tokenizer, enrich_context: bool = True) -> li
         # Generate chunk ID
         chunk_id = f"{doc_id}#{i}"
 
-        # Build text_for_embedding with context prefix
-        text_for_embed = context_prefix + chunk_text if enrich_context else chunk_text
+        # Build text_for_embedding based on context mode
+        llm_context = None
+        if not enrich_context:
+            text_for_embed = chunk_text
+        elif context_mode == "simple":
+            text_for_embed = simple_context_prefix + chunk_text
+        else:  # context_mode == "llm"
+            # Generate LLM-based context for this chunk
+            from contextual_utils import situate_context, validate_context
+            try:
+                llm_context, usage = situate_context(
+                    full_doc_content,
+                    chunk_text,
+                    metadata["title"] or metadata["file"],
+                    anthropic_client
+                )
+
+                # Track usage stats if provided
+                if stats_tracker:
+                    stats_tracker.add_usage(usage)
+
+                # Validate the generated context
+                if validate_context(llm_context, chunk_text):
+                    # Prepend LLM context to chunk
+                    text_for_embed = llm_context + "\n\n" + chunk_text
+                else:
+                    # Fallback to simple mode if validation fails
+                    print(f"Warning: Invalid LLM context for chunk {i}, falling back to simple mode")
+                    text_for_embed = simple_context_prefix + chunk_text
+                    llm_context = None
+
+            except Exception as e:
+                # Fallback to simple mode on error
+                print(f"Error generating LLM context for chunk {i}: {e}")
+                print("Falling back to simple mode")
+                text_for_embed = simple_context_prefix + chunk_text
+                llm_context = None
 
         # Safety truncation: ensure we don't exceed embedding model limit
         if count_tokens(text_for_embed, tokenizer) > EMBEDDING_MODEL_LIMIT:
@@ -474,7 +535,15 @@ def chunk_document(metadata: dict, tokenizer, enrich_context: bool = True) -> li
             "total_chunks": total_chunks,
             "prechunk_id": f"{doc_id}#{i-1}" if i > 0 else None,
             "postchunk_id": f"{doc_id}#{i+1}" if i < total_chunks - 1 else None,
+
+            # Context mode tracking
+            "context_mode": context_mode,
         }
+
+        # Add LLM context separately if available
+        if llm_context:
+            chunk["llm_context"] = llm_context
+
         final_chunks.append(chunk)
 
     return final_chunks
@@ -576,9 +645,39 @@ def chunk_document_v2(metadata: dict, tokenizer) -> list[dict]:
     return final_chunks
 
 
-def process_all_documents():
-    """Process all markdown files and output chunks (v3)."""
+def process_all_documents(
+    context_mode: str = "simple",
+    output_file: Path = None,
+    max_docs: int = None
+):
+    """
+    Process all markdown files and output chunks (v3).
+
+    Args:
+        context_mode: "simple" (fast, free) or "llm" (slow, costly, better quality)
+        output_file: Custom output file path (default: chunks.jsonl for simple, chunks_contextual.jsonl for llm)
+        max_docs: Maximum number of documents to process (for testing)
+    """
+    from contextual_utils import get_anthropic_client, ContextGenerationStats
+    import time
+
     tokenizer = load_tokenizer()
+
+    # Initialize Anthropic client if using LLM mode
+    anthropic_client = None
+    stats_tracker = None
+    if context_mode == "llm":
+        anthropic_client = get_anthropic_client()
+        if not anthropic_client:
+            print("Error: ANTHROPIC_API_KEY not found in environment")
+            print("Please set ANTHROPIC_API_KEY to use LLM context mode")
+            return
+        stats_tracker = ContextGenerationStats()
+        print("Using LLM context mode (Claude Haiku with prompt caching)")
+
+    # Determine output file
+    if output_file is None:
+        output_file = OUTPUT_FILE if context_mode == "simple" else Path(__file__).parent.parent / "chunks_contextual.jsonl"
 
     # Collect all markdown files
     md_files = []
@@ -587,37 +686,81 @@ def process_all_documents():
         if dir_path.exists():
             md_files.extend(dir_path.glob("*.md"))
 
+    # Limit number of documents if specified
+    if max_docs:
+        md_files = md_files[:max_docs]
+
     print(f"Found {len(md_files)} markdown files")
+    print(f"Context mode: {context_mode}")
+    print(f"Output: {output_file}")
+    print()
 
     all_chunks = []
     skipped_docs = 0
+    start_time = time.time()
+
     for i, file_path in enumerate(md_files):
-        if (i + 1) % 100 == 0:
-            print(f"Processing {i + 1}/{len(md_files)}...")
+        # Progress indicator
+        if (i + 1) % 10 == 0 or i == 0:
+            elapsed = time.time() - start_time
+            rate = (i + 1) / elapsed if elapsed > 0 else 0
+            eta = (len(md_files) - i - 1) / rate if rate > 0 else 0
+
+            print(f"Processing {i + 1}/{len(md_files)} ({(i+1)/len(md_files)*100:.1f}%) - "
+                  f"Rate: {rate:.1f} docs/sec - ETA: {eta/60:.1f} min")
+
+            # Show cost stats for LLM mode
+            if stats_tracker and stats_tracker.num_requests > 0:
+                summary = stats_tracker.summary()
+                print(f"  Chunks processed: {summary['requests']}")
+                print(f"  Cost so far: ${summary['cost_usd']:.4f}")
+                print(f"  Cache hit rate: {summary['cache_hit_rate']:.1%}")
 
         try:
             metadata = parse_markdown(file_path)
-            chunks = chunk_document(metadata, tokenizer, enrich_context=True)
+            chunks = chunk_document(
+                metadata,
+                tokenizer,
+                enrich_context=True,
+                context_mode=context_mode,
+                anthropic_client=anthropic_client,
+                stats_tracker=stats_tracker
+            )
             if chunks:
                 all_chunks.extend(chunks)
             else:
                 skipped_docs += 1
         except Exception as e:
             print(f"Error processing {file_path}: {e}")
+            skipped_docs += 1
 
     # Write output
-    print(f"\nWriting {len(all_chunks)} chunks to {OUTPUT_FILE}")
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    print(f"\nWriting {len(all_chunks)} chunks to {output_file}")
+    with open(output_file, "w", encoding="utf-8") as f:
         for chunk in all_chunks:
             f.write(json.dumps(chunk, ensure_ascii=False) + "\n")
 
     # Print stats
+    elapsed_total = time.time() - start_time
     print(f"\nDone!")
     print(f"  Documents: {len(md_files)}")
     print(f"  Skipped (empty): {skipped_docs}")
     print(f"  Chunks: {len(all_chunks)}")
     if len(md_files) > skipped_docs:
         print(f"  Avg chunks/doc: {len(all_chunks) / (len(md_files) - skipped_docs):.1f}")
+    print(f"  Total time: {elapsed_total/60:.1f} min")
+
+    # Print LLM stats
+    if stats_tracker and stats_tracker.num_requests > 0:
+        summary = stats_tracker.summary()
+        print(f"\nLLM Context Generation Stats:")
+        print(f"  Total requests: {summary['requests']}")
+        print(f"  Input tokens: {summary['total_tokens']['input']:,}")
+        print(f"  Output tokens: {summary['total_tokens']['output']:,}")
+        print(f"  Cache creation: {summary['total_tokens']['cache_creation']:,}")
+        print(f"  Cache reads: {summary['total_tokens']['cache_read']:,}")
+        print(f"  Cache hit rate: {summary['cache_hit_rate']:.1%}")
+        print(f"  Total cost: ${summary['cost_usd']:.4f}")
 
 
 def process_sample_documents(file_paths: list[Path], compare: bool = True):
@@ -713,14 +856,47 @@ def list_sample_files(n: int = 5) -> list[Path]:
 
 if __name__ == "__main__":
     import sys
+    import argparse
 
-    if len(sys.argv) > 1 and sys.argv[1] == "--sample":
-        # Run on sample documents for comparison
+    parser = argparse.ArgumentParser(
+        description="Chunk documents for RAG with optional LLM-based contextual enrichment"
+    )
+    parser.add_argument(
+        "--context-mode",
+        choices=["simple", "llm"],
+        default="simple",
+        help="Context enrichment mode: 'simple' (metadata prepending, fast, free) or 'llm' (Claude-generated, slow, costly)"
+    )
+    parser.add_argument(
+        "--output",
+        type=str,
+        help="Output file path (default: chunks.jsonl for simple, chunks_contextual.jsonl for llm)"
+    )
+    parser.add_argument(
+        "--max-docs",
+        type=int,
+        help="Maximum number of documents to process (for testing)"
+    )
+    parser.add_argument(
+        "--sample",
+        action="store_true",
+        help="Run on sample documents for comparison (legacy mode)"
+    )
+
+    args = parser.parse_args()
+
+    if args.sample:
+        # Legacy sample mode
         sample_files = list_sample_files(3)
         if sample_files:
             process_sample_documents(sample_files, compare=True)
         else:
             print("No sample files found in formatted/ directory")
     else:
-        # Full processing
-        process_all_documents()
+        # Full processing with context mode
+        output_file = Path(args.output) if args.output else None
+        process_all_documents(
+            context_mode=args.context_mode,
+            output_file=output_file,
+            max_docs=args.max_docs
+        )
