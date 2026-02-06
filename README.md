@@ -21,6 +21,7 @@ Query Interface (TBD)
 | Scraping | Python (requests, BeautifulSoup) | Done |
 | Markdown conversion | Python (markdownify) | Done |
 | Vector database | pgvector | Decided |
+| Chunking | Semantic/recursive | Decided |
 | Embedding model | TBD | - |
 | Query interface | TBD | - |
 
@@ -75,4 +76,5 @@ formatted/             # Converted Markdown files
 
 - pgvector chosen for simplicity: single Postgres instance handles vectors + metadata
 - Multilingual embedding model will be used (Turkish content, potential English queries)
+- Semantic/recursive chunking: split by paragraphs, then sentences if >400 tokens. Uniform strategy for both sources yields better retrieval precision than document-as-chunk.
 - Estimated ~5,000 vectors after chunking
