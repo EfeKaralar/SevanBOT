@@ -15,16 +15,3 @@ Kudüs’teki Haçlı devleti zamanında yerli Süryani yahut Meliki Hıristiyan
 3. Mehmet zamanında Kapdan-ı derya, Van ve Erzurum valisi ve kısa bir süre sadrazam olan **Cigalazade** Yusuf Sinan Paşa da İtalyan asıllı. Babası Ceneviz donanmasının ileri gelenlerinden. Kendisi Scipione Cicala adıyla İtalya’da doğmuş, 16 yaşında Türklere esir düşmüş, yeniçeri ocağında yetişmiş. İstanbul’da Divan Yolu’nun hemen altında olan konağı ve camii Cağaloğlu (< Cigalaoğlu) semtine adını vermiş.
 
 Şarkıcı İlhan İrem bu zatın soyundan olduğunu söylüyor. Gerçi yurdumuzda bu tür iddialara ne kadar güven olur bilmem.
-
-#### 2 yorum:
-
-1. [JediToSith](https://www.blogger.com/profile/17577711379615775618)[9 Nisan 2017 04:28](http://nisanyan1.blogspot.com/2017/04/milli-tarihi-delik-desik-edenler.html?showComment=1491701300576#c2040490198025034749)
-
-   Vikings diye bir dizi var. Dizinin fanı olmamakla beraber, arada izliyordum. Normandiya'nın ilk hükümdarı Rollo'nun nasıl Fransa'da soylu haline geldiği de anlatılıyor birkaç bölümde. İngiltere'ye akınlar düzenleyen Ragnar Lodbrok'u da kardeşi olarak canlandırmışlar. Bazı şeyler tarihle uyuşmuyor. Ragnar daha önceden yaşamış. Yine de Vikingler biraz gerçeğe uygun canlandırılmaya çalışılmış. Uydurma şekilde, kafalarında boynuzlu kask falan takmıyorlar ki; hiç kask kullanmıyorlarmış zaten. Eski çağlarda, İtalyan yarımadasından Ege bölgesine gelip, yerleşip, kalanların da olduğuna inanıyorum. Kuşadası o taraflar. İtalya'nın Toskana bölgesindekiler de (Etrüskler) tersi, Lidyalılar dönemünde Ege'den gidip, oraya taşınmışlar. Herodot'un anlatımlarıyla, günümüz gen araştırmaları birbiriyle uyuşuyor.
-
-   [Yanıtla](https://www.blogger.com/null)
-2. [Laedri](https://www.blogger.com/profile/02931916901458357552)[11 Nisan 2017 10:59](http://nisanyan1.blogspot.com/2017/04/milli-tarihi-delik-desik-edenler.html?showComment=1491897579456#c2070120459498108290)
-
-   Sicilya'dan başka, 12 yy'da Antakya, İskenderun ve Lazkiye de Normanların elinde.
-
-   [Yanıtla](https://www.blogger.com/null)

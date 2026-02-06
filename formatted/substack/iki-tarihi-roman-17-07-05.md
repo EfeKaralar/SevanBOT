@@ -26,20 +26,3 @@ Yourcenar ciddi bir klasikçi. Hayal kurmuş tabii, ama inanılmaz derecede geni
 Son zamanlarda pek pek övülen bir tarihi roman, Hilary Mantel, *Wolf Hall*. 1530 civarı, İngiltere’de 8. Henry sarayının entrikaları, Anne Boleyn, Thomas Cromwell, Thomas More vb.. Tarihi romanları neden sevmediğimi bir daha hatırlama fırsatı buldum. Tarihi roman dediğin şey sonuçta siyasetin ve iktidarın romanıdır. Güç mücadelesini ciğerinde hissetmemiş ve onu felsefi bir tefekkürle harmanlama fırsatına sahip olmamış bir yazar neyin tarihi romanını yazacak ki? Yüz tanede biri belki başarmıştır, başarsa. (Yourcenar’dan geçenlerde söz ettim. Gore Vidal da müthiştir, siyasi iktidarı onun kadar iyi gözlemlemiş birini tanımıyorum.)
 
 Yazar dersini iyi çalışmış, detay veya atmosfer veya dil ve üslup hatası yok gibi. Konu da az çok sürükleyici. Ama dönem ve mekân hangisi olursa olsun, gerçek tarih o kadar ilginç ki, avamın elinde romanlaştırılınca yolunmuş tavuğa dönüyor.
-
-#### 2 yorum:
-
-1. **[Laedri](https://www.blogger.com/profile/02931916901458357552)**[7 Temmuz 2017 19:15](http://nisanyan1.blogspot.com/2017/07/iki-tarihi-roman.html?showComment=1499444158966#c6526448230741932610)
-
-   **Wolf Hall**'un devam kitabı varmış: **Bring up the Bodies**
-
-   Her iki kitap da **Man Booker Prize** kazanmış, şimdi 2019'a doğru 3. kitap yoldaymış: **The Mirror and the Light**
-
-   *https://www.theguardian.com/books/2017/jul/05/hilary-mantel-says-final-wolf-hall-book-unlikely-to-come-out-in-2018-as-planned*
-
-   [Yanıtla](https://www.blogger.com/null)
-2. **[Sert Kalemler](http://www.sertkalemler.com/)**[11 Temmuz 2017 07:49](http://nisanyan1.blogspot.com/2017/07/iki-tarihi-roman.html?showComment=1499748579254#c3816265731164792073)
-
-   Hocam, güzel bir inceleme olmuş ama konu biraz daha açılabilirdi.
-
-   [Yanıtla](https://www.blogger.com/null)

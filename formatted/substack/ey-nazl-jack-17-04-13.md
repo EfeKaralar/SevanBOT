@@ -33,23 +33,3 @@ Yanlış hatırlamıyorsam Birinci Haçlı Seferi sırasında, 1098’deki Antak
 Andrew ya da Andreas ise İsa’nın on iki havarisinden biri. O zamanlar adı henüz Konstantinopol değil Byzantion olan İstanbul’a gelmiş, rivayete göre buradaki Hıristiyan cemaatinin temelini atmış, daha sonra X şeklinde bir çarmıha gerilerek idam edilmiş. Türbesinin olduğu yer Bizans zamanında Aziz Havariler Kilisesi idi; şimdi Fatih Camiidir, İstanbul’un en kutsal yeri.
 
 Aziz naaşının bir cüzü sonradan hatırlayamadığım bir tarihte İstanbul’dan alınıp İskoçya’ya götürülmüş, Hıristiyan dininin İskoçya vahşilerine ulaşmasında baş rolü oynamış. Oradaki türbesinin bulunduğu St. Andrew kasabası, şimdi Avrupa’nın en eski ve köklü üniversitelerinden birini barındırıyor.
-
-#### 4 yorum:
-
-1. **[bartleby](https://www.blogger.com/profile/12091503763479506512)**[14 Nisan 2017 12:28](http://nisanyan1.blogspot.com/2017/04/ey-nazl-jack.html?showComment=1492162135331#c4162731849305938227)
-
-   Ben de burada yaşamaya başladıktan sonra farkettim. Hatta içimi burkuyor, ekseri yaşlılar abartılı biçimde yapıyorlar bunu. Semtte gayri müslim nüfusun yaş oranı daha yüksek zaten.
-
-   [Yanıtla](https://www.blogger.com/null)
-2. **Adsız**[8 Mayıs 2017 17:28](http://nisanyan1.blogspot.com/2017/04/ey-nazl-jack.html?showComment=1494253712033#c7530428521953710934)
-
-   ^İskoçya vahşileri^
-
-   Pict halkı değil miydi onlar?
-
-   [Yanıtla](https://www.blogger.com/null)
-3. **[ugur efem](https://www.blogger.com/profile/17018778348052876850)**[15 Mayıs 2017 19:49](http://nisanyan1.blogspot.com/2017/04/ey-nazl-jack.html?showComment=1494866962997#c6437747476022582651)
-
-   Union Jack'de iki degil uc tane hac vardir. Irlanda'nin simgesi beyaz uzerine kirmizi capraz St Patrick haci da Union Jack'de var.
-
-   [Yanıtla](https://www.blogger.com/null)

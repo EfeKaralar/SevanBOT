@@ -24,11 +24,3 @@ Vasatın gözüyle bakarsan, siyasi kariyeri bir tutarsızlıklar zinciridir. Ge
 “Tüm dünyayı inanmaya zorlar, ama zorla elde ettiği hakka kendisi inanmaz. Gayrimeşruluk, bir hayalet gibi peşinden gelir. Zafer alaylarında ve savaş meydanlarında peşini bırakmaz. Yasalar çıkarır, sonra değiştirir. Anayasalar yapar, sonra ihlal eder. Kum üzerine kurduğu yapının temelleri dipsiz boşlukta kaybolur; asla kendisini tatmin etmez.”[2]
 \*Yıllar sonra dönüp okuduğumda daha net görebiliyorum, *Yanlış Cumhuriyet*’in başlıca ilham kaynağı Benjamin Constant’ın *De l’usurpation*’u olmuş. Günün birinde de roman yazacak olsam, *Adolphe* gibi olmasını isterim: alabildiğine duyarlı, ama aynı zamanda acımasız; akılcı, ama aklın çaresizliğini bilen.
 [1] Özgün Le Normant & Nicolle (Paris 1814) basımında sf. 90, çeviri benim. Online gallica.bnf.fr altında.[2] A.g e. sf. 78.
-
-#### 1 yorum:
-
-1. **Adsız**[17 Nisan 2013 18:38](http://nisanyan1.blogspot.com/2012/09/benjamin-constant.html?showComment=1366213113359#c8327261766507598683)
-
-   Her gün evden çıkmadan önce ya da yatmadan önce üç kere okunsa yeridir.Teşekkürler Hz.Sevan!
-
-   [Yanıtla](https://www.blogger.com/null)

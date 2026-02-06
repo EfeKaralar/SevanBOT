@@ -35,16 +35,3 @@ Peki dedim, boynumuz kıldan ince, okuyacağız. Facebook'a yazdık; sağolsun, 
 Ama söz, pes etmeden sonuna kadar okuyacağım. Sonuçta tarih literatürünün temel taşlarından biri, bu yaşa kadar okumamış olmak ayıp. Belki okudukça açılır, beğenirim; burada dediklerimi yutmak zorunda kalırım.
 
 Vakit bol ne de olsa.
-
-#### 3 yorum:
-
-1. **Seda**[28 Haziran 2014 10:37](http://nisanyan1.blogspot.com/2014/06/romann-gerileyis-ve-cokusu.html?showComment=1403941042811#c5567276085142097839)
-
-   Merhaba! Merak ettim, Gibbon'ın kitabını şimdi alacak olsanız yine Modern Library edisyonunu mu tercih ederdiniz? Editörü Hans-Friedeich Müller olan kısaltılmış edisyon mu? Zaten aklımdaydı, yazınızı okuyunca hemen alıp okumaya heveslendim, o sebeple soruyorum. Çok teşekkürler şimdiden.
-
-   [Yanıtla](https://www.blogger.com/null)
-2. **Adsız**[28 Haziran 2014 20:17](http://nisanyan1.blogspot.com/2014/06/romann-gerileyis-ve-cokusu.html?showComment=1403975830478#c3066377721848503779)
-
-   Gibbon'ın "Roma İmparatorluğu'nun Gerileyiş ve ve Çöküşü " eserini Almancaya tercüme eden de başka bir deha olan Moltke'dir.
-
-   [Yanıtla](https://www.blogger.com/null)

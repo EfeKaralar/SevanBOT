@@ -24,23 +24,3 @@ Göçün sebebi nereye kadar katliam korkusudur, nereye kadar Ruslar yeni aldık
 --------------
 DİPNOT
 ¹ H. S. Eprigyan, *Badgerazart Pnaşxarhig Pararan* [Resimli Coğrafya Sözlüğü], iki kalın cilt, Venedik 1902. Hazinedir.
-
-#### 1 yorum:
-
-[![](file:///C:/Users/Sony/Documents/Blog%20cache/Sevan Nişanyan_En Son Yazıları_ Kırkbin köyün biri_files/blank.gif)](file:///C:/Users/Sony/Documents/Blog%20cache/Sevan Nişanyan_En Son Yazıları_ Kırkbin köyün biri_files/blank.gif)
-
-Adsız[27 Eylül 2011 23:49](http://nisanyan1.blogspot.com/2011/09/krkbin-koyun-biri.html?showComment=1317156599126#c2950044331528067883)
-
-Bahsettiğiniz, yeni adı "Güzelyayla" olan köyün eski adı da zaten Türkçe imiş "Kızılkilise". Ermeniler kendi köylerine "burada kızıl renkli bir kilise var, o halde adını Kızılkilise koyalım" diyerek "Türkçe" koyacak değiller gibime geliyor.
-
-Kızılkilise köyünün, "Kızılkilise"den de önce bir adı var mı? Yok ise neden Ermeniler köyün adını Türkçe koymuşlar?
-
-Adlarında "kilise", "Rum" vb. sözcükler olan yer adları değiştirilmiş ancak bu adlar zaten Türkçe idi, meselâ Türkbükü'nün eski adı "Rumbükü"dür. Eyvah "Rum" diyor, bu adı değiştirelim diyenler bu yeradının zaten Türkçe olduğunu algılayamamışlar sanırım. Mesela bu örnekte de Rumbükü'nden önce buranın başka bir adı olmalı.
-
-Türkleşme/Türkçeleşme zaten "Rumbükü" dendiğinde olmuş.
-
-"Eski adların iadesi" derken kast edilen nedir? Yukarıdaki örnekler üzerinden gidersek meselâ "Güzelyayla"ya yeniden "Kızılkilise" mi denmeli, yoksa "bu ad Türkçe, bundan öncesi de olmalı" deyip eşeleyerek eski adı mı bulunmalı? Bulunamazsa da Kürtçülerin yaptığı gibi uydurarak (ezelden beri bilinen ad olan Karapınar > 'uydur' > Karepungal gibi) ille de Ermenice/Kürtçe/x'çe (aman Türkçe olmasın da) bir ad mı konmalı?
-
-Eğer en eski adı seçeceksek Ankara < Hattuşaş, Van < Tuşpa mı olacak? Başlama çizgisini neresi olarak belirleyeceğiz? Van Ermenice olduğu için buradan mı başlanılacak yoksa amaç tarihi adlara saygı/yaşatma ise bu kente Tuşpa mı denecek? :) Sonuçta Ermeniler de Urartular Ermenileşince kentin eski adı olan Tuşpa'yı "Van" olarak "değiştirmişler". Tarih tekerrür edip durur...
-
-[Yanıtla](https://www.blogger.com/null)

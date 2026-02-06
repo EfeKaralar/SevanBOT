@@ -12,22 +12,3 @@ Mar 17, 2017
 ---
 
 [[1]](file:///D:/sevan/ne%20g%C3%BCzeldi%20eskinin%20zorbalar%C4%B1.doc#_ftnref1) Mark Lilla, [The Shipwrecked Mind: On Political Reaction](https://www.amazon.com/Shipwrecked-Mind-Political-Reaction/dp/1590179021), NYRB 2016. Altın Çağ dememiş, Eden demiş. Eden’i burada cennet diye çeviremeyiz, çünkü Eden “geçmişteki cennet”tir, Adem ile Havva‘nın kovulduğu yerdir. Oysa Türkçedeki cennet, gelecekteki bir saadeti ima eder.
-
-#### 2 yorum:
-
-1. **[Laedri](https://www.blogger.com/profile/02931916901458357552)**[18 Mart 2017 13:32](http://nisanyan1.blogspot.com/2017/03/ne-guzeldi-eskinin-zorbalar.html?showComment=1489833132052#c1796188932236013138)
-
-   Hala 'Ah Atam vah Atam' diyenler, Türkiye'de sesi gür çıkan, siyasi psikozla malul bir azınlık, ülke halkında ciddi tabanı yok. Bunu Sevan da iyi biliyor aslında. Türkiye'nin en büyük problemi cehalet ve ortalama eğitim seviyesinin düşüklüğü, ve elbette çarpık şehirleşme, innovatif olmayan, ancak düşük teknoloji imal edebilen zayıf bir sınai altyapı. Maalesef, gençlerin de pek çoğu iyi eğitim alamıyor ve yeni nesil de cahil yetişiyor. Bu, Türkiye'nin istikbalinin de karanlık olduğuna işaret eder.
-
-    Mamafih, 2. Abdülhamid'i ve Menderes'i darbeyle devirmek iyi fikirler değildi. Gelen gideni arattı, maziye duyulan romantik hasretin sebebi budur bir yerde. Şunu ilave ediyorum:
-
-    *"...İslamiyet’in gerek teori, gerek pratik açısından muzır bir akım olduğunu hep düşündüm, hala düşünüyorum. Islah edilebilir mi? Beş sene önce olsa iyimser bir cevap verirdim. Şimdi emin değilim. **Fakat ortada taş gibi bir gerçek var. Bu memlekette insanların yüzde yetmişi, sekseni Müslümanlığı ciddiye alıyor ve yakın gelecekte bu durumun değişebileceğine dair hiçbir belirti yok.** Bu durumda önümüzde iki yol görünüyor. Ya demokrasi ve fikir özgürlüğü hayalinden vaz geçeceğiz, ya da Müslümanlığın demokrasi ile bir şekilde bağdaşabileceğine dair umut beslemeye ve çıkış yolları aramaya devam edeceğiz..."*
-
-    **Sevan Nişanyan 7 Ağustos 2015**
-
-   [Yanıtla](https://www.blogger.com/null)
-2. **[cyrano](https://www.blogger.com/profile/07013020014269390002)**[18 Mart 2017 23:34](http://nisanyan1.blogspot.com/2017/03/ne-guzeldi-eskinin-zorbalar.html?showComment=1489869240279#c2143259574139647065)
-
-   Eee, siz değil miydiniz hipotetik olarak monarşi kalsaysı daha iyi olurdu diyen? Millet belki onun için özlüyor.
-
-   [Yanıtla](https://www.blogger.com/null)

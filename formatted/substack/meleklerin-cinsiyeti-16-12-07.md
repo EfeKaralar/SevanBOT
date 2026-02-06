@@ -15,11 +15,3 @@ O devirde bilgi meleklerin cinsiyetiymiş. (Ki değil, Gemistos Plethon’u, Kar
 Benim kişisel tarihimde de melekolojinin yeri var. On yedi yaşındaydım, Aquinas’ın Summa’sında “iki melek aynı anda aynı yerde bulunabilir mi” sorusuna denk geldim. Hayır, melek diye bir şey yok, o zaman da biliyordum bunu. Ama soru o değil. Maddi olmayan bir varlık ne demektir? İki şeyin aynı yerde olması ne demektir? ‘Şurada bir canlı var’ ve ‘şurada bir kedi var’ derken aynı şeyden mi söz ediyoruz? O ufacık kapıdan bakarsan önünde dev bir felsefe uçurumunun açıldığını görürsün. Thomas Aquinas tarihin en parlak spekülatif kafalarından biridir; iki sayfada öyle bir analiz getirir ki apışıp kalırsın; o gün benim yaptığım gibi, felsefe okumaya karar verirsin.
 
 Şimdi evimde olsam kaçıncı bölüm, kaçıncı soru, hemen bakar bilgi verirdim size. Sağdaki dolabın en üst rafında, sekiz ciltlik eski bir Latince baskı. 28 Şubat’ın meşhur şeyhi vardı, Ali Kalkancı mıydı, onun abisi olan bir sahaf dostumdan ucuza almıştım, 2009 ya da 2010 olmalı.
-
-#### 1 yorum:
-
-1. **[abeyazlar](https://www.blogger.com/profile/04513779793711526379)**[13 Aralık 2016 17:58](http://nisanyan1.blogspot.com/2016/12/meleklerin-cinsiyeti.html?showComment=1481641119200#c7493572900459400459)
-
-   Farklı katagorilerde kahraman olmak güzel. Yaşam bir bütün, var olmadan varlığı sorgulayamayız. Sorgularsak kakafoni olur.
-
-   [Yanıtla](https://www.blogger.com/null)

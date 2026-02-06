@@ -54,34 +54,3 @@ Bana bu hizmeti yapan insanlara karşı benim de bir borcum var diye düşünüy
 **SORU: Kule hakkında biraz bilgi?**
 
 CEVAP: Taş beden 9.60 metre, çatıyla beraber 12 metre. 2 Eylül’de temeli kazdık, 5 Kasım’da (bugün) bitirdik. Şirince köyünün üst ucunda, Nişanyan Evleri arazisi içinde. Tepesinde manzara terası var. Herkesin ziyaretine açık, ücretsiz. Bir şey de satmıyoruz; ticari amacımız yok.
-
-#### 3 yorum:
-
-1. **[Elif Kaplan](https://www.blogger.com/profile/07517482570698381819)**[9 Kasım 2010 23:53](http://nisanyan1.blogspot.com/2010/11/hodri-meydan-kulesi-basn-bildirisi.html?showComment=1289339603050#c6010580882802822567)
-
-   Sayin Sevan Nisanyan,
-
-   Oncelikle sizi bu cesaretinizden dolayi tebrik etmek isterim ilk adimi atmak zordur, her birey buna cesaret edemez ve imar teroru TC topraklarinin her bolgesinde yasanilan bir sorun. Umarim sizin bu cesaretiniz bircok vatandasa 'yetti gayri' deme firsati yaratir, ve umarim bu cesaretiniz sadece sirince sakinleri tarafindan degilde ulkenin bircok bolgesinde desteklenir.
-
-   Ama sizin yapmaya calistiginiz ulke genelinde uzak bir ihtimal... Neden mi? Cunku sizi yapilandiran bu sistem izin vermiyor.Ornek:
-
-   Dogu bolgesinde bir koyun sakinleri bos devlet arazisine her yil agac ekmisler(meyve veren agaclardan degil sadece iste mese cinar gibi), oyleki yillarin verdigi emek neredeyse ormanlik alan olmus. Ama yeni vali atandiktan kisa bir sure sonra durdurma karari almis, koyun sakinlerini de mahkemeye vermis koy halki kusmus bir daha devlet arazisine de agac ekmemeye karar vermis. Artik o vali agaclari yakmismi kesmismi bilemem, bildigim tek gercek yesil alan dusmani oldugu ve o koylu sakinlerini savunan kimsenin olmadigi. Hatta sistematik bir sekilde cabalarinin hice sayildigidir.
-
-   Hikaye formatina aldanmayin bu hikaye gercek hayatttan alinti. Sizin imar terorune karsi bu cabanizla, o koy halkinin yesil alan yaratma cabasi ayni. Umrim siz daha basarili olursunuz o koy sakinlerinden. Mac daha yeni basladi ve her nekadar Macin ilk golu sizden olsada macin bitmesine daha 89+uzatmalar var!
-
-   Iyi sanslar
-
-   Saygilarimla
-
-   [Yanıtla](https://www.blogger.com/null)
-2. **[eddd](https://www.blogger.com/profile/03288595638274264963)**[11 Kasım 2010 17:29](http://nisanyan1.blogspot.com/2010/11/hodri-meydan-kulesi-basn-bildirisi.html?showComment=1289489355137#c4835779227743145384)
-
-   Seviyorum Sevan amca seni ve inadını. Kule de pek güzel olmuş. Eline sağlık valla.
-
-   [Yanıtla](https://www.blogger.com/null)
-3. **Adsız**[11 Kasım 2010 18:40](http://nisanyan1.blogspot.com/2010/11/hodri-meydan-kulesi-basn-bildirisi.html?showComment=1289493620133#c1099830919480020964)
-
-   Sevan iyi sanslar. Turkiye'yi eksi zekalilarin yonetmesinden baygeldi artik.
-   -Vatansever Turk
-
-   [Yanıtla](https://www.blogger.com/null)

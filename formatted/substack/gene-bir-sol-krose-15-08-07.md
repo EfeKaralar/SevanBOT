@@ -81,33 +81,3 @@ Bireysel özgürlüğün şartı devlet düzenidir, evet. Kurtlar sofrasında ö
 Bunlar, takdir edersin ki bu günün koşullarında halkla kolay paylaşılabilecek konular değil. O yüzden, temel doktrin konularından çoğu zaman kaçınmayı tercih ediyorum. Belki bir ara derli toplu bir şeyler yazmanın zamanı geldi.
 
 Ilımlı İslam’a gelince, haklısın, bir kaç defa savunmuşum. Bana hiçbir zaman sempatik gelen bir fikir olmadı. Burnumu tutarak parmak ucuyla ellediğim bir görüştü belki. Ama, evet, makul bir görüştü; rasyonel ve savunulabilir bir stratejiydi. Belki tek kişinin cinnetinden bağımsız olarak düşünmeyi başarırsak halâ da büsbütün tükenmiş bir fikir değildir. Sonuçta, hoşuna gitse de gitmese de İslam bir olgu, ve Türkiye’nin toplumsal düzeni olsun, stratejik çıkarı olsun, bu olguyla yüzleşmeyi gerektiriyor.
-
-#### 4 yorum:
-
-1. **[A.Y-Z Bilişim](https://www.blogger.com/profile/06653826512895172126)**[10 Ağustos 2015 15:51](http://nisanyan1.blogspot.com/2015/08/gene-bir-sol-krose.html?showComment=1439211106830#c5334003662779608734)
-
-   [sudan ucuz](http://www.sudanucuz.co/)
-
-   [Yanıtla](https://www.blogger.com/null)
-2. **[Gökhan Siner](https://www.blogger.com/profile/03021224501282047788)**[11 Ağustos 2015 16:08](http://nisanyan1.blogspot.com/2015/08/gene-bir-sol-krose.html?showComment=1439298495680#c7557026174115747876)
-
-   yahu,orta okulda kemalistlerden cok zarar gördüm dion.kemalist ideolojide sana karsi bir hüküm yok.
-   islami ideolojiye göre,kurana göre kafirsin ve katledilip malina mülküne el koyulmasi icin ayet var.bkz.ganimet sur.
-   ben Atatürk ün fikirlerine inanan biriyim.yani laikci yim :)ancak ne facebook ta twetter da onunla ilgili tek bir sey paylasmam.senin yazilarindan din hakkinda aydinlandim(negatif)
-   aslinda senin Atatürke düsmanlik mecburiyetin var.tehcirden dolayi.Hirant malatyada ne demisti?onlar(emperyal gücler)bizi biririmize düsürüp amacina ulasirlar.kendin bildikten sonra kac Atatürkcü arkadasin oldu?sana hangi kötülügü yaptilar?
-   soru:evladin mutlaka biri ile evlenmek zorunda kalsa,dinciye mi,kemalist e mi evet derdin?
-   insallah(arapca,en kisa zamanda)tahliye olursun
-
-   [Yanıtla](https://www.blogger.com/null)
-3. **[Fırat Gök](https://www.blogger.com/profile/08890780296947952037)**[15 Ağustos 2015 21:25](http://nisanyan1.blogspot.com/2015/08/gene-bir-sol-krose.html?showComment=1439663125177#c540703717408439595)
-
-   Hocam mülk güvencesi çok çetrefilli bir mevzu. Ona girince bireysel özgürlükler sınırlanıyor,hatta yok ediliyor diyebiliriz. Mülk güvencesini açmadığınız ve geniş anlamda kullandığınız zaman,bunun benim gibi milyarca fakir insana risk teşkil ettiğini unutmamanız gerekiyor. Mülkiyetin sınırlarını ifade etmemeniz ise muallak durumu daha da tehlikeli kılıyor.
-
-   Mülkiyeti savunan sizin kendi tabirinizle "muhafazakar anarşist" olmanız arasında derin bir çelişki var. Su kaynaklarının,ormanların,meraların dahi mülkiyet kapsamına alınmaya başlandığı bir ortamda mülkiyeti açıkça ben savunamam. Kendi mülkümü bile savunmayı ahlaksızlık,kendimle yaşadığım içsel çelişki olarak nitelerken sizin böyle geniş yargılarınız eğreti duruyor. Yakıştıramadığımı itiraf etmeliyim.
-
-   [Yanıtla](https://www.blogger.com/null)
-4. **Adsız**[17 Ağustos 2015 15:07](http://nisanyan1.blogspot.com/2015/08/gene-bir-sol-krose.html?showComment=1439813238373#c5230981274573293172)
-
-   çkp nin kültür devrimi zırvalıklarının topluma verdiği zararı çok küçümsemiş sol kroşe atan arkadaş. öyle 10 yılla sınırlı şeyler değil maalesef.zulüm düzeni ve geçmişte devrim adına yapılan saçmalıkların etkileri hala devam ediyor.kurulan sistem bizatihi zorbalık üreten bir yapıdır.böyle hangi sistem olursa olsun insan hayrına değildir.
-
-   [Yanıtla](https://www.blogger.com/null)

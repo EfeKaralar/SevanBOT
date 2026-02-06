@@ -37,29 +37,3 @@ Yedi yıldan beri bu soruların cevabını bulmaya çalışıyoruz. Tiyatro Medr
 Gelenler Matematik Köyü’ne bayılıyor. Taparcasına seviyorlar. Doğallığını ve eklektizmini beğeniyorlar. “Sanki kendiliğinden olmuş gibi” diyorlar. “Sanki yüzyıllardan beri buradaymış, siz ortaya çıkarmışsınız” diyorlar. “Tarih kokuyor” diyorlar.
 
 Ali Nesin ile ben ise, yaptığımız her binada hatalarımızı ve eksiklerimizi görüp birbirimizin başının etini yiyoruz. Her seferinde sıfırdan düşünmeye başlayıp, kusursuz ütopya mekanının nasıl bir yer olacağını bulmaya çalışıyoruz.
-
-#### 10 yorum:
-
-1. **Adsız**[21 Temmuz 2014 03:05](http://nisanyan1.blogspot.com/2014/07/utopya-insa-etmek.html?showComment=1405901108254#c9000972937448216550)
-
-   Bende düşündüm bir zamanlar buna benzer şeyler. Sanırım dört dörtlük mekan imkansız. Çünkü doğanın işleyişi bozuk. Güneşin doğuşu, batışı, duruşu. Ağaçlar, toprak, su, taş, ay, yıldız filan hep düşününce iş sarpa sarıyor. Aydınlanma, ısınma, beslenme, sevişme, yürüme, çay, kahve, meyva suyu dedikçe kafa patlıyor. Cennette bile yoktur bizim sizin düşündüğüm(n)üz köy, bölge, mekan her neyse. Bilemiyorum, ben böyle mükemmel bir bölge için ümitsizim.
-
-   [Yanıtla](https://www.blogger.com/null)
-2. **[prowlingparis](http://prowlingparis.com/)**[21 Temmuz 2014 11:05](http://nisanyan1.blogspot.com/2014/07/utopya-insa-etmek.html?showComment=1405929900784#c5197482624159240149)
-
-   İyi ki yapmışsın Sevan örtmenim. Ben de birkaç ay önce canım burnumdayken senin ütopyaya uğrayıp nefes almıştım. Tesadüf, aktivite vardı köyde, bi güzel de besledi beni elemanlar. Gözlüğü çıkarıp kütüphanenin önündeki güverteden dağa taşa kayaya odaklandıydım--ev terapisi. Aman diyim hapiste zihnini aktif tut, esneme haraketlerini yap, çıkınca daha gür uzayasın!
-
-   Anadolu tanrıları sana Betmen gibi kuvvetli zihin/sabır bahşetsin. Veleddelin-amin!
-
-   [Yanıtla](https://www.blogger.com/null)
-3. **[Guneydesign](http://www.guneydesign.com/)**[26 Eylül 2014 12:58](http://nisanyan1.blogspot.com/2014/07/utopya-insa-etmek.html?showComment=1411725527727#c839103552542739377)
-
-   Sabırla emek vererek bir şeyler inşaa etmişsiniz tebrik ediyorum kusursuz ütopya varetmek bir sonraki aşama için yapılacak bir şeyin olmaması demek tıpkı yarış gibi 2. olan hep 1. ci olmak için çalışıp çabalayıp 1. olma hayali ile yaşar yani UMUT :)
-
-   [Yanıtla](https://www.blogger.com/null)
-4. **Adsız**[2 Ekim 2014 19:54](http://nisanyan1.blogspot.com/2014/07/utopya-insa-etmek.html?showComment=1412268891705#c4094417009091281681)
-
-   Sevgili Sevan Nişanyan'ın adının, Şirince denen köyle birlikte anlıma sebebi herhalde hepimizin malumudur.Bunu kimse yadsıyamazken,yapılanların tüm dünya tarafından takdir edildiği meydandayken,sırf Ermeni,ve devletin memurlarının akılsızlığına tahammül edemiyor diye,içeri tıkmanın utancını bu ülke yüzyıllarca üzerinden atamayacaktır.
-   Garo Kapriyelyan
-
-   [Yanıtla](https://www.blogger.com/null)

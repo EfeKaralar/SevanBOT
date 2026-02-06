@@ -29,21 +29,3 @@ Daha ilginç bir ayrıntı göze çarpıyor, ki kitabın asıl üzerinde durduğ
 Gene olur mu? Kitap bu konuda kesin bir tavır almaktan kaçınıyor. Atmosferdeki karbondioksit oranının, daha önceki normallerin iki-üç katına çıkmasının sonucu ne olur? Buna da sadece parmak ucuyla değiniyor. Çıkardığı sonuç kısaca şu: İklime güvenme. 11.500 senedir iyi gitmesi, hep öyle gidecek anlamına gelmez. Biraz geniş açıdan bakarsan, normal olan iklimin düzgün gitmesi değil, gitmemesi. Hesabını ona göre yap.
 
 Neydi o filmin adı? *Day After Tomorrow,* hani buz çağı bastırınca New York Şehir Kütüphanesine sığınıyorlar. Galiba ilhamını bu kitaptan, ya da akıntı batması tezinin asıl sahibi olan Columbia Üniversitesinden Wally Broeker'den almışlar.
-
-#### 3 yorum:
-
-1. **[Huysuz Herif](https://www.blogger.com/profile/00786634662151654081)**[2 Temmuz 2016 17:14](http://nisanyan1.blogspot.com/2016/07/gronlandn-buzu.html?showComment=1467468865909#c9169103083942213123)
-
-   Hocam daha kaç sene içeridesin? 12-13 yıl ceza aldığını okudum ama o kadar yatmazsın herhalde. sen aslında akıllı adamsın ama biraz kendine hakim olamıyorsun ya da çok sivri görünüp popüler olma yolundasın. Yani bu kadar müslüman bir iktidarın seni rahat bırakacağını düşünmen biraz saflık. Ben olsam kapağı yurtdışına atardım. Belki senin gibi okuyup yazmayı seven birisi için hapishane o kadar da kötü değildir. Çünkü okuyan ve yazan çok insan zaten 4 duvar arasında yaşıyor. Yani görüşlerin benim gibi agnostik biri için çok orjinal değil ama senin adına üzgünüm. He burada senden hoşlanıyor değilim fikirlerinin bazıları bence takıntı düzeyinde olsada düşüncen nedeni ile içeride olman beni üzüyor. Yazılarını takip edicem. Şu son dönem işid olayları hakkında neler düşünüyorsun? Benim düşüncem bunların amerikan seçimleri öncesi çoğalacağı yönünde. Tekrar geçmiş olsun üstad. umarım tez zamanda çıkarsın. (sence hapishane terbiye edici bir deneyim mi? )
-
-   [Yanıtla](https://www.blogger.com/null)
-2. **Adsız**[3 Temmuz 2016 16:45](http://nisanyan1.blogspot.com/2016/07/gronlandn-buzu.html?showComment=1467553523519#c1062131868937404520)
-
-   eminim ki,tecritte bulunduğunuz günlerde sizin için umut ve direniş kaynagı olmuştur bu okuduklarınız...az da olsa ,insanlık için umut var...az sayıdaki aydınlık insanlar sayesinde...selamlar...
-
-   [Yanıtla](https://www.blogger.com/null)
-3. **[ylmz](https://www.blogger.com/profile/08991851878697500924)**[8 Temmuz 2016 01:09](http://nisanyan1.blogspot.com/2016/07/gronlandn-buzu.html?showComment=1467929399943#c2812479489504136092)
-
-   Harika bir yazı olmuş. Iyi ki bilim insanları varlar ki anlaşılmaz dünyayı anlaşılır kılıyorlar diyesi geliyor insanın.
-
-   [Yanıtla](https://www.blogger.com/null)
