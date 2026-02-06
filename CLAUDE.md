@@ -31,6 +31,10 @@ python3 src/chunk_documents.py                              # Simple context (de
 python3 src/chunk_documents.py --context-mode llm           # LLM-generated context (requires ANTHROPIC_API_KEY)
 python3 src/chunk_documents.py --context-mode llm --max-docs 10  # Test on 10 docs
 
+# Resume/checkpoint features (interrupt-safe)
+python3 src/chunk_documents.py --context-mode llm           # Automatically resumes from chunks_contextual.jsonl
+# Ctrl+C to stop, run again to continue - already-processed docs are skipped
+
 # Compare context modes side-by-side
 python3 src/compare_contexts.py --sample 5                  # Compare 5 random documents
 python3 src/compare_contexts.py --source sevan --sample 3   # Compare 3 Sevan articles
@@ -71,15 +75,24 @@ The chunking pipeline now supports two context enrichment modes:
 - Turkish-language prompts optimized for essay content
 - Cost: ~$2-3 for full corpus (~6,850 chunks)
 - Output: `chunks_contextual.jsonl`
+- **Resume/checkpoint support**: Interrupt-safe, skips already-processed documents
 
 **Setup for LLM mode:**
 ```bash
 # Create .env file
 echo "ANTHROPIC_API_KEY=your_key_here" > .env
 
-# Run with LLM context
+# Run with LLM context (can interrupt with Ctrl+C and resume)
 python3 src/chunk_documents.py --context-mode llm
+
+# Progress is saved incrementally - safe to stop/resume anytime
 ```
+
+**Resume functionality:**
+- Automatically detects existing `chunks_contextual.jsonl`
+- Skips documents that already have chunks in the file
+- No re-processing or duplicate API calls
+- Perfect for slow/unreliable networks
 
 **Compare modes:**
 ```bash
