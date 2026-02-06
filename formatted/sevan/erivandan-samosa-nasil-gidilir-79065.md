@@ -1,0 +1,43 @@
+# Erivan’dan Samos’a nasıl gidilir
+
+*Pazar Sohbeti*
+
+13 December 2021
+
+**Anahtar Kelimeler:** Bergamasco, Duino, Erivan, Padova, Samos
+
+**Kaynak:** https://www.sevannisanyan.com/metin/erivandan-samosa-nasil-gidilir-79065
+
+---
+
+**Yunanistan’dan sınır dışı emrini aldıktan sonraki günlerin yolculuk notları.**
+
+Yerevan’da üç haftaya yakın bir vakit geçirdim. Tabii bu işler bedavaya olmuyor. Ekonomik anlamda bir yıkım oldu. Sağa sola gidiyorsun, serseri mayın gibi dünyayı dolaşıyorsun.
+
+Geçen pazartesi bir uçak biletim vardı. Moskova üzerinden Belgrad’a dönüş. O gün yeni Covid tedbirlerini açıklamış. Yerevan Havaalanı’nda inanılmaz bir ana baba günü, binlerce insan yığılmış, daha önce yaptırılmış PCR testlerin hepsi geçersizmiş, yeniden yaptırmak gerekiyor. Havaalanında sıra sıra laboratuvar kurmuşlar, Doktor Jivago filmindeki Ekim ihtilali günleri gibi binlerce sefil insan, yükler, valizler, çantalar, paketler, balyalanmış samanlar, üst üste, iç içe. Uçağı kaçırdık. Ertesi sabaha zar zor bilet buldum. Bari dedim şehre dönmeyeyim, havaalanı yakınında ucuz bir pansiyon bulup orada yatayım. Sanayi mahallesinde 3. sınıf bir pansiyon buldum. Odaya girdim, duş almaya hazırlanıyorum. Bir feryat figan, bildiğin gibi değil, adam boğazlıyorlar. Kapıyı açtım baktım, odanın önündeki holde adamın biri bıçaklanmış, yerde kanlar içinde yatıyor. Kadın bıçaklamış, fabrika sireni gibi bağırıyor. Bıçaklanan adamın yakınları kadını yakalamaya, belki öldürmeye çalışıyor. Odamın kapısı eski usul buzlu cam kapı, bir omuz atsalar cinayet sahnesinin ortasındayım. Neyse, biraz sonra ortam yatıştı. Adam da ölmemiş zaten.
+
+Moskova’dan aktarmalıydı uçak. Orada yedi sekiz saat vaktim vardı. Haydi dedim şehri dolaşayım. Görkemli bir şehir Moskova. Emperyal bir şehir olduğunu hissettiren yerlerden. Kızıl Meydan’da Noel Pazarı kurmuşlar, eski masallardan çıkma bir ortam, bir Kırmızı Şapkalı Kız eksik. Lapa lapa kar yağıyor. Yorgunum da, uyumamışım çünkü önceki gece o cinayet hadisesinden dolayı. Bir taksiye atladım. Gayet tatlı dilli genç bir Gürcü, birkaç kelime Ermenice de biliyor. Amerika’ya göçmek istermiş. Epey sohbet ettik. Sonra yorgunluktan uyuyakalmışım. Havaalanına vardık, kredi kartını verdim, 25 bin dedi. Tamam dedim, 25 bin. Bak dedi taksimetre de yazıyor. Kafamda Ermenistan parası var, Ermenistan parası ile 50 dolar eder aşağı yukarı. Çok pahalı ama olmayacak bir şey değil. Peki dedim, ne yapalım. 25.000 ruble meğer 400 dolardan fazlaymış. Adam şak diye geçirmiş. Neyse, fark ettim sonradan. Telefon ettik, bankadan durdurmaya çalıştık. Bakalım netice ne olur.
+
+Arabam Belgrad’daydı. Zürich’e uğramam gerekiyordu. Yola koyuldum. Trieste yakınından geçerken Duino’ya göz atmamak olmaz diye düşündüm. Duino’nun falezlerinde dolaşırken yazmış Rilke Duino Elejileri’ni, yıllar önce ezberlemiştim bir kısmını, şimdi beş mısra hatırlasam şanslıyım:
+
+Wer, wenn ich schriee, hörte mich denn aus der Engel/Ordnungen?
+
+Akşama Padova’yı hedefledim. İtalya’nın tarihi kasabaları dünyada benzersizdir. Başka hiçbir yerde bulamayacağın zenginlik ve görkemlilikte binalar yapmışlar; sonsuz özgüvenle, cool ve küstah güzellikler yaratmışlar. Ne Almanya’da vardır böylesi sanat zenginliği, ne Fransa’da, ne de başka yerde.
+
+Eski kasaba ve şehirler cana yakın, sıcak, kucaklayıcı; gerisi çöp. Türkiye ayarında bir memleket modern İtalya. Padova’nın merkezi, Kuzey İtalya’daki tüm şehirler gibi harikulade bir yer. Bir zamanlar İtalya’nın en önemli üniversite kentlerinden biri olmuş. Tarihi meydandaki üniversite binalarını dolaşınca insanın 13. yüzyılda üniversite talebesi olması geliyor. Merkeze ulaşmak için on kilometre sanayi mıntıkasından ve yeni yapılaşmalardan geçiyorsun. Allah belasını versin bütün bu insanların diye diye için şişiyor. Öyle bir şey.
+
+Padova’ya inmişken Aziz Antonio’yu anmadan olmaz. Kilise ve türbesi Avrupa’nın en ünlü dini ziyaretgahlarından biridir. Azizin kabrini çevreleyen dokuz kabartmanın önünde, ağzım bir karış açık, iki saat geçirdim. Tüm detayları fotoğraflamaya çalıştım. Rönesans sanatının zirvelerinden biri olduğuna kanaat getirdim. (Öbürü Siena Katedralinde Papa II. Pius Kütüphanesi’dir). Aziz Antonio aşağı yukarı Hacı Bektaş Veli ile Mevlana Celaleddin’in çağdaşıdır. Benzer konularla, benzer bir ruh ve yaklaşımla ilgilenmiş. Yeterince okumamış olduğum için hayıflandım.
+
+Otoyol tıklım tıklım trafik, bir türlü akmıyordu. Bari arka yollardan gideyim dedim. Büyük yanlış! Alp Dağları’nın eteğinde, haritaya baktığında güzel olabilir dediğin yerler, uç uca tek şehir gibi birleşmiş. Ayrı ayrı kasabalar sözde ama kırk kilometre boyunca tek bir şehrin içinden gidiyorsun. İzmit’ten farkı yok, öyle bir kepazelik. Modern dünyanın nasıl bir facia olduğunu anlamak için sanırım İtalya güzel bir örnek. Bütün dünyada yeni yapılaşma aşağı yukarı aynı derecede çirkin, ama İtalya’de eskilerin güzelliğiğyle yan yana gelince büsbütün can yakıyor.
+
+Bergamo’da bir gece kaldım. Daha önceden pek bilmediğim bir şey, duymuşum da aklımda yer etmemiş, Bergamo civarındaki köylerde konuşulan bir dil var. Bergamasco dili, İtalyanca’ya benzer fakat İtalyanca değil, biraz Fransızca’ya yakın, fakat ne İtalyanca ne Fransızca ile karşılıklı anlaşmaya yaramayan bir dil. Bir tür oraların Zazacası gibi. Avrupa imgeleminde Bergamasco bir tür köylü havası ve kaba pantomimle anılır. Uzun burunlu grotesk maskelerle oynanır. O soytarı kılığının altında büyük bir hüzün sakladığı söylenir. (Debussy’nin de bir Suite Bergamasque’ı vardır, bilirsiniz.) Bir kitapçıya girdim, Bergamasco dili hakkında bir iki kitap, broşür, ne bulduysam aldım. Ne de olsa dilci sayılırım.
+
+Como Gölü üzerinde Menaggio köyünde birkaç yıl önce kızımla beraber bir gece kalmıştık. Hatırlamak için oraya uğradım. Yemek yedim. Zürich’e geçtim. Niyet Paris’e devam etmekti, orada arkadaşlar var beni misafir etmek isteyen. Ama aniden fikir değiştirip Samos’a dönmeye karar verdim. Sonuna kadar bastırıp soluğu sabaha karşı Ancona’da aldım. Oradaki eski Ermeni kilisesini görmek istemiştim, ama berbat bir yağmur yağdığından vazgeçtim. Beş dakikalığına bıraktığım araba feci bir park cezası yemiş. Polise, İtalya’ya ve çağdaş dünyaya bela okuyarak feribota bindim. İkinci — pardon üçüncü — vatanım Yunanistan’a döndüm.
+
+Biliyorsunuz, bu ülkede ulusal tehdit kategorisindeymişim. Nasıl bir saçmalık olduğunu hala anlayabilmiş değiliz. Önce şoke oluyorsun. Sonra neyi yanlış yapmış olabilirim diye aklını zorluyorsun, sebep bulmaya çalışıyorsun. Sonra, her seferinde olduğu gibi uyanıyorsun ki bürokrasi bütün dünyada böyledir, öncelikle aptaldır ve daha vahimi, yüreği kötüdür. Bir insan neden devlet memuru olur? Gerçek hayatında hemen her zaman aciz, küçük, sıradan bir insandır. Hayata normal olarak şamar oğlanı olmak için gelmiş insanlardandır. Arkasına devlet memurluğunu aldığı zaman, insanlara kötülük etme yetkisini kazanır. Koltuğunda kurum kurum kurlularak ‘yasak kardeşim’ deme gücüne kavuşur. Maskeni niye takmıyorsun? Burnun açıkta kalmış, kapat çabuk! Bir kağıdın eksik, bugün git, haftaya gel! Böylece önemli insan olursun. Zavallı, küçük, pis hayatın bir anlam kazanır. Bir şey olursun. Bunu kullanmaz mı insan? Sen olsan kullanmaz mısın bu yetkini? Olay o.
+
+Dünyanın başındaki en büyük hastalık bugün Covid filan değil, başını alıp gitmiş bürokrasilerdir, polis devletidir. Kontrolsüzce büyüdü, güçlendi, insani olan her şeyi ezip geçme gücü kazandı. Son iki senedir tüm dünyada bir orgazm halindeler. Geldiğimiz noktada ister polis olsun, ister elektrik idaresi veya banka idaresi veya vize ofisi veya vergi dairesi, neredeyse sınırsız yetkilerle kendi kendilerini donatmış milyonlarca isimsiz memur, herhangi bir konuda istediği herhangi bir kararı alma gücünü ele geçirmiştir. Mantıklı olmasına gerek yoktur. Açıklanmasına gerek yoktur. İkna etmesine gerek yoktur. Tamamen irrasyonel, büsbütün aptalca olabilir aldıkları kararlar. Hiçbir şey yapamazsın. Aksini söylemeye kalksan yasaklanırsın. Israr edersen polis çağırırlar, tutuklatırlar. Bir bok yapamazsın.
+
+İnanın bana, Türkiye’ye özgü bir şey değil. Bu konularda dünyanın en kötü ülkelerinden değil Türkiye. Başta özgürlüğün ana vatanı İngiltere, Amerika, Kanada olmak üzere hepsi gidik. 1930’ları aşan bir totaliterlik dönemine girdik ve sonu kötü olacak.
+
+Otobiyografik not: Bu söyleşiden 15 gün sonra Samos polisi tarafından göz altına alındım. Pis bir hücrede sekiz gün tutulduktan sonra, kendi rızamla yurt dışına gitmek şartıyla serbest bırakıldım. İki buçuk yıl sonra, şimdi hala neden sınır dışı edildiğimi bilmiyorum. Tüm çabalarımıza rağmen gerekçe tebliğ edilmedi. Açtığımız bir dizi dava ve bürokratik girişim, sonsuz bir fasit daire içinde devam ediyor.

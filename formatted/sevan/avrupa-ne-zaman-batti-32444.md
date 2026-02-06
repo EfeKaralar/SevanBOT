@@ -1,0 +1,25 @@
+# Avrupa ne zaman battı
+
+*Pazar Sohbeti*
+
+20 October 2022
+
+**Anahtar Kelimeler:** Avrupa'nın batışı, Dünya Savaş-Birinci, modernizm
+
+**Kaynak:** https://www.sevannisanyan.com/metin/avrupa-ne-zaman-batti-32444
+
+---
+
+**19. yüzyıl sonlarına gelindiğinde tüm dünyada artık bir norm halini almış Batı’nın, Aydınlanma çağının, parlak ideallerini çökmeye götüren süreci anlatır mısınız? Şayet bunu başlatan faşizm ve içe kapanmacı yaklaşımsa, bunun ayak izlerini nereye kadar takip edebiliriz? Örneğin Fransa’nın dünyaya armağını olan Sivilizasyon devrimine karşı, Alman idealizmini kendisine rehber edinen Otto von Bismarck’ın kültür devrimini başlatması bir etken midir?**
+
+Tarihteki her olayın kökü Nuh Tufanına iner isterseniz. Fakat Batı’nın çöküş sürecinde bence net bir dönüm noktası var. Bismarck değildir bu, Hitler de değildir. Birinci Dünya Savaşıdır.
+
+Avrupa kıtası 18. yüzyıl başlarından başlayarak iki yüzyıl boyunca her alanda muazzam bir ilerleme çağı yaşadı. Yönetim ilkelerinden eğitime kadar, bilimden sanata kadar her alanda bütün dünyanın gıpta ettiği, bütün dünyanın şaşkınlıkla izlediği adımlar attı. 19. yüzyılda Avrupa hakkında Türk elit sınıfından insanların yazdığı seyahatnameleri ya da değerlendirmeleri okuyun. Aklınıza gelmeyecek alanlarda bir müthiş bir takdir duygusuna tanık olursunuz. Kütüphanelerini anlatırlar, hasetten çatlıyorlar belli ki. Hastanelerini anlatırlar. Yelken yarışlarını anlatırlar. Bunlar bizde niye yok duygusuyla kavrulurlar.
+
+Yüzyıln sonuna doğru ve 20. yüzyıl başında üst üste akıllara durgunluk veren teknik yenilikler keşfedilir. Otomobil keşfedilir. Uçak keşfedilir. Radyo keşfedilir. Röntgen keşfedilir. Elektrikle aydınlatma keşfedilir. Bunlar nefes kesici gelişmelerdir. “Adamlar yapıyor kardeşim” denir... Medeniyet işte budur! Biz de medenileşmeliyiz.
+
+Sonra Birinci Dünya Savaşı gelir. Birinci Dünya Savaşı bir medeniyetin toplu intiharıdır. Kendilerini ekonomik olarak mahvederler. Ahlaken dünyanın gözünde köpek seviyesine düşerler. Ve her şeyden önemlisi, dünya üzerinde 19. yüzyılda kurmuş oldukları askeri hakimiyeti sürdüremeyecek noktaya gelirler. İngiliz İmparatorluğu’nun gerçek çözülme tarihi 1918’dir. Gerçi ondan sonra 42 yıl kadar daha devam etti müstemlekeleri. Fakat bel kemiği 1918’de, 1919’da kırılmıştır. İngiltere artık dünyayı yönetemeyecek fikri dünyanın her köşesinde aynı anda filizlenir. Afganlar ayaklanırlar ve yenerler İngiltere’yi. Mısır ayaklanır. Türkiye büyük bir başarı gösterir İngilizlerin desteklediği Yunan oyununa karşı. Hindistan’dan er veya geç gidecekleri 1920-22’de belli olur. Güney Afrika’dan gidecekleri belli olur. Savaş ertesinde Irak’a, Filistin’e, Arabistan’a çökerler gerçi, ama pek yakında çekilme vaadiyle çökerler ve birer birer bu yerleri terk ederler. Fransız İmparatorluğu 1950’lere kadar tutunmaya çalışır fakat Fas’ta, Vietnam’da, Cezayir’de art arda yenilgiye uğrar. Bırakıp çekilirler. Bırakıp çekildikleri anda inandırıcılıkları biter. İnandırıcılıkları gidince, artlarında bıraktıkları iktidar kurumları da teker teker çöker. Bunun nefis bir örneğini size Mısır’da, Aswan’daki botanik bahçesi vesilesiyle anlatmıştım size bir iki yıl önce. İngilizler gider, kurdukları yapılar da peş peşe çözülür, domino taşları gibi yıkılır. İkinci Dünya Savaşı da birincinin tahribatı üzerine tuz biber eker, fakat birincinin etkisi ölümcüldür. Batı egemenliğinin sonudur.
+
+İkinci bir boyuta da değineyim. Batı medeniyetinin Birinci Dünya Harbi’nde intihar etmesinin ardından, Batı kültürü bir nihilizm hareketi olan modernizme yöneldi. Nihilizmdi, çünkü Batı medeniyetini oluşturan her sahada Batı’nın değerlerini ve geleneklerini tahrip etmekti yönlendirici fikri. Resim sanatında Paris’in ekolleri, kübizmdi, sürrealizmdi, dadaydı vesaire, Stravinsky’nin yahut Schoenberg’in müziğiydi, Aragon’un şiiri yahut James Joyce’un edebiyatıydı... Bunların hiçbir değeri yoktur demiyorum, kendi içinde az çok tutarlı bir sistemdir. Fakat sonucu şu oldu: 19. yüzyılda bütün insanlık açısından Batı tartışılmaz bir değerken, modernizm akımı dünyanın geri kalan kısmında sadece çok dar bir elit çevrenin ilgisini çekti. Eskisi, bak adamların yaptığı heykellere bundan iyisi olamaz dedirtirken, Victor Hugo’nun romanları bütün dünyada her sınıf ve zümreden insana yeni bir insanlık vizyonu açarken, yenisine insanlar bir kaşını kaldırarak tepki verdi. Ne yapıyor bunlar? Bize uymaz bu!
+
+Avrupa’nın güçlü çağında Avrupa entelektüellerinin ürettiği şeyler, kendi medeniyetlerinin üstünlüğünü dünyaya ilan eden eserlerdi. Savaştan sonra o medeniyetin değerlerini aşağılama sevdasına kapıldılar. Afrikalı bir öğretmeni yahut İranlı bir düşünürü cezbedecek tarafı yoktu bunun. Saçmalıyor bunlar duygusu bütün dünyaya yayıldı. Bu duygu 20. ve 21. yüzyılda birtakım iniş çıkışlar gösterdikten sonra bugün, özellikle Covid’den bu yana çok feci surette nüksetmiş görünüyor.

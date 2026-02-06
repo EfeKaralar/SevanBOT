@@ -1,0 +1,21 @@
+# Kitap tanıtımları-6
+
+*Pazar Sohbeti*
+
+17 January 2022
+
+**Anahtar Kelimeler:** Gurdjieff, Kahneman, Nodar Dumbadze, Tversky
+
+**Kaynak:** https://www.sevannisanyan.com/metin/kitap-tanitimlari-6-17721
+
+---
+
+“Michael Lewis, The Undoing Project”. Bunu şu kitapla birlikte göstermem lazım. “Daniel Kahneman, Thinking Fast and Slow”. Bu ikincisi dünyada son on yılın bence en etkileyici kitabıdır. Olağanüstü bir zeka fışkırması diyeceğim bir kitap. Kahneman insan psikolojisinin kara deliklerini, boşluklarını, insanların tipik olarak yaptıkları mantık ve algı hatalarını analiz ediyor. İki kişiydiler bunlar, Kahneman ile Amos Tversky. Buradaki bütün çalışmaları birlikte yapmışlar. Sonra Tversky ölmüş, o yüzden kitabı Kahneman yazmış. Bu kitaptan dolayı Nobel ödülünü aldı. Hangi Nobel’i vereceklerini bilemediklerinden, alakasız bir saha olan ekonomi alanında verdiler Nobel ödülünü. Çünkü kategorilere sığmayan bir kitap. Lewis’in kitabı ise Tversky’nin hayat hikayesi. Bir bakıma da Kahneman’ın kitabının nasıl doğduğunun hikayesi. Şunu görüyorsunuz: Gerçek orijinal zekaya sahip olan bir insan şu masanın üzerindeki çay bardağını yazsa güzel bir eser çıkabilir ortaya. O zekaya ve kişiliğe sahip olmayan insan dünyanın en ilginç konusu hakkında da yazsa, meh bir kitap çıkar. Bu kitap işte o kitap, meh! Vasat bir adam iki dahiyi anlatmaya çalışsa ne olur? İşte bunu okuyun, görürsünüz. Bir dahi hakkında, deha ile ünsiyeti olmayan birinin çabalaması. Dahiyi avama kabul ettirme çalışması. Beyhude bir çaba. New York Times bestseller bile olsa okumaya değmez. Kahneman’ınki değer.
+
+Nodar Dumbadze, Ben, Ninem, İliko ve İlarion. Dumbadze Gürcistan’ın Aziz Nesin’i diye tanınan bir yazar. Aziz Nesin kadar keskin bir mizahçı değil, köy hayatından sevimli enstantaneler yazan birisi. Bu kitap da bir saatte okunup hoşça vakit geçirecek, gece uykun kaçarsa faydalı olacak bir kitap. Sevimli.
+
+“Peter Pomerantsev, This Is Not Propaganda” demiş, propagandanın en utanmazını yapmış. Acayip çok sattı bu kitap, adam çok ünlü oldu. Sanırım belli mihraklar tarafından yapay olarak pompalandı. Çünkü makul birinin bu kitabı okuyup beğenmesine ben ihtimal vermiyorum. Pomerantsev aslen Rus, Amerikan propaganda makinesinin bir çalışanı olmayı tercih etmiş. Alt başlıkta “Adventures in the War Against Reality” diyor, yani “hakikate karşı savaşın maceraları”, ve Putin’in nasıl bir propaganda makinesiyle Batı dünyasının aklını çelmeye çalıştığını anlatıyor. “This is not propaganda” diye bir başlık attığına göre, belli ki ironi duygusuna sahip bir insan. İkinci, üçüncü düzey ironi yapıyor ya da yapar görünüyor. Diyor ki, Ruslar propaganda yapıyor ama propaganda değil diyorlar, biz ise gerçeği söylüyoruz ama propaganda yapmıyoruz. Yersen tabii. Çok sinirlenerek okudum.
+
+Giray Fidan, “Chinese Witness of the Young Turk Revolution”, Türkçesi “Çin’den Görünen Osmanlı”. Fidan İngilizce olarak yazmış. 1908 veya 1909 yılında bir Çinli görevlinin İstanbul’da olup bitenler hakkında raporunu işlemiş. Genç Türk devrimini, Meşrutiyet rejimini haberleştiriyor. İstanbul’da neler oluyor, kim ne düşünüyor, filan. Farklı bir bakış bekliyor insan. Biliyorsunuz Türkiye’de iki bakış açısı vardır: Bir, yerli ve milli bakış açısı, bir de Avrupai bakış açısı. Bu üçüncü bir bakış açısı diye umuyorsun da çok da fazla özgün bir şey söylememiş. Bilinen şeyleri tekrarlamanın çok ötesine gitmemiş.
+
+“Gurdjieff, Meetings with Remarkable Men”. Olağanüstü İnsanlarla Karşılaşmalar. Fotoğrafından da gördüğünüz üzere Gurdjieff tarihin en muhteşem şarlatanlarından biridir. Büyük bir palavracı. Ailesi Karslı, kendisi şimdi Ermenistan’da olan Gümrü şehrinde doğmuş. Babası Rum, Adaş mahlasıyla Türkçe şiirler söyleyen bir aşık, gezici ozan. Anası Ermeni. Gençliğinde büyük seyahatlere çıktığını, Türkistan’ı, Hindistan’ı gezdiğini anlatıyor, da, hangi anlattığının doğru, hangisinin yalan olduğunu bilmeye imkan yok. Sonra Moskova’ya yerleşmiş, esoterik Yeni Çağ fikirleri üretmeye başlamış. İstanbul’da Galata Mevlevihanesine devam etmiş. Sonunda Paris’e yerleşmiş ve orada yaşamının sonuna kadar, 1940’lara kadar büyük bir filozof ve peygamber olarak bir manevi çevrenin önderliğini yapmış. Bu kitap, hayatına yön veren karşılaşmaların öyküsü. Gerçek olduğu izlenimini veren gözlemler üzerine epey hayal gücü ekleyerek yazılmış bir kitap. Keyifle ve ara sıra küfrederek okunuyor.

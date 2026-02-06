@@ -1,0 +1,45 @@
+# Bilimin işlevi nedir, nasıl gelişir, nasıl kurur
+
+*Pazar Sohbeti*
+
+24 December 2023
+
+**Anahtar Kelimeler:** bilimin işlevi, fikir hürriyeti, üniversite eğitimi
+
+**Kaynak:** https://www.sevannisanyan.com/metin/bilimin-islevi-nedir-nasil-gelisir-nasil-kurur-83627
+
+---
+
+**Bilimin kainatla ilgili hakikatleri aramak dışında başka işlevleri nelerdir? Politik kurumların bilim üretiminde öncü öncüsü olması gereken kurumlar ve üniversiteler üzerinde ne derece gücü olmalıdır?**
+
+Bilimin kainatla ilgili hakikatleri aramak gibi bir fonksiyonu mu var gerçekten? Yoksa bu, bilim mesleğindeki insanların kendilerine bir paye vermek için besledikleri bir efsane midir? Düşünmek lazım. Nietzsche bu konuda epey kuşkucuydu biliyorsunuz. Ben de ona hak verme eğilimindeyim.
+
+Belki kazara, bir yan etki olarak, kainatla ilgili birtakım hakikatleri buluyorlardır, bunu bir ek fayda olarak görmeliyiz. Bilimsel faaliyetin ana amacının o olmadığı belli bir şey. Esas amaç başka bir şeydir; diğer bilim profesyonellerini mat etmektir. Meslek içi bir yarışmadır bilim. Tüm bilimsel çalışmalar diğer bilim profesyonellerine karşı yapılır. Yönlendirici güdü neden yanıldıklarını gösterip onları madara etmektir. Bilim profesyonellerinin neden yanlış olduklarını, nerede hata yaptıklarını, neden benim önerdiğim faktörleri ve boyutları ve bakış açılarını düşünemeyecek kadar salak olduklarını göstermek için yapılan faaliyete bilim denir. Esas mesele güç meselesidir. Kurum içi güç, disiplin içi güç: Terazinin hangi tarafı ağır basacak, Nobel ödülünü kim alacak, kimin ismi akademide huşu ile telaffuz edilecek, kimin makalesine prestijli dergilerde yer verilecek?
+
+Bu amaçlara belli başlı üç yoldan ulaşılabilir. Şimdi o yolları görelim. Birinci yol cazgırlık yapmaktır. Bağırarak, safsata ve mugalata yoluyla karşı tarafı susturursun. Pes ederler. İkinci yol otoriteyi arkana almaktır. Rektörü ve dekanı, devleti ve polisi veya kahredici kalabalıkları arkana alırsın, rakiplerini ezersin. Üçüncü yol ise, birtakım ortak kabuller çerçevesinde daha doğru akıl yürütmeler öne sürmek, yeni olguları devreye sokmak ve bu suretle münazara kazanmaktır. Bu üç yöntemin herhangi biriyle veya birkaçıyla rakiplerini alt edebilir ve bilim dünyasında yücelebilirsin.
+
+Üçüncü yöntem en soylu kabul edilen, insanlığa en faydalı sayılan yöntemdir. Lakin üçüncü yöntemin işleyebilmesi için akademik dünyada ve genel olarak kültür dünyasında birtakım ortak kabullerin olması gerekir. Öncelikle herkesin kabul ettiği birtakım aksiyomlar olması gerekir. Ortak bir bilgi zemini yani. Bunlar önyargı da olabilir, yanlış da olabilir, önemli değil; önemli olan bir konsensusun bulunmasıdır. İkincisi akıl yürütme ve kanıt serdetme yöntemleri konusunda bir konsensus olmasıdır. Kadim zamandan beri bilge sayılan insanların ittifakla kabul ettiği birtakım akıl yürütme metotları olmalıdır. Bu kabul şayet yoksa, akli otorite ortadan kalkar. Akli hakemlik imkansız hale gelir.
+
+Nitekim 1970’lerden bu yana, özellikle Batı ülkelerinin akademik dünyasında böyle bir konsensusun sistemli olarak tahrip edildiğini görüyoruz. Genel kabul olarak her şey doğru olabilir, otoritenin söylediği hiçbir şeye güvenilmez fikri ön plana çıkmıştır. Dolayısıyla, geldiğimiz noktada bilimlerin hemen hepsinde ortak bilgi tabanı üzerine yeni veriler ve yeni akıl yürütmeler yoluyla bilim ufkunu denişletme imkanı ortadan kalkmıştır. Geriye demin saydığım iki yöntem kalıyor. Ya lagaluga ve safsata yöntemiyle karşı tarafı susturursun. Ya da otoriteye sırtını vermek suretiyle girdiğin bilimsel çatışmalarda galip gelmeye çalışırsın. Bu iki yöntem kalmıştır geriye, başka bir şey kalmamıştır. Bu da acıklı bir durum bence, büyük sıkıntılar doğurması kaçınılmaz olan bir durum.
+
+**Üniversitenin ve bilimsel kuruluşların günümüzdeki işlevi nedir? Ve bu işlev, bu kurumları bilimin üretilmesinden uzaklaştırmakta mıdır?**
+
+Üniversitelerin ve diğer yüksek eğitim ve araştırma kurumlarının günümüzdeki işlevi, devlet ve özel sektör bürokrasilerine eleman yetiştirmektir. Şirketlerin, araştırma kuruluşlarının, kamu kuruluşlarının, finans kuruluşlarının ve üniversitelerin kalifiye memurlarını yetiştirmektir. Aslında işlevsiz olan, gerçek dünyada bir karşılığı ve değeri olmayan, bir şey üretmeyen, fakat yüksek toplumsal güce sahip olan bu kuruluşların personel ihtiyacını karşılamaktır. Üniversite eğitiminde elemanlar esas olarak bürokratik çalışma usullerini öğrenirler. Word ve Excel ve Power Point kullanma, bürokratik bir kurum içinde bir görüşü veya araştırmayı sunma tekniklerini geliştirme, bir sayfalık özet çıkarma, on sayfalık paper yazma, makaleni rakiplerin itirazlarından koruyacak olan dipnotlarını efektif bir şekilde kullanma, kolokyum düzenleme, bir konuda akademik makaleler ısmarlayıp derleme... bunlardır bugün üniversitede öğretilen şeyler.
+
+Öte yandan üniversite öğrenimi gören öğrenci sayısı ile bürokratik kurumların istihdam kapasitesi arasındaki makas günden güne açıldığı için, üniversiteden mezun olanların önemli bir kısmı, belki de çoğunluğu ihtiyaç fazlasıdır. Yalnız Türkiye’de değil tüm ülkelerde böyledir. Bu insanlar eğitim zayiatıdır. İstihdam edilmesi neredeyse imkansız, topluma herhangi bir pozitif katkısı olmayan ve olamayacak insanlar olarak üniversiteden çıkarlar. Çünkü üniversite, bürokratik kurumlar dışında işe yarayabilecek bir sanat veya meslek öğretmediği gibi, faydalı herhangi bir alanda genç insanın kendini geliştirmesini de önleyen bir yapıdır. Üniversite mezunu temel bir ilke olarak otomobil lastiği değiştirmeyi bilmez, bozulan ampulü değiştirmeyi bilmez, pantolon paçası kısaltmayı bilmez, buzdolabının kapısı düştüğünde bir vida uydurup tamir etmeyi bilmez. Opera bestelemeyi bilmez. Yüz neferlik bölüğe kumanda edemez. Çünkü üniversite okumuştur. Uzmanlaştığı konu, bir bürokratik kurum içinde bir yerden bir yere lüzumlu lüzumsuz data aktarma disiplinidir. O alanda istihdam alanı bulamazsa bir hiçtir, çöptür. Hiçbir faydası yoktur topluma.
+
+Çok trajik bir durum bu. Çağdaş dünyanın en büyük trajedilerinden biridir ve bununla her gün yüz yüzeyiz. 28 yaşına kadar, 30 yaşına kadar sözde eğitim görüp, ondan sonra herhangi bir mesleği olmayan ve herhangi bir meslek bulma veya öğrenme imkanı da kalmamış olan gençlerle karşı karşıyayız her gün. Bunun ne kadar büyük bir trajedi olduğunu idrak ediyor musunuz bilmem. Çünkü hemen her genç, küçük yaştan itibaren heyecanla kendini kaptıracak bir disiplin ve ona yol gösterecek bir rehber bulsa harikalar yaratabilir. İnsanlığa bir değer ekleyebilir. Marangoz olabilir mesela. Saat ustası olabilir, maceracı olabilir, savaşçı olabilir, aktör olabilir, çok çeşitli şeyler olabilir. Üniversite eğitimi bu yeteneklerin hepsini körelttiği gibi yerine de bir şey koyamıyor bugün geldiğimiz noktada.
+
+**Fikir hürriyetinin olmadığı ya da giderek kısıtlandığı bir ortamda bilimsel çalışma yapmak mümkün müdür ve mümkünse ne kadar sağlıklı ve sürdürülebilirdir?**
+
+Fikir hürriyeti ne demek? Bu konuda gitgide zihnimin netleştiğini söyleyebilirim.
+
+Yine deminki mevzuya geleceğim. Fikir üretmek ve fikir tartışmak öyle herkesin her zaman yapabileceği bir iş değil. Bunlar idmanla kazanılan yeteneklerdir. Toplumun fikir üretme ve fikir tartışma konusunda eğitimli ve tecrübe sahibi olan kesimleri fikir üretir. Geri kalanlar ise, en iyi ihtimalle onlardan kaptıkları fikirleri tekrarlar.
+
+Fikir üretenler şayet temel birtakım değerler üzerinde mutabık iseler o yerde anlamlı bir fikir alışverişi olabilir. Taraflar birbirinin ne dediğini anlar. Karşı tarafın görüşünü beğenmese de referanslarına saygı duyar. Her şeyden evvel, durduğu zeminin sağlam olduğuna inanan insan, o zemin üzerindeki farklı yorumlara hoşgörülü olma şansına sahiptir. Tartışma ve ikna etme ihtimali vardır. Ortak zemin yoksa fikir özgürlüğünün hiçbir anlamı yoktur. Bir kaostan ibarettir. Çünkü bir fikrin diğer fikri yenmesinin kuralları belli değildir. Bir fikrin tarafsız hakemler nezdinde değerlendirilmesine imkan kalmamıştır.
+
+Bugün yaşadığımız durum budur. Çeşitli fikirlere sahip olan insanların her biri çağdaş iletişim platformlarının sunduğu imkanlardan istifade ederek sadece kendisiyle aynı görüşte olan insanlarla sohbet ediyor. Bu sohbetin özü, karşılıklı birbirinin fikrini teyit etmekten ibarettir. Evet, evet sen haklısın. Senin söylediğini ben başka sözcüklerle tekrarlayayım ki senden olduğum anlaşılsın. Özeti budur. Aynı sözlerin tekrarlana tekrarlana sağır edici bir gürültüye dönüştüğü bir yankı odası. Bir echo chamber.
+
+Toparlamak gerekirse, fikir özgürlüğünün olması için fikir tartışmasının olması lazım. Fikir tartışması için ise ortak bir mutabakat zemini olması gerekir. Bugün o zemin tahrip edilmiş olduğu için fikir özgürlüğünün işlevsel bir anlamı kalmamıştır.
+
+Önümüzdeki dönemde tahmin ediyorum ki düşünce özgürlüğünü savunan bakış açıları hızla dolaşımdan düşecektir. İnsanlar gitgide artan bir oranda düşünce özgürlüğü de neymiş, hangi derde devaymış, lanet olsun diyen tavırları benimseyeceklerdir. Tüm dünya çapında öyle bir gidiş var.

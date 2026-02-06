@@ -1,0 +1,23 @@
+# Dilin rekursif yapısı genetik bir bozulma mıdır
+
+*Pazar Sohbeti*
+
+05 September 2021
+
+**Anahtar Kelimeler:** Dilbilim, evrim, genetik, mutasyon, rekursif gramer
+
+**Kaynak:** https://www.sevannisanyan.com/metin/dilin-rekursif-yapisi-genetik-bir-bozulma-midir-49969
+
+---
+
+**Bir konuşmanızda insan dilinin rekursif, recursive yapısının bir tek kişiden evrimleşmiş olabileceğini söylemiştiniz. Bunun hakkında bir kaynak gösterebilir misiniz?**
+
+Kaynak yok. Bunu tamamen kişisel bir fikir jimnastiği olarak size sunmuştum. Hadise şu: İnsan denilen maymun çeşidini diğerlerinden ayıran bir tane temel özelliği var. Nasıl leylekler Afrika’ya göçmek gibi inanılmaz bir özelliğe sahip, karıncalar yuva yapmak gibi nasıl aklın hayalin almayacağı birtakım davranış özelliklerine sahipler. Kediler 100 kilometre ötede bir yerde bırakırsan gelip evini bulabiliyor. Aynı şekilde insanoğlu da çok şaşırtıcı bir özelliğe sahip. Rekursif gramer denilen özellik. Yani, basit mesajları iletmek, tüm hayvanlarda yahut memelilerde olan bir şey. Köpeklerin mesela, en az 50-60 tane farklı kelimesi var mesaj verebildiği. Bunu özne-nesne-yüklem yapısına sahip bir cümle içine sokmak, ve özne-nesne-yüklemden oluşan birimi bir başka cümlenin öznesi veya nesnesi haline getirebilmek insana özgü çok sıradışı bir özellik. Bu şekilde bir söz eylemini bir başka söz eyleminin parçası haline getirebiliyoruz, onu bir başka söz eyleminin parçası haline getirebiliyoruz, ve böylece sonsuza dek artabilecek bir teleskop efekti elde ediyoruz.
+
+Tüm genetik özellikler gibi, bu genetik özelliğin de bir mutasyondan doğduğu aşikar. Yani insanın genetik malzemesinde bir tarihte birdenbire bir değişiklik olmuş ve doğan yavruda böyle bir özellik ortaya çıkmış. Buradaki mantık bükücü hadise şu. Dil, tezahür etmek için, yani kuvveden fiile çıkmak için, en az iki kişide aynı anda var olması gereken bir yetenek. Muhtemelen iki kişi de yetmez, bir topluluk olması gerekir aynı dili konuşan. Çünkü dil sadece biyolojik bir kapasite değil, aynı zamanda toplumsal bir konvansiyon. Dil olması için belli ses yığışmalarına herkesin mutabık olduğu birtakım anlamlar yüklenmesi lazım, bunun için de sürüye dahil olan herkesin bu oyunu birlikte oynaması şart.
+
+İmdi, rekursif gramer yeteneği biyolojik bir mutasyondur diyoruz. Fakat mutasyonlar tek bir bireyde olur. Aynı anda birkaç bireyde olmaz, bir bireyde olur. Her ikisi X özelliğine sahip iki ebeveynden rastgele seçilimle Y özelliğine sahip bir yavru doğar. Ne bileyim, albino doğar, altı parmaklı doğar. Buna benzer bir mutasyondan söz ediyoruz, bir biyolojik hadiseyle ana babasında olmayan bir özelliğe insan yavrusu kavuşmuş. İki şeye dikkat etmek lazım. Birincisi, insanın rekursif gramer yeteneği zaman içinde yavaş yavaş evrilen bir şey değil. Tek bir özellik. Homo sapiens türüne mensup olan tüm bireylerde eşit olarak bulunan bir özellik. Bir Papua Yeni Gine dağ yerlisinin dil kapasitesi ile seninki, benimki farklı değil. Aynı derecede gelişkin dilleri var demiyorum, dil kapasiteleri aynı diyorum. Şöyle ki, bir Papua Yeni Gineli kabile çocuğu, kısa bir eğitim sonucunda senin ve benim gibi İngilizce öğrenebiliyor. Çabucak öğreniyorlar. En sofistike düzeyde İngilizceyi öğreniyorlar. Demek ki dil kapasitesi ortak tüm insanlıkta. Eğer birden fazla mütasyonun sonucu olsaydı böyle olmazdı. Yani atıyorum 100 bin yıl önce bir mütasyon, 50 bin yıl önce ikinci bir mütasyon, 20 bin yıl önce üçüncü bir mütasyon olsa, bu mütasyonlarını sonucu eşit olarak dağılmış olmazdı. Bazı insan topluluklarının yüksek dil kapasitesine sahip olması, diğerlerinin belli dil fonksiyonlarından mahrum olması gerekirdi. Böyle bir şey yok. Dolayısıyla insanın dil özelliğinin, yani rekursif gramer özelliğinin, tek mutasyondan kaynaklandığını varsayabiliyoruz.
+
+Benim çözmeye çalıştığım şuydu. Bir tek bireydeki bir genetik yenilik nasıl bütün bir popülasyona yayılabilir? Yani senin anan baban dil özelliğine sahip değil. Beş yavruları olmuşsa sadece bir tanesinde bir garip bozukluk var, böyle cak cak durmadan konuşuyor, ana babanın anlamadığı karmaşık mesajlar üretme eğilimi gösteriyor. Bir tür akıl hastalığı. Bunun yenilerinin üremesi için birisiyle çiftleşmesi lazım, ama mutasyon sadece bir kişide var, öbürlerinde yok. Bu durumdan, hepsi mutasyona uğramış bir nüfusa nasıl gidilebilir?
+
+Aslında basit bir süreç. Mendel Kanunları desek yeter. O konuda bir ufak bir deneme yazmıştım bir tarihte. Tahmin ettiğimin çok ötesinde ilgi topladı. Hadise bundan ibaret.

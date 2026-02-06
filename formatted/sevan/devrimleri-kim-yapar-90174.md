@@ -1,0 +1,29 @@
+# Devrimleri kim yapar
+
+*Pazar Sohbeti*
+
+01 October 2023
+
+**Anahtar Kelimeler:** devrimler, Fransız İhtilali, komünist parti, Rus İhtilali
+
+**Kaynak:** https://www.sevannisanyan.com/metin/devrimleri-kim-yapar-90174
+
+---
+
+**Dünya üzerinde yaşanan değişimlerin ve devrimlerin çoğu bir kişi ve onun etrafında örgütlenen, genellikle ideolojik ortaklığa sahip, kolektif bir yapı tarafından gerçekleştiriliyor. Sizce, başarılı olan bu örgütlenmelerin ortak özelliği nedir? Bütün gücü merkezde tekelini alan ve adeta ucube bir polis devletleri topluluğuna dönüşen dünyada böyle örgütlenmelerin ortaya çıkması artık mümkün müdür?**
+
+Sorunuz çok yaygın ve tipik bir yanlış bilgilenmeden hareket ediyor. Özel olarak tarih inceleme zahmetine katlanmamış olan insanların bildiği, komünist parti kurulur, parti devrim yapar, başa geçerler. Mücadele ederler yıllarca, sonunda da iktidarı ele geçirirler. Oysa tarihteki ünlü devrimlerin hiçbiri böyle olmadı. Fransız ihtilali tamamıyla spontane, hiçbir örgütsel mantığı olmayan, kaotik bir hareket olarak gerçekleşti. Bir örgütü yoktu Fransız ihtilalinin. Rusya’da Çarlık rejimini deviren ihtilal ise Ekim ayında olmadı, 1917’nin Şubat ayında oldu. En beklenmedik bir anda gerçekleşti. Birtakım huzursuzluklar vardı, Çar sanki görevi bırakmış, gitmiş gibi bir haldeydi. Çar’ın karısı ve birtakım saçma sapan insanlar iktidarın başında görünüyorlardı. Bir gün yangın patlak verdi. Görünürde en ufak bir örgütsel hadise yoktu. Hiç kimse bilmiyor Rusya’da ihtilali kim nasıl yaptı, neden yaptı diye. Bir gün birdenbire ahali galeyana geldi, Petersburg halkı ayaklandı. Yeter bu kadar dedi, sarayı bastı. Bütün yönetici kadrolar paniğe kapıldılar, çekildiler.
+
+Şöyle anlatayım size. Bu ihtilalden bir hafta önce Rusya’da olsun, dışarıda olsun aklı başında sayılan gözlemcilere sorduğunuzda, bir anket yaptığınızda, Çar bu sene devrilir mi sizce diye sorduğunuzda, yüzde doksanı olur mu öyle şey, saçmalamayın derdi. Yani en iyi siyasi analizin öngöremeyeceği bir olaydı Şubat ihtilali. Ekim yahut Kasım ayında Lenin’in yaptığı ise ihtilal değildir, bir darbedir. Rejim devrilmiş, devlet çökmüş, cesur bir taktik dehası tarafından yönetilen cesur bir kadro örgütlenip iktidara el koydu. Ekimde örgüt vardır, Şubatta yoktur.
+
+1978’deki İran ihtilali beş benzemesinin bir araya gelmesiyle oluştu. Kitlelerin ayaklanmasıyla oluştu. Bilinen herhangi bir örgütsel altyapısı yoktu. Evet, Tudeh Partisi vardı, komünistler yani, sonra Halkın Mücahitleri örgütü vardı. Fakat onlar yapmadılar devrimi; devrim dalgasıyla sürüklendiler, iktidara gelir gibi oldular, sonra tasfiye edildiler.
+
+Aksi örnekler belki Mao’nun Çin devrimidir, belki Küba’da Fidel Castro hareketidir. Her ikisinde taşrada bir silahlı güç oluşturdular, bir gerilla ordusu kurdular, bu orduyla geldiler, devlet ordusuyla çatıştılar ve ülkeyi ele geçirdiler. Bu tarihin en eski çağlarından beri bilinen, sayısız emsali olan bir hadisedir. Bölgesel bir beyin yahut paşanın yahut yerel bir liderin ayaklanması, ayaklanma yoluyla bir askeri birlik oluşturması ve ülkeyi zapt etmesi hadisesidir. Modern çağa özgü bir hadise olan kitlesel ihtilallerden ayrı bir şeydir.
+
+Tipik Fransa, Rusya ve İran türü devrimler hakkında benim gözlemim şudur. Bir devrimci örgüt eğer var ise devrim ihtimali çok düşüktür, yapamaz. Çünkü örgüt varsa, bir rejimi şiddet yoluyla devirmek gibi bir hedefi olan bir örgüt varsa elbette devlet o örgütten daha güçlüdür. Bütçesi daha fazladır, parası vardır. Hele rejim tehlikedeyse sınırsız para akıtılır emniyet güçlerine. Silahları daha iyidir, istihbarat imkanları daha gelişkindir. Yasa onlardan yanadır, yargı onlardan yanadır. Seni tutuklama yetkisi var adamın, sen onu tutuklayamıyorsun. Nasıl başa çıkacaksın ki?
+
+Artı sen bir örgüt kurmuşsun, teşkilat kurmuşsun, toplantı odaların var, bir bütçen var, üye aidatları var, üye kartı basmak için matbaaya gitmen lazım, filan filan. Rutin toplumsal hayatın kanalları içinde kaybolursun. Toplumun bir parçası haline gelirsin. Örgütün çıkarları devrimin çıkarlarının önüne geçer. Örgütü koruman kollaman lazım, polis infiltrasyonuna karşı tedbirler alman lazım, örgüt yöneticilerinin maaşlarını ödemen lazım, örgüt binasının kirasını ödemen lazım, bunlar için birtakım tavizler vermen lazım. Çok kısa zamanda bu tür devrimci örgütler dehşetli bir şekilde muhafazakarlaşırlar. Bu örgütlere dahil olan birtakım heyecanlı ve radikal gençler kısa zamanda bastırılır ve dışlanırlar. Derler ki, kardeşim deli misin sen? Bu yaptığın hareketlerle partimizi tehlikeye sokuyorsun. Partimizin programı var, planı var, bekle hele. Bu tür spontane ve riskli davranışlara hiçbir örgüt hoşgörü gösteremez.
+
+O yüzden şöyle bir kural koyabiliriz zannediyorum: Devrimci parti varsa o ülkede devrim olmaz. Nokta. Peki nasıl olur? Tüm gerçek ayaklanmalar, yani köylülerin silahlanıp mülk sahiplerini boğazlaması, dükkanların ve bankaların yağmalanması, bakanların, işverenlerin, itibarlı kişilerin sokaklarda avlanıp linç edilmesi yahut sokak lambalarından asılması hadisesi, genç ve işsiz insanların kontrolden çıkmasıyla olur. Toplumda kendine bir gelecek göremeyen, toplumda savunmaya değer bir şey bulamayan genç erkeklerin, yirmili yaşlarında olan erkeklerin sabrının taşmasıyla olur. Bu kesim insanlığın en tehlikeli sınıfıdır, kontrolden çıktığı zaman her türlü vahşeti yapmaya müsait bir zümredir. Onlar yeter artık dedikleri noktada noktada ne olacağını hiç kimse kestiremez. Devleti yıkarlar. Yerine bir şey kuramazlar, yıktıklarıyla kalırlar. O yıkıntıların arasında birileri dövüşe dövüşe, vuruşa vuruşa yeni bir iktidarı inşa eder.
+
+O yüzden bu düzen devrilir mi, Avrupa’da isyan olur mu diye sorarken hani nerede örgüt diye sormayacaksınız. Örgüt varsa zaten geçmiş ola, bir şey olmaz orada. Gençler ne konuşuyor diye soracaksınız. Gençler neyin peşinde? Budur önemli olan soru.

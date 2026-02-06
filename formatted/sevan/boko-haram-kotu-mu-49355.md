@@ -1,0 +1,35 @@
+# Boko Haram kötü mü
+
+*Pazar Sohbeti*
+
+20 December 2020
+
+**Anahtar Kelimeler:** Boko Haram, Bornu, IŞİD, İslam, Nijerya
+
+**Kaynak:** https://www.sevannisanyan.com/metin/boko-haram-kotu-mu-49355
+
+---
+
+**Nijerya’daki Boko Haram cihatçılarını savundunuz. Bu nedir? İlla herkesin dediğinin tersini savunma merakı mı?**
+
+Boko Haram’ı savunmadım. Sadece Boko Haram aleyhine konfeksiyon malı yavan klişeleri tekrarlayanların cehaletine işaret ettim. Klişecilikten nefret ediyorum çünkü.
+
+Ne yapmışlar Boko Haram’cılar? Tekbir getirip liseleri basmışlar, insanları öldürmüşler, kızları kaçırmışlar. Bir arkadaşımız bu korkunç teröristlerden nefret etmiş, İslamcılar ve cihatçılar her zaman işte böyle, yüzlerinden meymenetsizlik akar diye bir fikirimsi beyan etmiş. Cevaben iki tane altın kuralı hatırlattım. Birinci altın kural, egemen medyanın taraflı olarak verdiği hiçbir habere inanma. Egemen medya derken Türkiye’deki medyadan söz etmiyorum, dünya çapında egemen olan medyadan söz ediyorum. Türkiye’deki medya Coca-Cola satan bakkal gibidir. Onların perakendecisidir. Egemen dünya medyasının taraflı olarak, yani bizi bir bakış açısına ikna etmek amacıyla yaydığı haberlerin hepsinin kötü niyetli olduğunu varsaymalısın. Ortada çeşitli bakış açılarından görülebilecek bir hadise var, sen bunlardan bir tanesini düşün, sakın öbür türlü düşünme diyorlar bize. Niye diyorlar diye sor. Bu bir. İkincisi, şunu asla unutma: Dünyadaki hiçbir terör örgütü asıl terör örgütü olan devletlerle boy ölçüşemez. Yok efendim bebek katili imişler, bilmem kimleri kaçırmışlar, yahut bomba koymuşlar, iki buçuk kişi ölmüş... Devletlerin organize bir şekilde binlerce, on binlerce, yüz binlerce insanı katlettiği zorbalıkların yanında bunlar hiçtir. Amatör işidir. Çocuk oyunudur.
+
+Bu iki gerçeği aklınızdan çıkarmayın dedim. Tabii tartışmaya dalınca neymiş bu Boko Haram diye bilgilenme ihtiyacını duydum. Öğrendiklerimi paylaşayım sizinle.
+
+Boko oraların argosunda “İngilizce eğitim veren devlet okulu” demekmiş, İngilizce “book” sözcüğünden. Haram da bildiğiniz haram. Boko karşıtları Nijerya’nın eyaletlerinden biri olan Borno eyaletinde şu anda duruma hakim imişler. Oradan çevre eyaletlere yönelik eylemler yapıyorlarmış. Çad ülkesinde ve Kamerun’un kuzeyinde de bir etki alanı kurmuşlar.
+
+Borno deyince aklıma geldi, yıllar önce okuduğum Jules Verne romanlarından hatırladığım bir şey, Kanem ve Bornu Sultanlığı. Kanem daha eski olanı, sonra bir ara o yıkılmış yerine Bornu Sultanlığı kurulmuş, adeta Selçuklu’yla Osmanlı gibi. Kervan ticaretiyle zenginleşmişler. Afrika’nın kuzeyinde İslam devletlerinin ve Osmanlı’nın hakim olduğu çağlarda büyük bir pazar bulmuşlar. Akdeniz havzasına esir ve altın sevk etmişler. Daha doğrusu esir ve altın sevk eden tüccarları kontrol ederek veya onların üzerinde az çok bir yasal denetim sağlayarak vergilendirmişler. Bu sayede bir refah, bir medeniyet, bir altyapı sahibi olmuşlar. Kara Afrika’nın en okuryazar, en kültürlü, en medeni toplumu olmakla övünmüşler. Bornu Krallığında medreseler, İslam alimleri, hukuk bilginleri, şairler vesaire yetişmiş. Arapça üzerine kurulu oldukça gelişkin bir yazılı kültürleri var. Mesela 1300’lerden itibaren Borno Krallığının bütün vekâyinameleri mevcut, yani yazmışlar neler olup bittiğini. Bu da çok sık rastlanan bir şey değil dünya genelinde. Bir medeniyet belirtisidir.
+
+19. yüzyıla gelince esir ticaretinin kaynakları kurumuş, Batılılar yasaklamış esir ticaretini. Bunun üzerine Bornu Krallığı yoksullaşmış, dağılmış, iç savaş yaşamış. Sonra İngilizler gelmiş, buralara egemen olmuş. İngilizlerin bakış açısını az çok tahmin edersiniz. Bunları medeniyeti olmayan ilkel insanlar olarak görmüşler. Allah’ın zencisi sonuçta, o da zenci, bu da zenci, ne fark eder? Misyoner okulları açmışlar, size medeniyet getirelim arkadaş demişler. Şimdi buradaki inceliğe dikkat ediniz. Adamlar bin seneden beri belli bir din sayesinde, onu kullanarak, çevrelerine nispetle bir üstünlük, bir egemenlik, bir saygınlık kazanmışlar. Şimdi deniyor ki siz hiçsiniz, medeniyet zannettiğiniz şeylerin kıymeti yok. Bizim kurduğumuz okullarda okuyun biraz adam olun, yoksa size hayat hakkı tanımayız.
+
+20. yüzyılda, özellikle Nijerya’nın kurulmasından sonra işler gitgide bozulmuş. İç göç, sefalet, fuhuş, toplumsal çürüme alıp başını gitmiş. Derken 1990’larda Muhammed Yusuf adlı bir zat zuhur etmiş. Sefil çocukları toplayıp adam etmek gibi bir misyon biçmiş kendine. Medreseler kurmuş, buralarda yoksul çocukların önüne bir tas yemek koymuş ve onlara saygı göstermeyi ve saygınlık kazanmayı öğretmiş. Medreseler kurunca tabii para lazım bunları yürütmek için. Ne yapmış? Bağış toplamış, crowdsourcing deniyor şimdi buna. Bir süre sonra yeterli bağış toplanamadığında başka yöntemlerle de toplamaya başlamış. Güç kazanmış, siyasi ağırlık kazanmış.
+
+Borno eyaletinin baş siyasi lideri Muzaffer Şerif. Muzaffer Şerif ile iş birliğine girmişler. Muzaffer Şerif bunları el altından desteklemiş ve ülke çapında güç kazanmalarına yardımcı olmuş. Biraz bizde Tayyip Erdoğan’la Gülenciler ilişkisine benzer bir hadise sanırım, ya da dışarıdan öyle görünüyor. Derken fazla güçlenmişler. Fazla güçlenince kavga çıkmış Borno hükümeti ile Yusufiler arasında. Hükümet cezaevi kurup herkesi terörist diye cezaevine doldurmuş. Korkunç bir cezaevi olduğu anlatılıyor, Diyarbakır cezaevi yanında hiç kalır. Muhammed Yusuf’u da yakalayıp hapse atmışlar. Bir süre sonra da kaçmaya çalışırken vuruldu deyip temizlemişler. Peşinden isyan çıktı iddiasıyla çoğu çocuk yaşta 600 mahkumu öldürmüşler cezaevinde. Bu katliam üzerine karşı taraf da niyeti bozmuş. Silahlı çete örgütlenmesine gitmiş. 2015 yılında, o ara İSİS yahut IŞİD meşhurdu, kendilerini İSİS’in Afrika Şubesi ilan ettiler. Öyle bir hadise yok aslına bakarsanız, olmasına imkan da yok. İSİS uluslararası teşkilat kurabilecek bir yapı değil. Nijerya’daki ise son derece yerli, yerel problemlerden kaynaklanan bir ayaklanma.
+
+Olaya dışarıdan objektif bir gözle bakınca hangi tarafın daha haklı olduğunu söylemek güç. Daha doğrusu, insani ve vicdani açıdan isyancılar hükümet güçlerinden daha haklı görünüyor. O halde şöyle soralım: Neden dış dünya, yani Türkçesi ABD rejimi ve onun güdümündeki dünya medyası fanatik bir kesinlikle hükümet tarafını tutar? Neden olayın iki tarafını görmek istemez? Neden bir tarafı masum liseli kızlar, öbür tarafı meymenetsiz vahşiler gibi sunmayı seçer?
+
+Bunun cevabı kültürel ve ideolojik gibi görünse de aslında bence değil. Asıl cevap stratejik. İsyanın dayanağı İslam gibi üniversalist, evrenselci bir ideoloji olduğu için isyancılar ister istemez yayılmak zorundalar. Borno eyaletiyle yetinemezler. Bir dava güdüyorlar ve bu davayı çevredeki diğer ülkelere de empoze etmek gibi bir çabaları var. Bu da mevcut siyasi statüko açısından sakıncalı bir şey. O yüzden statükoyu tehdit edenler meymenetsiz, eşit derecede meymenet yoksulu katliamcılar ise meymenetli gösterilmek zorunda.
+
+Bunu da bir şekilde sizinle paylaşayım dedim.

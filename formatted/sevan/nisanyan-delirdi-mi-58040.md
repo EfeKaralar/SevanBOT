@@ -1,0 +1,25 @@
+# Nişanyan delirdi mi
+
+*Pazar Sohbeti*
+
+09 May 2022
+
+**Anahtar Kelimeler:** Covid, Nişanyan, Ukrayna savaşı
+
+**Kaynak:** https://www.sevannisanyan.com/metin/nisanyan-delirdi-mi-58040
+
+---
+
+**Size delirdi diyorlar Twitter’da, son zamanlardaki düşüncelerinizden ötürü. Delirdiniz mi?**
+
+Bence bütün dünya delirdi. Ben akıl sağlığımın hiç olmadığı kadar yerinde olduğunu düşünüyorum. Siyasi görüşlerimde ve tavırlarımda ciddi bir değişiklik olduğunu zannetmiyorum. Eskiden beri savunduğum şeyleri halen savunuyorum. Bazı şeyleri daha net görmeye başladım.
+
+Covid konusunda, bugün geldiğimiz noktada Covid öyküsünü hala inanarak savunan insanlar bulunduğunu görmekten dehşete kapılıyorum. Kısmen cehalet meselesi bu, başka açıklamasını bulmak zor. Dünyada olan bitenden eğer haberdar değilsen, sana anlatılan saçma hikayeyi her koşulda kabul edip, bunu kimliğinin bir parçası haline getirmeyi başarmak gibi bir meziyete sahipsen, o zaman hala Covid çok tehlikeli bir salgındı, devletler bizi korumak için ellerinden geleni yaptılar. insanları eve kapatmaları normal bir şeydi, çünkü hayat eve sığar, maske takarsan Covid’den korunursun, mutlaka aşı olmak lazım, aşı olursan Covid’den korunursun, bilime inanmak lazım diye o teraneyi okumaya devam edersin.
+
+Bu iğrenç soytarılığı kabul eden insanların bulunduğu bir toplumda yaşamayı ben şahsen bir skandal olarak görüyorum. Rezalet olarak görüyorum. Hayatımız boyunca insanlara birtakım dertler anlatmak, birtakım bilgiler paylaşmak, topluma faydalı olduğuna inandığımız birtakım söylemleri geliştirmek için bir mücadele verdik. Bir nokta geliyor ki, ya bu kadar gerizekalının yaşadığı bir toplumda ne lüzumu var ki? Sana ne, gebersinler, ne olacak, noktasına geliyorsun.
+
+Bunun daha beterini Ukrayna konusunda yaşıyorum. Amerikan emperyalizminin bir alçaklık teşkilatı olduğunu ben çok genç yaşımdan beri biliyorum. İlk Vietnam Savaşı zamanında fark ettim. Amerika’nın insanlığın başına bir bela olduğunu, demokrasiyle filan alakası olmadığını, tepesinde çıkar uğruna insanlığı yakmaktan çekinmeyecek, gaddar, zalim ve aptal bir oligarşinin bulunduğunu yirmi yaşıma gelmeden biliyordum. Daha sonra Yugoslavya hadisesinde, daha sonra Irak’ta, daha sonra Afganistan’da, Suriye’de, Libya’da gayet net görebildiğim bir şeydi. Ukrayna Savaşı, Amerika’nın çıkardığı bir savaştır. Amerika 1997-98’den bu yana adım adım ve sistemli olarak hazırladı bu savaşı. Bir namussuzluk hadisesidir. Savaşla ilgili Batı medyasına egemen olan haberlerin tamamına yakını yalandır. Yalan haber üzerine bir dünya kuruyorlar. Ve ne kadar kuş beyinli varsa dünyada, ne kadar kıt zekalı varsa, ay savaş çok kötü şey, keşke Rusya ordusunu egemen bir ülke olan Ukrayna’ya sokmasaydı mavalını yiyor. Bunu ben dehşetle karşılıyorum. Ukrayna’nın, bir kere, 1991’de Rusya’dan ayrılması feci bir yanlıştı. Ayrı bir ülke değildir Ukrayna, Batı ülkelerinin kendi çıkarları için 20. yüzyıl başından beri şişirdikleri bir balondur. Bir şekilde diyelim ki ayrıldılar. O zaman Rusya’nın ve Ukrayna’nın bir arada geliştirilmesi, komünist geçmişinden arındırılması ve Avrupa’yla entegre edilmesi gerekiyordu. Buna gerek Rus, gerek Ukrayna halkları hazırdı, dünden razıydı. Amerikalıların yaklaşımı bunun yerine kendi ahmakça propaganda dünyaları doğrultusunda düşmanlığı körüklemek oldu. Kulakları propagandayla sağır edilmiş bir geçmişten geldikleri için düşman olarak gördüler, soymayı denediler, soydular, mahvettiler, aşağıladılar, kaosa düşürdüler bu ülkeleri. Ukrayna’yı kanlı bir darbeyle ele geçirdiler. Türkiye’deki ülkü ocaklarına, Kürdistan’daki koruculara, JİTEM’e rahmet okutacak şer örgütleriyle donattılar. Dünyanın en ‘corrupt’, yolsuzluğa batmış, oligarşik zorbalık devleti haline getirdiler. Ülke nüfusunun üçte birini oluşturan Rusları açıkça soykırımla tehdit ettiler, vatandaşlık haklarını ellerinden aldılar. Donbas’ta sekiz sene süren bir katliam sürdürdüler. Bütün bunların amacı Rusya’yı savaş içine çekip Rusya’nın canına okumaktı. Çünkü Rusya, ABD ile birlikte, dünyanın en büyük doğal kaynaklarına sahip olan iki ülkesinden biridir. Bunu Amerika ele geçirmek istiyor. Bu kadar basit bir olay.
+
+Hayır, delirmedim. Net görüyorum olayları, berrak görüyorum. Çok okuyorum. Okumaya devam ediyorum. 65 yaşına gelip de hala kitap makale okuyan insan, Türkiye’de ya üç tanedir ya da beş, daha fazla değildir. Ben hala okuyorum. Dünya ekonomisiyle ilgili, Ukrayna’daki durumla ilgili, Sri Lanka’daki durumla ilgili, Brezilya’da olanlarla ilgili her gün okuyorum. En az dört beş tane ciddi makale okuyorum, kitap okuyorum, takip ediyorum. Aklım gayet berrak.
+
+Ayrıca hatırlayın bu savaşın çıkacağını ben size 2019’da bu Pazar Sohbetlerine başladığımız günden beri, ondan önce Samos Sürgünü programını yaparken de defalarca söyledim. 2018’den beri tekrar tekrar size hatırlattım. Onu da unutmayınız lütfen.

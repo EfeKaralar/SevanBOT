@@ -1,0 +1,29 @@
+# Karantina günlerinde ne okunur
+
+*Pazar Sohbeti*
+
+15 March 2020
+
+**Anahtar Kelimeler:** Covid, Decameron, karantina günleri, şark uygarlığı
+
+**Kaynak:** https://www.sevannisanyan.com/metin/karantina-gunlerinde-ne-okunur-78694
+
+---
+
+**Pandemi yüzünden evimize kapandık. Yıllardır okumadığımız kadar kitap okuyoruz. Bize okumaya değer birkaç kitap söyler misiniz? Mümkünse hemen bitmesin, günlerce veya haftalarca meşgul etsin.**
+
+Karantina günlerinde ne okunur sorusunun cevabı elbette Boccaccio’nun Decameron’u olsa gerek. Ortaçağ edebiyatının büyük eserlerindendir. Bir veba salgını sırasında on arkadaş taşrada bir konağa sığınırlar. Orada vakit geçirmek için her gün her biri bir öykü anlatır on gün boyunca. Böylece yüz öyküden oluşan bir koleksiyon ortaya çıkar. Çok parlak ve zevkle okunan öykülerdir. Şaşılacak kadar cesur ve hareketli ve renkli bir dünyayı anlatırlar. Cinsler arası ilişkiler konusunda, aşk meşk konularında çok cesur, hatta arsızca bir kitaptır.
+
+Özellikle kadın karakterleri kafanızdaki hazır Ortaçağ şablonundan hiç beklemeyeceğiniz karakterlerdir. Hepsi hırslı, entrikacı, sosyal tırmanış mücadeleleri içinde ve şehvet düşkünüdür. Yazarın bakış açısı, sonraki 500 yılda emsaline rastlamayacağınız ölçüde seküler ve gerçekçidir. İnsanlık komedisine eğlenceli ve renkli bir ışık tutar.
+
+Dekameron’un bir yönü genellikle göz ardı edilir. Boccaccio bu öyküleri 14. yüzyıl ortalarında büyük veba salgınını izleyen günlerde yazmış. Öykülerin büyük bir bölümü Doğu edebiyatından, yani Arap ve Fars öykülerinden alıntıdır. Bir kısmı belki sözlü aktarımla, fakat daha büyük kısmı yazılı aktarımla, yani edebi kaynaklardan alınmıştır. Bin Bir Gece Masalları ile aynı zihniyetin, aynı çağın, aynı bakış açısının ürünüdür. Öykülerin bazıları da ortaktır. 13. ve 14. yüzyıl Avrupa kültürünün İslam kültürüne ne kadar borçlu olduğunu zannediyorum hiç birimiz yeterince farkında olmadan yetiştik geldik. Yüzeysel bir aktarım yahut da yabancı, uzak, düşman bir kültürden ara sıra gelen birtakım esintilerden ibaret değil olay. 12. yüzyıl ortalarından itibaren, Avrupa yüksek kültürü — edebi kültür, bilimsel kültür, üniversite eğitimi kültürü — Arap kaynaklarına bakmış, onları takdir etmiş, incelemiş, Arapça öğrenmiş, Arapça kitapları tercüme etmek için yarışmış. Özellikle o çağın üç önemli bilimsel disiplini, matematik, astronomi ve tıp. Bu üç alanda İslam dünyası o çağda Avrupa’dan kat be kat ileri. Avrupalılar bunları öğrenmek için İspanya’ya, Tunus’a, Kahire’ye seyahat etmişler. İspanya’da, Kurtuba’daki kütüphanede 400 bin el yazması olduğunu söyleniyor o tarihte. Bu rakam belki abartılı olabilir, fakat 11. yüzyılda Avrupa’nın en büyük kütüphanelerin envanteri yüzlerle ifade ediliyor. Arada bir uçurum var. Organize yüksek eğitim alanında da Avrupa 12. yüzyıldan itibaren ilhamını Doğu’dan almış. 1200 yılı civarında ortaya çıkan ilk üniversitelerin kuruluş esasları da, mimarisi de, müfredatı da, belli başlı ders kitapları da Arap medreselerinden alınan ilhamla tasarlanmış.
+
+Tıp, astronomi, matematik ve daha sonra felsefe ve mantık sahasında yapılan çeviriler biliniyor. Edebiyat alanındaki etkileşim ise genellikle gözden kaçırılıyor. Oysa Dekameron’da görüyoruz ki Doğu’dan edebi zevkler, edebi temalar, anlatım teknikleri de aktarılmış. Müzik üzerinde az durulmuş bir başka sahadır. O devirde Avrupa’da ortaya çıkan müzik enstrümanlarının birçoğunun, isimleriyle beraber, Sicilya ve İspanya üzerinden Doğu’dan alındığı biliniyor. Fakat dönemin seküler müziğinde Şark etkileri ne kadardır, doğru dürüst bir bir çalışma yok bildiğim kadarıyla.
+
+Bunları niye anlatıyoruz? Bugün Türkiye’de ve dünyada yaygın bir kanı var. İslam dünyasına baktığımızda büyük ölçüde bir barbarizm, yani medeniyet düşmanlığı hareketi görüyoruz. İslam deyince pek çoklarımızın aklına işin sadece bu boyutu geliyor. İslam nedir? Cehaletin organize hali! Kanıtı nerede? Buyurun, Kuran’dan istemediğiniz kadar ayet, eleştirel zihin sahibi bir insanın kabul edebileceği şeyler değil. Unutulan şu ki, İslam sadece 7. yüzyıldaki birtakım ümmi Arap kabilelerinin dini değil. Bugünkü cahil ve ezik kitlelerin tepki dininden ibaret de değil. Altı yüz yıl boyunca yeryüzünün en sofistike, en gelişkin, en medeni kültürüne zemin oluşturmuş bir din bu. Aklınıza bugün tanıdığınız İslami insan tipolojisi gelmesin sakın. Bugün “İslam” deyince gözünüzün önüne gelen kasaba esnafı ile başı örtülü mazbut bacı yahut işsiz güçsüz Afgan delikanlı başarmamış o işleri. Ciddi bir şekilde büyük zenginliklere hükmeden ve bunun üzerine cesur, araştırıcı, renkli bir kültür inşa eden insanlar başarmış.
+
+Sonra o kültür durmuş ve çökmüş, kendini yenilemeyi başaramamış, yenilmiş, ve bu yenilginin sonucu olarak da bugün bir tepki ideolojisine, ezilmişlerin vahşi çığlığına dönüşmüş.
+
+**Hocam İslam medeniyeti Yunan’dan araklama değil mi?**
+
+Hayır değil. Yunan temelleri üzerine yükselmiş. Rönesans sonrası Batı medeniyeti ne kadar eski Roma ve Yunan’dan araklamaysa, Arap medeniyeti de o kadar. Temel özelliği şehirli bir kültür olmasıdır sanıyorum. 12. yüzyıl sonuna dek Avrupa medeniyeti iki sahada şekillenir. Bir, kırlarda, şatolarda ve savaş alanlarında, iki, manastır yazıhanelerinde. Oysa İslam kültürü, tıpkı eski Yunan ve Roma gibi, şehir meydanlarında ve şehir mahfellerinde oluşan bir kültürdür. Bağdat’ın, Şam’ın, Kahire’nin, Kayruvan ve Fes’in, İsfahan ve Belh’in medinelerinde doğar ve şekillenir. Avrupa buna benzer bir şehir kültürüne ancak Rönesans’la kavuşacaktır. Rönesans dediğimiz şey bir bakıma kültürel üretimin odağının manastırlardan ve şatolardan Floransa sokaklarına taşınması hadisesinden ibaret. Oysa Araplar, en azından Bağdat’ı kurdukları günden beri zaten oradalar.

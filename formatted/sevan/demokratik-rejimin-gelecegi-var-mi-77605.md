@@ -1,0 +1,29 @@
+# Demokratik rejimin geleceği var mı
+
+*Pazar Sohbeti*
+
+07 April 2024
+
+**Anahtar Kelimeler:** demokrasi, dış politika, Türk seçimleri
+
+**Kaynak:** https://www.sevannisanyan.com/metin/demokratik-rejimin-gelecegi-var-mi-77605
+
+---
+
+**31 Mart 2024 yerel seçimlerinde Cumhuriyet Halk Partisi beklenmedik bir başarı gösterdi, iktidar partisi ise 22 yıldan beri ilk kez yenilgiye uğradı. Sizce bu sonuç, Türk siyasetinde rüzgarın nihayet yön değiştirdiğinin göstergesi midir? Bir dahaki genel seçimlerde iktidar değişir mi?**
+
+Demokratik rejimin, yani dünyada ve Türkiye’de 20. yüzyılın ortalarından beri norm sayılan yönetim sisteminin, bütün dünyada olduğu gibi Türkiye’de de artık yürümediği kanısını taşıyorum. Demokrasi ideali, yani tüm vatandaşların kamu yönetiminde prensip olarak söz sahibi olması başka bir şey. Felsefi bir idealdir, çağa tabi bir şey değil. Benim söylediğim, yasama meclisinin ve belki devlet başkanının halk oyuyla seçildiği, yasaları seçilmiş parlamentonun yaptığı, rakip siyasi fikirlerin belli sınırlar dahilinde, ama anlamlı sınırlar dahilinde kamuoyunda açıkça tartışıldığı, azınlık haklarının bir anayasa çerçevesinde bağımsız mahkemelerce korunduğu düzen. Bu sistem 1945’i izleyen dönemde dünyanın büyük bir bölümünde kör topal da olsa işledi. Şimdi artık işlemiyor. Yerine ne konacaktır bilmiyorum.
+
+Bu sistemi işler kılan, ya da işleyebilirmiş gibi gösteren varsayımlar ortadan kalktı. Varsayımların birincisi, toplumun referans kabul edeceği bir ortak değerler sistemi ve bu ortak değerler sisteminin savunucusu konumunda olan bir akil insanlar sınıfıdır. ‘Aydınlar’ deniyor bunlara, toplumun ortak müktesebatını temsil etmek üzere özel olarak eğitilmiş insanlar, aksakallar. Böyle bir sınıf artık yok. Başka bir sosyolojiye geçtik. Öyle bir merci yoksa demokratik kavganın kontrol altında tutulabilmesi çok zordur, imkansızdır hatta. Bu kanaate vardım ben.
+
+İkincisi, silahlı ve silahsız bürokrasilerin bu derece büyüdüğü, gücünü bu derece mutlaklaştırdığı bir dünyada, halk oyuyla seçilen hükümetlerin bir kıymeti harbiyesi olduğuna inanmıyorum. Siyasi iktidarı elinde tutan kadroların, bir, bürokrasiyle bütünleşmesi, iki, finans odaklarıyla bütünleşmesi, üç polis dahil aseri kurumlarla bütünleşmesi, elektronik istihbarat dahil çok gelişkin istihbarat imkanlarını elde etmesi, bugünün gerçekleri bunlar. Bu koşullarda iktidardaki bir parti ile iktidar dışı partiler arasında adil bir rekabet ihtimali kalmamıştır. Hukuk sisteminin kökünden dinamitlendiği, dolayısıyla hukuk varsayımının artık sorgulanır hale geldiği bir dünyada, hukuka güvenerek birtakım hakların korunabileceğini sanmak abestir. Hukuk dediğin şey futbolda hakemin işlevidir. Futbol oynamak için bir hakem lazım ağzında düdüğü olan. Hakem düdük çaldığında oyuncular gidip pataklıyorsa hakemi orada futbol oynanamaz, başka bir oyun oynanmalıdır. Top takımlardan birinin malıysa, bu takım kalenin yerini dilediğince değiştirme imkanına sahipse, bir takım 11 kişiyle oynarken öbürü 21 kişiyle sahaya çıkıyorsa, öbür takımdaki 11 kişiden dilediğini satın almak veya dilediğini saha dışına atmak imkanına sahipse oynanamaz bu oyun. Başka bir sisteme, başka bir devre girmiş bulunuyoruz.
+
+Şüphesiz insanlarda oyun tükenmez. Partiler perde arkasından anlaşırlar, bölünürler, rüşvet verirler, rüşvet alırlar. Son dakika karambolleri yaratırlar, yurt dışından yardım alırlar. Bir şekilde bir süre daha seçim görüntüsü korunur, hatta seçim yoluyla iktidarlar değişebilir. Kim bilir? Fakat oyunun kuralları değişti arkadaşlar. Bir diktatöryel yönetimin tüm koşulları oluştu.
+
+Gitgide daha fazla o kanıya vardım ki Türkiye’nin iç politikadaki kısır çekişmelerinden çok dış politikadaki tavrı ve konumu daha önemli olan şeydir. Bizim ve çocuklarımızın geleceğini etkileyecek olan şey iç politikadaki birtakım marjinal hamleler değildir. Ekonomi konusunda bu hükümetin veya başka herhangi bir hükümetin yapabileceği fazla bir şey yoktur. Diğer iç politika ihtilafları da genellikle incir çekirdeğini doldurmayan boş işlerdir. Önümüzdeki yıllarda siyasi açıdan belirleyici olacak saha dış politikadır.
+
+Dış politikada ise durum şu. Birincisi, başta ister bu hükümet olsun ister başka hükümet, Türkiye’nin NATO üyesi olarak Amerikan ittifakından çok fazla uzaklaşma şansı yoktur. O kadar büyük bir bağımsızlığı yok Türkiye’nin. Önemli olan bugün hükümeti temsil edenlerin hangi sesleri çıkardığı, hangi beyanları yaptığı değil. Falan bakan çıkıp cırt dedi, öbürü curt dedi, gitti falanla görüştü, Putin’e mesaj gönderdi, bunlar değil mesele. Mesele büyük bir savaş çıktığında Türkiye hangi tarafta yer alacak meselesidir. Ve bu sorunun cevabı bellidir. Türkiye’nin bugünkü politikaları bu realite etrafında şekillenir.
+
+Türkiye özellikle Suriye macerasının çöküşünden sonraki dönemde bence oldukça soğukkanlı ve mantıklı politikalar izliyor. Batı İttifakı içinde kendine nispeten bağımsız, daha mesafeli, kendi dışındaki kavgalardan asgari zarar görecek bir çizgi izlemeye çalışıyor. Bunun ne kadarı Erdoğan’ın şahsi tercihlerinin ve eğilimlerinin sonucudur, ne kadarı Türkiye’nin derin devletinin ortak aklının eseridir? Benim tahminim daha ziyade ikincisidir. Cumhuriyet Halk Partisi’nin faraza iktidara gelirse dış politikada nasıl bir çizgi izleyeceği konusunda hiçbirimizin bir fikri yok. Fakat araya mesafe koyup baktığımda o kanıya varıyoruz ki, herhangi bir hükümetin Türkiye’nin devlet aklının belirlediği ana hatlar dışında bir politika izlemesi kolay değildir, mümkün de değildir muhtemelen. Dolayısıyla ha biri, ha öbürü, çok fazla bir şey değişmeyecektir.
+
+İnsan kalitesi ve bağnazlık açılerından Cumhuriyet Halk Partisi’nin diğer partilerden daha iyi veya daha kötü olduğunu düşünmüyorum. Bir iktidar değişimi 22 yıldan beri biriken iktidar kibrinin kırılması açısından belki kısa vadeli bir olumlu etki yaratabilir. Ama uzun vadede ha Ali Veli, ha Veli Ali, çok şey fark etmez diye düşünüyorum.

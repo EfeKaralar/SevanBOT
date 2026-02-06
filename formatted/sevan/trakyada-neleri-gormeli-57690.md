@@ -1,0 +1,29 @@
+# Trakya’da neleri görmeli
+
+*Pazar Sohbeti*
+
+18 June 2023
+
+**Anahtar Kelimeler:** Bayezidiye, Edirne, Gelibolu, Osmanlı sanatı, Trakya
+
+**Kaynak:** https://www.sevannisanyan.com/metin/trakyada-neleri-gormeli-57690
+
+---
+
+**Trakya’da mutlaka görülmesi gereken bir yer önerisinde bulunabilir misiniz?**
+
+Bir değil iki yer önereyim. Biri Gelibolu’daki Çanakkale Savaşları Tarihi Milli Parkı. Şaşırtıcı bir yerdir. Savaş anıtı deyince ucuz hamaset bekliyorsunuz ama hiç öyle değil. Türkiye’nin mutat standartlarına hiç benzemeyen bir yer.
+
+Nasıl yapıldı o park biliyorsunuz. Asıl savaş anıtları, İngilizlerin ve müttefiklerin mezarlıklarıdır. 1918’den 1923’e kadar Boğazlar müttefik işgali altındayken yapıldı o anıtlar ve zannediyorum Lozan Antlaşması’na ekli bir protokolle Türkiye bunları korumayı ve İngilizlerin atayacağı yabancı bir yöneticinin gözetimine vermeyi kabul etti. Sonuç olarak, Türkiye’deki anıtlara, parklara hiç benzemeyen, daha ziyade Anglosakson dünyasının 19. yüzyıldaki çevre düzenleme anlayışına uyan yerler yaratıldı. Öyle bir tane falan değil, on beş yirmi tane belli başlı askeri mezarlık var orada. Sonradan yapılmış birkaç tane de Türk anıtı var Gelibolu Yarımadasında. Gerçekten görülmeye değer bir yerdir. Ben ilk gördüğümde çok etkilenmiş ve şaşırmıştım.
+
+İkinci bir yer Edirne’de Beyazıdiye külliyesi. İkinci Beyazıt zamanında yapılmış olan bir cami, medrese, hastahane vesaire, büyük bir Osmanlı kompleksidir. Şimdi ne durumdadır bilmiyorum. Ben en son 22-23 yıl önce gitmişim. Etrafı çayırlık, bahçelik, bir birkaç evden ibaret basit bir mahalle, şehir merkezinden uzakta. O zamanlar külliye hemen hemen metruktu. Kapıda bekçi var mıydı hatırlamıyorum, içeri girince tek başınasın. Sonra bir ara galiba Tıp Fakültesi mi ne yapmak istediler orayı, muhtemelen rezil etmişlerdir. Çünkü asıl güzel olan o terk edilmişliğiydi. Bütün binalar sağlam, harabe değil, ot bitmiş, uzun zamandır kimse uğramamış buraya duygusu çok yoğundu. İlk ziyaretimde çarpıldım, sonraki birkaç yılda fırsat buldukça iki üç defa tekrar gittim.
+
+Geometrisiydi beni etkileyen. Son derece simetrik, alabildiğine rasyonel, alabildiğine matematiksel bir sanat anlayışının eseri. Yüksek dönem İslam mimarisi genellikle öyledir, emperyal Osmanlı sanatı da öyledir. Soyut, akılcı, geometrik bir sanat anlayışıdır. Basit geometrik formlardan son derece karmaşık kompleksler üretir. Size birkaç kere anlatmaya çalıştım İslam medeniyetinin zannettiğiniz gibi bir medeniyet olmadığı fikrini. İşte o fikrin benim kafamda olgunlaşmasına yol açan basamaklardan biridir Beyazıdiye külliyesi.
+
+Türkiye’de başkent dışında bence en ilginç iki Osmanlı eserinin biri Edirne’deki Beyazid külliyesidir, öbürü Payas’taki Sokollu külliyesidir. İkisi de aynı esprinin ürünüdür. Bir kere emperyal gücü hissedersin bu yerlerde. Çok güçlü, çok muktedir birileri yapmış burayı! Ve bir bakıma çok modern bir mimari anlayışıdır. Süslemeyi minimize eden, yalın, sevimliliğe tenezzül etmeyen, öncelikle mühendisliğe ve matematiğe önem veren bir sanat anlayışı. Matematiksel bir güç gösterisi. Bizim bildiğimiz, halk arasında gerici, yobaz, cahil, riyakar diye bilinen şark kültüründen çok farklı bir kültür.
+
+O mimariyi görünce aklıma Orta Çağ İslam edebiyatının bazı ürünleri geliyor. Eski İslam edebiyatını kafanızda çok zahmet çekmeden canlandırmak isterseniz size önerim, doğrudan doğruya eski İslam edebiyatına gitmek yerine, onlardan şiddetle esinlenmiş bir modern yazardan yola çıkmanız. Jorge Luis Borges, Arjantinli biliyorsunuz, onun Ortaçağ Arap edebiyatına nazire olarak yazdığı birtakım hikayeleri vardır. En ünlüsü El Mutasım’a Yaklaşmak adlı öyküdür. Türkçeye çevrilmiş midir bilmiyorum, mutlaka çevrilmiştir. The Approach to Al-Mu’tasim. Bu öykü Feridüddin Attar’ın Mantıku’t-Tayr’ı üzerine kuruludur. Onun estetiği üzerine kurulu bir öyküdür. Bir mantık labirentidir. Yine bir başka öyküsü vardır Labirentinde Öldürülen İbni Hakkan el-Buhari adlı. Kavramsal bir labirent içinde yaşamını kaybeden bir Arap tüccarının öyküsü. Varolmayan bir Orta Çağ el yazmasının yeni yayınlanmış iki edisyonu üzerine akademik bir tartışmadır. Sadece akılda var olan bir eserin iki ayrı edisyonu arasındaki farkların yorumlanması ve eleştirilmesi üzerine bir hikaye. Tamamen akıl üzerine kurulu bir labirent.
+
+Medrese kültürünün temel metinleri ile karşılaştığınız zaman tastamam buna benzer sorunlarla ilgilendiklerini görürsünüz. Metin içinde metin içinde metin, metin analizinin analizi, meta-metin gibi kavramlar insanlığın fikir dağarcığına biraz belki Bizans, fakat daha çok Ortaçağ İslam kültürüyle girmiştir. Ortaçağın Avrupa üniversiteleri de oradan aldılar. Esas sayılan bir metni alıp tartışmak, ona zeyl yazmak, yorum yazmak, kenar notları ve dipnotları yazmak. Sonra o dip notlarına üçüncü elden yeniden dipnotları yazılması. Falan hoca dedi ki bunun anlamı şudur, filan hoca dedi ki o kelime öyle değil böyle okunur, anlamı şu sözlükte şu şekilde verilmiştir. Bu tartışma, metin analizinin fantastik dünyası, medrese eğitiminin temelidir. O kadar deli bir dünyadır ki, sonuçta medrese kültüründen gelenlerin pek çoğu şu noktaya vardılar. Delireceğiz! Delirmemek için birtakım mutlak doğruları var saymamız ve aksiyom kabul etmemiz lazım. Aksi takdirde onları da tartışmaya başlarsak işin içinden çıkamayız. Aynalar galerisinde kayboluruz.
+
+Beyazidiye’de olsun, Sokullu külliyesinde olsun beni büyüleyen şeylerden biri de zannediyorum işlevini kaybetmiş olmalarıydı. Terk edilmişler. Bugünün ucuz ve hamasi milli ve dini kılıflarının dışında kalmışlar. Fakat harabe de değiller, ikisi de sapasağlam. Çıplak olarak Osmanlı sanatının iç yüzünü, iskeletini görüyorsunuz orada. Ve dikkatli gözle bakarsanız çok şaşırtıcı bir yüz. Beklemediğiniz bir yüz.

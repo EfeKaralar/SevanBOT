@@ -1,0 +1,25 @@
+# Almanya aklını mı kaybetti
+
+*Pazar Sohbeti*
+
+19 November 2023
+
+**Anahtar Kelimeler:** Almanya, diplomasi, Ukrayna Savaşı
+
+**Kaynak:** https://www.sevannisanyan.com/metin/almanya-aklini-mi-kaybetti-43971
+
+---
+
+Görünürde Almanya, sağduyusunu kaybetmiş bir ülke tablosu çiziyor. Alman yönetici sınıf kraldan fazla kralcı olma yarışında. Gerek Ukrayna Savaşı’nda gerek ondan daha beter bir düzeyde son Gazze Savaşı münasebetiyle adeta ABD’nin sadık finosu rolünü benimsedi. Başbakan Olaf Scholz adeta zayıf politikacı rolünü üstlenmiş bir aktör, ellerini oğuşturarak üzgün bir yüz ifadesi takınıyor, ABD’nin en ahmakça politikalarını kayıtsız şartsız desteklemekten başka ellerinden bir şey gelmediğini açıklıyor. Dışişleri Bakanı Bayan Baerbock, ABD’deki muadili Blinken ile adeta abuk subuk demeçler verme yarışında. Alman sanayii iki sene içinde göz göre göre bitirildi. Almanya’nın geleceğinin en önemli güvencesi olan Nordstream boru hattı ancak ABD’nin gücünün yeteceği bir operasyonla patlatıldı ve Alman siyaset dünyasında ve medyasında bir Allah’ın kulu çıkıp herkesin bildiği gerçeği dile getirmeye cesaret edemedi. “Allah Allah, borumuzu patlattılar, kim patlattı bir fikrimiz yok, acaba Ruslar mı patlattı, kim bilir.” Koskoca bir devlet bunu söyleyen, ciddi bir istihbarat teşkilatı, hatta iki istihbarat teşkilatı olan bir devlet.
+
+Akıllı bir insan bu tabloyu nasıl yorumlar? Acayip bir durum var ortada. Soğukkanlı düşünme kapasiten yoksa hakikaten hayret edeceğin, Almanlar salakladı herhalde diyeceğin bir durum var ortada. Oysa diplomasi tarihinden biraz olsun nasibiniz varsa başka türlü düşünürsünüz diye sanıyorum ben. Amerika Birleşik Devletleri’ne meydan okuyan devletlerin başına neler geldiğini son elli altmış yılda sık sık gördük. Saddam Hüseyin’i hatırlayın, yeter.
+
+Amerika Birleşik Devletleri’nin 1990’lardan bu yana Almanya konusunda ciddi ve uzun soluklu bir politika izlediğini düşünüyorum. 1990 yılında Almanya’nın birleşmesiyle birlikte İkinci Dünya Savaşı’ndan sonra kurulan dünya dengesi değişti. Almanya yeniden önemli ve güçlü bir devlet olarak öne çıktı. Bu arada unutmayın ki Almanya’nın bir yarısı 1945’ten beri ABD’nin askeri kontrolündeyken, diğer yarısı Sovyetler Birliği’nin kontrolü altındaydı. Bu iki parça birleşti, yeni bir realite çıktı. O tarihten itibaren, Almanya’da saman altından bir su yürümeye başladı. Bu düşünce çizgisine göre, Almanya’nın geleceği Rusya’ya bağlıdır. Almanya Rusya ile yakın bir birliktelik kuracak olursa dünya çapında bir güç olur ve Avrupa’yı da peşinden sürükler. Rusya, doğal kaynaklar açısından dünyanın en zengin ülkesidir. 140 milyonluk, çevre ülkelerle birlikte 250 milyonluk aç bir tüketici pazarıdır. Almanya muazzam bir endüstriyel altyapıya sahiptir. Buna karşılık enerji kaynakları açısından yoksuldur. Bu ikisi birbirini yin ve yang gibi tamamlar. Başbakan Schroeder’in aklı bu konuda netti. Almanya’nın geleceği Rusya’yla ittifaka bağlıdır diye düşünüyordu. Merkel ise, unutmayın, Doğu Alman’dı. Sovyet eğitim sistemiyle yetişmişti. Son derece temkinli bir şekilde, Rusya ile Almanya’nın adım adım birbirine bağımlı hale gelmesini gelmesi sonucunu doğuracak politikalar izledi. Hayatının büyük projesi Nordstream gaz hattıydı. Çünkü bu hatla Almanya uzun bir süre için enerji ihtiyacını karşılıyor ve Rusya’yla karşılıklı olarak birbirlerinden ayrılamayacak bir bağımlılık ilişkisi kuruyordu.
+
+Amerika’nın ise buna izin vermeye niyeti yoktu. Alman-Rus ittifakını kendi varlığına yönelik bir tehdit olarak görüyordu. Önce Almanya ile Rusya’nın arasını bozacak operasyonlar düzenledi. Navalny’nin zehirlenmesi bu operasyonlardan biridir. Ardından Ukrayna Savaşı’nı provoke etti. Ukrayna Savaşı, Almanya’yı Rusya’ya karşı tavır almaya mecbur etti. Tabir caiz ise, Almanya’yı kurt kapanına aldı.
+
+Ülke yönetenler filozof değildir. Hakikatin çok yönlülüğünü dile getirmek değildir görevleri. Kafalarına silah dayanmış. Ya bizdensin ya da vururuz denmiş. Sen olsan ne yaparsın? Ağam haklısın, peki babacığım dersin. Scholz gibi ellerini oğuşturup, dayak yemiş evcil hayvan yüzü takınırsın.
+
+Almanya’da otuz seneden beri Rusya’yla yakınlaşma, Ost-Politik düşüncesini savunan insanlara ne oldu? Kayıp mı oldular? Yok mu oldular? Elbette oradalar. Gününü bekliyorlar. Günü geldiğinde beklenmedik şeyler olacaktır. Hatırlayın, İkinci Dünya Savaşı’na Almanya, Sovyetler Birliği’yle müttefik olarak başladı. Polonya’yı beraber işgal ettiler. Sonra 1941 yılının bir Haziran sabahı dünya tepe taklak oldu. Napolyon Savaşları dönemi eğer ilginizi çekiyorsa o zaman da buna benzer şeyler oldu. Avusturya 1809’dan sonra Napolyon’un baş müttefikiydi. Hatta onunla damat kayınpeder ilişkisi kurmuştu. Napolyon’un oğlu ve halefi, Avusturya İmparatoru’nun öz torunuydu. Napolyon Rusya’da yenilip döndükten sonra da Şansölye Metternich uzunca bir süre, dosttur candır Napolyon söylemini sürdürdü. Kolunu dostça omuzuna attı, sonra bıçakladı sırtından.
+
+Diplomasi işleri genellikle böyledir. Sonraki hamleni belli etmemektir marifet.
