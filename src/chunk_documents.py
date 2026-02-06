@@ -32,6 +32,7 @@ OUTPUT_FILE_V2 = Path(__file__).parent.parent / "chunks_v2.jsonl"  # Old format 
 MAX_TOKENS = 400
 MIN_TOKENS = 200
 OVERLAP_PERCENT = 0.15  # 15% overlap (research suggests 10-20%)
+EMBEDDING_MODEL_LIMIT = 512  # Hard limit for final text_for_embedding
 
 # Ottoman text detection (special diacritics used in transliteration)
 OTTOMAN_PATTERN = re.compile(r'[ˁāīūḥḍṣṭẓġʿʾ]')
@@ -253,6 +254,61 @@ def split_into_sentences(text: str) -> list[str]:
     return [s.strip() for s in sentences if s.strip()]
 
 
+def hard_split_text(text: str, tokenizer, max_tokens: int) -> list[str]:
+    """
+    Force-split text into chunks under max_tokens.
+    Used as fallback when sentence splitting doesn't work (e.g., long lists).
+    Splits on commas, spaces, or by character count as last resort.
+    """
+    # Try different delimiters in order of preference
+    for delimiter in [', ', ' ', '']:
+        if delimiter == '':
+            # Last resort: split by character count (~4 chars per token)
+            char_limit = max_tokens * 3  # Conservative estimate
+            chunks = []
+            for i in range(0, len(text), char_limit):
+                chunks.append(text[i:i + char_limit])
+            return chunks
+
+        if delimiter not in text:
+            continue
+
+        parts = text.split(delimiter)
+        chunks = []
+        current = []
+        current_tokens = 0
+
+        for part in parts:
+            part_tokens = count_tokens(part, tokenizer)
+            if current_tokens + part_tokens > max_tokens and current:
+                chunks.append(delimiter.join(current))
+                current = [part]
+                current_tokens = part_tokens
+            else:
+                current.append(part)
+                current_tokens += part_tokens + 1
+
+        if current:
+            chunks.append(delimiter.join(current))
+
+        # Verify all chunks are under limit
+        all_under = all(count_tokens(c, tokenizer) <= max_tokens for c in chunks)
+        if all_under:
+            return chunks
+
+    return [text]  # Shouldn't reach here
+
+
+def truncate_to_limit(text: str, tokenizer, max_tokens: int) -> str:
+    """Truncate text to fit within max_tokens."""
+    tokens = tokenizer.encode(text, add_special_tokens=False)
+    if len(tokens) <= max_tokens:
+        return text
+    # Use fewer tokens to account for encode/decode variance
+    truncated = tokenizer.decode(tokens[:max_tokens - 15])
+    return truncated
+
+
 def get_last_sentences(text: str, n: int = 1) -> str:
     """Get last n sentences from text for overlap."""
     sentences = split_into_sentences(text)
@@ -305,11 +361,29 @@ def chunk_document(metadata: dict, tokenizer, enrich_context: bool = True) -> li
 
             # Split large paragraph
             sentences = split_into_sentences(para)
+
+            # If sentence split didn't help (e.g., one giant list), use hard split
+            if len(sentences) == 1 and para_tokens > MAX_TOKENS:
+                hard_chunks = hard_split_text(para, tokenizer, MAX_TOKENS)
+                raw_chunks.extend(hard_chunks)
+                continue
+
             sent_chunk = []
             sent_tokens = 0
 
             for sent in sentences:
                 sent_tok = count_tokens(sent, tokenizer)
+
+                # If single sentence is too long, hard split it
+                if sent_tok > MAX_TOKENS:
+                    if sent_chunk:
+                        raw_chunks.append(" ".join(sent_chunk))
+                        sent_chunk = []
+                        sent_tokens = 0
+                    hard_chunks = hard_split_text(sent, tokenizer, MAX_TOKENS)
+                    raw_chunks.extend(hard_chunks)
+                    continue
+
                 if sent_tokens + sent_tok > MAX_TOKENS and sent_chunk:
                     raw_chunks.append(" ".join(sent_chunk))
                     sent_chunk = []
@@ -373,11 +447,18 @@ def chunk_document(metadata: dict, tokenizer, enrich_context: bool = True) -> li
         # Generate chunk ID
         chunk_id = f"{doc_id}#{i}"
 
+        # Build text_for_embedding with context prefix
+        text_for_embed = context_prefix + chunk_text if enrich_context else chunk_text
+
+        # Safety truncation: ensure we don't exceed embedding model limit
+        if count_tokens(text_for_embed, tokenizer) > EMBEDDING_MODEL_LIMIT:
+            text_for_embed = truncate_to_limit(text_for_embed, tokenizer, EMBEDDING_MODEL_LIMIT)
+
         # Build the chunk with improved metadata
         chunk = {
             # Content
             "text": chunk_text,
-            "text_for_embedding": context_prefix + chunk_text if enrich_context else chunk_text,
+            "text_for_embedding": text_for_embed,
 
             # Document metadata
             "title": metadata["title"],
