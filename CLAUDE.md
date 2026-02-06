@@ -27,10 +27,16 @@ python3 src/main.py --skip-convert
 python3 src/main.py --skip-download
 
 # Chunk documents for embedding
-python3 src/chunk_documents.py
+python3 src/chunk_documents.py                              # Simple context (default)
+python3 src/chunk_documents.py --context-mode llm           # LLM-generated context (requires ANTHROPIC_API_KEY)
+python3 src/chunk_documents.py --context-mode llm --max-docs 10  # Test on 10 docs
+
+# Compare context modes side-by-side
+python3 src/compare_contexts.py --sample 5                  # Compare 5 random documents
+python3 src/compare_contexts.py --source sevan --sample 3   # Compare 3 Sevan articles
 
 # Install dependencies
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 ## Architecture
@@ -44,11 +50,47 @@ pip install -r requirements.txt
 - `src/main.py` - Orchestrates batch loop: download N files → convert → delete (optional) → repeat until done
 - `src/download_articles.py` - Downloads articles from Substack (sitemap) or SevanNisanyan.com (API)
 - `src/convert_to_md.py` - Extracts title/subtitle/date/content, converts to Markdown
-- `src/chunk_documents.py` - Semantic chunking with paragraph/sentence splitting, overlap, noise filtering
+- `src/chunk_documents.py` - Semantic chunking with paragraph/sentence splitting, overlap, noise filtering, contextual enrichment
+- `src/contextual_utils.py` - LLM-based context generation using Claude Haiku with prompt caching
+- `src/compare_contexts.py` - Tool to compare simple vs LLM context modes
 
 ---
 
-## RAG Retrieval Pipeline (To Implement)
+## Contextual Retrieval (IMPLEMENTED ✓)
+
+The chunking pipeline now supports two context enrichment modes:
+
+### Simple Mode (Default)
+- Prepends document metadata to each chunk: `Makale: [title] | Tarih: [date] | Konular: [keywords]`
+- Instant, free, effective for most use cases
+- Output: `chunks.jsonl`
+
+### LLM Mode (Optional)
+- Uses Claude Haiku to generate semantic context for each chunk
+- Prompt caching reduces cost by ~10x after first chunk per document
+- Turkish-language prompts optimized for essay content
+- Cost: ~$2-3 for full corpus (~6,850 chunks)
+- Output: `chunks_contextual.jsonl`
+
+**Setup for LLM mode:**
+```bash
+# Create .env file
+echo "ANTHROPIC_API_KEY=your_key_here" > .env
+
+# Run with LLM context
+python3 src/chunk_documents.py --context-mode llm
+```
+
+**Compare modes:**
+```bash
+python3 src/compare_contexts.py --sample 5
+```
+
+Shows side-by-side comparison of simple vs LLM-generated context with cost estimates.
+
+---
+
+## RAG Retrieval Pipeline (Next Steps)
 
 See `advanced-rag/RETRIEVAL_PLAN.md` for full details. This section summarizes key decisions for implementation.
 
@@ -91,7 +133,7 @@ RETRIEVAL: Query → Hybrid Search → RRF Fusion → Reranking → Top-K Result
 | Embedding | `text-embedding-ada-002`, `all-MiniLM-L6-v2` | `text-embedding-3-large` or `Cohere embed-v4` |
 | Hybrid Fusion | Weighted average | **Reciprocal Rank Fusion (RRF)** |
 | Reranker | `ms-marco-MiniLM-L-6-v2` | `bge-reranker-v2-m3` or `Cohere Rerank 3.5` |
-| Context | LLM-generated per chunk (expensive) | **Prepend document metadata** (simple, effective) |
+| Context | Simple metadata prepending | **Both implemented:** Simple (default) or LLM-generated (optional) |
 
 ### RRF Implementation (Critical)
 
@@ -152,6 +194,5 @@ cohere           # Alternative: embed-v4 + Rerank 3.5
 ### What NOT to Implement
 
 - Reverse HyDE (not suited for essay content)
-- LLM-generated context per chunk (too expensive for this use case)
 - ColBERT (overkill unless scaling to millions of docs)
-- Query decomposition (start simple)
+- Query decomposition (start simple, add later if needed)

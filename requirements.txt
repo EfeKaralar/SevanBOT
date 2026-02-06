@@ -11,3 +11,6 @@ urllib3==2.6.3
 transformers>=4.40.0
 sentence-transformers>=2.7.0
 torch>=2.0.0
+anthropic>=0.18.0
+python-dotenv>=1.0.0
+rich>=13.0.0
