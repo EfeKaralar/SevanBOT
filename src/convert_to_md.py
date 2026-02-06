@@ -1,20 +1,51 @@
 """
-convert_to_md.py - Convert Substack HTML articles to clean Markdown
+convert_to_md.py - Convert HTML articles to clean Markdown
+
+Supports:
+- Substack articles (HTML with post-title, subtitle, available-content classes)
+- SevanNisanyan.com articles (SvelteKit with embedded JSON data)
 
 Usage:
     python3 convert_to_md.py <input_html> [output_dir]
     python3 convert_to_md.py input.html                    # outputs to ./formatted/substack/
     python3 convert_to_md.py input.html /custom/path/      # outputs to custom path
 
-This script converts raw Substack HTML to clean, RAG-ready Markdown.
+This script converts raw HTML to clean, RAG-ready Markdown.
 """
 
 import sys
 import os
 import re
+import json
 import argparse
 from bs4 import BeautifulSoup
 from markdownify import markdownify as md
+from datetime import datetime
+
+
+def fix_turkish_encoding(text):
+    """
+    Fix mojibake (double-encoded UTF-8) in Turkish text.
+
+    This fixes text that was originally UTF-8 but was misinterpreted as Latin-1
+    and then re-encoded as UTF-8.
+
+    Args:
+        text: Potentially mojibake text
+
+    Returns:
+        Properly decoded text
+    """
+    if not text:
+        return text
+
+    try:
+        # Try to fix the double-encoding: encode as Latin-1, decode as UTF-8
+        fixed = text.encode('latin-1').decode('utf-8')
+        return fixed
+    except (UnicodeDecodeError, UnicodeEncodeError):
+        # If it fails, the text is probably already correct
+        return text
 
 
 def clean_html_whitespace(soup):
@@ -67,22 +98,199 @@ def clean_markdown_final(text):
     return text.strip()
 
 
+def detect_source_type(html):
+    """
+    Detect whether HTML is from Substack or SevanNisanyan.com.
+
+    Args:
+        html: Raw HTML string
+
+    Returns:
+        'sevan' or 'substack'
+    """
+    if '__sveltekit' in html and 'sevannisanyan' in html.lower():
+        return 'sevan'
+    return 'substack'
+
+
+def extract_sevan_json_data(html):
+    """
+    Extract the embedded JSON data from SevanNisanyan.com SvelteKit HTML.
+
+    Args:
+        html: Raw HTML string
+
+    Returns:
+        Dictionary with article data or None if not found
+    """
+    # Look for the kit.start() call with embedded data
+    # Pattern: data: [null,null,{type:"data",data:{entry:{...}}}]
+    pattern = r'data:\s*\[null,null,\{type:"data",data:\{entry:(\{.*?\})\},uses:'
+    match = re.search(pattern, html, re.DOTALL)
+
+    if not match:
+        return None
+
+    try:
+        # The matched content is JavaScript object notation, not pure JSON
+        # We need to convert it: handle unquoted keys, new Date(), etc.
+        js_obj = match.group(1)
+
+        # Convert JavaScript object to valid JSON:
+        # 1. Quote unquoted keys
+        js_obj = re.sub(r'(\{|,)\s*([a-zA-Z_][a-zA-Z0-9_]*)\s*:', r'\1"\2":', js_obj)
+
+        # 2. Replace new Date(timestamp) with the timestamp
+        js_obj = re.sub(r'new Date\((\d+)\)', r'\1', js_obj)
+
+        # Parse as JSON
+        data = json.loads(js_obj)
+        return data
+
+    except (json.JSONDecodeError, Exception):
+        return None
+
+
+def extract_sevan_article_content(html):
+    """
+    Extract article components from SevanNisanyan.com HTML.
+
+    Args:
+        html: Raw HTML string
+
+    Returns:
+        Dictionary with title, keywords, source, date, text_content, source_url
+    """
+    data = extract_sevan_json_data(html)
+
+    if data:
+        # Extract from JSON data
+        title = data.get('title', {}).get('tr', 'Untitled')
+        keywords = data.get('keywords', {}).get('tr', [])
+        source = data.get('source', {}).get('tr', '')
+        slug = data.get('slug', '')
+
+        # Handle dates (timestamps in milliseconds)
+        dates = data.get('dates', [])
+        date_str = ''
+        if dates and isinstance(dates[0], (int, float)):
+            try:
+                dt = datetime.fromtimestamp(dates[0] / 1000)
+                date_str = dt.strftime('%d %B %Y')
+            except:
+                pass
+
+        # Extract text content (questions and answers)
+        text_sections = data.get('text', [])
+        content_parts = []
+
+        for section in text_sections:
+            questions = section.get('question') or []
+            answers = section.get('answer') or []
+
+            for q in questions:
+                if q:
+                    content_parts.append(f"**{q}**")
+
+            for a in answers:
+                if a:
+                    content_parts.append(a)
+
+        text_content = '\n\n'.join(content_parts)
+        source_url = f"https://www.sevannisanyan.com/metin/{slug}" if slug else ''
+
+        # Fix Turkish encoding issues (mojibake)
+        title = fix_turkish_encoding(title)
+        keywords = [fix_turkish_encoding(k) for k in keywords]
+        source = fix_turkish_encoding(source)
+        text_content = fix_turkish_encoding(text_content)
+
+        return {
+            'title': title,
+            'keywords': keywords,
+            'source': source,
+            'date': date_str,
+            'text_content': text_content,
+            'source_url': source_url,
+            'source_type': 'sevan'
+        }
+
+    # Fallback: parse from HTML DOM
+    soup = BeautifulSoup(html, 'html.parser')
+
+    # Title from the header div
+    title_elem = soup.find('div', class_=lambda x: x and 'text-xl' in str(x) and 'font-semibold' in str(x))
+    title = title_elem.get_text(strip=True) if title_elem else 'Untitled'
+
+    # Source/category
+    source = ''
+    source_elem = soup.find('div', class_=lambda x: x and 'truncate' in str(x) and 'text-start' in str(x))
+    if source_elem:
+        source = source_elem.get_text(strip=True)
+
+    # Date
+    date_str = ''
+    date_elem = soup.find('div', class_=lambda x: x and 'tabular-nums' in str(x))
+    if date_elem:
+        date_str = date_elem.get_text(strip=True)
+
+    # Keywords
+    keywords = []
+    keyword_links = soup.find_all('a', class_=lambda x: x and 'rounded-md' in str(x) and 'from-neutral-500' in str(x))
+    for link in keyword_links:
+        keywords.append(link.get_text(strip=True))
+
+    # Main text content
+    content_div = soup.find('div', class_=lambda x: x and 'whitespace-pre-wrap' in str(x))
+    text_content = ''
+    if content_div:
+        # Get all text divs
+        text_divs = content_div.find_all('div', recursive=True)
+        parts = []
+        for div in text_divs:
+            # Check if it's a question (bold/semibold)
+            if 'font-semibold' in str(div.get('class', [])):
+                text = div.get_text(strip=True)
+                if text:
+                    parts.append(f"**{text}**")
+            else:
+                # Regular paragraph
+                text = div.get_text(strip=True)
+                if text and text not in [p.strip('*') for p in parts]:
+                    parts.append(text)
+        text_content = '\n\n'.join(parts)
+
+    # Source URL from canonical link
+    canonical = soup.find('link', rel='canonical')
+    source_url = canonical.get('href') if canonical else ''
+
+    return {
+        'title': title,
+        'keywords': keywords,
+        'source': source,
+        'date': date_str,
+        'text_content': text_content,
+        'source_url': source_url,
+        'source_type': 'sevan'
+    }
+
+
 def extract_article_content(soup):
     """
     Extract article components from Substack HTML.
-    
+
     Args:
         soup: BeautifulSoup object of the HTML page
-        
+
     Returns:
         Dictionary with title, subtitle, date, and content_elem
     """
     title_elem = soup.find('h1', class_='post-title')
     title = title_elem.get_text(strip=True) if title_elem else 'Untitled'
-    
+
     subtitle_elem = soup.find('h3', class_='subtitle')
     subtitle = subtitle_elem.get_text(strip=True) if subtitle_elem else ''
-    
+
     # Date - look for date patterns
     date = ''
     date_elem = soup.find('div', class_='pencraft pc-reset', string=lambda x: x and ',' in str(x))
@@ -93,26 +301,27 @@ def extract_article_content(soup):
         all_divs = soup.find_all('div', class_=lambda x: x and 'meta' in str(x))
         for div in all_divs:
             text = div.get_text(strip=True)
-            if any(month in text for month in ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 
+            if any(month in text for month in ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
                                                  'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']):
                 date = text
                 break
-    
+
     # Main content
     content_elem = soup.find('div', class_='available-content')
     if not content_elem:
         content_elem = soup.find('div', class_='body markup')
-    
+
     # Get source URL if available
     canonical = soup.find('link', rel='canonical')
     source_url = canonical.get('href') if canonical else ''
-    
+
     return {
         'title': title,
         'subtitle': subtitle,
         'date': date,
         'source_url': source_url,
-        'content_elem': content_elem
+        'content_elem': content_elem,
+        'source_type': 'substack'
     }
 
 
@@ -130,51 +339,80 @@ def convert_html_to_markdown(html_path, output_dir='./formatted/substack'):
     try:
         # Create output directory
         os.makedirs(output_dir, exist_ok=True)
-        
+
         # Read HTML
         with open(html_path, 'r', encoding='utf-8') as f:
             html = f.read()
-        
-        soup = BeautifulSoup(html, 'html.parser')
-        
-        # Extract article components
-        article = extract_article_content(soup)
-        
-        if not article['content_elem']:
-            return False, None, "No content found in HTML", None
-        
-        # KEY STEP: Clean HTML whitespace BEFORE markdown conversion
-        content_elem_cleaned = clean_html_whitespace(article['content_elem'])
-        
-        # Convert cleaned HTML to Markdown
-        content_md = md(str(content_elem_cleaned), 
-                       heading_style="ATX",
-                       bullets="-",
-                       strip=['script', 'style'])
-        
-        # Final minimal cleanup
-        content_md = clean_markdown_final(content_md)
-        
-        # Build final markdown
-        markdown_content = f"# {article['title']}\n\n"
-        
-        if article['subtitle']:
-            markdown_content += f"*{article['subtitle']}*\n\n"
-        
-        if article['date']:
-            markdown_content += f"{article['date']}\n\n"
-        
-        if article['source_url']:
-            markdown_content += f"**Source:** {article['source_url']}\n\n"
-        
-        markdown_content += "---\n\n"
-        markdown_content += content_md
-        
+
+        # Detect source type
+        source_type = detect_source_type(html)
+
+        if source_type == 'sevan':
+            # SevanNisanyan.com format
+            article = extract_sevan_article_content(html)
+
+            if not article['text_content']:
+                return False, None, "No content found in HTML", None
+
+            # Build markdown for SevanNisanyan
+            markdown_content = f"# {article['title']}\n\n"
+
+            if article['source']:
+                markdown_content += f"*{article['source']}*\n\n"
+
+            if article['date']:
+                markdown_content += f"{article['date']}\n\n"
+
+            if article['keywords']:
+                keywords_str = ', '.join(article['keywords'])
+                markdown_content += f"**Anahtar Kelimeler:** {keywords_str}\n\n"
+
+            if article['source_url']:
+                markdown_content += f"**Kaynak:** {article['source_url']}\n\n"
+
+            markdown_content += "---\n\n"
+            markdown_content += article['text_content']
+
+        else:
+            # Substack format
+            soup = BeautifulSoup(html, 'html.parser')
+            article = extract_article_content(soup)
+
+            if not article['content_elem']:
+                return False, None, "No content found in HTML", None
+
+            # KEY STEP: Clean HTML whitespace BEFORE markdown conversion
+            content_elem_cleaned = clean_html_whitespace(article['content_elem'])
+
+            # Convert cleaned HTML to Markdown
+            content_md = md(str(content_elem_cleaned),
+                           heading_style="ATX",
+                           bullets="-",
+                           strip=['script', 'style'])
+
+            # Final minimal cleanup
+            content_md = clean_markdown_final(content_md)
+
+            # Build final markdown
+            markdown_content = f"# {article['title']}\n\n"
+
+            if article.get('subtitle'):
+                markdown_content += f"*{article['subtitle']}*\n\n"
+
+            if article['date']:
+                markdown_content += f"{article['date']}\n\n"
+
+            if article['source_url']:
+                markdown_content += f"**Source:** {article['source_url']}\n\n"
+
+            markdown_content += "---\n\n"
+            markdown_content += content_md
+
         # Create output filename (same as input but .md)
         input_basename = os.path.basename(html_path)
         output_basename = os.path.splitext(input_basename)[0] + '.md'
         output_path = os.path.join(output_dir, output_basename)
-        
+
         # Save to file
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(markdown_content)
