@@ -7,10 +7,11 @@ with prompt caching to reduce costs.
 """
 
 import os
+import time
 from dataclasses import dataclass
 from typing import Optional, Tuple
 import anthropic
-from dotenv import load_dotenv
+from anthropic import RateLimitError, APIError
 
 
 # Turkish prompt templates for context generation
@@ -107,7 +108,9 @@ def situate_context(
     doc_content: str,
     chunk_text: str,
     title: str,
-    anthropic_client: anthropic.Anthropic
+    anthropic_client: anthropic.Anthropic,
+    max_retries: int = 5,
+    initial_delay: float = 1.0
 ) -> Tuple[str, UsageStats]:
     """
     Generate contextual description for a chunk using Claude Haiku.
@@ -115,72 +118,103 @@ def situate_context(
     Uses prompt caching to cache the full document content, making subsequent
     chunks from the same document ~10x cheaper.
 
+    Implements exponential backoff retry logic for rate limiting.
+
     Args:
         doc_content: Full document text (will be cached)
         chunk_text: The specific chunk to contextualize
         title: Document title (for logging/debugging)
         anthropic_client: Anthropic API client
+        max_retries: Maximum number of retry attempts (default: 5)
+        initial_delay: Initial delay in seconds for exponential backoff (default: 1.0)
 
     Returns:
         Tuple of (context_text, usage_stats)
 
     Raises:
-        anthropic.APIError: If the API call fails
+        RuntimeError: If the API call fails after all retries
     """
-    try:
-        response = anthropic_client.messages.create(
-            model="claude-3-haiku-20240307",
-            max_tokens=1024,
-            temperature=0.0,
-            messages=[
-                {
-                    "role": "user",
-                    "content": [
-                        {
-                            "type": "text",
-                            "text": DOCUMENT_CONTEXT_PROMPT_TR.format(doc_content=doc_content),
-                            "cache_control": {"type": "ephemeral"}  # Cache the full document
-                        },
-                        {
-                            "type": "text",
-                            "text": CHUNK_CONTEXT_PROMPT_TR.format(chunk_content=chunk_text),
-                        }
-                    ]
-                }
-            ],
-            extra_headers={"anthropic-beta": "prompt-caching-2024-07-31"}
-        )
+    delay = initial_delay
+    last_exception = None
 
-        # Extract context text from response
-        context_text = response.content[0].text
+    for attempt in range(max_retries):
+        try:
+            response = anthropic_client.beta.prompt_caching.messages.create(
+                model="claude-3-haiku-20240307",
+                max_tokens=1024,
+                temperature=0.0,
+                messages=[
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": DOCUMENT_CONTEXT_PROMPT_TR.format(doc_content=doc_content),
+                                "cache_control": {"type": "ephemeral"}  # Cache the full document
+                            },
+                            {
+                                "type": "text",
+                                "text": CHUNK_CONTEXT_PROMPT_TR.format(chunk_content=chunk_text),
+                            }
+                        ]
+                    }
+                ],
+                extra_headers={"anthropic-beta": "prompt-caching-2024-07-31"}
+            )
 
-        # Extract usage stats
-        usage = UsageStats(
-            input_tokens=response.usage.input_tokens,
-            output_tokens=response.usage.output_tokens,
-            cache_creation_tokens=getattr(response.usage, 'cache_creation_input_tokens', 0),
-            cache_read_tokens=getattr(response.usage, 'cache_read_input_tokens', 0),
-        )
+            # Extract context text from response
+            context_text = response.content[0].text
 
-        return context_text, usage
+            # Extract usage stats
+            usage = UsageStats(
+                input_tokens=response.usage.input_tokens,
+                output_tokens=response.usage.output_tokens,
+                cache_creation_tokens=getattr(response.usage, 'cache_creation_input_tokens', 0),
+                cache_read_tokens=getattr(response.usage, 'cache_read_input_tokens', 0),
+            )
 
-    except anthropic.APIError as e:
-        # Re-raise with more context
-        raise RuntimeError(f"Failed to generate context for document '{title}': {e}") from e
+            return context_text, usage
+
+        except RateLimitError as e:
+            last_exception = e
+            if attempt < max_retries - 1:
+                print(f"  Rate limited (attempt {attempt + 1}/{max_retries}), waiting {delay:.1f}s...")
+                time.sleep(delay)
+                delay *= 2  # Exponential backoff
+            else:
+                raise RuntimeError(
+                    f"Failed to generate context for document '{title}' after {max_retries} attempts: {e}"
+                ) from e
+
+        except APIError as e:
+            last_exception = e
+            # For other API errors, retry with shorter backoff
+            if attempt < max_retries - 1:
+                print(f"  API error (attempt {attempt + 1}/{max_retries}): {e}, retrying in {delay:.1f}s...")
+                time.sleep(delay)
+                delay *= 1.5
+            else:
+                raise RuntimeError(
+                    f"Failed to generate context for document '{title}' after {max_retries} attempts: {e}"
+                ) from e
+
+        except Exception as e:
+            # For unexpected errors, fail immediately
+            raise RuntimeError(f"Unexpected error generating context for document '{title}': {e}") from e
+
+    # Should not reach here, but just in case
+    raise RuntimeError(
+        f"Failed to generate context for document '{title}' after {max_retries} attempts: {last_exception}"
+    )
 
 
 def get_anthropic_client() -> Optional[anthropic.Anthropic]:
     """
     Get Anthropic API client from environment.
 
-    Loads environment variables from .env file if present.
-
     Returns:
         Anthropic client if API key is set, None otherwise
     """
-    # Load environment variables from .env file
-    load_dotenv()
-
     api_key = os.getenv("ANTHROPIC_API_KEY")
     if not api_key:
         return None

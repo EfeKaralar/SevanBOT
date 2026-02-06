@@ -19,8 +19,12 @@ v3 Improvements (based on 2025 RAG research):
 import json
 import re
 import hashlib
+import warnings
 from pathlib import Path
 from transformers import AutoTokenizer
+
+# Suppress tokenizer sequence length warnings (we handle truncation ourselves)
+warnings.filterwarnings("ignore", message="Token indices sequence length is longer than")
 
 # Directories
 FORMATTED_DIR = Path(__file__).parent.parent / "formatted"
@@ -482,6 +486,8 @@ def chunk_document(
         else:  # context_mode == "llm"
             # Generate LLM-based context for this chunk
             from contextual_utils import situate_context, validate_context
+            import time
+
             try:
                 llm_context, usage = situate_context(
                     full_doc_content,
@@ -493,6 +499,10 @@ def chunk_document(
                 # Track usage stats if provided
                 if stats_tracker:
                     stats_tracker.add_usage(usage)
+
+                # Rate limiting: small delay between chunks to avoid overwhelming API
+                # Only delay if we successfully got a response
+                time.sleep(0.2)  # 200ms delay = max 5 requests/sec
 
                 # Validate the generated context
                 if validate_context(llm_context, chunk_text):
