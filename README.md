@@ -8,10 +8,10 @@ RAG system for querying Sevan Nisanyan's writings. Scrapes articles from Substac
 Sources (Substack sitemap / SevanNisanyan.com API)
     |
     v
-HTML Downloads --> Markdown Conversion --> pgvector (embeddings)
-    |
-    v
-Query Interface (TBD)
+HTML Downloads --> Markdown Conversion --> Chunking --> pgvector (embeddings)
+                                              |
+                                              v
+                                       REST API (FastAPI)
 ```
 
 ## Tech Stack
@@ -21,9 +21,9 @@ Query Interface (TBD)
 | Scraping | Python (requests, BeautifulSoup) | Done |
 | Markdown conversion | Python (markdownify) | Done |
 | Vector database | pgvector | Decided |
-| Chunking | Semantic/recursive | Decided |
+| Chunking | Semantic/recursive | Done |
 | Embedding model | multilingual-e5-large-instruct | Decided |
-| Query interface | TBD | - |
+| Query interface | FastAPI | Decided |
 
 ## Dataset
 
@@ -57,6 +57,9 @@ python3 src/main.py --skip-download
 
 # Delete HTML after conversion
 python3 src/main.py --delete-after
+
+# Chunk documents for embedding
+python3 src/chunk_documents.py
 ```
 
 ## Project Structure
@@ -66,10 +69,12 @@ src/
   main.py              # Pipeline orchestrator
   download_articles.py # Fetches articles from sources
   convert_to_md.py     # HTML to Markdown conversion
+  chunk_documents.py   # Semantic chunking for embeddings
 sources/               # Raw HTML files
 formatted/             # Converted Markdown files
   substack/
   sevan/
+chunks.jsonl           # Chunked documents ready for embedding
 ```
 
 ## Notes
