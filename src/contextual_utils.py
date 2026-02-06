@@ -12,6 +12,10 @@ from dataclasses import dataclass
 from typing import Optional, Tuple
 import anthropic
 from anthropic import RateLimitError, APIError
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 
 # Turkish prompt templates for context generation
@@ -139,7 +143,7 @@ def situate_context(
 
     for attempt in range(max_retries):
         try:
-            response = anthropic_client.beta.prompt_caching.messages.create(
+            response = anthropic_client.messages.create(
                 model="claude-3-haiku-20240307",
                 max_tokens=1024,
                 temperature=0.0,
