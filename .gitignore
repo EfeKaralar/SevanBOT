@@ -6,6 +6,10 @@ sources/*
 # Generated output files
 chunks.jsonl
 
+# Embeddings and vector database
+embeddings/
+.qdrant/
+
 # macOS
 .DS_Store
 
