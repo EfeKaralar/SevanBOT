@@ -489,6 +489,10 @@ def chunk_document(
             import time
 
             try:
+                # Show progress for this chunk
+                print(f"  Generating context for chunk {i+1}/{total_chunks}...", end=" ", flush=True)
+                chunk_start = time.time()
+
                 llm_context, usage = situate_context(
                     full_doc_content,
                     chunk_text,
@@ -499,6 +503,10 @@ def chunk_document(
                 # Track usage stats if provided
                 if stats_tracker:
                     stats_tracker.add_usage(usage)
+
+                chunk_elapsed = time.time() - chunk_start
+                cache_status = "cached" if usage.cache_read_tokens > 0 else "new"
+                print(f"done ({chunk_elapsed:.1f}s, {cache_status})")
 
                 # Rate limiting: small delay between chunks to avoid overwhelming API
                 # Only delay if we successfully got a response
@@ -655,10 +663,32 @@ def chunk_document_v2(metadata: dict, tokenizer) -> list[dict]:
     return final_chunks
 
 
+def load_existing_chunks(output_file: Path) -> set:
+    """
+    Load already-processed document IDs from existing output file.
+
+    Returns:
+        Set of doc_ids that have already been processed
+    """
+    processed_docs = set()
+    if output_file.exists():
+        try:
+            with open(output_file, "r", encoding="utf-8") as f:
+                for line in f:
+                    if line.strip():
+                        chunk = json.loads(line)
+                        processed_docs.add(chunk["doc_id"])
+            print(f"Found {len(processed_docs)} already-processed documents in {output_file}")
+        except Exception as e:
+            print(f"Warning: Could not load existing chunks: {e}")
+    return processed_docs
+
+
 def process_all_documents(
     context_mode: str = "simple",
     output_file: Path = None,
-    max_docs: int = None
+    max_docs: int = None,
+    save_every: int = 1
 ):
     """
     Process all markdown files and output chunks (v3).
@@ -667,6 +697,7 @@ def process_all_documents(
         context_mode: "simple" (fast, free) or "llm" (slow, costly, better quality)
         output_file: Custom output file path (default: chunks.jsonl for simple, chunks_contextual.jsonl for llm)
         max_docs: Maximum number of documents to process (for testing)
+        save_every: Save progress after every N documents (default: 1 for incremental save)
     """
     from contextual_utils import get_anthropic_client, ContextGenerationStats
     import time
@@ -689,6 +720,9 @@ def process_all_documents(
     if output_file is None:
         output_file = OUTPUT_FILE if context_mode == "simple" else Path(__file__).parent.parent / "chunks_contextual.jsonl"
 
+    # Load already-processed documents to skip them
+    processed_docs = load_existing_chunks(output_file)
+
     # Collect all markdown files
     md_files = []
     for subdir in ["substack", "sevan"]:
@@ -701,33 +735,59 @@ def process_all_documents(
         md_files = md_files[:max_docs]
 
     print(f"Found {len(md_files)} markdown files")
+    print(f"Already processed: {len(processed_docs)} documents")
+    print(f"To process: {len(md_files) - len(processed_docs)} documents (estimated)")
     print(f"Context mode: {context_mode}")
     print(f"Output: {output_file}")
+    print(f"Save frequency: every {save_every} document(s)")
     print()
 
-    all_chunks = []
+    all_chunks = []  # Buffer for incremental saves
+    total_chunks_processed = 0
     skipped_docs = 0
+    already_processed_count = 0
     start_time = time.time()
 
+    # Open output file in append mode for incremental saves
+    output_mode = "a" if processed_docs else "w"
+
     for i, file_path in enumerate(md_files):
+        doc_start_time = time.time()
+
         # Progress indicator
         if (i + 1) % 10 == 0 or i == 0:
             elapsed = time.time() - start_time
             rate = (i + 1) / elapsed if elapsed > 0 else 0
             eta = (len(md_files) - i - 1) / rate if rate > 0 else 0
 
-            print(f"Processing {i + 1}/{len(md_files)} ({(i+1)/len(md_files)*100:.1f}%) - "
-                  f"Rate: {rate:.1f} docs/sec - ETA: {eta/60:.1f} min")
+            print(f"\n{'='*60}")
+            print(f"Processing {i + 1}/{len(md_files)} ({(i+1)/len(md_files)*100:.1f}%)")
+            print(f"New chunks: {total_chunks_processed} | Skipped: {already_processed_count + skipped_docs}")
+            print(f"Rate: {rate:.2f} docs/sec - ETA: {eta/60:.1f} min")
 
             # Show cost stats for LLM mode
             if stats_tracker and stats_tracker.num_requests > 0:
                 summary = stats_tracker.summary()
-                print(f"  Chunks processed: {summary['requests']}")
-                print(f"  Cost so far: ${summary['cost_usd']:.4f}")
-                print(f"  Cache hit rate: {summary['cache_hit_rate']:.1%}")
+                print(f"Chunks processed: {summary['requests']}")
+                print(f"Cost so far: ${summary['cost_usd']:.4f}")
+                print(f"Cache hit rate: {summary['cache_hit_rate']:.1%}")
+            print(f"{'='*60}\n")
 
         try:
             metadata = parse_markdown(file_path)
+            doc_title = metadata.get("title") or file_path.name
+
+            # Generate doc_id to check if already processed
+            doc_id = generate_doc_id(metadata["file"], metadata["title"])
+
+            # Skip if already processed
+            if doc_id in processed_docs:
+                already_processed_count += 1
+                print(f"Document {i+1}: {doc_title[:60]}... [SKIP - already processed]")
+                continue
+
+            print(f"Document {i+1}: {doc_title[:60]}...")
+
             chunks = chunk_document(
                 metadata,
                 tokenizer,
@@ -736,28 +796,52 @@ def process_all_documents(
                 anthropic_client=anthropic_client,
                 stats_tracker=stats_tracker
             )
+
+            doc_elapsed = time.time() - doc_start_time
+
             if chunks:
                 all_chunks.extend(chunks)
+                total_chunks_processed += len(chunks)
+                processed_docs.add(doc_id)  # Mark as processed
+
+                if context_mode == "llm":
+                    print(f"  ✓ Completed {len(chunks)} chunks in {doc_elapsed:.1f}s "
+                          f"({doc_elapsed/len(chunks):.1f}s per chunk)\n")
+
+                # Incremental save after every N documents
+                if len(all_chunks) >= save_every * 5:  # Assuming ~5 chunks per doc
+                    print(f"  💾 Saving {len(all_chunks)} chunks to {output_file}...")
+                    with open(output_file, output_mode, encoding="utf-8") as f:
+                        for chunk in all_chunks:
+                            f.write(json.dumps(chunk, ensure_ascii=False) + "\n")
+                    all_chunks = []  # Clear buffer
+                    output_mode = "a"  # Switch to append mode after first write
             else:
                 skipped_docs += 1
+                print(f"  ⚠ Skipped (empty document)\n")
         except Exception as e:
-            print(f"Error processing {file_path}: {e}")
+            print(f"  ✗ Error processing {file_path}: {e}\n")
             skipped_docs += 1
 
-    # Write output
-    print(f"\nWriting {len(all_chunks)} chunks to {output_file}")
-    with open(output_file, "w", encoding="utf-8") as f:
-        for chunk in all_chunks:
-            f.write(json.dumps(chunk, ensure_ascii=False) + "\n")
+    # Write remaining chunks
+    if all_chunks:
+        print(f"\n💾 Saving final {len(all_chunks)} chunks to {output_file}...")
+        with open(output_file, output_mode, encoding="utf-8") as f:
+            for chunk in all_chunks:
+                f.write(json.dumps(chunk, ensure_ascii=False) + "\n")
 
     # Print stats
     elapsed_total = time.time() - start_time
-    print(f"\nDone!")
-    print(f"  Documents: {len(md_files)}")
-    print(f"  Skipped (empty): {skipped_docs}")
-    print(f"  Chunks: {len(all_chunks)}")
-    if len(md_files) > skipped_docs:
-        print(f"  Avg chunks/doc: {len(all_chunks) / (len(md_files) - skipped_docs):.1f}")
+    print(f"\n{'='*60}")
+    print(f"Done!")
+    print(f"{'='*60}")
+    print(f"  Total documents found: {len(md_files)}")
+    print(f"  Already processed (skipped): {already_processed_count}")
+    print(f"  Newly processed: {len(md_files) - already_processed_count - skipped_docs}")
+    print(f"  Empty/failed: {skipped_docs}")
+    print(f"  New chunks created: {total_chunks_processed}")
+    if len(md_files) - already_processed_count - skipped_docs > 0:
+        print(f"  Avg chunks/doc: {total_chunks_processed / (len(md_files) - already_processed_count - skipped_docs):.1f}")
     print(f"  Total time: {elapsed_total/60:.1f} min")
 
     # Print LLM stats
@@ -892,6 +976,12 @@ if __name__ == "__main__":
         action="store_true",
         help="Run on sample documents for comparison (legacy mode)"
     )
+    parser.add_argument(
+        "--save-every",
+        type=int,
+        default=1,
+        help="Save progress after every N documents (default: 1 for incremental save)"
+    )
 
     args = parser.parse_args()
 
@@ -908,5 +998,6 @@ if __name__ == "__main__":
         process_all_documents(
             context_mode=args.context_mode,
             output_file=output_file,
-            max_docs=args.max_docs
+            max_docs=args.max_docs,
+            save_every=args.save_every
         )
