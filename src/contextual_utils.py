@@ -10,6 +10,7 @@ import os
 from dataclasses import dataclass
 from typing import Optional, Tuple
 import anthropic
+from dotenv import load_dotenv
 
 
 # Turkish prompt templates for context generation
@@ -127,7 +128,7 @@ def situate_context(
         anthropic.APIError: If the API call fails
     """
     try:
-        response = anthropic_client.beta.prompt_caching.messages.create(
+        response = anthropic_client.messages.create(
             model="claude-3-haiku-20240307",
             max_tokens=1024,
             temperature=0.0,
@@ -172,9 +173,14 @@ def get_anthropic_client() -> Optional[anthropic.Anthropic]:
     """
     Get Anthropic API client from environment.
 
+    Loads environment variables from .env file if present.
+
     Returns:
         Anthropic client if API key is set, None otherwise
     """
+    # Load environment variables from .env file
+    load_dotenv()
+
     api_key = os.getenv("ANTHROPIC_API_KEY")
     if not api_key:
         return None
