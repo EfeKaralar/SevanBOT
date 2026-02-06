@@ -80,10 +80,20 @@ formatted/             # Converted Markdown files
 chunks.jsonl           # Chunked documents ready for embedding
 ```
 
+## Chunking Strategy
+
+Documents are chunked for optimal RAG performance:
+
+- **Primary split**: Paragraphs (semantic boundaries)
+- **Fallback**: Sentences if paragraph > 400 tokens
+- **Minimum size**: 150 tokens (merges small paragraphs)
+- **Overlap**: 1 sentence between chunks for context continuity
+- **Filtering**: Removes footnotes, images, Ottoman transliteration examples
+
+Output: `chunks.jsonl` with ~7,100 chunks (avg 1,265 chars each)
+
 ## Notes
 
 - pgvector chosen for simplicity: single Postgres instance handles vectors + metadata
-- Semantic/recursive chunking: split by paragraphs, then sentences if >400 tokens. Uniform strategy for both sources yields better retrieval precision than document-as-chunk.
-- Estimated ~5,000 vectors after chunking
-- Using `intfloat/multilingual-e5-large-instruct` (560M params, 1024 dimensions).
+- Using `intfloat/multilingual-e5-large-instruct` (560M params, 1024 dimensions)
 

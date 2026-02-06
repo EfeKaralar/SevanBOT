@@ -8,3 +8,6 @@ six==1.17.0
 soupsieve==2.8.3
 typing-extensions==4.15.0
 urllib3==2.6.3
+transformers>=4.40.0
+sentence-transformers>=2.7.0
+torch>=2.0.0

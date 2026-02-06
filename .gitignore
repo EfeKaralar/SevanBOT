@@ -3,6 +3,9 @@
 # Ignore Article Source files
 sources/*
 
+# Generated output files
+chunks.jsonl
+
 # macOS
 .DS_Store
 

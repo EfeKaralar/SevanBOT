@@ -26,6 +26,9 @@ python3 src/main.py --delete-after
 python3 src/main.py --skip-convert
 python3 src/main.py --skip-download
 
+# Chunk documents for embedding
+python3 src/chunk_documents.py
+
 # Install dependencies
 pip install -r requirements.txt
 ```
@@ -35,7 +38,9 @@ pip install -r requirements.txt
 **Pipeline:**
 - Substack: `sitemap.xml` → `download_articles.py` → HTML → `convert_to_md.py` → Markdown
 - SevanNisanyan.com: `API (__data.json)` → `download_articles.py` → HTML → `convert_to_md.py` → Markdown
+- Chunking: Markdown → `chunk_documents.py` → `chunks.jsonl`
 
 - `src/main.py` - Orchestrates batch loop: download N files → convert → delete (optional) → repeat until done
 - `src/download_articles.py` - Downloads articles from Substack (sitemap) or SevanNisanyan.com (API)
 - `src/convert_to_md.py` - Extracts title/subtitle/date/content, converts to Markdown
+- `src/chunk_documents.py` - Semantic chunking with paragraph/sentence splitting, overlap, noise filtering
