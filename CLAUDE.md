@@ -103,6 +103,68 @@ Shows side-by-side comparison of simple vs LLM-generated context with cost estim
 
 ---
 
+---
+
+## Embedding Generation (IMPLEMENTED ✓)
+
+The embedding pipeline supports **local models** (GPU/CPU) and **API-based models** (OpenAI) with **incremental updates**.
+
+### Available Models
+
+| Model | Type | Dimensions | RAM Usage | Cost | Speed |
+|-------|------|------------|-----------|------|-------|
+| `turkembed` | Local | 768 | ~2GB | Free | Medium |
+| `bge-m3` | Local | 1024 | ~3GB | Free | Medium |
+| `openai-small` | API | 1536 | 0MB | $0.05/full corpus | Fast |
+| `openai-large` | API | 3072 | 0MB | $0.35/full corpus | Fast |
+
+### Usage
+
+```bash
+# OpenAI Embeddings (recommended for low RAM systems)
+export OPENAI_API_KEY=sk-your-key-here
+python3 src/embed_documents.py --model openai-small
+python3 src/embed_documents.py --model openai-large
+
+# Local Models (free, but requires RAM)
+python3 src/embed_documents.py --model turkembed
+python3 src/embed_documents.py --model bge-m3
+
+# Incremental embedding (only embed new chunks)
+python3 src/embed_documents.py --model openai-small --incremental
+
+# Force re-embed everything
+python3 src/embed_documents.py --model openai-small --force
+
+# Test with small file
+python3 src/embed_documents.py --model openai-small --chunks-file test_chunks.jsonl --skip-qdrant
+```
+
+### Cost Analysis (Full Corpus: 6,850 chunks)
+
+- **Initial embedding**: $0.05 (openai-small) or $0.35 (openai-large)
+- **Incremental updates** (100 new chunks): $0.0008 (small) or $0.005 (large)
+- **Re-embedding everything**: Same as initial (avoid with `--incremental` flag)
+
+### Incremental Updates
+
+The pipeline automatically tracks which chunks are already embedded:
+
+```bash
+# First run: Embed all 6,850 chunks
+python3 src/embed_documents.py --model openai-small
+
+# Later: Add 100 new articles, re-chunk
+python3 src/chunk_documents.py --context-mode llm
+
+# Only embed the new chunks (saves money!)
+python3 src/embed_documents.py --model openai-small --incremental
+```
+
+Output is saved to `embeddings/{model}/embeddings.jsonl` and metadata to `embeddings/{model}/metadata.json`.
+
+---
+
 ## RAG Retrieval Pipeline (Next Steps)
 
 See `advanced-rag/RETRIEVAL_PLAN.md` for full details. This section summarizes key decisions for implementation.
