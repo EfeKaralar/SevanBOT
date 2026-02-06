@@ -1,2 +1,0 @@
-#!/usr/bin/env/ bash
-python3 src/chunk_documents.py 2>&1 | tail -6 && src/python3 check_chunks.py 2>&1 | grep -v "Token indices" | grep -v "Warning"
