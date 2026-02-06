@@ -1,39 +1,47 @@
 """
-main.py - Complete Substack scraping and conversion pipeline
+main.py - Complete article scraping and conversion pipeline
 
 Usage:
-    python3 main.py                    # Download batch of 10, convert, keep files
-    python3 main.py --batch-size 20    # Download batch of 20 articles
-    python3 main.py --delete-after     # Delete HTML files after conversion
-    python3 main.py --skip-download    # Only convert existing HTML files
-    python3 main.py --skip-convert     # Only download, don't convert
+    python3 main.py                        # Download batch of 10 from Substack
+    python3 main.py --source sevan         # Download from SevanNisanyan.com
+    python3 main.py --batch-size 20        # Download batch of 20 articles
+    python3 main.py --delete-after         # Delete HTML files after conversion
+    python3 main.py --skip-download        # Only convert existing HTML files
+    python3 main.py --skip-convert         # Only download, don't convert
 
 This script orchestrates the complete pipeline:
-1. Download a batch of articles from sitemap.xml as HTML (skipping existing files)
+1. Download a batch of articles as HTML (from Substack sitemap or SevanNisanyan.com API)
 2. Convert the downloaded HTML files to clean Markdown
 3. Optionally delete the HTML files after conversion
 """
 
 import argparse
 import os
-from download_substack import download_articles, add_processed_url, DEFAULT_PROCESSED_URLS_FILE
+from download_articles import download_articles, add_processed_url, DEFAULT_PROCESSED_URLS_FILE
 from convert_to_md import convert_html_to_markdown
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Download and convert Substack articles to Markdown',
+        description='Download and convert articles to Markdown',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  python3 main.py                    # Process batch of 10 articles
-  python3 main.py --batch-size 20    # Process batch of 20 articles
-  python3 main.py --delete-after     # Delete HTML after conversion
-  python3 main.py --skip-download    # Only convert existing HTML
-  python3 main.py --skip-convert     # Only download HTML
+  python3 main.py                        # Process batch of 10 from Substack
+  python3 main.py --source sevan         # Process from SevanNisanyan.com
+  python3 main.py --batch-size 20        # Process batch of 20 articles
+  python3 main.py --delete-after         # Delete HTML after conversion
+  python3 main.py --skip-download        # Only convert existing HTML
+  python3 main.py --skip-convert         # Only download HTML
         """
     )
 
+    parser.add_argument(
+        '--source',
+        choices=['substack', 'sevan'],
+        default='substack',
+        help='Article source (default: substack)'
+    )
     parser.add_argument(
         '--batch-size',
         type=int,
@@ -49,17 +57,17 @@ Examples:
     parser.add_argument(
         '--sitemap',
         default='sitemap.xml',
-        help='Path to sitemap.xml (default: sitemap.xml)'
+        help='Path to sitemap.xml for Substack (default: sitemap.xml)'
     )
     parser.add_argument(
         '--source-dir',
-        default='./sources/substack',
-        help='Directory for downloaded HTML files (default: ./sources/substack)'
+        default=None,
+        help='Directory for downloaded HTML files (default: ./sources/substack or ./sources/sevan)'
     )
     parser.add_argument(
         '--output-dir',
-        default='./formatted/substack',
-        help='Directory for converted Markdown files (default: ./formatted/substack)'
+        default=None,
+        help='Directory for converted Markdown files (default: ./formatted/substack or ./formatted/sevan)'
     )
     parser.add_argument(
         '--skip-download',
@@ -87,11 +95,29 @@ Examples:
         default=DEFAULT_PROCESSED_URLS_FILE,
         help=f'File to track processed URLs (default: {DEFAULT_PROCESSED_URLS_FILE})'
     )
+    parser.add_argument(
+        '--keywords',
+        nargs='+',
+        default=None,
+        help='Keywords filter for SevanNisanyan.com (e.g., "Pazar Sohbeti")'
+    )
+    parser.add_argument(
+        '--order',
+        choices=['asc', 'desc'],
+        default='desc',
+        help='Sort order for SevanNisanyan.com (default: desc)'
+    )
 
     args = parser.parse_args()
 
+    # Set default directories based on source
+    if args.source_dir is None:
+        args.source_dir = f'./sources/{args.source}'
+    if args.output_dir is None:
+        args.output_dir = f'./formatted/{args.source}'
+
     print("="*70)
-    print("SUBSTACK SCRAPER PIPELINE")
+    print(f"ARTICLE SCRAPER PIPELINE - Source: {args.source.upper()}")
     print("="*70)
 
     # Handle --skip-download mode separately (one-time conversion of existing files)
@@ -157,12 +183,15 @@ Examples:
         print("-" * 70)
 
         result = download_articles(
+            source=args.source,
             sitemap_path=args.sitemap,
             output_dir=args.source_dir,
             batch_size=current_batch_size,
             skip_existing=True,
             delay=args.delay,
-            processed_urls_file=args.processed_urls_file
+            processed_urls_file=args.processed_urls_file,
+            keywords=args.keywords,
+            order=args.order
         )
 
         downloaded_files = result['downloaded_files']
