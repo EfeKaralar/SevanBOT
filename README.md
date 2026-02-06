@@ -92,6 +92,40 @@ Documents are chunked for optimal RAG performance:
 
 Output: `chunks.jsonl` with ~7,100 chunks (avg 1,265 chars each)
 
+## TODO: Retrieval Evaluation (Post-Deployment)
+
+Once the RAG system is operational, implement quantitative evaluation to measure retrieval quality:
+
+### Evaluation Metrics
+- **Recall@K**: % of relevant chunks retrieved in top K results (target: >90% @ K=10)
+- **MRR (Mean Reciprocal Rank)**: Average position of first relevant result (target: >0.7)
+- **NDCG**: Ranking quality metric
+- **Latency**: End-to-end retrieval time (target: <500ms)
+
+### Evaluation Dataset
+Create ground truth dataset with 50-100 real user queries:
+```json
+{
+  "query": "Osmanlı'da azınlık hakları",
+  "relevant_docs": ["doc_123", "doc_456"],
+  "difficulty": "medium"
+}
+```
+
+### Comparison Scenarios
+1. **Simple vs LLM context**: Does LLM-generated context improve retrieval accuracy?
+2. **Dense vs Hybrid search**: Does BM25 + vector fusion outperform vector-only?
+3. **With vs without reranking**: Does cross-encoder reranking improve top-K results?
+
+### Implementation
+- `src/evaluate_retrieval.py`: Automated evaluation harness
+- `eval_queries.json`: Hand-curated query dataset
+- Track metrics over time to measure improvements
+
+**Data collection strategy**: Log real user queries + clicked results to build ground truth organically.
+
+---
+
 ## Notes
 
 - pgvector chosen for simplicity: single Postgres instance handles vectors + metadata
