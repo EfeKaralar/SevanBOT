@@ -1,0 +1,1858 @@
+{
+  "query": "Hint-Avrupa dilleri",
+  "strategies": {
+    "dense": {
+      "query": "Hint-Avrupa dilleri",
+      "strategy": "dense",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "2232df6bc4e3#0",
+          "score": 0.41161092641004154,
+          "content": "Hintavrupa araştırmaları konusunda, vatanmillet sosuna bulanmış bir kafa karışıklığının hüküm sürdüğünü görüyorum. Konuya biraz açıklık getirmeye çalışayım.\n\n“Hintavrupalılar” denilen kavim (eğer vars...",
+          "metadata": {
+            "title": "Hintavrupa battı mı?",
+            "date": "May 09, 2019",
+            "source": "https://nisanyan.substack.com/p/hintavrupa-batt-m-19-05-09",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 7
+          },
+          "dense_score": 0.41161092641004154,
+          "sparse_score": null,
+          "dense_rank": 1,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2232df6bc4e3#5",
+          "score": 0.3977914104709487,
+          "content": "Bunlar olmadan bilgi yolunda arpa boyu yol alamazsın. Ya da Türkiye’de son yüz yılda aldığın kadar yol alırsın, ki arpa boyundan azdır. Hintavrupa araştırmalarının günümüzde tıkandığına ya da teorik a...",
+          "metadata": {
+            "title": "Hintavrupa battı mı?",
+            "date": "May 09, 2019",
+            "source": "https://nisanyan.substack.com/p/hintavrupa-batt-m-19-05-09",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 7
+          },
+          "dense_score": 0.3977914104709487,
+          "sparse_score": null,
+          "dense_rank": 2,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "453217b691bb#0",
+          "score": 0.3919841632920136,
+          "content": "**Hint Avrupa ırkı teorisinin geçerli olmadığını kanıtlayan deliller nelerdir? Bu teori, Batı’nın Asya halklarını yönetmek istemesinden meydana gelmiş olabilir mi?**\n\nHint Avrupa ırkı diye bir şey yok...",
+          "metadata": {
+            "title": "Hint Avrupa teorisini neden icat ettiler",
+            "date": "02 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hint-avrupa-teorisini-neden-icat-ettiler-50353",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.3919841632920136,
+          "sparse_score": null,
+          "dense_rank": 3,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "453217b691bb#1",
+          "score": 0.37323530864443344,
+          "content": "İkinci kuşakta çocuklarını İspanyolca ile eğitirler. Üçüncü kuşakta nineler de eski dili unutur. Ondan sonra uzak dağ köyleri dışında herkes İspanyolca konuşur. Bu kadar basittir bu iş. Irk ile alakas...",
+          "metadata": {
+            "title": "Hint Avrupa teorisini neden icat ettiler",
+            "date": "02 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hint-avrupa-teorisini-neden-icat-ettiler-50353",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.37323530864443344,
+          "sparse_score": null,
+          "dense_rank": 4,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "82cce5db0a22#0",
+          "score": 0.36652880848462605,
+          "content": "**Türkler Hint Avrupa kökenli midir?**\n\nFalanca millet Hintavrupa kökenlidir saçmalığından kendinizi kurtarın diye kaç kere söyledim, dilimde tüy bitti. Yok öyle bir şey. Şayet altı bin sene önce bir ...",
+          "metadata": {
+            "title": "Hintavrupa nasıl anlaşılır",
+            "date": "16 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hintavrupa-nasil-anlasilir-38623",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.36652880848462605,
+          "sparse_score": null,
+          "dense_rank": 5,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2232df6bc4e3#2",
+          "score": 0.36478947389297206,
+          "content": "(Not 2: Tarım ve köy hayatı Anadolu ile Avrupa’nın kuzeybatı ucu arasındaki 3000 küsur kilometreyi yaklaşık 4000 yılda katetmiş görünüyor. Bu her kuşakta yaklaşık 25 km yayılma demektir. Yavaştır. Öyl...",
+          "metadata": {
+            "title": "Hintavrupa battı mı?",
+            "date": "May 09, 2019",
+            "source": "https://nisanyan.substack.com/p/hintavrupa-batt-m-19-05-09",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 7
+          },
+          "dense_score": 0.36478947389297206,
+          "sparse_score": null,
+          "dense_rank": 6,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2232df6bc4e3#1",
+          "score": 0.34147923507233013,
+          "content": "Sinhali dili konuşan Sri Lankalılar kara derilidir. Vaktiyle Toharca konuşan Orta Asyalılar muhtemelen çekik gözlü idiler. Buna rağmen, İzlanda diliyle eş kökenli olduğu şüphesiz olan diller konuştula...",
+          "metadata": {
+            "title": "Hintavrupa battı mı?",
+            "date": "May 09, 2019",
+            "source": "https://nisanyan.substack.com/p/hintavrupa-batt-m-19-05-09",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 7
+          },
+          "dense_score": 0.34147923507233013,
+          "sparse_score": null,
+          "dense_rank": 7,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "453217b691bb#2",
+          "score": 0.33820802245063525,
+          "content": "Ve Kelt dilleri, Germen dilleri, Latin dilleri, Yunan dilleri Toharca, Hintçe, Ermenice, İran dilleri, bunlar hepsi ortak bir kökene indirilebiliyor. Türkçe bu grubun üyesi değil. Hint Avrupalılardan ...",
+          "metadata": {
+            "title": "Hint Avrupa teorisini neden icat ettiler",
+            "date": "02 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hint-avrupa-teorisini-neden-icat-ettiler-50353",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.33820802245063525,
+          "sparse_score": null,
+          "dense_rank": 8,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "82cce5db0a22#1",
+          "score": 0.3234038166655605,
+          "content": "Baskça Hintavrupa kökenli değildir. Haiti dili, Srilanka’nın Amhara dili Hintavrupa kökenlidir. Üç gün çalışıp biraz ansiklopedi okursanız anlarsınız neden böyle olduğunu. En basit haliyle söyleyeyim ...",
+          "metadata": {
+            "title": "Hintavrupa nasıl anlaşılır",
+            "date": "16 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hintavrupa-nasil-anlasilir-38623",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.3234038166655605,
+          "sparse_score": null,
+          "dense_rank": 9,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2232df6bc4e3#3",
+          "score": 0.30612268445455854,
+          "content": "Hataları elbette vardır. Ama hataların acımasızca eleştirilmesine imkan veren kurumsal mekanizmalar ve tartışma kültürü de vardır. Bunlar sayesinde bilgi başdöndürücü bir hızla üreyebilmiş, iki yüz yı...",
+          "metadata": {
+            "title": "Hintavrupa battı mı?",
+            "date": "May 09, 2019",
+            "source": "https://nisanyan.substack.com/p/hintavrupa-batt-m-19-05-09",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 7
+          },
+          "dense_score": 0.30612268445455854,
+          "sparse_score": null,
+          "dense_rank": 10,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f2e75c865b21#0",
+          "score": 0.30342878602999135,
+          "content": "**Hint Avrupa dilleri içinde Ermeniceye en yakın olan dil hangisidir? Frigya diliyle akraba olduğu söyleniyor. Bu eğer doğruysa, Ermeniler Anadolu’ya batıdan geldi diyebilir miyiz?**\n\nFrigya diliyle b...",
+          "metadata": {
+            "title": "Ermeniler nereden geldi",
+            "date": "24 May 2020",
+            "source": "https://www.sevannisanyan.com/metin/ermeniler-nereden-geldi-37196",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.30342878602999135,
+          "sparse_score": null,
+          "dense_rank": 11,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6fbf45c3a580#0",
+          "score": 0.2984240350347187,
+          "content": "Farsça olan *bahār* sözcüğünün Hintavrupa anadilindeki *\\*wesr̥-* veya daha teknik yazımda *\\*h2uesr̥-* teorik şeklinden türediğini biliyoruz. Dönüşümlerini izleyelim. (Sayfa düzenini korumak için say...",
+          "metadata": {
+            "title": "Baharın etimolojisi",
+            "date": "Mar 03, 2024",
+            "source": "https://nisanyan.substack.com/p/baharn-etimolojisi",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.2984240350347187,
+          "sparse_score": null,
+          "dense_rank": 12,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0da213c47b97#0",
+          "score": 0.29728067521061874,
+          "content": "Patlıcan Amerikan icadı değil, Hint asıllı bir bitki. 14. yy’a ait Farsça ve Türkçe kelime listelerinde *bādincan* ve *bādilcan* olarak adı geçiyor. Klasik Arap lugatlerinde karşılığı yok; Orta Farsça...",
+          "metadata": {
+            "title": "\"İslamın Faydaları\" yazısına gelen yorumlardan bir potpuri",
+            "date": "May 31, 2015",
+            "source": "https://nisanyan.substack.com/p/islamn-faydalar-yazsna-gelen-yorumlardan-15-05-31",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 10
+          },
+          "dense_score": 0.29728067521061874,
+          "sparse_score": null,
+          "dense_rank": 13,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3a96093aaad4#3",
+          "score": 0.2962315539705937,
+          "content": "Düşünürsen Türkçede tomrukla tomurcuk arasında da tastamam aynı ilişki var. Hepsi tanıdık sözcükler. İlkini **filiz**’den biliyoruz, “yapraklanma”. [Not et: en eski Yunanca /u/ sesi klasik dönemde /ü/...",
+          "metadata": {
+            "title": "Tomurmak, tomurcuklanmak",
+            "date": "Apr 20, 2013",
+            "source": "https://nisanyan.substack.com/p/tomurmak-tomurcuklanmak-13-04-20",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.2962315539705937,
+          "sparse_score": null,
+          "dense_rank": 14,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7760d27f0570#2",
+          "score": 0.2888160895212043,
+          "content": "Enteresandır: Haritada gördüğünüz genel şekil “Türkçe konuşan” bölgenin şekli, doğru. Ama aynı zamanda Osmanlı’nın merkezi bir vergi kayıt sistemi kurduğu (kurabildiği) bölgenin de şekli. Vergi memuru...",
+          "metadata": {
+            "title": "Hayali Oğuzların peşinde",
+            "date": "Mar 23, 2018",
+            "source": "https://nisanyan.substack.com/p/hayali-oguzlarn-pesinde-18-03-23",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.2888160895212043,
+          "sparse_score": null,
+          "dense_rank": 15,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "25cb3432a432#4",
+          "score": 0.2851482937374743,
+          "content": "Belki de halen Afrika’da yetiştirdikleri şu resimdeki hıyara (*Cucumis anguria*) benzeyen bir şey düşünmeli. İncir hıyarı? Mümkünmüş. Cucumis anguria\n\nAz daha devam edelim. Rusça *ogurets*, Lehçe *ogu...",
+          "metadata": {
+            "title": "Sözlük notları: Acur, incir, güğüm",
+            "date": "Sep 14, 2017",
+            "source": "https://nisanyan.substack.com/p/sozluk-notlar-acur-incir-gugum-17-09-14",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 5
+          },
+          "dense_score": 0.2851482937374743,
+          "sparse_score": null,
+          "dense_rank": 16,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b26c952a5576#1",
+          "score": 0.28345139830831934,
+          "content": "İspanyolca sonseste /n/ Portekizcede daima /m/ olur. Hintavrupa ortak dilinde önsesteki /k/ Germencede önce /x/, sonra /h/ sesine evrilir. Hintavrupa ortak dilinde ünlü değerine sahip /m̥/ çoğu dilde ...",
+          "metadata": {
+            "title": "100 numara",
+            "date": "Apr 10, 2019",
+            "source": "https://nisanyan.substack.com/p/100-numara-19-04-10",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.28345139830831934,
+          "sparse_score": null,
+          "dense_rank": 17,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2f147012cb93#1",
+          "score": 0.2827174053175599,
+          "content": "Ben epey çalıştım Nostratik dil tezleri üzerine. Starostin’in sitesini yıllar boyu dikkatle takip ettim. Wishful thinking çok fazla var. İnanmak istedikleri şeylere çok kolay inanıyorlar. Şöyle bir di...",
+          "metadata": {
+            "title": "Nostratik dil ailesine taraftar mıyız",
+            "date": "21 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/nostratik-dil-ailesine-taraftar-miyiz-17018",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.2827174053175599,
+          "sparse_score": null,
+          "dense_rank": 18,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7760d27f0570#0",
+          "score": 0.2814001190448102,
+          "content": "Avşar adlı yerleşimlerTürkiye’de halen veya geçmişte Avşar/Afşar adını taşıyan 57 yerleşim yerini haritada görüyoruz. Bilirsiniz, Avşarlar Oğuzların 24 kolundan biri. Anadolu, İran ve Irak tarihinde 1...",
+          "metadata": {
+            "title": "Hayali Oğuzların peşinde",
+            "date": "Mar 23, 2018",
+            "source": "https://nisanyan.substack.com/p/hayali-oguzlarn-pesinde-18-03-23",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.2814001190448102,
+          "sparse_score": null,
+          "dense_rank": 19,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2232df6bc4e3#6",
+          "score": 0.27983871711563557,
+          "content": "PHA ile Proto-Türkçe arasında bunlardan öte bir akrabalık bulma çabaları şimdilik bulutlardan fal okuma düzeyinin ötesine pek geçememiş görünüyor. Ortak köken bir gün ortaya çıkar mı? Çıkabilir elbett...",
+          "metadata": {
+            "title": "Hintavrupa battı mı?",
+            "date": "May 09, 2019",
+            "source": "https://nisanyan.substack.com/p/hintavrupa-batt-m-19-05-09",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 7
+          },
+          "dense_score": 0.27983871711563557,
+          "sparse_score": null,
+          "dense_rank": 20,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "c310489a2b4b#7",
+          "score": 0.27506364183827237,
+          "content": "[Yanıtla](https://www.blogger.com/null)\n\n3. **[izzet](https://www.blogger.com/profile/04428130624697718738)**[13 Aralık 2012 17:41](http://nisanyan1.blogspot.com/2012/12/yer-ays.html?showComment=13554...",
+          "metadata": {
+            "title": "Yer ayısı",
+            "date": "Dec 13, 2012",
+            "source": "https://nisanyan.substack.com/p/yer-ays-12-12-13",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 15
+          },
+          "dense_score": 0.27506364183827237,
+          "sparse_score": null,
+          "dense_rank": 21,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "c2913c0d5735#1",
+          "score": 0.27299674299184024,
+          "content": "Acaba yasak, Hinduların satiye inancını artırmış mıdır, başka ülkelerdeki Arapça ezan yasağı gibi?) Soru şu: Bir insanın başkasına olan bağlılığından veya aşkından ötürü onun ölümü üzerine intihar etm...",
+          "metadata": {
+            "title": "Kadın yakmaya dair",
+            "date": "May 27, 2011",
+            "source": "https://nisanyan.substack.com/p/kadn-yakmaya-dair-11-05-27",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.27299674299184024,
+          "sparse_score": null,
+          "dense_rank": 22,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7760d27f0570#1",
+          "score": 0.2726640335169923,
+          "content": "Almanya’ya milyonlarca Türk göçtü, Türkçe yer adı kaç tane? ABD’de adında Jew olan kaç yer var?)Ya da (2), devlet eliyle dağıtılmışlardır. Mesela 16. yy’dan sonra Osmanlı devletinin aşiretleri dağınık...",
+          "metadata": {
+            "title": "Hayali Oğuzların peşinde",
+            "date": "Mar 23, 2018",
+            "source": "https://nisanyan.substack.com/p/hayali-oguzlarn-pesinde-18-03-23",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.2726640335169923,
+          "sparse_score": null,
+          "dense_rank": 23,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b26c952a5576#0",
+          "score": 0.272168821707529,
+          "content": "Yüz (100) sayı adı bazı Hintavrupa dillerinde şöyle:\n\nEski İrlandaca kêt, Galce ve Bretonca kant, Cornwall dilinde kans\n\nLatince kentum, İtalyanca çento, İspanyolca sien, Portekizce sem, Fransızca saŋ...",
+          "metadata": {
+            "title": "100 numara",
+            "date": "Apr 10, 2019",
+            "source": "https://nisanyan.substack.com/p/100-numara-19-04-10",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.272168821707529,
+          "sparse_score": null,
+          "dense_rank": 24,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ce96bb606754#27",
+          "score": 0.27177606793903963,
+          "content": "ARAP VEYA KÜRT ADLARI(E) **Abdulalim** Siirt, Batman, Bitlis(E) **Anter** Hatay, Urfa, Mardin, Kurtalan(E) **Arfo** Midyat(K) **Avaş** Mardin, Urfa, Diyarbakır, Antep(K) **Bedre** Hatay, Mardin(E) **B...",
+          "metadata": {
+            "title": "Kürt adları",
+            "date": "May 19, 2020",
+            "source": "https://nisanyan.substack.com/p/kurt-adlar-20-05-19",
+            "keywords": "",
+            "chunk_index": 27,
+            "total_chunks": 29
+          },
+          "dense_score": 0.27177606793903963,
+          "sparse_score": null,
+          "dense_rank": 25,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "25cb3432a432#3",
+          "score": 0.267666601915334,
+          "content": "Desti uyar, bal peteği hücresi de uyar, incir de uyar. Yaban hıyarı (Ecballium)Ama salatalık uymaz görünüyor. O yüzden önce ı-ıh dedim, inanmadım. Salatalığın incirle aynı adı taşıması tuhaf bir şey, ...",
+          "metadata": {
+            "title": "Sözlük notları: Acur, incir, güğüm",
+            "date": "Sep 14, 2017",
+            "source": "https://nisanyan.substack.com/p/sozluk-notlar-acur-incir-gugum-17-09-14",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 5
+          },
+          "dense_score": 0.267666601915334,
+          "sparse_score": null,
+          "dense_rank": 26,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "bce31a2bdc3f#0",
+          "score": 0.2675339962489682,
+          "content": "*Avusturya'nın Linz kentinde İrani diller üzerinde çalışan arkadaşımız Umut Akkoç ekteki tabloyu gönderip fikrimi sormuş. Hemen paylaşıp birkaç not ekleyeyim:*\n\n> A. Soluklu (aspirated) ötümlü ünsüzle...",
+          "metadata": {
+            "title": "Gel birader bir berber dükkanı",
+            "date": "May 31, 2021",
+            "source": "https://nisanyan.substack.com/p/gel-birader-bir-berber-dukkan-21-05-31",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.2675339962489682,
+          "sparse_score": null,
+          "dense_rank": 27,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ce96bb606754#25",
+          "score": 0.26643046204696924,
+          "content": "ALEVİ KÜRT ADLARI(K) **Ahçik** Hınıs, Varto(K) **Aris** (K) **Aşey** Elbistan, Pazarcık(E) **Bozali** (E) **Çamo** (E) **Canbaba** (K) **Efey** Malatya (Akçadağ, Hekimhan)(E) **Efo** (K) **Gülo** Mara...",
+          "metadata": {
+            "title": "Kürt adları",
+            "date": "May 19, 2020",
+            "source": "https://nisanyan.substack.com/p/kurt-adlar-20-05-19",
+            "keywords": "",
+            "chunk_index": 25,
+            "total_chunks": 29
+          },
+          "dense_score": 0.26643046204696924,
+          "sparse_score": null,
+          "dense_rank": 28,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f9c9116a3b6e#2",
+          "score": 0.2659943029211687,
+          "content": "Mauritius adasında *mandarine*adlı bir tür portakal yetiştirilir diyor, başka ayrıntı vermiyor. Hint Okyanusuna kadar ulaştığına göre o coğrafyalarda bir süreden beri bilinen bir ürün olmalı. Avrupa’y...",
+          "metadata": {
+            "title": "Mandalina",
+            "date": "Sep 04, 2019",
+            "source": "https://nisanyan.substack.com/p/mandalina-19-09-04",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.2659943029211687,
+          "sparse_score": null,
+          "dense_rank": 29,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ce96bb606754#12",
+          "score": 0.2657207259856589,
+          "content": "(E) **Helat**\n\n(K) **Heli**\n\n(K) **Helin**\n\n(K) **Hemi** Hakkari (Çukurca), Şırnak (Beytüşşebap), Van (Çatak, Gevaş)\n\n(K) **Hemra** Diyarbakır, Urfa (Siverek), Mardin, Van, Hakkari\n\n(K) **Heremsi** Di...",
+          "metadata": {
+            "title": "Kürt adları",
+            "date": "May 19, 2020",
+            "source": "https://nisanyan.substack.com/p/kurt-adlar-20-05-19",
+            "keywords": "",
+            "chunk_index": 12,
+            "total_chunks": 29
+          },
+          "dense_score": 0.2657207259856589,
+          "sparse_score": null,
+          "dense_rank": 30,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "d76d0ef94df8#0",
+          "score": 0.2648774110304005,
+          "content": "Arapça kalın ḥa ح ile iyice art damaktan gelen xa خ ayrı fonemler, alakasız iki ses. Buna karşılık akraba diller İbranice ve Aramcada bu ayrım yok, ḥet ח sesi her ikisini karşılıyor. Dolayısıyla Aramc...",
+          "metadata": {
+            "title": "Sözlük notları: Hamur, hilaliahmer, mahmur",
+            "date": "Aug 26, 2017",
+            "source": "https://nisanyan.substack.com/p/sozluk-notlar-hamur-hilaliahmer-mahmur-17-08-26",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.2648774110304005,
+          "sparse_score": null,
+          "dense_rank": 31,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "d8886da2917e#3",
+          "score": 0.2646562042788023,
+          "content": "En azından teorik olarak öyledir. Gerçi 16. yüzyıl sonunda bu sistem alayü vala ile çökecektir, ama işin teorisi budur. Daha da önemli gözlemimiz şu. ‘Asya tipi’ diyerek genelledikleri bu model, spesi...",
+          "metadata": {
+            "title": "Özgürlük Batı’nın hamurunda mı var",
+            "date": "21 May 2023",
+            "source": "https://www.sevannisanyan.com/metin/ozgurluk-batinin-hamurunda-mi-var-36226",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.2646562042788023,
+          "sparse_score": null,
+          "dense_rank": 32,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9755b6531628#3",
+          "score": 0.26422813490924113,
+          "content": "Ör: Mıledirej “uzunkol” > Molla Derveş.\n\n**Millî, Milan**\n\nUrfa ve Mardin kökenli büyük aşiret. Milan belki “kollu, dallı budaklı” anlamındadır. Bey. Mîran “beyler”, Mîrze “bey oğlu”, Mîrange “beyler ...",
+          "metadata": {
+            "title": "Kürtçe yer adları sözlükçesi",
+            "date": "Aug 06, 2019",
+            "source": "https://nisanyan.substack.com/p/kurtce-yer-adlar-sozlukcesi-19-08-06",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.26422813490924113,
+          "sparse_score": null,
+          "dense_rank": 33,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "c310489a2b4b#12",
+          "score": 0.26168734044828146,
+          "content": "Evet gerçi bu hususta ilmel yakinden ziyade zann ile görüş bildiriyor amma Allah dostlarının zannına itimad edilir. Nice evliyaullahdan allame ve arif zatın ictihadı dahi zann üzeredir: http://kod661....",
+          "metadata": {
+            "title": "Yer ayısı",
+            "date": "Dec 13, 2012",
+            "source": "https://nisanyan.substack.com/p/yer-ays-12-12-13",
+            "keywords": "",
+            "chunk_index": 12,
+            "total_chunks": 15
+          },
+          "dense_score": 0.26168734044828146,
+          "sparse_score": null,
+          "dense_rank": 34,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eb9cea86bc#4",
+          "score": 0.26159038775616383,
+          "content": "Uğrulamak değil, gayet net yazılmış, uğûrlamak. Anlam bağını anlatmak şimdi uzun sürer, ama anlaşılamayacak bir şey değil. **Üs** sözcüğünün matematikteki kullanımı (8 üssü 5) Yeni Osmanlıca, 19. yy s...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 11
+          },
+          "dense_score": 0.26159038775616383,
+          "sparse_score": null,
+          "dense_rank": 35,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3cfddfe6cad1#1",
+          "score": 0.26114678401854796,
+          "content": "Ağrı (Tutak, Taşlıçay, Patnos), Erzurum (Narman, Horasan), Sivas (Ulaş ve Şarkışla) kayda değer Karapapak nüfusu barındıran yerler. **Ahıska Türkleri** adı verilen toplumun Türkiye’deki ana yerleşim a...",
+          "metadata": {
+            "title": "Azeri, Karapapak, Ahıska kişi adları",
+            "date": "Aug 19, 2020",
+            "source": "https://nisanyan.substack.com/p/azeri-karapapak-ahska-kisi-adlar-20-08-19",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 12
+          },
+          "dense_score": 0.26114678401854796,
+          "sparse_score": null,
+          "dense_rank": 36,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ce2593fcdb74#0",
+          "score": 0.260766297017843,
+          "content": "Pevrül diye bir ad varmış, duymamıştım. 2009 itibariyle Türkiye’de 164 kişi bu adı taşıyor, hatta Pevrül Kavlak adlı hayli sık haberlere konu olan bir sendikacı varmış. Ayrıca 121 adet Pevril, 48 Pevr...",
+          "metadata": {
+            "title": "Pevrül bir tane",
+            "date": "Sep 25, 2019",
+            "source": "https://nisanyan.substack.com/p/pevrul-bir-tane-19-09-25",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.260766297017843,
+          "sparse_score": null,
+          "dense_rank": 37,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9b3debfec55c#1",
+          "score": 0.25956521218220024,
+          "content": "Bunların büyükçe bir bölümü halen denizci teknik lisanında kullanımdadır; yüz kadarını ortak dile mensup oldukları düşücesiyle sözlüğe dahil ettik. abluka, aborda, alabanda, alabora, alarga, alesta, a...",
+          "metadata": {
+            "title": "Türkçe tarihi 4: Batı ile karşılaşma",
+            "date": "Nov 17, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-4-bat-ile-karslasma-17-11-17",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 7
+          },
+          "dense_score": 0.25956521218220024,
+          "sparse_score": null,
+          "dense_rank": 38,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cdebf91c10ac#2",
+          "score": 0.2570998451196045,
+          "content": "Bunları aştığınız zaman araya bir yabancılaşma efektini sokmuş oluyorsunuz. O zaman iş bozuluyor. Her otelcinin bildiği bir şeydir. Avrupalılar otelin malına, mülküne asgari zararı vermek için çaba gö...",
+          "metadata": {
+            "title": "Otellerden kim eşya çalar",
+            "date": "05 September 2021",
+            "source": "https://www.sevannisanyan.com/metin/otellerden-kim-esya-calar-76351",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.2570998451196045,
+          "sparse_score": null,
+          "dense_rank": 39,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3bd8743c1107#6",
+          "score": 0.2570844958336405,
+          "content": "Arapça ax ve axı ile ilişkisi önerildi. T. Tekin makalesi doğrultusunda ETü adaş ile özdeş olmadığı vurgulandı. Açıklayıcı not sadeleştirildi, cümle eklendi. T. Tekin makalesi doğrultusunda top sözcüğ...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 11
+          },
+          "dense_score": 0.2570844958336405,
+          "sparse_score": null,
+          "dense_rank": 40,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0c6f13bf560a#0",
+          "score": 0.25675526163369666,
+          "content": "Bir yanda İFADE ÖZGÜRLÜĞÜ. AİHS 10. maddede tanımlanmış (ki TC Anayasasına göre bu ülkede üstün hukuk normudur). AİHM’in klasik sayılan Handyside vs. UK (1976) davasında çok şık bir şekilde özetlemişl...",
+          "metadata": {
+            "title": "Bakalım AİHM neler demiş",
+            "date": "Jul 11, 2013",
+            "source": "https://nisanyan.substack.com/p/bakalm-aihm-neler-demis-13-07-11",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 9
+          },
+          "dense_score": 0.25675526163369666,
+          "sparse_score": null,
+          "dense_rank": 41,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ce96bb606754#1",
+          "score": 0.25615728886335426,
+          "content": "Benim hatamdır; düzeltiniz. Kurmanci/Zaza ayrımı yapma imkanı da bulamadım. Bu yüzden spesifik olarak Zazalara ait olan birkaç isim de buraya eklendi. Kürt/Zaza dilli Alevilere özgü görünen adları aşa...",
+          "metadata": {
+            "title": "Kürt adları",
+            "date": "May 19, 2020",
+            "source": "https://nisanyan.substack.com/p/kurt-adlar-20-05-19",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 29
+          },
+          "dense_score": 0.25615728886335426,
+          "sparse_score": null,
+          "dense_rank": 42,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3bd8743c1107#5",
+          "score": 0.25604385554376485,
+          "content": "Ar farrâş değil feraş “kürek kemiği”\n\nyanlış etimoloji düzeltildi. Arapça sözün Yunanca synaphê ile ilgisi yok. Aşık Paşa metin örneği eklendi Aşık Paşa metin örneği eklendi. 18. yy “sınırlamak” ve “s...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 11
+          },
+          "dense_score": 0.25604385554376485,
+          "sparse_score": null,
+          "dense_rank": 43,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3cfddfe6cad1#2",
+          "score": 0.2553563234355584,
+          "content": "Bir ikisi hariç hepsinin kadın adı olması neye delalet eder? E **Abbasali** az Iğdır, Tuzluca E **Abbaskulu** az Iğdır, Tuzluca\n\nE **Abdulali** az Iğdır, Tuzluca\n\nE **Abulfet** az/kp Iğdır, Arpaçay\n\nK...",
+          "metadata": {
+            "title": "Azeri, Karapapak, Ahıska kişi adları",
+            "date": "Aug 19, 2020",
+            "source": "https://nisanyan.substack.com/p/azeri-karapapak-ahska-kisi-adlar-20-08-19",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 12
+          },
+          "dense_score": 0.2553563234355584,
+          "sparse_score": null,
+          "dense_rank": 44,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "01acee2f0f7d#0",
+          "score": 0.25489220946219165,
+          "content": "Umut Akkoç ile 2013’te Linz’te kısaca tanışmıştım. Frankfurt’ta olan Mesut Asmên Keskin’le birlikte Zazaca Etimoloji Sözlüğü üzerinde çalışıyorlardı. Bir iki konuda fikrimi sordular, yardımcı olmaya ç...",
+          "metadata": {
+            "title": "Hintavrupa yenilendi",
+            "date": "Jul 02, 2019",
+            "source": "https://nisanyan.substack.com/p/hintavrupa-yenilendi-19-07-02",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.25489220946219165,
+          "sparse_score": null,
+          "dense_rank": 45,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a442df7873f2#0",
+          "score": 0.2538589335350152,
+          "content": "**Hitler’in 2. Dünya Savaşı’nın kritik dönemi olan 1942 yılında Ermenileri Ari ırka dahil etmesine ne diyorsunuz?**\n\nÇok bariz bir şey, anlaşılmayacak bir şey yok. Hitler Rusya’yı çökertmeye çalışıyor...",
+          "metadata": {
+            "title": "Hitler Ermenileri neden sevdi",
+            "date": "16 July 2023",
+            "source": "https://www.sevannisanyan.com/metin/hitler-ermenileri-neden-sevdi-47453",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.2538589335350152,
+          "sparse_score": null,
+          "dense_rank": 46,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cfe20e8de520#1",
+          "score": 0.25317146544635283,
+          "content": "Çoğu yerde yerel telaffuza ilişkin en güvenilir kaynak Kiepert haritalarıdır; onun da Van-Hakkari-Bitlis paftaları yok, yayınlanmamış. Her halükârda mesela Arkanis-Arkinis-Arkunis-Erkinis, Koçanis-Koç...",
+          "metadata": {
+            "title": "Anadolu'da gezintiler: Acayip adlara devam",
+            "date": "Jun 01, 2018",
+            "source": "https://nisanyan.substack.com/p/anadoluda-gezintiler-acayip-adlara-18-06-01",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 9
+          },
+          "dense_score": 0.25317146544635283,
+          "sparse_score": null,
+          "dense_rank": 47,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3de38d70340b#4",
+          "score": 0.2524484828804906,
+          "content": "[[1]](https://www.blogger.com/blogger.g?blogID=1302467060357060984#_ftnref1) Belki ջրմուտ “su-giren”, suyun girdiği yer. +ud değil mud.[[2]](https://www.blogger.com/blogger.g?blogID=130246706035706098...",
+          "metadata": {
+            "title": "Anadolu'da gezintiler: Falanlı, Filanlı",
+            "date": "May 28, 2018",
+            "source": "https://nisanyan.substack.com/p/anadoluda-gezintiler-falanl-filanl-18-05-28",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 5
+          },
+          "dense_score": 0.2524484828804906,
+          "sparse_score": null,
+          "dense_rank": 48,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "d6919803ba75#0",
+          "score": 0.2512737678937834,
+          "content": "Haritada Osmanlı’ya tabi Ahıska Beylerbeyiliğinin 1595 Osmanlı tahririnde belgelenen sınırlarını görüyoruz. Kırmızılar Hristiyan Gürcü, maviler Ermeni nüfusu gösteriyor. Yeşille gösterilen Müslüman nü...",
+          "metadata": {
+            "title": "\"Ahıska Türkleri\"",
+            "date": "Sep 30, 2025",
+            "source": "https://nisanyan.substack.com/p/ahska-turkleri",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.2512737678937834,
+          "sparse_score": null,
+          "dense_rank": 49,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5136c6d36936#6",
+          "score": 0.2512577523572517,
+          "content": "**Ağaçlara Bez, Çaput ve İp Bağlamak:** SağAşık, Pürçekli Dede, Tarlapınarı, Didecik Dede, Çınar Ağacı, Çalık Dede, Tez Mehmet Dede, EfendiSultan, Halife Sultan, Andık Deresi, Aldan Dede, Şehit Osman ...",
+          "metadata": {
+            "title": "Türklerin dini neymiş",
+            "date": "Apr 23, 2020",
+            "source": "https://nisanyan.substack.com/p/turklerin-dini-neymis-20-04-23",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 19
+          },
+          "dense_score": 0.2512577523572517,
+          "sparse_score": null,
+          "dense_rank": 50,
+          "sparse_rank": null
+        }
+      ],
+      "performance": {
+        "total_time_ms": 202.2838592529297,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "sparse": {
+      "query": "Hint-Avrupa dilleri",
+      "strategy": "sparse",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "453217b691bb#0",
+          "score": 6.434512615203857,
+          "content": "**Hint Avrupa ırkı teorisinin geçerli olmadığını kanıtlayan deliller nelerdir? Bu teori, Batı’nın Asya halklarını yönetmek istemesinden meydana gelmiş olabilir mi?**\n\nHint Avrupa ırkı diye bir şey yok...",
+          "metadata": {
+            "title": "Hint Avrupa teorisini neden icat ettiler",
+            "date": "02 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hint-avrupa-teorisini-neden-icat-ettiler-50353",
+            "keywords": "atın evcilleştirilmesi, dilbilim, Hintavrupa"
+          },
+          "dense_score": null,
+          "sparse_score": 6.434512615203857,
+          "dense_rank": null,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "82cce5db0a22#0",
+          "score": 6.261844158172607,
+          "content": "**Türkler Hint Avrupa kökenli midir?**\n\nFalanca millet Hintavrupa kökenlidir saçmalığından kendinizi kurtarın diye kaç kere söyledim, dilimde tüy bitti. Yok öyle bir şey. Şayet altı bin sene önce bir ...",
+          "metadata": {
+            "title": "Hintavrupa nasıl anlaşılır",
+            "date": "16 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hintavrupa-nasil-anlasilir-38623",
+            "keywords": "Hintavrupa dilleri, Türkçe"
+          },
+          "dense_score": null,
+          "sparse_score": 6.261844158172607,
+          "dense_rank": null,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "f2e75c865b21#0",
+          "score": 5.957061767578125,
+          "content": "**Hint Avrupa dilleri içinde Ermeniceye en yakın olan dil hangisidir? Frigya diliyle akraba olduğu söyleniyor. Bu eğer doğruysa, Ermeniler Anadolu’ya batıdan geldi diyebilir miyiz?**\n\nFrigya diliyle b...",
+          "metadata": {
+            "title": "Ermeniler nereden geldi",
+            "date": "24 May 2020",
+            "source": "https://www.sevannisanyan.com/metin/ermeniler-nereden-geldi-37196",
+            "keywords": "Ermeni tarihi, ulusların oluşumu, Urartu"
+          },
+          "dense_score": null,
+          "sparse_score": 5.957061767578125,
+          "dense_rank": null,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "453217b691bb#2",
+          "score": 5.791090965270996,
+          "content": "Ve Kelt dilleri, Germen dilleri, Latin dilleri, Yunan dilleri Toharca, Hintçe, Ermenice, İran dilleri, bunlar hepsi ortak bir kökene indirilebiliyor. Türkçe bu grubun üyesi değil. Hint Avrupalılardan ...",
+          "metadata": {
+            "title": "Hint Avrupa teorisini neden icat ettiler",
+            "date": "02 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hint-avrupa-teorisini-neden-icat-ettiler-50353",
+            "keywords": "atın evcilleştirilmesi, dilbilim, Hintavrupa"
+          },
+          "dense_score": null,
+          "sparse_score": 5.791090965270996,
+          "dense_rank": null,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "453217b691bb#1",
+          "score": 5.7759480476379395,
+          "content": "İkinci kuşakta çocuklarını İspanyolca ile eğitirler. Üçüncü kuşakta nineler de eski dili unutur. Ondan sonra uzak dağ köyleri dışında herkes İspanyolca konuşur. Bu kadar basittir bu iş. Irk ile alakas...",
+          "metadata": {
+            "title": "Hint Avrupa teorisini neden icat ettiler",
+            "date": "02 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hint-avrupa-teorisini-neden-icat-ettiler-50353",
+            "keywords": "atın evcilleştirilmesi, dilbilim, Hintavrupa"
+          },
+          "dense_score": null,
+          "sparse_score": 5.7759480476379395,
+          "dense_rank": null,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "1219d3ba5e2e#5",
+          "score": 4.956081390380859,
+          "content": "Mitolojik dişi köpekler olan *banshee*’leri belki bilirsiniz, oradan. Bu sonuncusu ne alaka diyeceksiniz. Demeyin. Çünkü elimizde şöyle bir tablo var. İlk satırda kelime başındaki seslerin Hintavrupa ...",
+          "metadata": {
+            "title": "Jinekoloji Kürtçe mi?",
+            "date": "Jan 10, 2021",
+            "source": "https://nisanyan.substack.com/p/jinekoloji-kurtce-mi-21-01-10",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 4.956081390380859,
+          "dense_rank": null,
+          "sparse_rank": 6
+        },
+        {
+          "chunk_id": "82cce5db0a22#1",
+          "score": 4.871349811553955,
+          "content": "Baskça Hintavrupa kökenli değildir. Haiti dili, Srilanka’nın Amhara dili Hintavrupa kökenlidir. Üç gün çalışıp biraz ansiklopedi okursanız anlarsınız neden böyle olduğunu. En basit haliyle söyleyeyim ...",
+          "metadata": {
+            "title": "Hintavrupa nasıl anlaşılır",
+            "date": "16 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hintavrupa-nasil-anlasilir-38623",
+            "keywords": "Hintavrupa dilleri, Türkçe"
+          },
+          "dense_score": null,
+          "sparse_score": 4.871349811553955,
+          "dense_rank": null,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "844482c38c63#6",
+          "score": 4.581742286682129,
+          "content": "Annemarie von Gabain ve Marcel Erdal bu konuda iki önemli kaynaktır. Radlof ve Clauson gibi sözlükçüleri de onlara ekleyelim. İkinci araç ise, tarihi diller biliminin son iki yüz yılda muazzam bir eme...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "dilbilim, etimoloji, Hintavrupa, Türkoloji"
+          },
+          "dense_score": null,
+          "sparse_score": 4.581742286682129,
+          "dense_rank": null,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "acbf2920a03f#1",
+          "score": 4.406489372253418,
+          "content": "Bitti. Demek ki Aztekler Türktür. Peki arkadaşım bunun bir anlam ifade etmesi için bu dille Türkçe arasındaki ortaklıkları sistemleştir, ses değişim kurallarını çalış, yaz. Ama onlar yok. Pekala mümkü...",
+          "metadata": {
+            "title": "Aztekler ve Eskimolar Türk mü",
+            "date": "27 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/aztekler-ve-eskimolar-turk-mu-15802",
+            "keywords": "Amerika yerli dilleri, Aztekler, Eskimolar, Türkçülük"
+          },
+          "dense_score": null,
+          "sparse_score": 4.406489372253418,
+          "dense_rank": null,
+          "sparse_rank": 9
+        },
+        {
+          "chunk_id": "d35252855a47#1",
+          "score": 4.09220027923584,
+          "content": "Yine de, bilginliğiyle temayüz eden bir adama “belli, Araplardan öğrendi bu icatları” diye bühtan edilmesi yeterince ilginç bir veri. Bir özelliği daha var: Yeni rakam sistemini, yani Hint Arap rakaml...",
+          "metadata": {
+            "title": "Gerbert d’Aurillac’ı nasıl bilirdiniz",
+            "date": "30 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/gerbert-daurillaci-nasil-bilirdiniz-30075",
+            "keywords": "Gerbert d'Aurillac, medrese, Orta çağ, rakam sistemi"
+          },
+          "dense_score": null,
+          "sparse_score": 4.09220027923584,
+          "dense_rank": null,
+          "sparse_rank": 10
+        },
+        {
+          "chunk_id": "0fd2b48a885e#4",
+          "score": 3.998189926147461,
+          "content": "Nizamnameye göre akşam saat beşte koğuşa kapatılıp kilitlenmemiz gerekiyor çünkü. Yakalanırsam gardiyanlar yanar. Hapisteyken en büyük keşif Hintavrupa literatürünü tanımam oldu. Adamlar 180 sene çalı...",
+          "metadata": {
+            "title": "Nasıl sözlükçü oldum",
+            "date": "Feb 06, 2009",
+            "source": "https://nisanyan.substack.com/p/nasl-sozlukcu-oldum-09-02-06",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.998189926147461,
+          "dense_rank": null,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "1576933477ef#0",
+          "score": 3.970520257949829,
+          "content": "**Birçoklarından duyuyoruz, Protestan ahlakı modern Avrupa’nın kuruluşunda baş rolü oynamıştır. Protestan ahlakı sayesinde kapitalizm doğmuş, büyümüş ve gelişmiştir. Ne dersiniz?**\n\nWeber adlı Alman m...",
+          "metadata": {
+            "title": "Kapitalizm Protestan ahlakından mı doğdu",
+            "date": "03 March 2024",
+            "source": "https://www.sevannisanyan.com/metin/kapitalizm-protestan-ahlakindan-mi-dogdu-64429",
+            "keywords": "kapitalizm, Katolik Kilisesi, matbaa, Protestanlık"
+          },
+          "dense_score": null,
+          "sparse_score": 3.970520257949829,
+          "dense_rank": null,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "bcca4a95950b#1",
+          "score": 3.936394214630127,
+          "content": "Avrupa’nın kendini tarihi perspektif içinde algılama sürecinde kilit bir aşamadır. Hint ve Çin de *sauvage* değil, yerleşik yaşam kurumlarına sahip yerler. Onlar da *civilisé*. Ama bizimkinden ayrı bi...",
+          "metadata": {
+            "title": "Medeniyet ve uygurluk",
+            "date": "Mar 12, 2019",
+            "source": "https://nisanyan.substack.com/p/medeniyet-ve-uygurluk-19-03-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.936394214630127,
+          "dense_rank": null,
+          "sparse_rank": 13
+        },
+        {
+          "chunk_id": "47c4a262ed95#2",
+          "score": 3.917062282562256,
+          "content": "Modern Türkçe kullanımda Kıbrıs Elenleri de Rum’dur, fakat Kıbrıslı Elenler bu sıfatı kabul etmez.Bilgi 5: Balkan Yarımadasında Latinceye benzer bir dil konuşan Ortodoks halk modern dönemde kendine **...",
+          "metadata": {
+            "title": "Kavim isimleri kaygandır, yakaladım sanırsın kaçar",
+            "date": "Jan 16, 2018",
+            "source": "https://nisanyan.substack.com/p/kavim-isimleri-kaygandr-yakaladm-18-01-16",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.917062282562256,
+          "dense_rank": null,
+          "sparse_rank": 14
+        },
+        {
+          "chunk_id": "7bdf652c885d#3",
+          "score": 3.7902746200561523,
+          "content": "Harıl harıl birbiriyle tartışmışlar. Felsefenin özü tartışma sanatıdır. Önce formel mantık, yani ileri sürdüğün önermeler kendi içinde tutarlı mı. Sonra epistemoloji, yani bildiğini zannettiğin şeyler...",
+          "metadata": {
+            "title": "Antik Yunan’sız felsefe olur mu",
+            "date": "04 December 2022",
+            "source": "https://www.sevannisanyan.com/metin/antik-yunansiz-felsefe-olur-mu-11475",
+            "keywords": "Antik Yunan, felsefe, tartışma sanatı"
+          },
+          "dense_score": null,
+          "sparse_score": 3.7902746200561523,
+          "dense_rank": null,
+          "sparse_rank": 15
+        },
+        {
+          "chunk_id": "b26c952a5576#1",
+          "score": 3.646336555480957,
+          "content": "İspanyolca sonseste /n/ Portekizcede daima /m/ olur. Hintavrupa ortak dilinde önsesteki /k/ Germencede önce /x/, sonra /h/ sesine evrilir. Hintavrupa ortak dilinde ünlü değerine sahip /m̥/ çoğu dilde ...",
+          "metadata": {
+            "title": "100 numara",
+            "date": "Apr 10, 2019",
+            "source": "https://nisanyan.substack.com/p/100-numara-19-04-10",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.646336555480957,
+          "dense_rank": null,
+          "sparse_rank": 16
+        },
+        {
+          "chunk_id": "2f147012cb93#1",
+          "score": 3.5256738662719727,
+          "content": "Ben epey çalıştım Nostratik dil tezleri üzerine. Starostin’in sitesini yıllar boyu dikkatle takip ettim. Wishful thinking çok fazla var. İnanmak istedikleri şeylere çok kolay inanıyorlar. Şöyle bir di...",
+          "metadata": {
+            "title": "Nostratik dil ailesine taraftar mıyız",
+            "date": "21 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/nostratik-dil-ailesine-taraftar-miyiz-17018",
+            "keywords": "diller tarihi, Nostratik dil ailesi, Sergei Starostin"
+          },
+          "dense_score": null,
+          "sparse_score": 3.5256738662719727,
+          "dense_rank": null,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "e3370e9e29ed#1",
+          "score": 3.473137617111206,
+          "content": "Bu yer adlarının haritasını çıkararak Ortaçağdaki Viking yayılım alanını belirlemek mümkündür. Her iki sözcük Latince *vîcus* (/uikus/) ile aynı Hintavrupa köküne aittir. Sözcük esasen “klan, kabile” ...",
+          "metadata": {
+            "title": "Hintavrupa köyleri",
+            "date": "Aug 03, 2019",
+            "source": "https://nisanyan.substack.com/p/hintavrupa-koyleri-19-08-03",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.473137617111206,
+          "dense_rank": null,
+          "sparse_rank": 18
+        },
+        {
+          "chunk_id": "bce31a2bdc3f#0",
+          "score": 3.3297934532165527,
+          "content": "*Avusturya'nın Linz kentinde İrani diller üzerinde çalışan arkadaşımız Umut Akkoç ekteki tabloyu gönderip fikrimi sormuş. Hemen paylaşıp birkaç not ekleyeyim:*\n\n> A. Soluklu (aspirated) ötümlü ünsüzle...",
+          "metadata": {
+            "title": "Gel birader bir berber dükkanı",
+            "date": "May 31, 2021",
+            "source": "https://nisanyan.substack.com/p/gel-birader-bir-berber-dukkan-21-05-31",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.3297934532165527,
+          "dense_rank": null,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "46dc6f35309b#0",
+          "score": 3.1229248046875,
+          "content": "**Osmanlı tarihi hakkında genel bir değerlendirme yaparsanız ne düşünürsünüz? Osmanlı iyi miydi, kötü müydü?**\n\nOsmanlı başa geçtiğinde — 1453 diyelim, yahut daha önce, 14. yüzyıl sonu ile 15. yüzyıl ...",
+          "metadata": {
+            "title": "Osmanlı nasıl özetlenir",
+            "date": "20 June 2021",
+            "source": "https://www.sevannisanyan.com/metin/osmanli-nasil-ozetlenir-96663",
+            "keywords": "Osmanlı tarihi, Osmanlı'nın çöküşü"
+          },
+          "dense_score": null,
+          "sparse_score": 3.1229248046875,
+          "dense_rank": null,
+          "sparse_rank": 20
+        },
+        {
+          "chunk_id": "f9c9116a3b6e#2",
+          "score": 3.0809144973754883,
+          "content": "Mauritius adasında *mandarine*adlı bir tür portakal yetiştirilir diyor, başka ayrıntı vermiyor. Hint Okyanusuna kadar ulaştığına göre o coğrafyalarda bir süreden beri bilinen bir ürün olmalı. Avrupa’y...",
+          "metadata": {
+            "title": "Mandalina",
+            "date": "Sep 04, 2019",
+            "source": "https://nisanyan.substack.com/p/mandalina-19-09-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.0809144973754883,
+          "dense_rank": null,
+          "sparse_rank": 21
+        },
+        {
+          "chunk_id": "1576933477ef#1",
+          "score": 3.0680651664733887,
+          "content": "Hint ile Çin’in ahlaksız olduğunu ima eder zımnen. Protestanlığın Avrupa’da bir tane çok esaslı sonuç getirici etkisi oldu. Protestanlar dediler ki, kiliseye kulak asma, Papa’yı da dinleme, kitabı oku...",
+          "metadata": {
+            "title": "Kapitalizm Protestan ahlakından mı doğdu",
+            "date": "03 March 2024",
+            "source": "https://www.sevannisanyan.com/metin/kapitalizm-protestan-ahlakindan-mi-dogdu-64429",
+            "keywords": "kapitalizm, Katolik Kilisesi, matbaa, Protestanlık"
+          },
+          "dense_score": null,
+          "sparse_score": 3.0680651664733887,
+          "dense_rank": null,
+          "sparse_rank": 22
+        },
+        {
+          "chunk_id": "5b4c3751227e#11",
+          "score": 3.0226025581359863,
+          "content": "Sayın Nişanyan da \"denizlere egemen olma\"nın Batı uygarlığının oluşumundaki etkisine Yanlış Cumhuriyet'te değinmişti.\n\n[Yanıtla](https://www.blogger.com/null)\n\n[Yanıtlar](https://www.blogger.com/null)...",
+          "metadata": {
+            "title": "Doğu - Batı sorunsalı",
+            "date": "Mar 11, 2017",
+            "source": "https://nisanyan.substack.com/p/dogu-bat-sorunsal-17-03-11",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.0226025581359863,
+          "dense_rank": null,
+          "sparse_rank": 23
+        },
+        {
+          "chunk_id": "1219d3ba5e2e#4",
+          "score": 2.947418689727783,
+          "content": "Kürtçeye yakın bir İrani dil olan Zazacada **ceni** veya *cıni* “kadın”. Öyleyse neymiş? Tıpkı Latin dillerindeki gibi Hint-İran dillerinde de bir g/c/j problemi varmış.\n\nİrani dillerle ilgisiz bir di...",
+          "metadata": {
+            "title": "Jinekoloji Kürtçe mi?",
+            "date": "Jan 10, 2021",
+            "source": "https://nisanyan.substack.com/p/jinekoloji-kurtce-mi-21-01-10",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.947418689727783,
+          "dense_rank": null,
+          "sparse_rank": 24
+        },
+        {
+          "chunk_id": "a99332bc327f#4",
+          "score": 2.9097414016723633,
+          "content": "Hintavrupa anadiline ait *\\*gnō-* fiili İngilizcede **know** şeklinde karşımıza çıkıyor. Bir gerilim romanı kadar heyecanlı olan macerasını OED’den okuyoruz: [A Com. Teut. and Com. Aryan vb., now reta...",
+          "metadata": {
+            "title": "Bilme eylemine dair",
+            "date": "Oct 03, 2018",
+            "source": "https://nisanyan.substack.com/p/bilme-eylemine-dair-18-10-03",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.9097414016723633,
+          "dense_rank": null,
+          "sparse_rank": 25
+        },
+        {
+          "chunk_id": "951e8584b0dd#4",
+          "score": 2.8885021209716797,
+          "content": "Amerika ve Avustralya yerli dilleri, Hint dilleri, Afrika dilleri vb. üzerinde bu nitelikte çok geniş bir literatür mevcuttur. Yukarıda sayılan dil ve lehçelerin her birinin sistematik tasviri, bir ve...",
+          "metadata": {
+            "title": "Ölmüş Diller Enstitüsü",
+            "date": "Jan 17, 2011",
+            "source": "https://nisanyan.substack.com/p/olmus-diller-enstitusu-11-01-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8885021209716797,
+          "dense_rank": null,
+          "sparse_rank": 26
+        },
+        {
+          "chunk_id": "0da213c47b97#0",
+          "score": 2.8877060413360596,
+          "content": "Patlıcan Amerikan icadı değil, Hint asıllı bir bitki. 14. yy’a ait Farsça ve Türkçe kelime listelerinde *bādincan* ve *bādilcan* olarak adı geçiyor. Klasik Arap lugatlerinde karşılığı yok; Orta Farsça...",
+          "metadata": {
+            "title": "\"İslamın Faydaları\" yazısına gelen yorumlardan bir potpuri",
+            "date": "May 31, 2015",
+            "source": "https://nisanyan.substack.com/p/islamn-faydalar-yazsna-gelen-yorumlardan-15-05-31",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8877060413360596,
+          "dense_rank": null,
+          "sparse_rank": 27
+        },
+        {
+          "chunk_id": "951e8584b0dd#3",
+          "score": 2.781144142150879,
+          "content": "Alman üniversitelerinde Zazaca üzerine ciddi sayılacak çalışmalar yapılmakta ise de bunların sonuçları henüz Türkçeye yansımamıştır. j) Midyat ve Nusyabin yöresinde konuşulan Turoyo dili (“Süryanice”)...",
+          "metadata": {
+            "title": "Ölmüş Diller Enstitüsü",
+            "date": "Jan 17, 2011",
+            "source": "https://nisanyan.substack.com/p/olmus-diller-enstitusu-11-01-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.781144142150879,
+          "dense_rank": null,
+          "sparse_rank": 28
+        },
+        {
+          "chunk_id": "7c24119ff1e5#2",
+          "score": 2.7623977661132812,
+          "content": "Ama bu çağ ve devirde halâ bir işe yarar mı diye sormadan edemezsin. Hayatında köyünden ve mahallesinden çıkmamış insanlar bu mevzulara Fransız kalabilir. Ama biraz dünya görmüş, mesela gidip bir sene...",
+          "metadata": {
+            "title": "Türk güzellemesi",
+            "date": "Sep 24, 2017",
+            "source": "https://nisanyan.substack.com/p/turk-guzellemesi-17-09-24",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7623977661132812,
+          "dense_rank": null,
+          "sparse_rank": 29
+        },
+        {
+          "chunk_id": "03eb9cea86bc#9",
+          "score": 2.7524445056915283,
+          "content": "Enteresan bir şekilde Arapça **kıyafet**sözcüğünün evrimi de aynı, ama o daha erken. Farsça **zer** ve İngilizce **gold** aynı kelime. Daha önce de okumuştum, üzerinde durmamıştım, ya da aklım basmamı...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7524445056915283,
+          "dense_rank": null,
+          "sparse_rank": 30
+        },
+        {
+          "chunk_id": "f0a7a0e4ca87#4",
+          "score": 2.7159318923950195,
+          "content": "Birileri yönlendiriyordu, onun yerine başka birileri yönlendirmeye başladı. Matbaanın sonuçları 16. yüzyıla kadar Batı Avrupa’nın ortak kültür dili bir taneydi, Latinceydi. Literatürün hemen hemen tam...",
+          "metadata": {
+            "title": "Matbaanın icadı neye yaradı",
+            "date": "17 December 2023",
+            "source": "https://www.sevannisanyan.com/metin/matbaanin-icadi-neye-yaradi-06832",
+            "keywords": "kültürün kaynakları, matbaa, okuryazarlık, ulusal diller"
+          },
+          "dense_score": null,
+          "sparse_score": 2.7159318923950195,
+          "dense_rank": null,
+          "sparse_rank": 31
+        },
+        {
+          "chunk_id": "96cc9d513af4#1",
+          "score": 2.7018380165100098,
+          "content": "Gece karanlığında pişirilmiş bir işin öyküsünü anlatır. Çok cesur bir dille anlatır ve üstü kapalı güzelliklerle anlatır. Kuran için ise şunu söyleyebiliriz. Tuhaf bir metindir, irrasyonel bir metindi...",
+          "metadata": {
+            "title": "Arapça İslam’dan önce zengin bir dil miydi",
+            "date": "28 February 2021",
+            "source": "https://www.sevannisanyan.com/metin/arapca-islamdan-once-zengin-bir-dil-miydi-69137",
+            "keywords": "Arapça, İslam öncesi, Kuran, Muallakat"
+          },
+          "dense_score": null,
+          "sparse_score": 2.7018380165100098,
+          "dense_rank": null,
+          "sparse_rank": 32
+        },
+        {
+          "chunk_id": "44b4a84a8419#12",
+          "score": 2.691105365753174,
+          "content": "Tamamen ilgisiz bir akıl yürütme örneği. Şimdi Antik Yunan'a ait yazıtlar-belgeler Helence yazıldı diye o medeniyeti yaratan insanların aslında Helen olmadığını mı iddia edeceğiz ?\n\nErmeniler kadar mi...",
+          "metadata": {
+            "title": "Bizim ecdadımız hem savaşır hem sevişirdi",
+            "date": "Jan 13, 2013",
+            "source": "https://nisanyan.substack.com/p/bizim-ecdadmz-hem-savasr-hem-sevisirdi-13-01-13",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.691105365753174,
+          "dense_rank": null,
+          "sparse_rank": 33
+        },
+        {
+          "chunk_id": "1790e9871e04#0",
+          "score": 2.6630287170410156,
+          "content": "Yolculuk notları.\n\nParis’ten yola çıkıp İspanya’nın kuzeybatı köşesinde Santiago de Compostela’ya varıncaya kadar Avrupa’nın marjinal dillerinden üçüyle temas ediyorsun. Onları size anlatayım.\n\nFransa...",
+          "metadata": {
+            "title": "Avrupa’nın marjinal dilleri nasıl canlanıyor",
+            "date": "22 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/avrupanin-marjinal-dilleri-nasil-canlaniyor-64846",
+            "keywords": "Avrupanın marjinal dilleri, Baskça, Galego, İspanya, Oksitan"
+          },
+          "dense_score": null,
+          "sparse_score": 2.6630287170410156,
+          "dense_rank": null,
+          "sparse_rank": 34
+        },
+        {
+          "chunk_id": "1790e9871e04#2",
+          "score": 2.6591153144836426,
+          "content": "Birkaç günüm orada geçti; bu konulara meraklı olduğum için epey ilgilendim, bulabildiğim her kırıntıyı okuyup çözmeye çalıştım. Sonra İspanya’ya geçiyorsunuz. İspanya’nın Atlantik kıyısındaki dirseğin...",
+          "metadata": {
+            "title": "Avrupa’nın marjinal dilleri nasıl canlanıyor",
+            "date": "22 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/avrupanin-marjinal-dilleri-nasil-canlaniyor-64846",
+            "keywords": "Avrupanın marjinal dilleri, Baskça, Galego, İspanya, Oksitan"
+          },
+          "dense_score": null,
+          "sparse_score": 2.6591153144836426,
+          "dense_rank": null,
+          "sparse_rank": 35
+        },
+        {
+          "chunk_id": "1790e9871e04#5",
+          "score": 2.659024715423584,
+          "content": "Son derece kuvvetli bir Galicia milliyetçiliği var. Bütün Avrupa’da bu hadise çok belirgin. Yerel dillerin ve yerel kültürlerin son 20-30 yıl içinde canlandırılmasına ve ön plana geçmesine tanık olduk...",
+          "metadata": {
+            "title": "Avrupa’nın marjinal dilleri nasıl canlanıyor",
+            "date": "22 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/avrupanin-marjinal-dilleri-nasil-canlaniyor-64846",
+            "keywords": "Avrupanın marjinal dilleri, Baskça, Galego, İspanya, Oksitan"
+          },
+          "dense_score": null,
+          "sparse_score": 2.659024715423584,
+          "dense_rank": null,
+          "sparse_rank": 36
+        },
+        {
+          "chunk_id": "1df77b64b3bc#0",
+          "score": 2.649395227432251,
+          "content": "Eski Farsça sözcüğün, diğer eski Hint-İran dillerinde görülen burunsul ŋ sesiyle *gaŋz* olması lazım, Fransızca *France* der gibi, varla yok arası bir /n/ sesi düşün. Eski Farsça çok az yazılı belgesi...",
+          "metadata": {
+            "title": "Hazine nasıl aranır?",
+            "date": "Mar 08, 2015",
+            "source": "https://nisanyan.substack.com/p/hazine-nasl-aranr-15-03-08",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.649395227432251,
+          "dense_rank": null,
+          "sparse_rank": 37
+        },
+        {
+          "chunk_id": "7608786c8da4#1",
+          "score": 2.607686758041382,
+          "content": "Doğu illerinde ise çok güçlü bir geleneği olan Yunanca ortak dil olmaya devam etti. İmparatorluk çöktükten sonra da bugün İtalya, Fransa, İspanya, Portekiz olan ülkelerde bu dil konuşulmaya devam etti...",
+          "metadata": {
+            "title": "Fransızca nasıl doğdu",
+            "date": "06 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/fransizca-nasil-dogdu-37127",
+            "keywords": "dillerin evrimi, Fransızca, Latince, Romans dilleri"
+          },
+          "dense_score": null,
+          "sparse_score": 2.607686758041382,
+          "dense_rank": null,
+          "sparse_rank": 38
+        },
+        {
+          "chunk_id": "664d189662ff#1",
+          "score": 2.5935726165771484,
+          "content": "Ancak bu olaylar, geniş çapta hiçbir sonuç doğurmaz. Diğer kentlerde şehir yaşamı aynen sürer. Fikir dünyası, hukuk, ticaret, eğitim sistemi, edebi üretim üzerinde siyasi olayların etkisi çok nadiren ...",
+          "metadata": {
+            "title": "İslam medeniyeti neydi, neden çöktü, şimdi ne durumda",
+            "date": "Mar 17, 2020",
+            "source": "https://nisanyan.substack.com/p/islam-medeniyeti-neydi-neden-coktu-20-03-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.5935726165771484,
+          "dense_rank": null,
+          "sparse_rank": 39
+        },
+        {
+          "chunk_id": "bcca4a95950b#0",
+          "score": 2.5934112071990967,
+          "content": "*‘Medeniyet’ nedir, ‘uygarlık’tan farkı nedir diye soran bir arkadaşa cevap.*\n\nHer ikisi Fr. *civilisation* tercümesidir. Osmanlı/Türk modernleşmesinin temel kavramları arasındadır.\n\nFr. *civiliser* f...",
+          "metadata": {
+            "title": "Medeniyet ve uygurluk",
+            "date": "Mar 12, 2019",
+            "source": "https://nisanyan.substack.com/p/medeniyet-ve-uygurluk-19-03-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.5934112071990967,
+          "dense_rank": null,
+          "sparse_rank": 40
+        },
+        {
+          "chunk_id": "9b3debfec55c#0",
+          "score": 2.582338333129883,
+          "content": "**İlk etkileşimler**\n\n19. yy başlarına dek Türkçe genel kullanıma nüfuz eden Batı Avrupa kökenli kelimelerin ezici çoğunluğu denizcilik, deniz ticareti ve harp filosu ile ilgilidir. Hemen hepsi İtalya...",
+          "metadata": {
+            "title": "Türkçe tarihi 4: Batı ile karşılaşma",
+            "date": "Nov 17, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-4-bat-ile-karslasma-17-11-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.582338333129883,
+          "dense_rank": null,
+          "sparse_rank": 41
+        },
+        {
+          "chunk_id": "24cd2003457d#0",
+          "score": 2.550086736679077,
+          "content": "15. yüzyıla dek Afganistan dünyanın sayılı zengin ülkelerinden biriydi. Herat, Gazne, Belh kentlerinin kalabalığı, kültürü, şaşaası İslam aleminde dillere destandı. Gazne’de dünya edebiyatının başyapı...",
+          "metadata": {
+            "title": "Afganistan, Çin, Türkiye",
+            "date": "Aug 19, 2021",
+            "source": "https://nisanyan.substack.com/p/afganistan-cin-turkiye-21-08-19",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.550086736679077,
+          "dense_rank": null,
+          "sparse_rank": 42
+        },
+        {
+          "chunk_id": "01acee2f0f7d#0",
+          "score": 2.499150514602661,
+          "content": "Umut Akkoç ile 2013’te Linz’te kısaca tanışmıştım. Frankfurt’ta olan Mesut Asmên Keskin’le birlikte Zazaca Etimoloji Sözlüğü üzerinde çalışıyorlardı. Bir iki konuda fikrimi sordular, yardımcı olmaya ç...",
+          "metadata": {
+            "title": "Hintavrupa yenilendi",
+            "date": "Jul 02, 2019",
+            "source": "https://nisanyan.substack.com/p/hintavrupa-yenilendi-19-07-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.499150514602661,
+          "dense_rank": null,
+          "sparse_rank": 43
+        },
+        {
+          "chunk_id": "a65fa8729033#1",
+          "score": 2.493818759918213,
+          "content": "Osmanlı’nın kavramları ve kurumları bu iki imparatorluktan mirastır. Abbasilerin kaderinden ders alır; yerel askeri şeflerin palazlanmasını önlemek için, merkezi hazineden beslenen bir köle ordusu kur...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.493818759918213,
+          "dense_rank": null,
+          "sparse_rank": 44
+        },
+        {
+          "chunk_id": "7ae6a2f7cc15#13",
+          "score": 2.44057035446167,
+          "content": "Buna karşılık Doğu Ukrayna büyük ölçüde bir Rus ülkesi. Savaşı kimin kazanacağına bağlı. Savaşın sonunun nasıl geleceğine bağlı. Almanya’nın ABD’den yüz çevirmesi, eğer olaylar o aşamaya varırsa, çok ...",
+          "metadata": {
+            "title": "Azerbaycan Danışığı-2",
+            "date": "30 August 2022",
+            "source": "https://www.sevannisanyan.com/metin/azerbaycan-danisigi-2-12830",
+            "keywords": "Azerrbaycan, dillerin evrimi, Ermenilik, Ermenistan, Rusya, Ukrayna"
+          },
+          "dense_score": null,
+          "sparse_score": 2.44057035446167,
+          "dense_rank": null,
+          "sparse_rank": 45
+        },
+        {
+          "chunk_id": "96d9b9763586#3",
+          "score": 2.4366555213928223,
+          "content": "Aziz Antonio aşağı yukarı Hacı Bektaş Veli ile Mevlana Celaleddin’in çağdaşıdır. Benzer konularla, benzer bir ruh ve yaklaşımla ilgilenmiş. Yeterince okumamış olduğum için hayıflandım. Otoyol tıklım t...",
+          "metadata": {
+            "title": "Erivan’dan Samos’a nasıl gidilir",
+            "date": "13 December 2021",
+            "source": "https://www.sevannisanyan.com/metin/erivandan-samosa-nasil-gidilir-79065",
+            "keywords": "Bergamasco, Duino, Erivan, Padova, Samos"
+          },
+          "dense_score": null,
+          "sparse_score": 2.4366555213928223,
+          "dense_rank": null,
+          "sparse_rank": 46
+        },
+        {
+          "chunk_id": "9f70816695f9#3",
+          "score": 2.423821210861206,
+          "content": "O halde büyütelim, Hersek’ten bir dilim verelim, Osmanlı Sırbistan’ının bir parçasını yeni Sırbistan’a vereceğimize bunlara verelim, Osmanlı Arnavutluk’undan da bir parça koparsak al sana mis gibi dev...",
+          "metadata": {
+            "title": "Karadağ tarihinde neler oldu",
+            "date": "24 December 2023",
+            "source": "https://www.sevannisanyan.com/metin/karadag-tarihinde-neler-oldu-70922",
+            "keywords": "Avrupa Birliği, Karadağ, Montenegro, Ortodoks Kilisesi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.423821210861206,
+          "dense_rank": null,
+          "sparse_rank": 47
+        },
+        {
+          "chunk_id": "0d7ac7479b72#6",
+          "score": 2.4204654693603516,
+          "content": "Kıssadan hisse? Bu seferlik olmasın. *Daha sonra eklenen*Peki kıssadan hisse ekleyelim.1. “İlkel”i yakalamak zannettiğinden zordur. En “ilkel” görünen toplumun dahi senin ve benim kadar tarihi vardır....",
+          "metadata": {
+            "title": "Şaman",
+            "date": "Apr 27, 2019",
+            "source": "https://nisanyan.substack.com/p/saman-19-04-27",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.4204654693603516,
+          "dense_rank": null,
+          "sparse_rank": 48
+        },
+        {
+          "chunk_id": "3a2a06d513af#2",
+          "score": 2.3724725246429443,
+          "content": "Buraya kadar beni takip ettiysen ne ala. Şimdi biraz daha karmaşık fakat önemli bir şey söyleyeceğim. Ortaasya Türk toplumu farzedelim ki medeniydi, hatta trigonometrinin kanunlarını ve şeftali ırklar...",
+          "metadata": {
+            "title": "Atalarımız çapulcu muydu?",
+            "date": "Jul 21, 2020",
+            "source": "https://nisanyan.substack.com/p/atalarmz-capulcu-muydu-20-07-21",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.3724725246429443,
+          "dense_rank": null,
+          "sparse_rank": 49
+        },
+        {
+          "chunk_id": "db6a817dede6#1",
+          "score": 2.3671844005584717,
+          "content": "Ünlü bir Yahudi hekimin oğludur. Otuz yaşından sonra İslam dinine geçip, art arda üç İlhanlı hükümdarının kudretli başveziri olmuştur. İktidarı dönemi, Türk ve İslam tarihinin kritik bir dönüm noktası...",
+          "metadata": {
+            "title": "Oğuzların 24 boyunu nereden biliyoruz?",
+            "date": "Nov 04, 2018",
+            "source": "https://nisanyan.substack.com/p/oguzlarn-24-boyunu-nereden-biliyoruz-18-11-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.3671844005584717,
+          "dense_rank": null,
+          "sparse_rank": 50
+        }
+      ],
+      "performance": {
+        "total_time_ms": 1.2090206146240234,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "hybrid": {
+      "query": "Hint-Avrupa dilleri",
+      "strategy": "hybrid",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "453217b691bb#0",
+          "score": 0.032266458495966696,
+          "content": "**Hint Avrupa ırkı teorisinin geçerli olmadığını kanıtlayan deliller nelerdir? Bu teori, Batı’nın Asya halklarını yönetmek istemesinden meydana gelmiş olabilir mi?**\n\nHint Avrupa ırkı diye bir şey yok...",
+          "metadata": {
+            "title": "Hint Avrupa teorisini neden icat ettiler",
+            "date": "02 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hint-avrupa-teorisini-neden-icat-ettiler-50353",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.39175635726096153,
+          "sparse_score": 6.434512615203857,
+          "dense_rank": 3,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "82cce5db0a22#0",
+          "score": 0.0315136476426799,
+          "content": "**Türkler Hint Avrupa kökenli midir?**\n\nFalanca millet Hintavrupa kökenlidir saçmalığından kendinizi kurtarın diye kaç kere söyledim, dilimde tüy bitti. Yok öyle bir şey. Şayet altı bin sene önce bir ...",
+          "metadata": {
+            "title": "Hintavrupa nasıl anlaşılır",
+            "date": "16 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hintavrupa-nasil-anlasilir-38623",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.36621347336067167,
+          "sparse_score": 6.261844158172607,
+          "dense_rank": 5,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "453217b691bb#1",
+          "score": 0.031009615384615385,
+          "content": "İkinci kuşakta çocuklarını İspanyolca ile eğitirler. Üçüncü kuşakta nineler de eski dili unutur. Ondan sonra uzak dağ köyleri dışında herkes İspanyolca konuşur. Bu kadar basittir bu iş. Irk ile alakas...",
+          "metadata": {
+            "title": "Hint Avrupa teorisini neden icat ettiler",
+            "date": "02 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hint-avrupa-teorisini-neden-icat-ettiler-50353",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.372994188780976,
+          "sparse_score": 5.7759480476379395,
+          "dense_rank": 4,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "453217b691bb#2",
+          "score": 0.030330882352941176,
+          "content": "Ve Kelt dilleri, Germen dilleri, Latin dilleri, Yunan dilleri Toharca, Hintçe, Ermenice, İran dilleri, bunlar hepsi ortak bir kökene indirilebiliyor. Türkçe bu grubun üyesi değil. Hint Avrupalılardan ...",
+          "metadata": {
+            "title": "Hint Avrupa teorisini neden icat ettiler",
+            "date": "02 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hint-avrupa-teorisini-neden-icat-ettiler-50353",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.3379381486559041,
+          "sparse_score": 5.791090965270996,
+          "dense_rank": 8,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "f2e75c865b21#0",
+          "score": 0.029957522915269395,
+          "content": "**Hint Avrupa dilleri içinde Ermeniceye en yakın olan dil hangisidir? Frigya diliyle akraba olduğu söyleniyor. Bu eğer doğruysa, Ermeniler Anadolu’ya batıdan geldi diyebilir miyiz?**\n\nFrigya diliyle b...",
+          "metadata": {
+            "title": "Ermeniler nereden geldi",
+            "date": "24 May 2020",
+            "source": "https://www.sevannisanyan.com/metin/ermeniler-nereden-geldi-37196",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.30318434524715365,
+          "sparse_score": 5.957061767578125,
+          "dense_rank": 11,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "82cce5db0a22#1",
+          "score": 0.029418126757516764,
+          "content": "Baskça Hintavrupa kökenli değildir. Haiti dili, Srilanka’nın Amhara dili Hintavrupa kökenlidir. Üç gün çalışıp biraz ansiklopedi okursanız anlarsınız neden böyle olduğunu. En basit haliyle söyleyeyim ...",
+          "metadata": {
+            "title": "Hintavrupa nasıl anlaşılır",
+            "date": "16 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hintavrupa-nasil-anlasilir-38623",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.32315189097141367,
+          "sparse_score": 4.871349811553955,
+          "dense_rank": 9,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "b26c952a5576#1",
+          "score": 0.026144907723855092,
+          "content": "İspanyolca sonseste /n/ Portekizcede daima /m/ olur. Hintavrupa ortak dilinde önsesteki /k/ Germencede önce /x/, sonra /h/ sesine evrilir. Hintavrupa ortak dilinde ünlü değerine sahip /m̥/ çoğu dilde ...",
+          "metadata": {
+            "title": "100 numara",
+            "date": "Apr 10, 2019",
+            "source": "https://nisanyan.substack.com/p/100-numara-19-04-10",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.2831682403333159,
+          "sparse_score": 3.646336555480957,
+          "dense_rank": 17,
+          "sparse_rank": 16
+        },
+        {
+          "chunk_id": "2f147012cb93#1",
+          "score": 0.025807525807525808,
+          "content": "Ben epey çalıştım Nostratik dil tezleri üzerine. Starostin’in sitesini yıllar boyu dikkatle takip ettim. Wishful thinking çok fazla var. İnanmak istedikleri şeylere çok kolay inanıyorlar. Şöyle bir di...",
+          "metadata": {
+            "title": "Nostratik dil ailesine taraftar mıyız",
+            "date": "21 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/nostratik-dil-ailesine-taraftar-miyiz-17018",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.2825471624314158,
+          "sparse_score": 3.5256738662719727,
+          "dense_rank": 18,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "0da213c47b97#0",
+          "score": 0.02519288301054952,
+          "content": "Patlıcan Amerikan icadı değil, Hint asıllı bir bitki. 14. yy’a ait Farsça ve Türkçe kelime listelerinde *bādincan* ve *bādilcan* olarak adı geçiyor. Klasik Arap lugatlerinde karşılığı yok; Orta Farsça...",
+          "metadata": {
+            "title": "\"İslamın Faydaları\" yazısına gelen yorumlardan bir potpuri",
+            "date": "May 31, 2015",
+            "source": "https://nisanyan.substack.com/p/islamn-faydalar-yazsna-gelen-yorumlardan-15-05-31",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 10
+          },
+          "dense_score": 0.2971444754282075,
+          "sparse_score": 2.8877060413360596,
+          "dense_rank": 13,
+          "sparse_rank": 27
+        },
+        {
+          "chunk_id": "bce31a2bdc3f#0",
+          "score": 0.024152480721664482,
+          "content": "*Avusturya'nın Linz kentinde İrani diller üzerinde çalışan arkadaşımız Umut Akkoç ekteki tabloyu gönderip fikrimi sormuş. Hemen paylaşıp birkaç not ekleyeyim:*\n\n> A. Soluklu (aspirated) ötümlü ünsüzle...",
+          "metadata": {
+            "title": "Gel birader bir berber dükkanı",
+            "date": "May 31, 2021",
+            "source": "https://nisanyan.substack.com/p/gel-birader-bir-berber-dukkan-21-05-31",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.26727454913498355,
+          "sparse_score": 3.3297934532165527,
+          "dense_rank": 27,
+          "sparse_rank": 19
+        }
+      ],
+      "performance": {
+        "total_time_ms": 534.8420143127441,
+        "dense_time_ms": 534.1238975524902,
+        "sparse_time_ms": 0.6000995635986328,
+        "fusion_time_ms": 0.11801719665527344
+      },
+      "total_candidates": 100
+    }
+  },
+  "overlap_analysis": {
+    "total_unique_chunks": 88,
+    "pairwise_overlap": {
+      "dense_vs_sparse": {
+        "intersection": 12,
+        "union": 88,
+        "jaccard": 0.13636363636363635,
+        "only_in_first": 38,
+        "only_in_second": 38
+      },
+      "dense_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      },
+      "sparse_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,1858 @@
+{
+  "query": "etimoloji",
+  "strategies": {
+    "dense": {
+      "query": "etimoloji",
+      "strategy": "dense",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "03eb9cea86bc#1",
+          "score": 0.46355366849099877,
+          "content": "İlahiyat ve ilahe 19. yy sonlarında uydurulmuş, Fransızca *théologie* ve *déesse* çevirisi. İslam geleneğinde böyle kavramlar yok. Mekke’deki dişi tanrılar ilahe değil, sanem diye geçer. *Çıtı pıtı* m...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 11
+          },
+          "dense_score": 0.46355366849099877,
+          "sparse_score": null,
+          "dense_rank": 1,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3bd8743c1107#5",
+          "score": 0.45863386299159914,
+          "content": "Ar farrâş değil feraş “kürek kemiği”\n\nyanlış etimoloji düzeltildi. Arapça sözün Yunanca synaphê ile ilgisi yok. Aşık Paşa metin örneği eklendi Aşık Paşa metin örneği eklendi. 18. yy “sınırlamak” ve “s...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 11
+          },
+          "dense_score": 0.45863386299159914,
+          "sparse_score": null,
+          "dense_rank": 2,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "844482c38c63#2",
+          "score": 0.45486595357858906,
+          "content": "Devamen, hangi kültürel katmandan geçmiş, yani edebi dilden mi gelmiş, lokantacı argosundan mı gelmiş, bu bilgiyi araştırıp bulmanız lazım. Türkçede başka dillerle ortak olan kelimelerin çok büyük bir...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 9
+          },
+          "dense_score": 0.45486595357858906,
+          "sparse_score": null,
+          "dense_rank": 3,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3bd8743c1107#6",
+          "score": 0.45300018215218263,
+          "content": "Arapça ax ve axı ile ilişkisi önerildi. T. Tekin makalesi doğrultusunda ETü adaş ile özdeş olmadığı vurgulandı. Açıklayıcı not sadeleştirildi, cümle eklendi. T. Tekin makalesi doğrultusunda top sözcüğ...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 11
+          },
+          "dense_score": 0.45300018215218263,
+          "sparse_score": null,
+          "dense_rank": 4,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "844482c38c63#0",
+          "score": 0.4446382434213974,
+          "content": "**Kelimelerin etimolojik kökeni nasıl bulunur? Bu mesleği nasıl öğrendiniz? Bizi anlatır mısınız detaylarıyla?**\n\nBen bu işe nasıl başladım, onu anlatayım size. Benim dil bilim eğitimim yok. Fakat bir...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 9
+          },
+          "dense_score": 0.4446382434213974,
+          "sparse_score": null,
+          "dense_rank": 5,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b4781ecb3108#28",
+          "score": 0.4432016908433772,
+          "content": "taksidermi, taksonomi, taktik, talasemi, talyum, tapi, taşikardi, teizm, teknik, tektonik, teleferik, telefon, telekinezi, telekom, telemetre, teleoloji, telepati, teleskop, televizyon, telgraf, tema,...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": "",
+            "chunk_index": 28,
+            "total_chunks": 29
+          },
+          "dense_score": 0.4432016908433772,
+          "sparse_score": null,
+          "dense_rank": 6,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b4781ecb3108#22",
+          "score": 0.4401337659871041,
+          "content": "eklektik, ekliptik, eko, ekol, ekoloji, ekonomi, eksantrik, ekstaz, ekstazi, ekümenik, ekzema, elastik, eleji, elektroliz, Elen, elips, emboli, embriyon, emetik, empati, endemik, endogami, endokrin, e...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": "",
+            "chunk_index": 22,
+            "total_chunks": 29
+          },
+          "dense_score": 0.4401337659871041,
+          "sparse_score": null,
+          "dense_rank": 7,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b4781ecb3108#25",
+          "score": 0.43874646199422296,
+          "content": "meniskus, menopoz, menta, mentor, mesiyanik, metabolizma, metafizik, metafor, metal, metamorfoz, metastaz, metatez, metelik, meteor, metil, metot, metre, metronom, metropol, Mezopotamya, migren, mikol...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": "",
+            "chunk_index": 25,
+            "total_chunks": 29
+          },
+          "dense_score": 0.43874646199422296,
+          "sparse_score": null,
+          "dense_rank": 8,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2bc0ee1ed222#1",
+          "score": 0.4374393782564708,
+          "content": "Bizim biliyorsunuz iki taraflı bir şeyimiz var, kişilik bölünmesi diyorlar bunun adına. Böyle bir şey lazım. Bu olmadığı takdirde benden sonra bu sözlükler devam etmez. Yapılacak çok iş var. Nişanyan ...",
+          "metadata": {
+            "title": "Nişanyan sözlükleri nasıl yaşayacak",
+            "date": "23 April 2023",
+            "source": "https://www.sevannisanyan.com/metin/nisanyan-sozlukleri-nasil-yasayacak-10586",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4374393782564708,
+          "sparse_score": null,
+          "dense_rank": 9,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "844482c38c63#4",
+          "score": 0.43725197942581867,
+          "content": "Hiçbir İspanyol’a /b/ ile /v/nin ayrı sesler olduğunu anlatamazsın. Adını söylesen Sevan mı, haa Seban diye cevap verirler. Bu kuralın sonucu, bir dilden diğerine aktarılan kelimelerde yelpaze-dışı ol...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 9
+          },
+          "dense_score": 0.43725197942581867,
+          "sparse_score": null,
+          "dense_rank": 10,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b4781ecb3108#21",
+          "score": 0.43656519901091084,
+          "content": "arşiv, arter, arterioskleroz, artrit, asbest, asemptot, asfalt, asketik, asparagas, asterisk, asteroit, astigmat, astım, astroloji, astronomi, astronot, Asya, ataraksi, ateizm, atlas (harita kitabı), ...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": "",
+            "chunk_index": 21,
+            "total_chunks": 29
+          },
+          "dense_score": 0.43656519901091084,
+          "sparse_score": null,
+          "dense_rank": 11,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b4781ecb3108#26",
+          "score": 0.4300570514462856,
+          "content": "otantik, otarşi, otit, otizm, otodidakt, otoklav, otokrasi, otokton, otomat, otomobil, otomotiv, otonomi, otopsi, otriş, özofagus, ozon, palindrom, palladyum, pandemi, panik, pankreas (organ), pankrea...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": "",
+            "chunk_index": 26,
+            "total_chunks": 29
+          },
+          "dense_score": 0.4300570514462856,
+          "sparse_score": null,
+          "dense_rank": 12,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0542ac4f1644#12",
+          "score": 0.42998200421641486,
+          "content": "Türkçe **sömürmek**, aslen geniz n’siyle *söŋürmek* “hapır hapır yemek, yalayıp yutmak” demek. Aynı kelime İç Anadolu ağızlarında *soŋurmak* olur. 1920’lerde bunu duymuşlar, **soğurmak** diye ÖzTürkçe...",
+          "metadata": {
+            "title": "Hapiste boş oturma çalış",
+            "date": "Nov 05, 2014",
+            "source": "https://nisanyan.substack.com/p/hapiste-bos-oturma-cals-14-11-05",
+            "keywords": "",
+            "chunk_index": 12,
+            "total_chunks": 34
+          },
+          "dense_score": 0.42998200421641486,
+          "sparse_score": null,
+          "dense_rank": 13,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eb9cea86bc#6",
+          "score": 0.4285454015419856,
+          "content": "O da “1. hayalet, 2. spektrum”. **Tensik** (düzenlemek) fiilinden **tensikat** (düzenlemeler), 1908 ihtilalinden sonra yapılan bürokratik kıyımın yandaş medyadaki adı imiş. O tarihten bu yana “ihtiyaç...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4285454015419856,
+          "sparse_score": null,
+          "dense_rank": 14,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3bd8743c1107#10",
+          "score": 0.4267256025054902,
+          "content": "madde eklendi “mekanik bilet okuyucu”, etimoloji ve metin ör. eklendi\n\n“rafting sporunda çağlayan” ve “bir tür kalem” anlamları örneklendi\n\n1929’dan itibaren anlam evrimi gösterildi\n\n1929 metin örn. e...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": "",
+            "chunk_index": 10,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4267256025054902,
+          "sparse_score": null,
+          "dense_rank": 15,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5a8b30c402c6#1",
+          "score": 0.42377878412115094,
+          "content": "Bir iki kuşak yeni anlamı “yanlış” olarak algılar, düzeltmeye çalışır. Sonra alışılır. Bu sefer eski anlam “yanlış” gelmeye başlar.**Kolit, kolonoskopi, koli basili** aynı kökten. Hepsinde kalın bağır...",
+          "metadata": {
+            "title": "Kulunç, şimşek, stepne",
+            "date": "Feb 08, 2018",
+            "source": "https://nisanyan.substack.com/p/kulunc-simsek-stepne-18-02-08",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.42377878412115094,
+          "sparse_score": null,
+          "dense_rank": 16,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b4781ecb3108#9",
+          "score": 0.42209844945701175,
+          "content": "Bu gruptaki kelimeler 20. yüzyılda (özellikle 1930-1960 aralığında) en üst düzey Batı kültür dillerinden esinlenerek orijinal (Eski) Yunanca yazıma yakın bir biçimde Türkçeye aktarılanlardır. Tümü üni...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": "",
+            "chunk_index": 9,
+            "total_chunks": 29
+          },
+          "dense_score": 0.42209844945701175,
+          "sparse_score": null,
+          "dense_rank": 17,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b26c952a5576#1",
+          "score": 0.41948556923392344,
+          "content": "İspanyolca sonseste /n/ Portekizcede daima /m/ olur. Hintavrupa ortak dilinde önsesteki /k/ Germencede önce /x/, sonra /h/ sesine evrilir. Hintavrupa ortak dilinde ünlü değerine sahip /m̥/ çoğu dilde ...",
+          "metadata": {
+            "title": "100 numara",
+            "date": "Apr 10, 2019",
+            "source": "https://nisanyan.substack.com/p/100-numara-19-04-10",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.41948556923392344,
+          "sparse_score": null,
+          "dense_rank": 18,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0542ac4f1644#3",
+          "score": 0.4184955374853523,
+          "content": "Nişanyan Sözlük sade etimolojik sözlükten tarihi VE etimolojik sözlük olmaya doğru evrildikçe bu kelimeler de önem kazanıyor. Bugünkü anlamda **davetiye** ilk kez 1900’de kaydedilmiş. **Sevişmek** ta ...",
+          "metadata": {
+            "title": "Hapiste boş oturma çalış",
+            "date": "Nov 05, 2014",
+            "source": "https://nisanyan.substack.com/p/hapiste-bos-oturma-cals-14-11-05",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 34
+          },
+          "dense_score": 0.4184955374853523,
+          "sparse_score": null,
+          "dense_rank": 19,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3bd8743c1107#2",
+          "score": 0.4176449575750254,
+          "content": "Gerisine üşendim. Nişanyan Sözlük baskısı elinizdeyse alın web sitesiyle karşılaştırın, yaptığım işi kolayca bulursunuz. Mutfağımız o kadar şeffaf. 1 Ağustosta hafta bir gol bir, Brezilya taşrasını oğ...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4176449575750254,
+          "sparse_score": null,
+          "dense_rank": 20,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3d66146f2135#0",
+          "score": 0.4156054894407232,
+          "content": "Türkçede “Türkçe kökenli” sayılan kelimeleri dört kronolojik grupta mütalaa edebiliriz.\n\n**ETü**: Orta Asya Türkçesinden miras olanlar. Yani 1070’li yıllara dek yazılı kaydı bulunanlar.\n\n**OTü**: Türk...",
+          "metadata": {
+            "title": "Türkiye Türkçesi",
+            "date": "May 02, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiye-turkcesi-19-05-02",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4156054894407232,
+          "sparse_score": null,
+          "dense_rank": 21,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "818bcb714c7f#9",
+          "score": 0.4153416921220727,
+          "content": "Etimoloji bölümünde de toplam 1059 kelimeyi ellemişim. Bunların büyük çoğunluğu yabancı dillerdeki kelimelerin tanımlarıyla ilgili ufak tefek düzeltmeler. Arapça son harfi ya olan fiillerin yazımıyla ...",
+          "metadata": {
+            "title": "Faaliyet raporu: Sözlükte son durum",
+            "date": "Sep 18, 2017",
+            "source": "https://nisanyan.substack.com/p/faaliyet-raporu-sozlukte-son-durum-17-09-18",
+            "keywords": "",
+            "chunk_index": 9,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4153416921220727,
+          "sparse_score": null,
+          "dense_rank": 22,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b4781ecb3108#27",
+          "score": 0.41436830773513156,
+          "content": "pruva, psikedelik, psikiyatri, psikoz, psişik, pterodaktil, purpura, rapsodi, raşitik, reosta, retorik, ribozom, ritm, rizom, rodyum, romatizma, sakarin, saksafon, sarkastik, sarkoma, satanist, satir,...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": "",
+            "chunk_index": 27,
+            "total_chunks": 29
+          },
+          "dense_score": 0.41436830773513156,
+          "sparse_score": null,
+          "dense_rank": 23,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a99332bc327f#1",
+          "score": 0.4115654201728305,
+          "content": "Ama Türkçede öyle değil şöyle diye itiraz etmeyin lütfen. Kelimeler kayar. Ama kaysalar bile kökenlerinin anısını bagaj gibi beraberinde taşırlar. Eski metinlerde, eski deyimlerde orijinal anlamın izi...",
+          "metadata": {
+            "title": "Bilme eylemine dair",
+            "date": "Oct 03, 2018",
+            "source": "https://nisanyan.substack.com/p/bilme-eylemine-dair-18-10-03",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 9
+          },
+          "dense_score": 0.4115654201728305,
+          "sparse_score": null,
+          "dense_rank": 24,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "c76c45b2b34b#0",
+          "score": 0.41119681281291054,
+          "content": "**Hocam, hoca kelimesi nereden gelmektedir?**\n\nBir dönem Türkçe koca kelimesinden geldiği kanısına kapılmıştım, hatta maalesef buna ilişkin bir iki polemiğe girme gafletinde bulundum. Fakat bu görüş k...",
+          "metadata": {
+            "title": "Hoca nereden gelir",
+            "date": "24 May 2020",
+            "source": "https://www.sevannisanyan.com/metin/hoca-nereden-gelir-13805",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.41119681281291054,
+          "sparse_score": null,
+          "dense_rank": 25,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eb9cea86bc#8",
+          "score": 0.41116092222252276,
+          "content": "TDK 1945 basımı “ağırbaşlı” demiş. Bugünkü egemen anlamı ise “risk almama”. Evrime bakınız: “kudretli” > “ağır abi” > “ağırdan alır” > “korkak”. Gerçek dünyada da öyle değil midir? İktidar korkaklaştı...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": "",
+            "chunk_index": 8,
+            "total_chunks": 11
+          },
+          "dense_score": 0.41116092222252276,
+          "sparse_score": null,
+          "dense_rank": 26,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9e4052971057#0",
+          "score": 0.41000292795385707,
+          "content": "1. Bir kere daha, tekrar, yeniden ve eksilmeyen bir dehşetle müşahede ediyoruz ki insanların kahir ekseriyeti mit ile tarihsel hakikat arasındaki ayrımı kavramaktan acizdir. Geçmişe ilişkin öykülere, ...",
+          "metadata": {
+            "title": "Mit başka tarih başka",
+            "date": "May 31, 2018",
+            "source": "https://nisanyan.substack.com/p/mit-baska-tarih-baska-18-05-31",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.41000292795385707,
+          "sparse_score": null,
+          "dense_rank": 27,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "844482c38c63#3",
+          "score": 0.4093794544332271,
+          "content": "Üçüncü test fonolojidir, yani ses değişimleri. Burada dillerin çok enteresan bir özelliği devreye girer. Dünyadaki tüm diller, insan hançeresinin çıkarabildiği seslerin bir kısmını devre dışı bırakırl...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 9
+          },
+          "dense_score": 0.4093794544332271,
+          "sparse_score": null,
+          "dense_rank": 28,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eb9cea86bc#5",
+          "score": 0.4089328657598874,
+          "content": "Arapça anlamı “çağ, dönem”. “Yüz yıllık dönem” anlamı Fransızca *siècle*çevirisi, 19. yy Osmanlıcası. Buraya kadar normal, esas macera Aramice-İbraniceye bakınca başlıyor. İbranice ayin ve sad ile *as...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4089328657598874,
+          "sparse_score": null,
+          "dense_rank": 29,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "c477c170ce1b#0",
+          "score": 0.4059288992131164,
+          "content": "**Oyun**, Öz Hakiki Türkçe. Bazı Eski Uygurca kaynaklarda **oyug** diye de geçiyor. +In ve +Ig eşdeğer anlamlı iki yapım ekidir, geçişli fiillerden nesne adı, geçişsiz fiillerden özne veya eylem adı y...",
+          "metadata": {
+            "title": "Oyun",
+            "date": "Mar 24, 2013",
+            "source": "https://nisanyan.substack.com/p/oyun-13-03-24",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4059288992131164,
+          "sparse_score": null,
+          "dense_rank": 30,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a99332bc327f#2",
+          "score": 0.4058268050621111,
+          "content": "Fiil adı **recognitiō**, yani demin değindiğimiz anlamıyla itiraf. Arkaik Latincede *gnoscere* kullanılmış, Klasik devirde g düşmüş, *noscere* yazımı standart olmuş. Sadece öne bir ünlü gelirse g sesi...",
+          "metadata": {
+            "title": "Bilme eylemine dair",
+            "date": "Oct 03, 2018",
+            "source": "https://nisanyan.substack.com/p/bilme-eylemine-dair-18-10-03",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 9
+          },
+          "dense_score": 0.4058268050621111,
+          "sparse_score": null,
+          "dense_rank": 31,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2ff6c02627f1#3",
+          "score": 0.4043447109650066,
+          "content": "Beşer ile basur’un, hasar ile hasretin kavramsal ilişkisini aklına bile getiremezsin. Birçok kelimenin Arapça dahilindeki anlam evrimini de çoğu zaman kavrayamazsın. 2003’ten 2009’a giden süreçte ‘lev...",
+          "metadata": {
+            "title": "Nişanyan Sözlük nasıl yazıldı",
+            "date": "29 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/nisanyan-sozluk-nasil-yazildi-57381",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4043447109650066,
+          "sparse_score": null,
+          "dense_rank": 32,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "23d1052e46a6#1",
+          "score": 0.40200333158249635,
+          "content": "Diğeri transif yani geçişlilik ekiyle, **sa-y-mak**. Özne bu sefer bir şeyi veya birini eyleme konu ediyor. Oradaki ek aslında t'dir. Tüm Türk dillerinde seslinin arkasına ek olarak gelince /d/ halini...",
+          "metadata": {
+            "title": "Sanmak/saymak",
+            "date": "Jul 02, 2014",
+            "source": "https://nisanyan.substack.com/p/sanmaksaymak-14-07-02",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.40200333158249635,
+          "sparse_score": null,
+          "dense_rank": 33,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "66ff97ec5c9a#1",
+          "score": 0.4010836658845244,
+          "content": "Latin alfabesine geçildikten sonra da, teknik zorunluluk ortadan kalktığı halde, Batıdan alınan kelimelerin fonetik olarak aktarımı elli yıla yakın süreyle norm kabul edildi. Fransızcadan alınan üç bi...",
+          "metadata": {
+            "title": "Türkçe tarihi 1: İngilizce sözcüklerin yazımı",
+            "date": "Nov 14, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-1-ingilizce-sozcuklerin-17-11-14",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4010836658845244,
+          "sparse_score": null,
+          "dense_rank": 34,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b4781ecb3108#24",
+          "score": 0.3995096283907206,
+          "content": "kemoterapi, keratin, kerosen, kinetik, kist, kleptoman, klerikal, klima, klinik, klitoris, klon, klor, kodein, kolera, kolesterol, koli (basili), kolik, kolofon2, kolon (kalın bağırsak), kolpa, koma (...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": "",
+            "chunk_index": 24,
+            "total_chunks": 29
+          },
+          "dense_score": 0.3995096283907206,
+          "sparse_score": null,
+          "dense_rank": 35,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eb9cea86bc#3",
+          "score": 0.3987669529961737,
+          "content": "Kesinlikle değil, Türkçe, kakma demek, ikinci kafın yutulması tipik. Eski örneklere bakınca kuşku kalmıyor. Ermenice *kam* (çivi) apayrı kelime, alakası yok.\n\n**Pafta** 1. vida dişi açan alet, 2. giys...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 11
+          },
+          "dense_score": 0.3987669529961737,
+          "sparse_score": null,
+          "dense_rank": 36,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eb9cea86bc#9",
+          "score": 0.3982880577287407,
+          "content": "Enteresan bir şekilde Arapça **kıyafet**sözcüğünün evrimi de aynı, ama o daha erken. Farsça **zer** ve İngilizce **gold** aynı kelime. Daha önce de okumuştum, üzerinde durmamıştım, ya da aklım basmamı...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": "",
+            "chunk_index": 9,
+            "total_chunks": 11
+          },
+          "dense_score": 0.3982880577287407,
+          "sparse_score": null,
+          "dense_rank": 37,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3d66146f2135#1",
+          "score": 0.3977958822214351,
+          "content": "Ancak oranların çok değişeceğini sanmıyorum. Aşağıda üçüncü gruptaki 725 sözcüğü görüyorsunuz. Eklektik, hatta tutarsız bir listedir. A) ETü ve OTü köklerden türetilmiş yeni sözcükler ve en az bir öğe...",
+          "metadata": {
+            "title": "Türkiye Türkçesi",
+            "date": "May 02, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiye-turkcesi-19-05-02",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 11
+          },
+          "dense_score": 0.3977958822214351,
+          "sparse_score": null,
+          "dense_rank": 38,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3bd8743c1107#7",
+          "score": 0.39763347651490877,
+          "content": "İkincisinin hatalı Fr. etimolojisi düzeltildi. kort maddesine yönlendirildi. İng ve EFr tanımlar toparlandı\n\nnumara eklendi\n\nkur1’e yönlendirildi\n\nkur1’e yönlendirildi\n\nkur1’e yönlendirildi\n\nkur1’e yö...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 11
+          },
+          "dense_score": 0.39763347651490877,
+          "sparse_score": null,
+          "dense_rank": 39,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "844482c38c63#1",
+          "score": 0.3972486476058459,
+          "content": "Öbür türlü açıklanamaz ortak kelimelerin olması. Bu sorunun doğru cevabını verebilmek için bir dizi testten geçirmen gerekiyor. Testler çok kolay olabilir, içinden çıkılamayacak kadar zor olabilir. Fa...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 9
+          },
+          "dense_score": 0.3972486476058459,
+          "sparse_score": null,
+          "dense_rank": 40,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9b3debfec55c#4",
+          "score": 0.39594575801603693,
+          "content": "Vefik Paşa’nın 1876’da yayımlanan **Lehce-i Osmanî**’sinde yer alan Batı kaynaklı sözcükler, 350 kadar İtalyanca, 100 kadar Fransızca, 15 kadar İngilizce, 4-5 Almanca olmak üzere yaklaşık 470 adettir....",
+          "metadata": {
+            "title": "Türkçe tarihi 4: Batı ile karşılaşma",
+            "date": "Nov 17, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-4-bat-ile-karslasma-17-11-17",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 7
+          },
+          "dense_score": 0.39594575801603693,
+          "sparse_score": null,
+          "dense_rank": 41,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "844482c38c63#6",
+          "score": 0.395580369495902,
+          "content": "Annemarie von Gabain ve Marcel Erdal bu konuda iki önemli kaynaktır. Radlof ve Clauson gibi sözlükçüleri de onlara ekleyelim. İkinci araç ise, tarihi diller biliminin son iki yüz yılda muazzam bir eme...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 9
+          },
+          "dense_score": 0.395580369495902,
+          "sparse_score": null,
+          "dense_rank": 42,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b4781ecb3108#3",
+          "score": 0.3937556524475424,
+          "content": "yalı, yeke, zoka",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 29
+          },
+          "dense_score": 0.3937556524475424,
+          "sparse_score": null,
+          "dense_rank": 43,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0542ac4f1644#11",
+          "score": 0.39308574490414167,
+          "content": "Atmosfer’deki **sfer** “küre” demek, ama orijinal anlamı “şişkin şey, top, balon”. Yunanca *spairô* (üflemek, solumak) fiilinden. Elbette Latince *spiro* (solumak) ve *spiritus* (soluk, nefes, ruh) il...",
+          "metadata": {
+            "title": "Hapiste boş oturma çalış",
+            "date": "Nov 05, 2014",
+            "source": "https://nisanyan.substack.com/p/hapiste-bos-oturma-cals-14-11-05",
+            "keywords": "",
+            "chunk_index": 11,
+            "total_chunks": 34
+          },
+          "dense_score": 0.39308574490414167,
+          "sparse_score": null,
+          "dense_rank": 44,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "c477c170ce1b#1",
+          "score": 0.39078874900554506,
+          "content": "Olabilir mi? Yok, bu teori de zayıf. Bir kere sözcük oyuŋ değil oyun, Kaşgarlı’da, Kutadgu Bilik’te, Kitabül İdrak’te hep böyle yazılmış. İkincisi, oyunmak diye bir fiil hiç kaydedilmemiş.Mevzuyu daha...",
+          "metadata": {
+            "title": "Oyun",
+            "date": "Mar 24, 2013",
+            "source": "https://nisanyan.substack.com/p/oyun-13-03-24",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.39078874900554506,
+          "sparse_score": null,
+          "dense_rank": 45,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "13893d9080c0#3",
+          "score": 0.3906748159093413,
+          "content": "12. ve 13. yüzyılların tüm skolastik felsefe kavramları gibi sebeb = cause kavramı da batıya Arap medresesinden aktarılmış olabilir mi acaba?,\\*Arapçada nedenselliğin çeşitli nüanslarını ifade eden di...",
+          "metadata": {
+            "title": "Vurdum hakim bey, ama sebep nedir sor",
+            "date": "Aug 21, 2019",
+            "source": "https://nisanyan.substack.com/p/vurdum-hakim-bey-ama-sebep-nedir-19-08-21",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.3906748159093413,
+          "sparse_score": null,
+          "dense_rank": 46,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6dd5dc55d235#1",
+          "score": 0.3904821824073679,
+          "content": "Bu yer adlarının haritasını çıkararak Ortaçağdaki Viking yayılım alanını belirlemek mümkündür. Her iki sözcük Latince “vîcus” ile aynı Hintavrupa köküne aittir. Sözcük esasen “klan, kabile” ve “kabile...",
+          "metadata": {
+            "title": "Hintavrupa köyleri",
+            "date": "03 August 2019",
+            "source": "https://www.sevannisanyan.com/metin/hintavrupa-koyleri-35106",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.3904821824073679,
+          "sparse_score": null,
+          "dense_rank": 47,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2ff6c02627f1#2",
+          "score": 0.3901999959687933,
+          "content": "Literatürü tarayacaksın, kaynak bulacaksın, sözlüklere bakacaksın, bu konuda makale yazılmışsa makaleleri okuyacaksın ve bir derleme yapmaya başlayacaksın. İlk fasıl buydu, 2002’ye, 2003’e kadar sürdü...",
+          "metadata": {
+            "title": "Nişanyan Sözlük nasıl yazıldı",
+            "date": "29 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/nisanyan-sozluk-nasil-yazildi-57381",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 7
+          },
+          "dense_score": 0.3901999959687933,
+          "sparse_score": null,
+          "dense_rank": 48,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eb9cea86bc#4",
+          "score": 0.3900212089946392,
+          "content": "Uğrulamak değil, gayet net yazılmış, uğûrlamak. Anlam bağını anlatmak şimdi uzun sürer, ama anlaşılamayacak bir şey değil. **Üs** sözcüğünün matematikteki kullanımı (8 üssü 5) Yeni Osmanlıca, 19. yy s...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 11
+          },
+          "dense_score": 0.3900212089946392,
+          "sparse_score": null,
+          "dense_rank": 49,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "06c09dcd8701#0",
+          "score": 0.3900142746119366,
+          "content": ">Batı dillerinden alınan kelimelerin Türkçe fonetik imlaya göre yazılması muhtemelen eski yazıdan kalma bir alışkanlıktı. Türkçeye Arapça ve Farsçadan alınmış olan sözcükler, Türkçe telaffuzu ne olurs...",
+          "metadata": {
+            "title": "Türkçe yazı fonetik mi?",
+            "date": "May 03, 2019",
+            "source": "https://nisanyan.substack.com/p/turkce-yaz-fonetik-mi-19-05-03",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.3900142746119366,
+          "sparse_score": null,
+          "dense_rank": 50,
+          "sparse_rank": null
+        }
+      ],
+      "performance": {
+        "total_time_ms": 321.35486602783203,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "sparse": {
+      "query": "etimoloji",
+      "strategy": "sparse",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "3bd8743c1107#9",
+          "score": 3.1307966709136963,
+          "content": "Lat ala ile bağlantısı gösterildi\n\nLehçe-i Osmani metin örneği eklendi\n\nmuannit’ten ayrı madde açıldı, etimoloji ve metin örnekleri verildi\n\ntanım düzeltildi, muhanetle ilgili örnekler ayrıldı\n\nLehçe-...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.1307966709136963,
+          "dense_rank": null,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "5029fba41755#0",
+          "score": 3.0886247158050537,
+          "content": "*Bilgehan Uçak sordu ben cevapladım. https://www.politikyol.com/sevan-nisanyanla-turkce-dil-ve-etimoloji-ustune/*",
+          "metadata": {
+            "title": "Dile ve Türkçeye dair bir söyleşi",
+            "date": "Mar 12, 2023",
+            "source": "https://nisanyan.substack.com/p/dile-ve-turkceye-dair-bir-soylesi",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.0886247158050537,
+          "dense_rank": null,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "3bd8743c1107#5",
+          "score": 3.056945323944092,
+          "content": "Ar farrâş değil feraş “kürek kemiği”\n\nyanlış etimoloji düzeltildi. Arapça sözün Yunanca synaphê ile ilgisi yok. Aşık Paşa metin örneği eklendi Aşık Paşa metin örneği eklendi. 18. yy “sınırlamak” ve “s...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.056945323944092,
+          "dense_rank": null,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "3bd8743c1107#10",
+          "score": 3.021311044692993,
+          "content": "madde eklendi “mekanik bilet okuyucu”, etimoloji ve metin ör. eklendi\n\n“rafting sporunda çağlayan” ve “bir tür kalem” anlamları örneklendi\n\n1929’dan itibaren anlam evrimi gösterildi\n\n1929 metin örn. e...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.021311044692993,
+          "dense_rank": null,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "0542ac4f1644#6",
+          "score": 2.8856639862060547,
+          "content": "Her gün gazeteyi elimde kalemle okuyorum, “nahann! bu yok bende” diye ara sıra zıplıyorum. Taraf’tan bir tane bile çıkmıyor. Buna karşılık Hürriyet çok cesur. Özellikle magazin sayfaları ve sektör ekl...",
+          "metadata": {
+            "title": "Hapiste boş oturma çalış",
+            "date": "Nov 05, 2014",
+            "source": "https://nisanyan.substack.com/p/hapiste-bos-oturma-cals-14-11-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8856639862060547,
+          "dense_rank": null,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "3bd8743c1107#4",
+          "score": 2.866515636444092,
+          "content": "Zaman aralığını biraz daha açsak son *bir yılda* sözlüğe eklenen maddeler şunlar: aikido, alabalık, amq, apokrif, apukurya, arjante, aspir, balayı, cosplay, çıvgar, çorla-, daği, dingil1, eboş, efzun,...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.866515636444092,
+          "dense_rank": null,
+          "sparse_rank": 6
+        },
+        {
+          "chunk_id": "7e710cef55cf#2",
+          "score": 2.8151438236236572,
+          "content": "Devamı gelmedi. Bir buçuk yıl kadar yer adlarını unuttum. Etimoloji sözlüğümü geliştirmekle uğraştım. Hatırlarsınız, İslam dini üzerine uzun bir polemik dönemine girdim; epey İslam tarihi okudum. 2013...",
+          "metadata": {
+            "title": "Yer Adları bitti, gözümüz aydın",
+            "date": "Aug 17, 2019",
+            "source": "https://nisanyan.substack.com/p/yer-adlar-bitti-gozumuz-aydn-19-08-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8151438236236572,
+          "dense_rank": null,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "818bcb714c7f#9",
+          "score": 2.8014514446258545,
+          "content": "Etimoloji bölümünde de toplam 1059 kelimeyi ellemişim. Bunların büyük çoğunluğu yabancı dillerdeki kelimelerin tanımlarıyla ilgili ufak tefek düzeltmeler. Arapça son harfi ya olan fiillerin yazımıyla ...",
+          "metadata": {
+            "title": "Faaliyet raporu: Sözlükte son durum",
+            "date": "Sep 18, 2017",
+            "source": "https://nisanyan.substack.com/p/faaliyet-raporu-sozlukte-son-durum-17-09-18",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8014514446258545,
+          "dense_rank": null,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "2ff6c02627f1#2",
+          "score": 2.7923967838287354,
+          "content": "Literatürü tarayacaksın, kaynak bulacaksın, sözlüklere bakacaksın, bu konuda makale yazılmışsa makaleleri okuyacaksın ve bir derleme yapmaya başlayacaksın. İlk fasıl buydu, 2002’ye, 2003’e kadar sürdü...",
+          "metadata": {
+            "title": "Nişanyan Sözlük nasıl yazıldı",
+            "date": "29 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/nisanyan-sozluk-nasil-yazildi-57381",
+            "keywords": "etimoloji, Nişanyan Sözlük, Türkçe sözlükler"
+          },
+          "dense_score": null,
+          "sparse_score": 2.7923967838287354,
+          "dense_rank": null,
+          "sparse_rank": 9
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#33",
+          "score": 2.7306177616119385,
+          "content": "Perihan M'yi kiniyorun berbat bir roman yazari oldugu, Nuray Mert'e yaptigi haksizlik icin. İyi kose yazariydi, ama iyi ahlakli degil. RIP\n\nPopper - Hegel yanyana! Yani OPen Soc.'deki Hegel elestirisi...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7306177616119385,
+          "dense_rank": null,
+          "sparse_rank": 10
+        },
+        {
+          "chunk_id": "01acee2f0f7d#0",
+          "score": 2.65509295463562,
+          "content": "Umut Akkoç ile 2013’te Linz’te kısaca tanışmıştım. Frankfurt’ta olan Mesut Asmên Keskin’le birlikte Zazaca Etimoloji Sözlüğü üzerinde çalışıyorlardı. Bir iki konuda fikrimi sordular, yardımcı olmaya ç...",
+          "metadata": {
+            "title": "Hintavrupa yenilendi",
+            "date": "Jul 02, 2019",
+            "source": "https://nisanyan.substack.com/p/hintavrupa-yenilendi-19-07-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.65509295463562,
+          "dense_rank": null,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "e39d7b1c7216#1",
+          "score": 2.5836336612701416,
+          "content": "Daha da önemlisi, İngilizce, Fransızca ve Almanca bilimsel literatürü kolayca okuyabilme avantajına sahiptim. Bilmediğim konulara çarptıkça kaynak aradım, buldum, okudum. Önce Excel’de çalışmaya başla...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ün öyküsü",
+            "date": "Jan 02, 2026",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukun-oykusu",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.5836336612701416,
+          "dense_rank": null,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "2bc0ee1ed222#1",
+          "score": 2.57593035697937,
+          "content": "Bizim biliyorsunuz iki taraflı bir şeyimiz var, kişilik bölünmesi diyorlar bunun adına. Böyle bir şey lazım. Bu olmadığı takdirde benden sonra bu sözlükler devam etmez. Yapılacak çok iş var. Nişanyan ...",
+          "metadata": {
+            "title": "Nişanyan sözlükleri nasıl yaşayacak",
+            "date": "23 April 2023",
+            "source": "https://www.sevannisanyan.com/metin/nisanyan-sozlukleri-nasil-yasayacak-10586",
+            "keywords": "çıraklık, Nişanyan Sözlük, Türk Dil Kurumu"
+          },
+          "dense_score": null,
+          "sparse_score": 2.57593035697937,
+          "dense_rank": null,
+          "sparse_rank": 13
+        },
+        {
+          "chunk_id": "5a8b30c402c6#1",
+          "score": 2.4424750804901123,
+          "content": "Bir iki kuşak yeni anlamı “yanlış” olarak algılar, düzeltmeye çalışır. Sonra alışılır. Bu sefer eski anlam “yanlış” gelmeye başlar.**Kolit, kolonoskopi, koli basili** aynı kökten. Hepsinde kalın bağır...",
+          "metadata": {
+            "title": "Kulunç, şimşek, stepne",
+            "date": "Feb 08, 2018",
+            "source": "https://nisanyan.substack.com/p/kulunc-simsek-stepne-18-02-08",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.4424750804901123,
+          "dense_rank": null,
+          "sparse_rank": 14
+        },
+        {
+          "chunk_id": "076d04dbc107#1",
+          "score": 2.257401943206787,
+          "content": "Sayın bakalım kaç tanesini bileceksiniz. Ben **çamçak** ile **tirle**’yi hiç bilmiyordum, öğrendim. **Bünyad**’ı bünye gibi Arapça “bina” zannediyordum, temel demekmiş, Farsça imiş. **Kremayer** mekan...",
+          "metadata": {
+            "title": "Sözlükten haberler",
+            "date": "Oct 26, 2025",
+            "source": "https://nisanyan.substack.com/p/sozlukten-haberler",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.257401943206787,
+          "dense_rank": null,
+          "sparse_rank": 15
+        },
+        {
+          "chunk_id": "0fd2b48a885e#4",
+          "score": 2.234052896499634,
+          "content": "Nizamnameye göre akşam saat beşte koğuşa kapatılıp kilitlenmemiz gerekiyor çünkü. Yakalanırsam gardiyanlar yanar. Hapisteyken en büyük keşif Hintavrupa literatürünü tanımam oldu. Adamlar 180 sene çalı...",
+          "metadata": {
+            "title": "Nasıl sözlükçü oldum",
+            "date": "Feb 06, 2009",
+            "source": "https://nisanyan.substack.com/p/nasl-sozlukcu-oldum-09-02-06",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.234052896499634,
+          "dense_rank": null,
+          "sparse_rank": 16
+        },
+        {
+          "chunk_id": "b4781ecb3108#22",
+          "score": 2.211182117462158,
+          "content": "eklektik, ekliptik, eko, ekol, ekoloji, ekonomi, eksantrik, ekstaz, ekstazi, ekümenik, ekzema, elastik, eleji, elektroliz, Elen, elips, emboli, embriyon, emetik, empati, endemik, endogami, endokrin, e...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.211182117462158,
+          "dense_rank": null,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "01acee2f0f7d#1",
+          "score": 2.194333791732788,
+          "content": "Türkçe özelinde bugüne dek benzeri yapılmamış bir iştir. Farsça, Yunanca, Latince, Fransızca, Eski Germence, İngilizce, Almanca ve diğer HA dilleri üzerinden Türkçeye giren tüm PHA köklerin en güncel ...",
+          "metadata": {
+            "title": "Hintavrupa yenilendi",
+            "date": "Jul 02, 2019",
+            "source": "https://nisanyan.substack.com/p/hintavrupa-yenilendi-19-07-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.194333791732788,
+          "dense_rank": null,
+          "sparse_rank": 18
+        },
+        {
+          "chunk_id": "2f7768835e70#13",
+          "score": 2.150635242462158,
+          "content": "\"مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ الْفُرْقَانَ \" min arabi de harfi cerdir. arabi ifadelerde başta bulunmaz.\"den\" dan\" anlamı verir.min kablu:önce-den anlamına gelir.Kur'anda 70 yerde geçer1\" مِن...",
+          "metadata": {
+            "title": "Tefsir ilmine giriş",
+            "date": "Oct 25, 2012",
+            "source": "https://nisanyan.substack.com/p/tefsir-ilmine-giris-12-10-25",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.150635242462158,
+          "dense_rank": null,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "0fd2b48a885e#11",
+          "score": 2.1452951431274414,
+          "content": "[[2]](file:///C:/Users/pc/Documents/aa%20-%20Aslanl%C4%B1%20Yol,%20%C5%9Eirince%20MM/Aslanl%C4%B1%20Yol-d%C3%BCzeltilmi%C5%9F%20son%20metin.docx#_ftnref2) Bkz. Elisabeth Murray, *Caught in the Web of ...",
+          "metadata": {
+            "title": "Nasıl sözlükçü oldum",
+            "date": "Feb 06, 2009",
+            "source": "https://nisanyan.substack.com/p/nasl-sozlukcu-oldum-09-02-06",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.1452951431274414,
+          "dense_rank": null,
+          "sparse_rank": 20
+        },
+        {
+          "chunk_id": "3d66146f2135#0",
+          "score": 2.124196767807007,
+          "content": "Türkçede “Türkçe kökenli” sayılan kelimeleri dört kronolojik grupta mütalaa edebiliriz.\n\n**ETü**: Orta Asya Türkçesinden miras olanlar. Yani 1070’li yıllara dek yazılı kaydı bulunanlar.\n\n**OTü**: Türk...",
+          "metadata": {
+            "title": "Türkiye Türkçesi",
+            "date": "May 02, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiye-turkcesi-19-05-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.124196767807007,
+          "dense_rank": null,
+          "sparse_rank": 21
+        },
+        {
+          "chunk_id": "2ff6c02627f1#3",
+          "score": 2.1035094261169434,
+          "content": "Beşer ile basur’un, hasar ile hasretin kavramsal ilişkisini aklına bile getiremezsin. Birçok kelimenin Arapça dahilindeki anlam evrimini de çoğu zaman kavrayamazsın. 2003’ten 2009’a giden süreçte ‘lev...",
+          "metadata": {
+            "title": "Nişanyan Sözlük nasıl yazıldı",
+            "date": "29 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/nisanyan-sozluk-nasil-yazildi-57381",
+            "keywords": "etimoloji, Nişanyan Sözlük, Türkçe sözlükler"
+          },
+          "dense_score": null,
+          "sparse_score": 2.1035094261169434,
+          "dense_rank": null,
+          "sparse_rank": 22
+        },
+        {
+          "chunk_id": "33a9234b9968#0",
+          "score": 2.1035094261169434,
+          "content": "merhaba hocam ben türkçe öğretmeniyim. etimoloji konusunda bir kelime kafamı karıştırdı. içinden çıkamadım. minnoş kelimesi için tdk : ünlem, teklifsiz konuşmada \" Küçük ve sevimli kimselere söylenen ...",
+          "metadata": {
+            "title": "Minnoş",
+            "date": "May 31, 2011",
+            "source": "https://nisanyan.substack.com/p/minnos-11-05-31",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.1035094261169434,
+          "dense_rank": null,
+          "sparse_rank": 23
+        },
+        {
+          "chunk_id": "3bd8743c1107#3",
+          "score": 2.088256359100342,
+          "content": "Süpürgenin yoldaşı olan **faraş** kürek kemiğinin Arapçası, “döşek seren” anlamında farrâştan türemiş değil (Ahmet Vefik Paşa da o hataya düşmüş oysa ki). Farsçadan alıntı olan **nar** sözcüğünün daha...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.088256359100342,
+          "dense_rank": null,
+          "sparse_rank": 24
+        },
+        {
+          "chunk_id": "c845f71407c0#1",
+          "score": 2.083221197128296,
+          "content": "Keşfettiğimde galiba sene 2000 veya 2001'di. Gözümden bir perde düştü. Daha sonra antik Yunanca etimolojinin iki klasik başvuru kaynağı, Pierre Chantraine'in *Dictionnaire étymologique de la langue gr...",
+          "metadata": {
+            "title": "Nektar ve Batı",
+            "date": "Mar 09, 2015",
+            "source": "https://nisanyan.substack.com/p/nektar-ve-bat-15-03-09",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.083221197128296,
+          "dense_rank": null,
+          "sparse_rank": 25
+        },
+        {
+          "chunk_id": "b4781ecb3108#9",
+          "score": 2.0584044456481934,
+          "content": "Bu gruptaki kelimeler 20. yüzyılda (özellikle 1930-1960 aralığında) en üst düzey Batı kültür dillerinden esinlenerek orijinal (Eski) Yunanca yazıma yakın bir biçimde Türkçeye aktarılanlardır. Tümü üni...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.0584044456481934,
+          "dense_rank": null,
+          "sparse_rank": 26
+        },
+        {
+          "chunk_id": "4f25ae65e465#1",
+          "score": 2.0584044456481934,
+          "content": "Ulusa ait bir simgenin bir hizip tarafından gasbedilmesidir. Bir ülkede yaşayan herke¬si doğal olarak bir araya getiren aidiyet duygusunun, zorba bir azınlıkça kirletilip etkisiz hale getirilmesidir. ...",
+          "metadata": {
+            "title": "Bayrak",
+            "date": "Aug 05, 2009",
+            "source": "https://nisanyan.substack.com/p/bayrak-09-08-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.0584044456481934,
+          "dense_rank": null,
+          "sparse_rank": 27
+        },
+        {
+          "chunk_id": "0542ac4f1644#12",
+          "score": 2.048642635345459,
+          "content": "Türkçe **sömürmek**, aslen geniz n’siyle *söŋürmek* “hapır hapır yemek, yalayıp yutmak” demek. Aynı kelime İç Anadolu ağızlarında *soŋurmak* olur. 1920’lerde bunu duymuşlar, **soğurmak** diye ÖzTürkçe...",
+          "metadata": {
+            "title": "Hapiste boş oturma çalış",
+            "date": "Nov 05, 2014",
+            "source": "https://nisanyan.substack.com/p/hapiste-bos-oturma-cals-14-11-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.048642635345459,
+          "dense_rank": null,
+          "sparse_rank": 28
+        },
+        {
+          "chunk_id": "bc57f8b6d67e#4",
+          "score": 1.9919620752334595,
+          "content": "Uğraşsa ikna eder şüphesiz, bilimsel bir disiplindir etimoloji sonuç olarak. Fakat kanıtlamak ve kabul ettirmek için normalin on misli emek sarf etmesi gerekir. Ben olsam nasıl araştırırdım? Öncelikle...",
+          "metadata": {
+            "title": "Fairy ile peri akraba mı",
+            "date": "13 February 2022",
+            "source": "https://www.sevannisanyan.com/metin/fairy-ile-peri-akraba-mi-48643",
+            "keywords": "etimoloji, fairy, Gotik mimari, peri"
+          },
+          "dense_score": null,
+          "sparse_score": 1.9919620752334595,
+          "dense_rank": null,
+          "sparse_rank": 29
+        },
+        {
+          "chunk_id": "4b6eeec541db#0",
+          "score": 1.9782785177230835,
+          "content": "**Türkçenin tarihi gelişimi hakkında kitap yazacaktınız, sonra rafa kaldırdığınızı söylediniz. Etimolojiyi bu memur kılıklılara bırakmadığınız gibi buna da el atmalısınız.**\n\nCezaevindeyken bir ara ço...",
+          "metadata": {
+            "title": "Türkçenin tarihi nasıl yazılmalı",
+            "date": "07 May 2023",
+            "source": "https://www.sevannisanyan.com/metin/turkcenin-tarihi-nasil-yazilmali-16208",
+            "keywords": "emperyal diller, Türkçenin tarihi"
+          },
+          "dense_score": null,
+          "sparse_score": 1.9782785177230835,
+          "dense_rank": null,
+          "sparse_rank": 30
+        },
+        {
+          "chunk_id": "bc57f8b6d67e#3",
+          "score": 1.960323691368103,
+          "content": "Deniz Aşırı diyarında, Orta Doğu’nun masal topraklarında geçiyor. Belki de anlattıklarının bir kısmı Şark kaynaklarından kotarılmış. Yani etkileşimden kuşkulanmak için en azından yeterli sebep var ort...",
+          "metadata": {
+            "title": "Fairy ile peri akraba mı",
+            "date": "13 February 2022",
+            "source": "https://www.sevannisanyan.com/metin/fairy-ile-peri-akraba-mi-48643",
+            "keywords": "etimoloji, fairy, Gotik mimari, peri"
+          },
+          "dense_score": null,
+          "sparse_score": 1.960323691368103,
+          "dense_rank": null,
+          "sparse_rank": 31
+        },
+        {
+          "chunk_id": "1df77b64b3bc#3",
+          "score": 1.9383333921432495,
+          "content": "Venedik'te *Gazeta* adını taşıyan haber bültenleri ilkin 16. yy'ın son yıllarında basılmaya başlanmış. \"Kesecik\" mi demek istemişler, yoksa bazı popüler etimoloji kaynaklarında yazdığı gibi nüshası bi...",
+          "metadata": {
+            "title": "Hazine nasıl aranır?",
+            "date": "Mar 08, 2015",
+            "source": "https://nisanyan.substack.com/p/hazine-nasl-aranr-15-03-08",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.9383333921432495,
+          "dense_rank": null,
+          "sparse_rank": 32
+        },
+        {
+          "chunk_id": "a8d1c51ee65c#0",
+          "score": 1.908362865447998,
+          "content": "Arasıra yazıştığım Fransız bir dilci arkadaşım mail atmış, “çaresiz kaldım, zapato hakkında sen ne düşünüyorsun” diye. İspanyolca **zapato**“ayakkabı”. Bir önceki İspanya başbakanının adı Zapatero idi...",
+          "metadata": {
+            "title": "Hayalet kelimelerin peşinde",
+            "date": "Apr 24, 2013",
+            "source": "https://nisanyan.substack.com/p/hayalet-kelimelerin-pesinde-13-04-24",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.908362865447998,
+          "dense_rank": null,
+          "sparse_rank": 33
+        },
+        {
+          "chunk_id": "79a959b513d2#1",
+          "score": 1.895800232887268,
+          "content": "1872-1888’de Armaş’ta yönetici olduktan sonra İstanbul patriği seçilen Der Khoren Aşıkyan’ın hayali, kurumu “Osmanlı Ermenilerinin Venedik’ine” dönüştürmektir. Venedik’te Katolik Ermenilerin 18. yy’da...",
+          "metadata": {
+            "title": "Armaş",
+            "date": "Sep 18, 2018",
+            "source": "https://nisanyan.substack.com/p/armas-18-09-18",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.895800232887268,
+          "dense_rank": null,
+          "sparse_rank": 34
+        },
+        {
+          "chunk_id": "3bd8743c1107#1",
+          "score": 1.895800232887268,
+          "content": "Siteden her gün ortalama yarım düzine kullanıcı mesajı geliyor. Bir kısmı ilginçtir. Gözümden kaçmış olasılıkları deşerler, falan niye yok diye kafa tutarlar, yeni kelimeler önerirler, en azından neyi...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.895800232887268,
+          "dense_rank": null,
+          "sparse_rank": 35
+        },
+        {
+          "chunk_id": "b26c952a5576#1",
+          "score": 1.8916493654251099,
+          "content": "İspanyolca sonseste /n/ Portekizcede daima /m/ olur. Hintavrupa ortak dilinde önsesteki /k/ Germencede önce /x/, sonra /h/ sesine evrilir. Hintavrupa ortak dilinde ünlü değerine sahip /m̥/ çoğu dilde ...",
+          "metadata": {
+            "title": "100 numara",
+            "date": "Apr 10, 2019",
+            "source": "https://nisanyan.substack.com/p/100-numara-19-04-10",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8916493654251099,
+          "dense_rank": null,
+          "sparse_rank": 36
+        },
+        {
+          "chunk_id": "bc57f8b6d67e#2",
+          "score": 1.8711646795272827,
+          "content": "Özetle, fairy ile peri’nin benzerliği tesadüftür. Diyoruz. Diyorlar. Diyorlar da, yine de aklımızda kalıyor bir kuşku pürüzü. Feri ile peri çok benzeşiyorlar. Fée’den féerie’ye geçiş çok tatmin etmiyo...",
+          "metadata": {
+            "title": "Fairy ile peri akraba mı",
+            "date": "13 February 2022",
+            "source": "https://www.sevannisanyan.com/metin/fairy-ile-peri-akraba-mi-48643",
+            "keywords": "etimoloji, fairy, Gotik mimari, peri"
+          },
+          "dense_score": null,
+          "sparse_score": 1.8711646795272827,
+          "dense_rank": null,
+          "sparse_rank": 37
+        },
+        {
+          "chunk_id": "9c0011625f97#3",
+          "score": 1.8353890180587769,
+          "content": "Çok mantıklı değil mi sence de? Kalkıp da dine ve peygambere eleştiri yönelttiğim için beni bir yıl üç ay hapse atacağına, ‘Gözünün üstünde kaşın var’ diyerek içeri atarlar, problem olmaz, elin Avrupa...",
+          "metadata": {
+            "title": "Zaten bundan fazla ne yapabilirsin ki hayatta",
+            "date": "Dec 14, 2013",
+            "source": "https://nisanyan.substack.com/p/zaten-bundan-fazla-ne-yapabilirsin-13-12-14",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8353890180587769,
+          "dense_rank": null,
+          "sparse_rank": 38
+        },
+        {
+          "chunk_id": "3bd8743c1107#8",
+          "score": 1.8276238441467285,
+          "content": "“hareketsiz”, “mukim” ve “dingin” anlamları ayrıştırıldı, metin örnekleri bulundu\n\nAşık Paşa metin örneği eklendi\n\nAşık Paşa metin örneği eklendi\n\nAşık Paşa metin örneği eklendi\n\niçeriksiz Aşık Paşa r...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8276238441467285,
+          "dense_rank": null,
+          "sparse_rank": 39
+        },
+        {
+          "chunk_id": "058501980559#5",
+          "score": 1.8199241161346436,
+          "content": "Yabancı kelimeleri nerede “yerlileşmiş” sayacaksın? Kullandığınız sayım yöntemine göre modern Türkçe yazı dili leksikonunda 30 bin kelime de bulabilirsiniz, 130 bin de. Nişanyan Sözlük bir etimoloji s...",
+          "metadata": {
+            "title": "Elalemin diline neden öykünürler?",
+            "date": "May 17, 2019",
+            "source": "https://nisanyan.substack.com/p/elalemin-diline-neden-oykunurler-19-05-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8199241161346436,
+          "dense_rank": null,
+          "sparse_rank": 40
+        },
+        {
+          "chunk_id": "3bd8743c1107#6",
+          "score": 1.8160984516143799,
+          "content": "Arapça ax ve axı ile ilişkisi önerildi. T. Tekin makalesi doğrultusunda ETü adaş ile özdeş olmadığı vurgulandı. Açıklayıcı not sadeleştirildi, cümle eklendi. T. Tekin makalesi doğrultusunda top sözcüğ...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8160984516143799,
+          "dense_rank": null,
+          "sparse_rank": 41
+        },
+        {
+          "chunk_id": "3b1c62251584#2",
+          "score": 1.7641806602478027,
+          "content": "Yunanca **kalafátis** *καλαφάτης* 7. yy’ın ilk çeyreğinde yazı yazmış Hieron adlı birinin eserinde ilk kez karşımıza çıkıyor, gayet net bir teknik terim. Buraya kadar sorun yok. Sonra hangi şeytan akl...",
+          "metadata": {
+            "title": "Türkçe öğrenelim: kelepçe, kalafat, tolga",
+            "date": "Jul 28, 2021",
+            "source": "https://nisanyan.substack.com/p/turkce-ogrenelim-kelepce-kalafat-21-07-28",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7641806602478027,
+          "dense_rank": null,
+          "sparse_rank": 42
+        },
+        {
+          "chunk_id": "290d9e7d3b91#0",
+          "score": 1.75343918800354,
+          "content": "Muhsin Mete isimli kıraathane feylesofu Karar gazetesinde bana sataşmış.\n\n[http://www.karar.com/…/…/ah-bir-ingilizce-ogretebilsek--7447](http://www.karar.com/yazarlar/muhsin-mete/ah-bir-ingilizce-ogre...",
+          "metadata": {
+            "title": "Bir kıraathane feylesofu",
+            "date": "Jul 13, 2018",
+            "source": "https://nisanyan.substack.com/p/bir-kraathane-feylesofu-18-07-13",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.75343918800354,
+          "dense_rank": null,
+          "sparse_rank": 43
+        },
+        {
+          "chunk_id": "b9d7818f19b8#12",
+          "score": 1.7358245849609375,
+          "content": "Ama gidenler olduğunu biliyoruz. En ünlüsü 999 yılında 2. Sylvester adıyla papa olan, çağın ünlü alimlerinden Gerbert d’Aurillac. Dört yıl Barselona’da bir manastırda okuduktan sonra, ilmi menbaından ...",
+          "metadata": {
+            "title": "Üniversite nasıl doğdu",
+            "date": "May 21, 2017",
+            "source": "https://nisanyan.substack.com/p/universite-nasl-dogdu-17-05-21",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7358245849609375,
+          "dense_rank": null,
+          "sparse_rank": 44
+        },
+        {
+          "chunk_id": "7e710cef55cf#1",
+          "score": 1.7358245849609375,
+          "content": "Adı iki kere değiştirilen yerleri takip etmek imkansız gibidir. İlk rauntta yedi ay çalıştım, Nisan 2010’da kitabı yayınevine teslim ettim. *Adını Unutan Ülke* adıyla çıktı. Beni çok tatmin eden bir i...",
+          "metadata": {
+            "title": "Yer Adları bitti, gözümüz aydın",
+            "date": "Aug 17, 2019",
+            "source": "https://nisanyan.substack.com/p/yer-adlar-bitti-gozumuz-aydn-19-08-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7358245849609375,
+          "dense_rank": null,
+          "sparse_rank": 45
+        },
+        {
+          "chunk_id": "b6c973b4e7fc#1",
+          "score": 1.7288774251937866,
+          "content": "Destanın amacı tarihi olguları anlatmak değil okuru tatmin etmektir. Bunu unutmayın. Rinaldo esasen gerçek bir kişi, ya da en azından gerçekten yaşamış olduğu kabul edilen bir efsane figürü. İtalya’nı...",
+          "metadata": {
+            "title": "Ferrara dükaları neden ilginç",
+            "date": "13 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/ferrara-dukalari-neden-ilginc-55298",
+            "keywords": "Ariosto, d'Este, Ferrara dükaları, Leibniz"
+          },
+          "dense_score": null,
+          "sparse_score": 1.7288774251937866,
+          "dense_rank": null,
+          "sparse_rank": 46
+        },
+        {
+          "chunk_id": "a7b3258a42e6#1",
+          "score": 1.6784948110580444,
+          "content": "Kaya mezarım da o öfkenin disipline edilmiş halidir. Demek ki öfkeyle emeği bir şekilde birleştirebilmek lazım. Bunun formülü nedir bilmiyorum. Başkasına nasıl yol gösterilir onu da bilmiyorum. Göster...",
+          "metadata": {
+            "title": "Teröristlik nasıl tedavi edilir",
+            "date": "04 February 2024",
+            "source": "https://www.sevannisanyan.com/metin/teroristlik-nasil-tedavi-edilir-83639",
+            "keywords": "çırak yetiştirme, Nişanyan Sözlük, teröristlik"
+          },
+          "dense_score": null,
+          "sparse_score": 1.6784948110580444,
+          "dense_rank": null,
+          "sparse_rank": 47
+        },
+        {
+          "chunk_id": "9eb51853e031#2",
+          "score": 0.0,
+          "content": "**26 Eylül**: Batı cephesinde savaşa yeni giren 1,2 milyon ABD askerinin katılımıyla büyük müttefik saldırısı (Meuse-Argonne Taarruzu) başlar. 4 Ekim: Almanya ABD’den ateşkes talep eder; Başkan Wilson...",
+          "metadata": {
+            "title": "Cihan Harbinin son günleri",
+            "date": "Nov 06, 2021",
+            "source": "https://nisanyan.substack.com/p/cihan-harbinin-son-gunleri",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 48
+        },
+        {
+          "chunk_id": "9eb51853e031#1",
+          "score": 0.0,
+          "content": "Bulgaristan’daki müttefik kuvvetlerinin isterlerse birkaç gün içinde İstanbul’u alacaklarına kesin gözüyle bakılır. Başkentte panik başlar, hükümet Anadolu’ya çekilme hazırlığı yapar. [Batı Trakya o t...",
+          "metadata": {
+            "title": "Cihan Harbinin son günleri",
+            "date": "Nov 06, 2021",
+            "source": "https://nisanyan.substack.com/p/cihan-harbinin-son-gunleri",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 49
+        },
+        {
+          "chunk_id": "dc0ee05785e5#0",
+          "score": 0.0,
+          "content": "Beytüşşebap’la ilgili şu sonuçlara varıyoruz.\n\nİlçeye (yani idari bölgeye) adını veren “eski” **Beytşebab** veya **Bethşebab** veya **Bêşebô**bugünkü kasaba değil, onun yaklaşık 6 km güney-güneybatısı...",
+          "metadata": {
+            "title": "Beytüşşebap",
+            "date": "Nov 17, 2017",
+            "source": "https://nisanyan.substack.com/p/beytussebap-17-11-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 50
+        }
+      ],
+      "performance": {
+        "total_time_ms": 1.2989044189453125,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "hybrid": {
+      "query": "etimoloji",
+      "strategy": "hybrid",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "3bd8743c1107#5",
+          "score": 0.03200204813108039,
+          "content": "Ar farrâş değil feraş “kürek kemiği”\n\nyanlış etimoloji düzeltildi. Arapça sözün Yunanca synaphê ile ilgisi yok. Aşık Paşa metin örneği eklendi Aşık Paşa metin örneği eklendi. 18. yy “sınırlamak” ve “s...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 11
+          },
+          "dense_score": 0.45876849265491776,
+          "sparse_score": 3.056945323944092,
+          "dense_rank": 2,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "3bd8743c1107#10",
+          "score": 0.028958333333333336,
+          "content": "madde eklendi “mekanik bilet okuyucu”, etimoloji ve metin ör. eklendi\n\n“rafting sporunda çağlayan” ve “bir tür kalem” anlamları örneklendi\n\n1929’dan itibaren anlam evrimi gösterildi\n\n1929 metin örn. e...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": "",
+            "chunk_index": 10,
+            "total_chunks": 11
+          },
+          "dense_score": 0.42687163089292,
+          "sparse_score": 3.021311044692993,
+          "dense_rank": 15,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "2bc0ee1ed222#1",
+          "score": 0.02819138376017471,
+          "content": "Bizim biliyorsunuz iki taraflı bir şeyimiz var, kişilik bölünmesi diyorlar bunun adına. Böyle bir şey lazım. Bu olmadığı takdirde benden sonra bu sözlükler devam etmez. Yapılacak çok iş var. Nişanyan ...",
+          "metadata": {
+            "title": "Nişanyan sözlükleri nasıl yaşayacak",
+            "date": "23 April 2023",
+            "source": "https://www.sevannisanyan.com/metin/nisanyan-sozlukleri-nasil-yasayacak-10586",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.43747782221917336,
+          "sparse_score": 2.57593035697937,
+          "dense_rank": 9,
+          "sparse_rank": 13
+        },
+        {
+          "chunk_id": "b4781ecb3108#22",
+          "score": 0.027912386121341344,
+          "content": "eklektik, ekliptik, eko, ekol, ekoloji, ekonomi, eksantrik, ekstaz, ekstazi, ekümenik, ekzema, elastik, eleji, elektroliz, Elen, elips, emboli, embriyon, emetik, empati, endemik, endogami, endokrin, e...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": "",
+            "chunk_index": 22,
+            "total_chunks": 29
+          },
+          "dense_score": 0.4402653916940493,
+          "sparse_score": 2.211182117462158,
+          "dense_rank": 7,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "818bcb714c7f#9",
+          "score": 0.02690100430416069,
+          "content": "Etimoloji bölümünde de toplam 1059 kelimeyi ellemişim. Bunların büyük çoğunluğu yabancı dillerdeki kelimelerin tanımlarıyla ilgili ufak tefek düzeltmeler. Arapça son harfi ya olan fiillerin yazımıyla ...",
+          "metadata": {
+            "title": "Faaliyet raporu: Sözlükte son durum",
+            "date": "Sep 18, 2017",
+            "source": "https://nisanyan.substack.com/p/faaliyet-raporu-sozlukte-son-durum-17-09-18",
+            "keywords": "",
+            "chunk_index": 9,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4154265915808313,
+          "sparse_score": 2.8014514446258545,
+          "dense_rank": 22,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "5a8b30c402c6#1",
+          "score": 0.02667140825035562,
+          "content": "Bir iki kuşak yeni anlamı “yanlış” olarak algılar, düzeltmeye çalışır. Sonra alışılır. Bu sefer eski anlam “yanlış” gelmeye başlar.**Kolit, kolonoskopi, koli basili** aynı kökten. Hepsinde kalın bağır...",
+          "metadata": {
+            "title": "Kulunç, şimşek, stepne",
+            "date": "Feb 08, 2018",
+            "source": "https://nisanyan.substack.com/p/kulunc-simsek-stepne-18-02-08",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.42388033690333615,
+          "sparse_score": 2.4424750804901123,
+          "dense_rank": 16,
+          "sparse_rank": 14
+        },
+        {
+          "chunk_id": "3bd8743c1107#6",
+          "score": 0.025525990099009903,
+          "content": "Arapça ax ve axı ile ilişkisi önerildi. T. Tekin makalesi doğrultusunda ETü adaş ile özdeş olmadığı vurgulandı. Açıklayıcı not sadeleştirildi, cümle eklendi. T. Tekin makalesi doğrultusunda top sözcüğ...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 11
+          },
+          "dense_score": 0.45318992169854516,
+          "sparse_score": 1.8160984516143799,
+          "dense_rank": 4,
+          "sparse_rank": 41
+        },
+        {
+          "chunk_id": "0542ac4f1644#12",
+          "score": 0.025062266500622665,
+          "content": "Türkçe **sömürmek**, aslen geniz n’siyle *söŋürmek* “hapır hapır yemek, yalayıp yutmak” demek. Aynı kelime İç Anadolu ağızlarında *soŋurmak* olur. 1920’lerde bunu duymuşlar, **soğurmak** diye ÖzTürkçe...",
+          "metadata": {
+            "title": "Hapiste boş oturma çalış",
+            "date": "Nov 05, 2014",
+            "source": "https://nisanyan.substack.com/p/hapiste-bos-oturma-cals-14-11-05",
+            "keywords": "",
+            "chunk_index": 12,
+            "total_chunks": 34
+          },
+          "dense_score": 0.42999124529074784,
+          "sparse_score": 2.048642635345459,
+          "dense_rank": 13,
+          "sparse_rank": 28
+        },
+        {
+          "chunk_id": "3d66146f2135#0",
+          "score": 0.024691358024691357,
+          "content": "Türkçede “Türkçe kökenli” sayılan kelimeleri dört kronolojik grupta mütalaa edebiliriz.\n\n**ETü**: Orta Asya Türkçesinden miras olanlar. Yani 1070’li yıllara dek yazılı kaydı bulunanlar.\n\n**OTü**: Türk...",
+          "metadata": {
+            "title": "Türkiye Türkçesi",
+            "date": "May 02, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiye-turkcesi-19-05-02",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4156548650530091,
+          "sparse_score": 2.124196767807007,
+          "dense_rank": 21,
+          "sparse_rank": 21
+        },
+        {
+          "chunk_id": "b4781ecb3108#9",
+          "score": 0.024614919963757174,
+          "content": "Bu gruptaki kelimeler 20. yüzyılda (özellikle 1930-1960 aralığında) en üst düzey Batı kültür dillerinden esinlenerek orijinal (Eski) Yunanca yazıma yakın bir biçimde Türkçeye aktarılanlardır. Tümü üni...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": "",
+            "chunk_index": 9,
+            "total_chunks": 29
+          },
+          "dense_score": 0.42217652875627787,
+          "sparse_score": 2.0584044456481934,
+          "dense_rank": 17,
+          "sparse_rank": 26
+        }
+      ],
+      "performance": {
+        "total_time_ms": 182.83319473266602,
+        "dense_time_ms": 182.20114707946777,
+        "sparse_time_ms": 0.5009174346923828,
+        "fusion_time_ms": 0.13113021850585938
+      },
+      "total_candidates": 100
+    }
+  },
+  "overlap_analysis": {
+    "total_unique_chunks": 87,
+    "pairwise_overlap": {
+      "dense_vs_sparse": {
+        "intersection": 13,
+        "union": 87,
+        "jaccard": 0.14942528735632185,
+        "only_in_first": 37,
+        "only_in_second": 37
+      },
+      "dense_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      },
+      "sparse_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      }
+    }
+  }
+}

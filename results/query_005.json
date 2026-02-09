@@ -1,0 +1,1858 @@
+{
+  "query": "laiklik",
+  "strategies": {
+    "dense": {
+      "query": "laiklik",
+      "strategy": "dense",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "32bfb91b211d#5",
+          "score": 0.27238689255269305,
+          "content": "Onların dilini konuşan da, malum bir avuç azınlıktır. O halde o azınlık korunmalıdır.\n\n**Yeni model, laiklik** Laiklik, Osmanlı sekülarizminin Cumhuriyet dönemindeki yeni adıdır. Maksat yine nettir, m...",
+          "metadata": {
+            "title": "Kısaca, modern Türkiye tarihi: Sekülarizm",
+            "date": "Jun 24, 2021",
+            "source": "https://nisanyan.substack.com/p/ksaca-modern-turkiye-tarihi-sekularizm-21-06-24",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 8
+          },
+          "dense_score": 0.27238689255269305,
+          "sparse_score": null,
+          "dense_rank": 1,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "068bd19015ab#0",
+          "score": 0.2665534490817697,
+          "content": "*“Laik toplumlarda kanunlar kutsal değildir. Zaman içinde insanların gelişen ihtiyaçlarına göre hukukta iyileştirme yapılabilir. Laik toplumlarda insanlar kendi yasalarını yapar, tanrı onların dünyada...",
+          "metadata": {
+            "title": "Seçme saçmalar: Hukuk, İslam, Allah kelamı vs.",
+            "date": "Jul 30, 2021",
+            "source": "https://nisanyan.substack.com/p/secme-sacmalar-hukuk-islam-allah-21-07-30",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.2665534490817697,
+          "sparse_score": null,
+          "dense_rank": 2,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f7861fc867bc#0",
+          "score": 0.26246724813924127,
+          "content": "**“Laik toplumlarda kanunlar kutsal değildir. Zaman içinde insanların gelişen ihtiyaçlarına göre hukukta iyileştirme yapılabilir. Laik toplumlarda insanlar kendi yasalarını yapar, tanrı onların dünyad...",
+          "metadata": {
+            "title": "Hukuk, İslam, Allah kelamı vs.",
+            "date": "30 July 2021",
+            "source": "https://www.sevannisanyan.com/metin/hukuk-islam-allah-kelami-vs-94373",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.26246724813924127,
+          "sparse_score": null,
+          "dense_rank": 3,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "68b3c2887644#1",
+          "score": 0.25667935683672494,
+          "content": "Bu sınıf, asker ve sivil bürokrasinin iktidarını kısıtlayıcı, devletin ellerini bağlayıcı, reform projelerine köstek olucu bir güçtü. Laiklik, bu gücü kırmayı hedefleyen politikanın adıdır. Cumhuriyet...",
+          "metadata": {
+            "title": "Kemalizm İslam’ın bir mezhebi mi",
+            "date": "26 February 2023",
+            "source": "https://www.sevannisanyan.com/metin/kemalizm-islamin-bir-mezhebi-mi-11938",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.25667935683672494,
+          "sparse_score": null,
+          "dense_rank": 4,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "32bfb91b211d#4",
+          "score": 0.23330671405013112,
+          "content": "Türk elitinin kültürel modeli ve sosyal dayanağı olan, ona modacı, eğitmen, garson, banker, editör, mimar, matbaacı, tarım danışmanı ve piyano hocası olarak hizmet eden yerli gayrimüslimler gidince, s...",
+          "metadata": {
+            "title": "Kısaca, modern Türkiye tarihi: Sekülarizm",
+            "date": "Jun 24, 2021",
+            "source": "https://nisanyan.substack.com/p/ksaca-modern-turkiye-tarihi-sekularizm-21-06-24",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 8
+          },
+          "dense_score": 0.23330671405013112,
+          "sparse_score": null,
+          "dense_rank": 5,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2d3a21bfcb08#5",
+          "score": 0.2319413135401796,
+          "content": "Nereden buluyor enerjiyi, eğer nektar ve ambrosia ile beslenmiyorsa? Yoksa yoktan enerji var olmaz diyen Lavoisier yasaları geçersiz midir? “Konuşmak” intersübjektif bir eylemdir, yani birden fazla öz...",
+          "metadata": {
+            "title": "Halim ile Selim 1: Ateizme giriş",
+            "date": "Dec 24, 2017",
+            "source": "https://nisanyan.substack.com/p/halim-ile-selim-1-ateizme-giris-17-12-24",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 10
+          },
+          "dense_score": 0.2319413135401796,
+          "sparse_score": null,
+          "dense_rank": 6,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "85cf8f166af9#0",
+          "score": 0.2255314312568036,
+          "content": "Lidl, biliyorsunuz, Almanya’nın büyük süpermarket zinciri. 2021 sonu itibariyle Avrupa’nın kırk ülkesinde 11.584 şubesi varmış – ki bazıları ufak çaplı futbol sahası büyüklüğündedir. Lojistiğin boyutl...",
+          "metadata": {
+            "title": "Emici savaşları",
+            "date": "Mar 13, 2022",
+            "source": "https://nisanyan.substack.com/p/emici-savaslar",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.2255314312568036,
+          "sparse_score": null,
+          "dense_rank": 7,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5f4cc11d9ab6#4",
+          "score": 0.21724610569474415,
+          "content": "Benim gördüğüm o ki bürokrat hakimiyeti, bürokrat aptallığının dünyada egemen yönetici güç haline gelmesi, dünyayı bir felakete sürükleyecektir. Buradaki rasyonellikle aptallık arasındaki ilişkiyi bil...",
+          "metadata": {
+            "title": "Bürokratik aklın sakıncaları nedir",
+            "date": "25 June 2023",
+            "source": "https://www.sevannisanyan.com/metin/burokratik-aklin-sakincalari-nedir-92196",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 5
+          },
+          "dense_score": 0.21724610569474415,
+          "sparse_score": null,
+          "dense_rank": 8,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9bce11c81397#0",
+          "score": 0.21715040121405035,
+          "content": "**Langa** İstanbul’da Yenikapı’nın batı bitişiğindeki semtin adı, şimdi Yenikapı Marmaray istasyonu hafriyatı ile arkasındaki sanayi sitesi ve kamyon cehenneminin olduğu yerler. Benim çocukluğumda da ...",
+          "metadata": {
+            "title": "Langa (bostanı, hıyarı), İstanbul'da Vikingler",
+            "date": "Jul 15, 2018",
+            "source": "https://nisanyan.substack.com/p/langa-bostan-hyar-istanbulda-vikingler-18-07-15",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 6
+          },
+          "dense_score": 0.21715040121405035,
+          "sparse_score": null,
+          "dense_rank": 9,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2d3a21bfcb08#1",
+          "score": 0.21632573553027085,
+          "content": "Kusura bakmazsanız burada “ontolojik” tabirini kullanacağım. Yıpratılmış bir terimdir gerçi, ama bildiğim kadarı ile asıl anlamı, “insan algısından bağımsız olarak var olan ya da olduğu varsayılan ale...",
+          "metadata": {
+            "title": "Halim ile Selim 1: Ateizme giriş",
+            "date": "Dec 24, 2017",
+            "source": "https://nisanyan.substack.com/p/halim-ile-selim-1-ateizme-giris-17-12-24",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 10
+          },
+          "dense_score": 0.21632573553027085,
+          "sparse_score": null,
+          "dense_rank": 10,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "fe7711ab877c#0",
+          "score": 0.21461799599841042,
+          "content": "**Saklı canlılar**\n\nTüm dinlerin en temel katmanı, başlangıç noktası: Saklı canlılar teorisi. Doğada kendinden hareket eden ya da değişen her şeyin ardında bilinç ve irade sahibi birtakım canlı varlık...",
+          "metadata": {
+            "title": "Saklı canlılar, elektrikli balıklar, doğuran bakireler",
+            "date": "May 02, 2016",
+            "source": "https://nisanyan.substack.com/p/sakl-canllar-elektrikli-balklar-doguran-16-05-02",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 10
+          },
+          "dense_score": 0.21461799599841042,
+          "sparse_score": null,
+          "dense_rank": 11,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "fbfedc18ca47#2",
+          "score": 0.2138169225949523,
+          "content": "Bu törenlerin şöyle bir özelliği vardır. Ne kadar irrasyonel olursa, ne kadar anlamsız, ve saçma olursa o kadar kıymetlidir bu törenler. Çünkü anlamsız olmasa, mesela Atatürk’ü anmak için korna çalmak...",
+          "metadata": {
+            "title": "On Kasım neden anılır",
+            "date": "13 November 2020",
+            "source": "https://www.sevannisanyan.com/metin/on-kasim-neden-anilir-85728",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 11
+          },
+          "dense_score": 0.2138169225949523,
+          "sparse_score": null,
+          "dense_rank": 12,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "066fbe4c512b#1",
+          "score": 0.21268074226717065,
+          "content": "Herkes emir kulu ise kuralı kim koydu? Bilinmez. Varlık nedeni kural ve düzeni uygulamak olan insan kaçınılmaz bir kişilik deformasyonuna uğrar. Kural ve düzeni bozanlardan nefret eder. Üzerine düşen ...",
+          "metadata": {
+            "title": "Bugün bir memur vurdun mu?",
+            "date": "Jun 07, 2020",
+            "source": "https://nisanyan.substack.com/p/bugun-bir-memur-vurdun-mu-20-06-07",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 6
+          },
+          "dense_score": 0.21268074226717065,
+          "sparse_score": null,
+          "dense_rank": 13,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b72a681ed225#6",
+          "score": 0.21157222085957297,
+          "content": "Hiçbir düzenleyici irade olmadan moleküller bir araya gelip, yeterince denemeden sonra insan gözü oluşturuyorlar. Aklınız yatıyor mu böyle bir şeye? SELİM – “İrade yoksa tesadüf var” diyorsunuz, insan...",
+          "metadata": {
+            "title": "Halim ve Selim 3: Evrim",
+            "date": "Dec 28, 2017",
+            "source": "https://nisanyan.substack.com/p/halim-ve-selim-3-evrim-17-12-28",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 7
+          },
+          "dense_score": 0.21157222085957297,
+          "sparse_score": null,
+          "dense_rank": 14,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "32bfb91b211d#7",
+          "score": 0.2104291919538298,
+          "content": "Bir süre sonra bu kitlenin inanç ve önyargıları Cumhuriyet elitine baskın gelmeye başlayacaktır. ‘Laiklik’ davasının öznesini oluşturan gayri-islami yaşam tarzına sahip seçkinler 1960 ve 1980 askeri d...",
+          "metadata": {
+            "title": "Kısaca, modern Türkiye tarihi: Sekülarizm",
+            "date": "Jun 24, 2021",
+            "source": "https://nisanyan.substack.com/p/ksaca-modern-turkiye-tarihi-sekularizm-21-06-24",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 8
+          },
+          "dense_score": 0.2104291919538298,
+          "sparse_score": null,
+          "dense_rank": 15,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2773389a8a1e#0",
+          "score": 0.21021731785404302,
+          "content": "I.\n\nLaiklik şarttır ve hayati önemdedir. Bin yıl öncenin hurafelerini kamu yönetiminden dışlamadan, gençleri o zararlı iptiladan az ya da çok kurtaracak tedbirleri almadan, sağlıklı ve uygar bir toplu...",
+          "metadata": {
+            "title": "On Kasım tezleri",
+            "date": "Nov 10, 2017",
+            "source": "https://nisanyan.substack.com/p/on-kasm-tezleri-17-11-10",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.21021731785404302,
+          "sparse_score": null,
+          "dense_rank": 16,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "83adaf8dbba8#1",
+          "score": 0.21015404839078847,
+          "content": "O zaman vatandaş olursun. Dünya polisi yoksa dünya vatandaşlığı da yoktur. Allah göstermesin. Bir o eksikti.\n\n**Yahudi holokostu gibi Ermeni jenosidini de inkar etmek suç mu?** Hayır, suç değildir. Ah...",
+          "metadata": {
+            "title": "Kısa kısa",
+            "date": "12 January 2020",
+            "source": "https://www.sevannisanyan.com/metin/kisa-kisa-26440",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.21015404839078847,
+          "sparse_score": null,
+          "dense_rank": 17,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3d66146f2135#6",
+          "score": 0.2090782927355991,
+          "content": "kelepir, keleş, kem küm, kepenk, keser, kesim, kesinti, keskin, kesmik, kıkır, kıkırdak, kılıbık, kımıl1, kıpır, kıraç, kıranta, kırbaç, kırçıl, kırıt-, kırt, kıs kıs, kış2, kıtık, kıtır, kıtlama, kir...",
+          "metadata": {
+            "title": "Türkiye Türkçesi",
+            "date": "May 02, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiye-turkcesi-19-05-02",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 11
+          },
+          "dense_score": 0.2090782927355991,
+          "sparse_score": null,
+          "dense_rank": 18,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7e338a359979#0",
+          "score": 0.20898681997165225,
+          "content": "**Dilin kuralı deskriptif mi yoksa preskriptif mi olmalıdır sizce? Yani konuşulandan mı kurallar oluşturulmalı yoksa diğer türlü mü?**\n\nDeskriptif demek, tasvir edici, yani var olan bir durumu anlatan...",
+          "metadata": {
+            "title": "Konuşurken neden saçmalamayız",
+            "date": "13 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/konusurken-neden-sacmalamayiz-90556",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.20898681997165225,
+          "sparse_score": null,
+          "dense_rank": 19,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0c6f13bf560a#6",
+          "score": 0.20758314009760603,
+          "content": "Dies gebieten nämlich der Pluralismus, die Toleranz und die Aufgeschlossenheit, ohne die es eine demokratische Gesellschaft nicht geben kann.*[[2]](https://www.blogger.com/null) The exercise of these ...",
+          "metadata": {
+            "title": "Bakalım AİHM neler demiş",
+            "date": "Jul 11, 2013",
+            "source": "https://nisanyan.substack.com/p/bakalm-aihm-neler-demis-13-07-11",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 9
+          },
+          "dense_score": 0.20758314009760603,
+          "sparse_score": null,
+          "dense_rank": 20,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "fe7711ab877c#1",
+          "score": 0.20652310746230204,
+          "content": "Açıklayamayacağı olgu yoktur. Rakip teorilere ve uzmanlaşmaya müsaittir. Tezler biriktirilebilir, test edilebilir, kuşaktan kuşağa aktarılabilir, çürütülebilir. Ateş başında sabahlara dek tartışılabil...",
+          "metadata": {
+            "title": "Saklı canlılar, elektrikli balıklar, doğuran bakireler",
+            "date": "May 02, 2016",
+            "source": "https://nisanyan.substack.com/p/sakl-canllar-elektrikli-balklar-doguran-16-05-02",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 10
+          },
+          "dense_score": 0.20652310746230204,
+          "sparse_score": null,
+          "dense_rank": 21,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2d3a21bfcb08#6",
+          "score": 0.20644065370952916,
+          "content": "Kudreti sınırsızsa her şeyi yaratabilmesi lazım, dolayısıyla kendi kudretini aşan şeyleri de yaratabilmesi lazım, demek ki sınırsız olamaz. Allahın vaadleri, yasaları, emirleri kendisini bağlar mı? Ba...",
+          "metadata": {
+            "title": "Halim ile Selim 1: Ateizme giriş",
+            "date": "Dec 24, 2017",
+            "source": "https://nisanyan.substack.com/p/halim-ile-selim-1-ateizme-giris-17-12-24",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 10
+          },
+          "dense_score": 0.20644065370952916,
+          "sparse_score": null,
+          "dense_rank": 22,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ba6b71957266#5",
+          "score": 0.20623840904249757,
+          "content": "Grönland'ı hiç görmedim mesela, ama gerçek olduğundan eminim. Grönland hakkında sayfalarca yazı yazabilirim. Hatta tarafsız gözlemcilerin ampirik olarak test edeceği bir gezi rehberi yazabilirim. Bunu...",
+          "metadata": {
+            "title": "Felsefe sınavı",
+            "date": "Jun 23, 2016",
+            "source": "https://nisanyan.substack.com/p/felsefe-snav-16-06-23",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 9
+          },
+          "dense_score": 0.20623840904249757,
+          "sparse_score": null,
+          "dense_rank": 23,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7ae6a2f7cc15#16",
+          "score": 0.20605905086972004,
+          "content": "Tersini söylediğiniz zaman da başka insanları kırarsınız. Bunun çözümü yok. Yani bir dilin ayrıştığı dallar arasındaki sınırı objektif bir şekilde tanımlama imkanı olduğunu zannetmiyorum. Ben dil uzma...",
+          "metadata": {
+            "title": "Azerbaycan Danışığı-2",
+            "date": "30 August 2022",
+            "source": "https://www.sevannisanyan.com/metin/azerbaycan-danisigi-2-12830",
+            "keywords": "",
+            "chunk_index": 16,
+            "total_chunks": 18
+          },
+          "dense_score": 0.20605905086972004,
+          "sparse_score": null,
+          "dense_rank": 24,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "83bc6c6dd5dd#1",
+          "score": 0.20562761937028073,
+          "content": "Öyle bir şekilde kodlanmıştır ki taklit etmek olağanüstü zordur. Çocuk yaştan öğrenmişsen ancak bu yeteneği kazanabilirsin. Yoksa, ait olduğun grup ve gruplar konusunda kimseyi bir an bile kandıramazs...",
+          "metadata": {
+            "title": "Türkçe sesli uyumu neye yarar",
+            "date": "23 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/turkce-sesli-uyumu-neye-yarar-04703",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.20562761937028073,
+          "sparse_score": null,
+          "dense_rank": 25,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "8d2ecaa61804#2",
+          "score": 0.20499265045845616,
+          "content": "Ayrıca, otuz senede çürüyecek bir şey değil, **bin sene kalacak bir şey** olmalı. Misal: antik Anadolu kültürlerinden kalan mezar anıtları! Yıllar önce Likya hakkında bir kitap yazmıştım. O sırada ora...",
+          "metadata": {
+            "title": "Kaya Mezarın öyküsü",
+            "date": "Oct 26, 2021",
+            "source": "https://nisanyan.substack.com/p/kaya-mezarn-oykusu",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 10
+          },
+          "dense_score": 0.20499265045845616,
+          "sparse_score": null,
+          "dense_rank": 26,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "df1a9ca209cd#0",
+          "score": 0.20484139890415926,
+          "content": "**Gerçek çıkan rüyalarınız oldu mu? Sizin gibi materyalist birisi bazı rüyaların bire bir gerçekleşmesini nasıl yorumlar acaba?**\n\nİnsanların kendini kandırma yeteneğine yorar. Başkaca bir yorumun müm...",
+          "metadata": {
+            "title": "Rüyaların sırrı ne",
+            "date": "03 April 2022",
+            "source": "https://www.sevannisanyan.com/metin/ruyalarin-sirri-ne-12774",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.20484139890415926,
+          "sparse_score": null,
+          "dense_rank": 27,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "23160e7e3ebb#1",
+          "score": 0.20474735702621782,
+          "content": "Ayrıca 5- şehre hem yakın hem uzak olmalı, 6- içinde saklanacak ormanları olmalı, 7- mimarisi tutarsız olmalı. Bir kere, güzel. Üniversitinin asıl işlevi insanın ruhunu yüksek bir yerlere çekmek olmal...",
+          "metadata": {
+            "title": "Akademi inşa edeceklere öğütler",
+            "date": "May 04, 2014",
+            "source": "https://nisanyan.substack.com/p/akademi-insa-edeceklere-ogutler-14-05-04",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.20474735702621782,
+          "sparse_score": null,
+          "dense_rank": 28,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "af8566907741#4",
+          "score": 0.20474297664326574,
+          "content": "Vicdan bilgi acisindan tarafsiz bir guc degildir. 'Hak duygusu' dediginiz insanda yanlis sinyal verebilir.\n\nYanlis anlamamissam, siz ateist insanin vicdani vahiy ve otoriteye boyun egmedigi icin 'dind...",
+          "metadata": {
+            "title": "Hatta ateistler bile...",
+            "date": "May 13, 2015",
+            "source": "https://nisanyan.substack.com/p/hatta-ateistler-bile-15-05-13",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 5
+          },
+          "dense_score": 0.20474297664326574,
+          "sparse_score": null,
+          "dense_rank": 29,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b9ebbfc2a372#2",
+          "score": 0.2040582198087995,
+          "content": "İnsanlık tarihinin en çarpıcı, en üretken, en devrimci fikir ve sanat açılımlarından biridir. Önceki çağa bir tepkidir. Temel hareket noktası, Avrupa’yı iki yüz yıl meşgul eden din ve mezhep kavgaları...",
+          "metadata": {
+            "title": "'Aydınlanma' nedir?",
+            "date": "Mar 09, 2020",
+            "source": "https://nisanyan.substack.com/p/aydnlanma-nedir-20-03-09",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.2040582198087995,
+          "sparse_score": null,
+          "dense_rank": 30,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "23160e7e3ebb#2",
+          "score": 0.20356758593425772,
+          "content": "Deha yepyeni bir şeyden de Güzellik çıkarabilir. Deha yoksa, klasiğe sadık kalmak daha kolay. İkincisi, sevimli. Akademi insani ve davetkar olmalı. \"Burası benim evim, hayatımı burada geçirebilirim” d...",
+          "metadata": {
+            "title": "Akademi inşa edeceklere öğütler",
+            "date": "May 04, 2014",
+            "source": "https://nisanyan.substack.com/p/akademi-insa-edeceklere-ogutler-14-05-04",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.20356758593425772,
+          "sparse_score": null,
+          "dense_rank": 31,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3d66146f2135#3",
+          "score": 0.20281275772647628,
+          "content": "cik, cozut-, cumbul, cumburlop, cup, curcuna, cümbür cemaat, çakıl, çakırkeyif, çakma, çakşır, çançan, çapa, çapraş-, çavlan, çekçek, çeki, çekin-, çekmece, çel-, çelenk, çelim, çent-, çete, çetele, ç...",
+          "metadata": {
+            "title": "Türkiye Türkçesi",
+            "date": "May 02, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiye-turkcesi-19-05-02",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 11
+          },
+          "dense_score": 0.20281275772647628,
+          "sparse_score": null,
+          "dense_rank": 32,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "859aacbd665d#0",
+          "score": 0.20230257545056435,
+          "content": "Twitter’da olsun, diğer sosyal medya sitelerinde olsun, Facebook’ta, YouTube’da, aralıksız reklam tufanı altındayız. Soru sorayım size. Ne kadar ilginçmiş bu, şunu bir tıklayayım bakayım nedir diye ak...",
+          "metadata": {
+            "title": "Madem yapay zeka akıllı, reklamlar neden kötü",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/madem-yapay-zeka-akilli-reklamlar-neden-kotu-75121",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.20230257545056435,
+          "sparse_score": null,
+          "dense_rank": 33,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2843c6496c95#1",
+          "score": 0.20148538794145432,
+          "content": "The improvisation shows. So does the intellectual effort and the aesthetic sensibility, the generosity of spirit, the mental seriousness that went into the village. People of all ages and backgrounds ...",
+          "metadata": {
+            "title": "Leelavati Prize Talk",
+            "date": "Aug 10, 2018",
+            "source": "https://nisanyan.substack.com/p/leelavati-prize-talk-18-08-10",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.20148538794145432,
+          "sparse_score": null,
+          "dense_rank": 34,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "c4d35662f687#0",
+          "score": 0.20076242309390005,
+          "content": "**Uzayda farklı bir yaşam formu arayışına devam edilmeli mi?**\n\nCanlı ne demek? Canlı tanımını doğru dürüst anlamadan bu soruya cevap veremeyiz. Bunun üzerinde yeterince düşünmeden yapılan bu tartışma...",
+          "metadata": {
+            "title": "Uzayda canlı var ne demek",
+            "date": "24 April 2022",
+            "source": "https://www.sevannisanyan.com/metin/uzayda-canli-var-ne-demek-38944",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.20076242309390005,
+          "sparse_score": null,
+          "dense_rank": 35,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b3019de10fb2#3",
+          "score": 0.200752390668049,
+          "content": "Derler ki büyük bir millete ait olma duygusu insanlara iyi gelir. Psikolojiyi güçlendirir, kişiliği geliştirir; çorba gibi, kana kuvvet göze fer verir. Doğru değildir tabii (yoksa Yahudiler neden diğe...",
+          "metadata": {
+            "title": "Boy değil işlev önemli (Liechtenstein İzlenimleri)",
+            "date": "Jun 21, 2009",
+            "source": "https://nisanyan.substack.com/p/boy-degil-islev-onemli-liechtenstein-09-06-21",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 6
+          },
+          "dense_score": 0.200752390668049,
+          "sparse_score": null,
+          "dense_rank": 36,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "67c58c5e2e95#0",
+          "score": 0.20037017117942546,
+          "content": "**Hocam anladığım kadarıyla mütevazı ev mimarisi ve dekorasyonunu lükse tercih ediyorsunuz. Açıklar mısınız?**\n\nVersay Sarayını önerseler bana yahut Blenheim Şatosunu önerseler kesinlikle hayır demem....",
+          "metadata": {
+            "title": "Mikelanj tavanımı boyasa hayır der miyim",
+            "date": "02 April 2023",
+            "source": "https://www.sevannisanyan.com/metin/mikelanj-tavanimi-boyasa-hayir-der-miyim-38177",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.20037017117942546,
+          "sparse_score": null,
+          "dense_rank": 37,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "068bd19015ab#1",
+          "score": 0.20019292557335266,
+          "content": "Çünkü tanrı hayaldir. Sadece yasa yapmanın farklı yöntemleri vardır.\n\n*“Roma imparatorluğunda kanunlarla toplumda kutsal olan ve olmayan net bir şekilde ayrılmıştır. Laiklik esas alınmıştır.”* Biraz R...",
+          "metadata": {
+            "title": "Seçme saçmalar: Hukuk, İslam, Allah kelamı vs.",
+            "date": "Jul 30, 2021",
+            "source": "https://nisanyan.substack.com/p/secme-sacmalar-hukuk-islam-allah-21-07-30",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.20019292557335266,
+          "sparse_score": null,
+          "dense_rank": 38,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3af1e9e6dc6e#8",
+          "score": 0.19992240351072244,
+          "content": "İlham için antik mimariye, İtalyan Rönesansına, ya da (Türk ve Yunan) eski vernaküler mimarinin geleneklerine danış. Yaptığın her şey sakin ve kalıcı olsun. Yüzlerce yıldan beri hep oradaymış ve yüzle...",
+          "metadata": {
+            "title": "Şirince: Bir muhasebe",
+            "date": "Jul 25, 2016",
+            "source": "https://nisanyan.substack.com/p/sirince-bir-muhasebe-16-07-25",
+            "keywords": "",
+            "chunk_index": 8,
+            "total_chunks": 11
+          },
+          "dense_score": 0.19992240351072244,
+          "sparse_score": null,
+          "dense_rank": 39,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "fa94e2258bde#0",
+          "score": 0.1992939210471259,
+          "content": "Özgür irade paradoksu Antik Çağ filozoflarından beri bilinen bir konu (belki Antik Çağ değil, Ortaçağ skolastikleridir, şimdi bakmaya üşendim). *Post facto* düşündüğünde insan davranışlarının her biri...",
+          "metadata": {
+            "title": "Özgür irade, hayvanlık, yapay zeka",
+            "date": "Aug 04, 2021",
+            "source": "https://nisanyan.substack.com/p/ozgur-irade-hayvanlk-yapay-zeka-21-08-04",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.1992939210471259,
+          "sparse_score": null,
+          "dense_rank": 40,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9d67ffa6ae65#0",
+          "score": 0.1986743075563214,
+          "content": "**Teknoloji ne kadar gelişse de ilkel dürtülerimizle hareket ediyoruz. Medeni sayılan ülkelerin yaptıklarına bakarsak insanlık hiçbir zaman tam anlamıyla uygarlaşmayacak mı?**\n\nİlkel ne demek, ben emi...",
+          "metadata": {
+            "title": "İlkel dürtülerimizi koruyalım mı",
+            "date": "28 January 2024",
+            "source": "https://www.sevannisanyan.com/metin/ilkel-durtulerimizi-koruyalim-mi-99872",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.1986743075563214,
+          "sparse_score": null,
+          "dense_rank": 41,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "336ee178011a#0",
+          "score": 0.19828452527170154,
+          "content": "**Eğitim ve beyin yıkama arasındaki farklar nelerdir?**\n\nTeknikleri ve usulleri çok benzer birbirine. Sonuçta eğitim denilen şey bir tür beyin yıkamadır. Beyin yıkama denilen şey de bir tür eğitimdir....",
+          "metadata": {
+            "title": "Eğitim ile beyin yıkamanın farkı nedir",
+            "date": "28 January 2024",
+            "source": "https://www.sevannisanyan.com/metin/egitim-ile-beyin-yikamanin-farki-nedir-23599",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.19828452527170154,
+          "sparse_score": null,
+          "dense_rank": 42,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "300a3df19be8#2",
+          "score": 0.19823534969158052,
+          "content": "Ciddi konulara değinen hemen her yazımın içinde bu fikir bir yerlerde mutlaka saklıdır. Halim-Selim’de de epey değindim. Her ahlaki arınma teşebbüsünün, her dini uyanış hareketinin kaçınılmaz akıbetid...",
+          "metadata": {
+            "title": "Ahlaklı yaşamın sırları",
+            "date": "Oct 01, 2018",
+            "source": "https://nisanyan.substack.com/p/ahlakl-yasamn-srlar-18-10-01",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.19823534969158052,
+          "sparse_score": null,
+          "dense_rank": 43,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "bd19b239533b#0",
+          "score": 0.19773811110605485,
+          "content": "*“Özgürlük mü, eşitlik mi” diye sormuş bir arkadaş, klasik ikilemler faslından. Cevap yazmışım. Epey oluyor, Yenipazar Cezaevindeydim yanlış hatırlamıyorsam.*\n\nHer gerçek ahlak öğretisinin temel değer...",
+          "metadata": {
+            "title": "Özgürlük ve eşitlik",
+            "date": "Mar 29, 2017",
+            "source": "https://nisanyan.substack.com/p/ozgurluk-ve-esitlik-17-03-29",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.19773811110605485,
+          "sparse_score": null,
+          "dense_rank": 44,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "660a42e5cf0a#2",
+          "score": 0.1977130071752289,
+          "content": "Bu öyle bir altın bilezik ki elinde, beş parasız da kalsan beş parasız kalmıyorsun. Bir şekilde buluyorsun çıkış yolunu. Parasız olan herkes, parası olduğu zaman rahata kavuşacağını zanneder. Parayı b...",
+          "metadata": {
+            "title": "Hayatta güvence lazım mı",
+            "date": "14 June 2020",
+            "source": "https://www.sevannisanyan.com/metin/hayatta-guvence-lazim-mi-69607",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.1977130071752289,
+          "sparse_score": null,
+          "dense_rank": 45,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f7861fc867bc#1",
+          "score": 0.19754817143115883,
+          "content": "Çünkü tanrı hayaldir. Sadece yasa yapmanın farklı yöntemleri vardır.\n\n**“Roma imparatorluğunda kanunlarla toplumda kutsal olan ve olmayan net bir şekilde ayrılmıştır. Laiklik esas alınmıştır.”** Biraz...",
+          "metadata": {
+            "title": "Hukuk, İslam, Allah kelamı vs.",
+            "date": "30 July 2021",
+            "source": "https://www.sevannisanyan.com/metin/hukuk-islam-allah-kelami-vs-94373",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.19754817143115883,
+          "sparse_score": null,
+          "dense_rank": 46,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6a84fdd567d3#0",
+          "score": 0.19751494973899633,
+          "content": "Dünkü yazıya başlarken niyetim Türk, Ermeni ve Kürt kolektif kimliklerinin ilk ortaya çıkış öykülerini kıyaslamaktı. Başlık da kafamda hazırdı, “Kim daha uzağa işer”. Sonra Kürt maddesi çok uzadı, öbü...",
+          "metadata": {
+            "title": "Hassas konulara neden değinir insan",
+            "date": "Jan 15, 2018",
+            "source": "https://nisanyan.substack.com/p/hassas-konulara-neden-deginir-insan-18-01-15",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 5
+          },
+          "dense_score": 0.19751494973899633,
+          "sparse_score": null,
+          "dense_rank": 47,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "603d5a0ed78b#1",
+          "score": 0.19684658327296,
+          "content": "Bu şekilde bir söz eylemini bir başka söz eyleminin parçası haline getirebiliyoruz, onu bir başka söz eyleminin parçası haline getirebiliyoruz, ve böylece sonsuza dek artabilecek bir teleskop efekti e...",
+          "metadata": {
+            "title": "Dilin rekursif yapısı genetik bir bozulma mıdır",
+            "date": "05 September 2021",
+            "source": "https://www.sevannisanyan.com/metin/dilin-rekursif-yapisi-genetik-bir-bozulma-midir-49969",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.19684658327296,
+          "sparse_score": null,
+          "dense_rank": 48,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "12b58192936a#0",
+          "score": 0.1967810222610341,
+          "content": "**İnsanlar hapishanede mi yoksa en özgür alanlarda mı kodlanıp norma sokulur?**\n\nBir süre hapis yatıp da ıslah olmuş hiç kimse tanımıyorum ben. Kodlanıp norma sokulmaktan kastiniz buysa, şüphe yok ki ...",
+          "metadata": {
+            "title": "Hapis ıslah eder mi",
+            "date": "16 February 2020",
+            "source": "https://www.sevannisanyan.com/metin/hapis-islah-eder-mi-39494",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.1967810222610341,
+          "sparse_score": null,
+          "dense_rank": 49,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b3019de10fb2#2",
+          "score": 0.19653208298784713,
+          "content": "En son ikiyüz yıl önce Tirol isyanı sırasında eylem görmüş, 1868’de lağvedilmiş. 1938’de Alman Nazileri miting görüntüsü altında ülkeyi istila etmeye kalkmışlar, sınırda biraz arbede itiş kakış olmuş,...",
+          "metadata": {
+            "title": "Boy değil işlev önemli (Liechtenstein İzlenimleri)",
+            "date": "Jun 21, 2009",
+            "source": "https://nisanyan.substack.com/p/boy-degil-islev-onemli-liechtenstein-09-06-21",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 6
+          },
+          "dense_score": 0.19653208298784713,
+          "sparse_score": null,
+          "dense_rank": 50,
+          "sparse_rank": null
+        }
+      ],
+      "performance": {
+        "total_time_ms": 741.3620948791504,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "sparse": {
+      "query": "laiklik",
+      "strategy": "sparse",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "2773389a8a1e#0",
+          "score": 3.9135501384735107,
+          "content": "I.\n\nLaiklik şarttır ve hayati önemdedir. Bin yıl öncenin hurafelerini kamu yönetiminden dışlamadan, gençleri o zararlı iptiladan az ya da çok kurtaracak tedbirleri almadan, sağlıklı ve uygar bir toplu...",
+          "metadata": {
+            "title": "On Kasım tezleri",
+            "date": "Nov 10, 2017",
+            "source": "https://nisanyan.substack.com/p/on-kasm-tezleri-17-11-10",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.9135501384735107,
+          "dense_rank": null,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "32bfb91b211d#5",
+          "score": 3.8763506412506104,
+          "content": "Onların dilini konuşan da, malum bir avuç azınlıktır. O halde o azınlık korunmalıdır.\n\n**Yeni model, laiklik** Laiklik, Osmanlı sekülarizminin Cumhuriyet dönemindeki yeni adıdır. Maksat yine nettir, m...",
+          "metadata": {
+            "title": "Kısaca, modern Türkiye tarihi: Sekülarizm",
+            "date": "Jun 24, 2021",
+            "source": "https://nisanyan.substack.com/p/ksaca-modern-turkiye-tarihi-sekularizm-21-06-24",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.8763506412506104,
+          "dense_rank": null,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "f7861fc867bc#0",
+          "score": 3.853706121444702,
+          "content": "**“Laik toplumlarda kanunlar kutsal değildir. Zaman içinde insanların gelişen ihtiyaçlarına göre hukukta iyileştirme yapılabilir. Laik toplumlarda insanlar kendi yasalarını yapar, tanrı onların dünyad...",
+          "metadata": {
+            "title": "Hukuk, İslam, Allah kelamı vs.",
+            "date": "30 July 2021",
+            "source": "https://www.sevannisanyan.com/metin/hukuk-islam-allah-kelami-vs-94373",
+            "keywords": "hukuk devleti, İslam hukuku, İslamda reform, laiklik"
+          },
+          "dense_score": null,
+          "sparse_score": 3.853706121444702,
+          "dense_rank": null,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "068bd19015ab#0",
+          "score": 3.853706121444702,
+          "content": "*“Laik toplumlarda kanunlar kutsal değildir. Zaman içinde insanların gelişen ihtiyaçlarına göre hukukta iyileştirme yapılabilir. Laik toplumlarda insanlar kendi yasalarını yapar, tanrı onların dünyada...",
+          "metadata": {
+            "title": "Seçme saçmalar: Hukuk, İslam, Allah kelamı vs.",
+            "date": "Jul 30, 2021",
+            "source": "https://nisanyan.substack.com/p/secme-sacmalar-hukuk-islam-allah-21-07-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.853706121444702,
+          "dense_rank": null,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "68b3c2887644#1",
+          "score": 3.7413084506988525,
+          "content": "Bu sınıf, asker ve sivil bürokrasinin iktidarını kısıtlayıcı, devletin ellerini bağlayıcı, reform projelerine köstek olucu bir güçtü. Laiklik, bu gücü kırmayı hedefleyen politikanın adıdır. Cumhuriyet...",
+          "metadata": {
+            "title": "Kemalizm İslam’ın bir mezhebi mi",
+            "date": "26 February 2023",
+            "source": "https://www.sevannisanyan.com/metin/kemalizm-islamin-bir-mezhebi-mi-11938",
+            "keywords": "İslam, Kemalizm, laiklik, Türkiye Cumhuriyeti"
+          },
+          "dense_score": null,
+          "sparse_score": 3.7413084506988525,
+          "dense_rank": null,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "68b3c2887644#0",
+          "score": 3.3087828159332275,
+          "content": "**Kemalizm İslam’ın bir mezhebi ise, laiklik konusundaki fetişizm nedir?**\n\nCumhuriyet Rejiminin tarihte kalıcı olacağı kesin olan tek bir icraatı vardır. Diğer her şey kozmetik. Radikal olan değişim,...",
+          "metadata": {
+            "title": "Kemalizm İslam’ın bir mezhebi mi",
+            "date": "26 February 2023",
+            "source": "https://www.sevannisanyan.com/metin/kemalizm-islamin-bir-mezhebi-mi-11938",
+            "keywords": "İslam, Kemalizm, laiklik, Türkiye Cumhuriyeti"
+          },
+          "dense_score": null,
+          "sparse_score": 3.3087828159332275,
+          "dense_rank": null,
+          "sparse_rank": 6
+        },
+        {
+          "chunk_id": "a65fa8729033#4",
+          "score": 3.1408097743988037,
+          "content": "Dünya Harbinden sonra Batı’dan da hayal kırıklığına uğradı, “laiklik” ve milliyetçilik karışımı yeni bir dili kendine rehber edindi. İkinci İslam, kasaba ve çarşı muhalefetinin ideolojisidir. Miri rej...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.1408097743988037,
+          "dense_rank": null,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "32bfb91b211d#4",
+          "score": 3.130406141281128,
+          "content": "Türk elitinin kültürel modeli ve sosyal dayanağı olan, ona modacı, eğitmen, garson, banker, editör, mimar, matbaacı, tarım danışmanı ve piyano hocası olarak hizmet eden yerli gayrimüslimler gidince, s...",
+          "metadata": {
+            "title": "Kısaca, modern Türkiye tarihi: Sekülarizm",
+            "date": "Jun 24, 2021",
+            "source": "https://nisanyan.substack.com/p/ksaca-modern-turkiye-tarihi-sekularizm-21-06-24",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.130406141281128,
+          "dense_rank": null,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "cb81c2fdc6e9#1",
+          "score": 3.0011727809906006,
+          "content": "> Türkiye’de laiklik, a) gayrimüslimlerin, b) gayrimüslim yaşam tarzına özenen Türk azınlıkların, c) bazı kesimlerce gayrimüslim sayılan Alevilerin haklarının korunması anlamına gelir. Başka bir içeri...",
+          "metadata": {
+            "title": "Memleket Nasıl Kurtulur, Yeni Dizi - 1 (Mahfi Eğilmez'in Notları)",
+            "date": "Jun 21, 2021",
+            "source": "https://nisanyan.substack.com/p/memleket-nasl-kurtulur-yeni-dizi-21-06-21",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.0011727809906006,
+          "dense_rank": null,
+          "sparse_rank": 9
+        },
+        {
+          "chunk_id": "068bd19015ab#1",
+          "score": 2.9635283946990967,
+          "content": "Çünkü tanrı hayaldir. Sadece yasa yapmanın farklı yöntemleri vardır.\n\n*“Roma imparatorluğunda kanunlarla toplumda kutsal olan ve olmayan net bir şekilde ayrılmıştır. Laiklik esas alınmıştır.”* Biraz R...",
+          "metadata": {
+            "title": "Seçme saçmalar: Hukuk, İslam, Allah kelamı vs.",
+            "date": "Jul 30, 2021",
+            "source": "https://nisanyan.substack.com/p/secme-sacmalar-hukuk-islam-allah-21-07-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.9635283946990967,
+          "dense_rank": null,
+          "sparse_rank": 10
+        },
+        {
+          "chunk_id": "f7861fc867bc#1",
+          "score": 2.9588892459869385,
+          "content": "Çünkü tanrı hayaldir. Sadece yasa yapmanın farklı yöntemleri vardır.\n\n**“Roma imparatorluğunda kanunlarla toplumda kutsal olan ve olmayan net bir şekilde ayrılmıştır. Laiklik esas alınmıştır.”** Biraz...",
+          "metadata": {
+            "title": "Hukuk, İslam, Allah kelamı vs.",
+            "date": "30 July 2021",
+            "source": "https://www.sevannisanyan.com/metin/hukuk-islam-allah-kelami-vs-94373",
+            "keywords": "hukuk devleti, İslam hukuku, İslamda reform, laiklik"
+          },
+          "dense_score": null,
+          "sparse_score": 2.9588892459869385,
+          "dense_rank": null,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "a4d589a6da69#1",
+          "score": 2.904330253601074,
+          "content": "Protestan yahut Katolik olmadan Batılı olunabilir mi? Osmanlı modernleşmesinde de Tevfik Fikret ve Dr. Abdullah Cevdet’in sekülarist çizgisi egemen değildir, ikinci kanaldır. Sonuçta gerçi çıkış yolu ...",
+          "metadata": {
+            "title": "Cumhuriyetin Batılı olması değil mesele, olamaması - Bölüm 1",
+            "date": "Oct 12, 2014",
+            "source": "https://nisanyan.substack.com/p/cumhuriyetin-batl-olmas-degil-mesele-14-10-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.904330253601074,
+          "dense_rank": null,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "cb81c2fdc6e9#0",
+          "score": 2.8954319953918457,
+          "content": "Eski Hazine müsteşarlarından Sn. Mahfi Eğilmez [geçen günkü yazısında](https://www.mahfiegilmez.com/2021/06/turkiyenin-sorunlar-envanteri.html) Türkiye’nin yönetiminde nelerin bozuk olduğuna dair bir ...",
+          "metadata": {
+            "title": "Memleket Nasıl Kurtulur, Yeni Dizi - 1 (Mahfi Eğilmez'in Notları)",
+            "date": "Jun 21, 2021",
+            "source": "https://nisanyan.substack.com/p/memleket-nasl-kurtulur-yeni-dizi-21-06-21",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8954319953918457,
+          "dense_rank": null,
+          "sparse_rank": 13
+        },
+        {
+          "chunk_id": "668786c29452#2",
+          "score": 2.8603782653808594,
+          "content": "Ayasofya da öyledir. Ha Kültür Bakanlığının elinde olsun, ha Diyanet İşleri Başkanlığı’nın elinde olsun. Özetle pek fazla bir şey fark edeceğini zannetmiyorum. Ne olur, Ayasofya’nın cami olması Türkiy...",
+          "metadata": {
+            "title": "Ayasofya ne olsun",
+            "date": "14 June 2020",
+            "source": "https://www.sevannisanyan.com/metin/ayasofya-ne-olsun-54601",
+            "keywords": "Ayasofya"
+          },
+          "dense_score": null,
+          "sparse_score": 2.8603782653808594,
+          "dense_rank": null,
+          "sparse_rank": 14
+        },
+        {
+          "chunk_id": "cb81c2fdc6e9#2",
+          "score": 2.8093602657318115,
+          "content": "Ülkeyi “Avrupai” tarzda eğitilmişlerin yönetmesi gerektiği iddiası da, Batı dünyasının bugün içinde bulunduğu durum göz önüne alındığında, teyide her zamankinden daha fazla muhtaçtır. > Laiklikten dön...",
+          "metadata": {
+            "title": "Memleket Nasıl Kurtulur, Yeni Dizi - 1 (Mahfi Eğilmez'in Notları)",
+            "date": "Jun 21, 2021",
+            "source": "https://nisanyan.substack.com/p/memleket-nasl-kurtulur-yeni-dizi-21-06-21",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8093602657318115,
+          "dense_rank": null,
+          "sparse_rank": 15
+        },
+        {
+          "chunk_id": "fbfedc18ca47#6",
+          "score": 2.796889066696167,
+          "content": "Bildiğimiz Nazi ideolojisinin bir tezahürü olarak karşımıza çıktı. Son aylarda sanıyorum Kürtler biraz arka plana çekilince bu kez Suriyeli ve Afganlı mülteciler Atatürkçü asabiyetin başlıca konusu ha...",
+          "metadata": {
+            "title": "On Kasım neden anılır",
+            "date": "13 November 2020",
+            "source": "https://www.sevannisanyan.com/metin/on-kasim-neden-anilir-85728",
+            "keywords": "Atatürk, Kemal kültü, on kasım"
+          },
+          "dense_score": null,
+          "sparse_score": 2.796889066696167,
+          "dense_rank": null,
+          "sparse_rank": 16
+        },
+        {
+          "chunk_id": "7354ccf6bdba#1",
+          "score": 2.7886359691619873,
+          "content": "Onlar devre dışı bırakılmadan veya zararsız hale getirilmeden çok zor.\n\n**Halim** – Türkiye Cumhuriyeti 20. yüzyıl boyunca dönüşümü gerçekleştirmeye çalıştı. Şimdilik başarısız görünüyor. Sence bu, İs...",
+          "metadata": {
+            "title": "Bin defa konuşulmuş konulara yeni bakış açısı getirebilir misin küçük çekirge?",
+            "date": "Jan 31, 2017",
+            "source": "https://nisanyan.substack.com/p/bin-defa-konusulmus-konulara-yeni-17-01-31",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7886359691619873,
+          "dense_rank": null,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "0f8b7dc8aa33#1",
+          "score": 2.7845277786254883,
+          "content": "Fakat genişleyen bürokrasi ve profesyonelleşen teknokrasiye yeni bir yazı dili gerekiyordu. Belki devlet işe karışmasa daha sağlıklı sonuç alınabilirdi. **Kadın hakları** alanında atılan adımlar kaçın...",
+          "metadata": {
+            "title": "Gene mi Atatürk, off",
+            "date": "Aug 02, 2020",
+            "source": "https://nisanyan.substack.com/p/gene-mi-ataturk-off-20-08-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7845277786254883,
+          "dense_rank": null,
+          "sparse_rank": 18
+        },
+        {
+          "chunk_id": "0f8b7dc8aa33#2",
+          "score": 2.693270206451416,
+          "content": "Yoksa sınırsız zorbalığa kapı açmış olursun. Türkiye’de 1961’den sonra Anayasa Mahkemesi yoluyla çözüm arandı; yürümedi. Bugünkü felaket noktasına varıldı. **‘Laiklik’** başlığı altında İslami hassasi...",
+          "metadata": {
+            "title": "Gene mi Atatürk, off",
+            "date": "Aug 02, 2020",
+            "source": "https://nisanyan.substack.com/p/gene-mi-ataturk-off-20-08-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.693270206451416,
+          "dense_rank": null,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "32bfb91b211d#7",
+          "score": 2.6818060874938965,
+          "content": "Bir süre sonra bu kitlenin inanç ve önyargıları Cumhuriyet elitine baskın gelmeye başlayacaktır. ‘Laiklik’ davasının öznesini oluşturan gayri-islami yaşam tarzına sahip seçkinler 1960 ve 1980 askeri d...",
+          "metadata": {
+            "title": "Kısaca, modern Türkiye tarihi: Sekülarizm",
+            "date": "Jun 24, 2021",
+            "source": "https://nisanyan.substack.com/p/ksaca-modern-turkiye-tarihi-sekularizm-21-06-24",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.6818060874938965,
+          "dense_rank": null,
+          "sparse_rank": 20
+        },
+        {
+          "chunk_id": "ec285c830b0c#2",
+          "score": 2.214694023132324,
+          "content": "Bu anlamda tamamiyle anti-demokratik bir anayasadır. Soğuk Savaş yıllarının klasik formülleri olan, temel insan hakları, ifade özgürlüğü, basın özgürlüğü, örgütlenme özgürlüğü, sosyal devlet vesaire g...",
+          "metadata": {
+            "title": "1961 Anayasası demokratik miydi",
+            "date": "07 April 2024",
+            "source": "https://www.sevannisanyan.com/metin/1961-anayasasi-demokratik-miydi-43642",
+            "keywords": "1961 Anayasası, demokrasi, Milli Güvenlik Kurulu, seçim sistemi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.214694023132324,
+          "dense_rank": null,
+          "sparse_rank": 21
+        },
+        {
+          "chunk_id": "12a9de880cfe#1",
+          "score": 2.1492185592651367,
+          "content": "Mıkhitar’ın tam olarak ne zaman Katolik mezhebini benimsediği karmaşık bir konudur. Cemaatin resmi tarihçesi pederin daha Halep’teyken Katolik olduğunu savunur. Daha gerçekçi bir yaklaşım belki kesin ...",
+          "metadata": {
+            "title": "Sivaslı Mıkhitar Venedik'te",
+            "date": "Aug 20, 2022",
+            "source": "https://nisanyan.substack.com/p/sivasl-mkhitar-venedikte",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.1492185592651367,
+          "dense_rank": null,
+          "sparse_rank": 22
+        },
+        {
+          "chunk_id": "0400557438ae#0",
+          "score": 2.101428747177124,
+          "content": "*(Taraf gazetesi HerTaraf sayfası 29 Mart 2009)*\n\nTürker Alkan emekli kahvelerinin vazgeçilmez klasiklerini bir kez daha özetlemiş:\n\n*“Atatürk’ü başımıza gelen ve gelecek olan her türlü belâdan soruml...",
+          "metadata": {
+            "title": "Vatan kurtardı, halifeyi kovdu, daha ne?",
+            "date": "Mar 29, 2009",
+            "source": "https://nisanyan.substack.com/p/vatan-kurtard-halifeyi-kovdu-daha-09-03-29",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.101428747177124,
+          "dense_rank": null,
+          "sparse_rank": 23
+        },
+        {
+          "chunk_id": "32bfb91b211d#6",
+          "score": 2.101428747177124,
+          "content": "Temizlik operasyonu islam adına yürütülmüştür; ancak bu gerçek asla itiraf edilemez, çünkü cumhuriyet eliti 1923’ten sonra varoluş mücadelesini aynı islama karşı vermektedir. Bu çelişkinin yarattığı b...",
+          "metadata": {
+            "title": "Kısaca, modern Türkiye tarihi: Sekülarizm",
+            "date": "Jun 24, 2021",
+            "source": "https://nisanyan.substack.com/p/ksaca-modern-turkiye-tarihi-sekularizm-21-06-24",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.101428747177124,
+          "dense_rank": null,
+          "sparse_rank": 24
+        },
+        {
+          "chunk_id": "4446295bd223#2",
+          "score": 2.082902669906616,
+          "content": "\"Sömürgeci batı\", \"tek dişi kalmış canavar\" vb söyleminin cumhuriyet düşüncesinde hangi amaçlara hizmet ettiği üzerinde durulmuş, 4. Kapitülasyon adı verilen imtiyazların, zamanla dejenere olsa da, es...",
+          "metadata": {
+            "title": "Yanlış Cumhuriyet'e dair eski bir mektup",
+            "date": "Apr 12, 2019",
+            "source": "https://nisanyan.substack.com/p/yanls-cumhuriyete-dair-eski-bir-mektup-19-04-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.082902669906616,
+          "dense_rank": null,
+          "sparse_rank": 25
+        },
+        {
+          "chunk_id": "a65fa8729033#3",
+          "score": 2.0336005687713623,
+          "content": "Çöker.\n\n**3. İslam** Osmanlı ekonomisinin temeli olan miri toprak düzeni İslam hukukunun ruhuna ve muhtemelen sözüne aykırıdır. İslam hukuku özel mülkiyeti ve bireysel ticareti esas alır, gelişkin bir...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.0336005687713623,
+          "dense_rank": null,
+          "sparse_rank": 26
+        },
+        {
+          "chunk_id": "32bfb91b211d#0",
+          "score": 2.011953592300415,
+          "content": "Sekülarizm: umumca tanınan dini kuralları ve o kuralların sözcülerini kamu yönetiminde bağlayıcı saymayan anlayış.\n\nBaşka tanımlar da olabilir; laiklikle sekülerlik aynı mı değil mi sonsuza dek tartış...",
+          "metadata": {
+            "title": "Kısaca, modern Türkiye tarihi: Sekülarizm",
+            "date": "Jun 24, 2021",
+            "source": "https://nisanyan.substack.com/p/ksaca-modern-turkiye-tarihi-sekularizm-21-06-24",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.011953592300415,
+          "dense_rank": null,
+          "sparse_rank": 27
+        },
+        {
+          "chunk_id": "b41eb720d367#2",
+          "score": 1.9337353706359863,
+          "content": "Dolayısıyla İslam demek, hem İslam toplumu içinde yarı İslam ve yarı cahil olanlara karşı, hem toplumun büyük bir kısmını oluşturan gayrimüslim zümrüye karşı bir elit pozisyonuna sahip olmakla eş anla...",
+          "metadata": {
+            "title": "İslam kitap dini mi",
+            "date": "28 June 2020",
+            "source": "https://www.sevannisanyan.com/metin/islam-kitap-dini-mi-29668",
+            "keywords": "İslam tarihi, İslamda kadın, Kutsal kitaplar"
+          },
+          "dense_score": null,
+          "sparse_score": 1.9337353706359863,
+          "dense_rank": null,
+          "sparse_rank": 28
+        },
+        {
+          "chunk_id": "7354ccf6bdba#2",
+          "score": 1.8432193994522095,
+          "content": "Yerine 23 Nisan ve 29 Ekim törenleri kondu. Geri gelmesi kaçınılmazdı, çünkü doğa boşluk kabul etmez.\n\n**Halim** – Neden yapamadılar? **Selim** – Cahillik belki. Ya da korkaklık. Kontrolü elden kaçırm...",
+          "metadata": {
+            "title": "Bin defa konuşulmuş konulara yeni bakış açısı getirebilir misin küçük çekirge?",
+            "date": "Jan 31, 2017",
+            "source": "https://nisanyan.substack.com/p/bin-defa-konusulmus-konulara-yeni-17-01-31",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8432193994522095,
+          "dense_rank": null,
+          "sparse_rank": 29
+        },
+        {
+          "chunk_id": "668786c29452#3",
+          "score": 1.8079575300216675,
+          "content": "Üst katı müze yaparsın, alt katı cami yaparsın, al sana çözüm.\n\n**İstanbul’a Ayasofya için geliyor milyonlarca turist.** Ne pazarlarsan ona gelir turist. Dünya nüfusunun yüzde kaçının Ayasofya’dan hab...",
+          "metadata": {
+            "title": "Ayasofya ne olsun",
+            "date": "14 June 2020",
+            "source": "https://www.sevannisanyan.com/metin/ayasofya-ne-olsun-54601",
+            "keywords": "Ayasofya"
+          },
+          "dense_score": null,
+          "sparse_score": 1.8079575300216675,
+          "dense_rank": null,
+          "sparse_rank": 30
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#33",
+          "score": 0.0,
+          "content": "Perihan M'yi kiniyorun berbat bir roman yazari oldugu, Nuray Mert'e yaptigi haksizlik icin. İyi kose yazariydi, ama iyi ahlakli degil. RIP\n\nPopper - Hegel yanyana! Yani OPen Soc.'deki Hegel elestirisi...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 31
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#25",
+          "score": 0.0,
+          "content": "hocam yok ya kitap olarak lazım dergah yayınları en son bi 1982 ii bir basım yapmış 4 cilt ondan bidaha yok bide size facebook dan bi yazıt göndermiştim belki ilginizi çeker diye:http://www.mustafacam...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 32
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#32",
+          "score": 0.0,
+          "content": "\"Heath Lowry, Trabzon Şehrinin İslamlaşma ve Türkleşmesi, 1461-1583.\"\n\nkesinlikle okumak isterim, tesekkürler:)\n\nson zamanlarda calisma alanim geregi bir cok Yunan asilli insanlarla tanistim ve ayni d...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 33
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#31",
+          "score": 0.0,
+          "content": "\"Guns, Germs and Steel\"den yola çıkarak geniş bir okur yelpazesi için yazılmış Zinn'in A People's History of the United States: 1492-Present (Perennial Classics) kitabı hatta büyük üslupçu Bartolome d...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 34
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#34",
+          "score": 0.0,
+          "content": "Ama sana Bakhtin yaziyorum. Sendeki karnavalesk deliriumun ozunu orda bulabilirsin.\n\n[Yanıtla](https://www.blogger.com/null)\n\n[Yanıtlar](https://www.blogger.com/null) 1. **[Sevan Nişanyan](https://www...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 35
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#26",
+          "score": 0.0,
+          "content": "Baba benim yorumu niye yayınlamadın yav?\"Sevan Nişanyan'dan İslami Bilgiler: Nisa Faslı\" başlıklı yazına \"zamanın en güçlü lideri dediğiniz adamın karısının kişiliği altında ezilmesi pek akla yakın de...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 36
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#35",
+          "score": 0.0,
+          "content": "ya arkadaş, hakkaten düşünüyorum, bi insan nasıl bu kadar küstah olabiliyor diye.\n\nöyle bir yazmışsın ki gören tüm kaynakları hatim edip anlamışsın sanacak.\n\nşu yorumu herhangi bir uyuşturucu veya uya...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 37
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#30",
+          "score": 0.0,
+          "content": "Maaluf yüzeysel geldi, sevemedim. Žižek'i ise okumadım. Kısmet.\n\n2. **[Sevan Nişanyan](https://www.blogger.com/profile/11368801692909214434)**[9 Ocak 2013 11:47](http://nisanyan1.blogspot.com/2013/01/...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 38
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#28",
+          "score": 0.0,
+          "content": "Niçe korkunç bir adamdı heval! Bunun manyak ablası götünden bir gün bile ayrılamadı.\n\nbunu evlendirmeye çalışıyordu iblis boku\n\nbir gün Niçe çıldırdı ablasına; 'Sen nasıl bana böyle bir şey teklif ede...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 39
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#39",
+          "score": 0.0,
+          "content": "Christopher Hitchens, ed., The Portable Atheist: Essential Readings for the Nonbeliever, 2007. Anti-dinci düşüncenin öncülerinden elli kadar kuvvetli polemik yazısı. Bazıları şaheser. SEVAN HOCAM ŞAHE...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 40
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#29",
+          "score": 0.0,
+          "content": "http://www.publishersweekly.com/pw/by-topic/industry-news/tip-sheet/article/53409-the-top-10-most-difficult-books.html#path/pw/by-topic/industry-news/tip-sheet/article/53409-the-top-10-most-difficult-...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 41
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#24",
+          "score": 0.0,
+          "content": "Türkiye'nin entelektüel mahalleleri sayılacak olsa belki de ilk 3'e girecek mahallede durum böyle. [Yanıtla](https://www.blogger.com/null)\n\n16. **[Raşit Özenç](https://www.blogger.com/profile/00290927...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 42
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#23",
+          "score": 0.0,
+          "content": "Hoca yaktın bizi... Kredi mi çeksek napsak?\n\n[Yanıtla](https://www.blogger.com/null)\n\n15. **[sevgiinsani](http://sevgiinsani.livejournal.com/)**[5 Ocak 2013 11:34](http://nisanyan1.blogspot.com/2013/0...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 43
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#36",
+          "score": 0.0,
+          "content": "Michel Foucault yani,okudu bağlı olduğun Çiviler çektin\n\n7. **[Yanıtla](https://www.blogger.com/null)**\n\n27. **[Sevan Nişanyan](https://www.blogger.com/profile/11368801692909214434)**[11 Ocak 2013 21:...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 44
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#37",
+          "score": 0.0,
+          "content": "Sevan Nişanyan bence Frankfurt okulu türevli eleştirel teori, kültürel çalışmalar, postmodern (kastım ilerlemeci modernist düşünce eleştirisi), yapısalcılıksonrası ve (sanırım) sömürgesonrası teori il...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 45
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#22",
+          "score": 0.0,
+          "content": "Yorum sahibi, a) Perihan Mağdeni sevmiyor, b) alkollü veya dumanlı.\n\n2. **[savrulangünler](https://www.blogger.com/profile/07360367582107021279)**[8 Ocak 2013 14:25](http://nisanyan1.blogspot.com/2013...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 46
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#21",
+          "score": 0.0,
+          "content": "Evet, okumalıyım sanırım. Ama Gibbon'un dili eşsizdir, zannetmem ki başka kimse yakınına gelebilsin. Org mübarek, org.\n\n2. **[Yanıtla](https://www.blogger.com/null)**\n\n12. **Adsız**[5 Ocak 2013 01:49]...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 47
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#20",
+          "score": 0.0,
+          "content": "Moltke'nin Türkiye Mektupları - kesinlikle evet, listede olmalı. Vardı bende de gitmiş bir yerlere herhalde, aklıma gelmedi.\n\n2. **Adsız**[11 Ocak 2013 15:41](http://nisanyan1.blogspot.com/2013/01/oku...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 48
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#38",
+          "score": 0.0,
+          "content": "Bu listede gordugume sevindim. Eger okumadiysaniz, Allan Bloom'un cok yakin bir arkadasi olan, yine Chicago yazari Saul Bellow romanlarindan da okumanizi oneririm. Chicago'dan sevgiler, [Yanıtla](http...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 49
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#27",
+          "score": 0.0,
+          "content": "Üstadım, sizin kadar da ince, gelişmiş zevklerle böylesine bir paspallığı birleştiren kimse yoktur, herhalde. Bach dinle, dünyayı gezip gör, onca dile vakıf ol, sonra da gel mahalle cazgırı, bohçaçı t...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 50
+        }
+      ],
+      "performance": {
+        "total_time_ms": 1.3899803161621094,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "hybrid": {
+      "query": "laiklik",
+      "strategy": "hybrid",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "32bfb91b211d#5",
+          "score": 0.03252247488101534,
+          "content": "Onların dilini konuşan da, malum bir avuç azınlıktır. O halde o azınlık korunmalıdır.\n\n**Yeni model, laiklik** Laiklik, Osmanlı sekülarizminin Cumhuriyet dönemindeki yeni adıdır. Maksat yine nettir, m...",
+          "metadata": {
+            "title": "Kısaca, modern Türkiye tarihi: Sekülarizm",
+            "date": "Jun 24, 2021",
+            "source": "https://nisanyan.substack.com/p/ksaca-modern-turkiye-tarihi-sekularizm-21-06-24",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 8
+          },
+          "dense_score": 0.27238689255269305,
+          "sparse_score": 3.8763506412506104,
+          "dense_rank": 1,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "068bd19015ab#0",
+          "score": 0.031754032258064516,
+          "content": "*“Laik toplumlarda kanunlar kutsal değildir. Zaman içinde insanların gelişen ihtiyaçlarına göre hukukta iyileştirme yapılabilir. Laik toplumlarda insanlar kendi yasalarını yapar, tanrı onların dünyada...",
+          "metadata": {
+            "title": "Seçme saçmalar: Hukuk, İslam, Allah kelamı vs.",
+            "date": "Jul 30, 2021",
+            "source": "https://nisanyan.substack.com/p/secme-sacmalar-hukuk-islam-allah-21-07-30",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.2665534490817697,
+          "sparse_score": 3.853706121444702,
+          "dense_rank": 2,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "f7861fc867bc#0",
+          "score": 0.031746031746031744,
+          "content": "**“Laik toplumlarda kanunlar kutsal değildir. Zaman içinde insanların gelişen ihtiyaçlarına göre hukukta iyileştirme yapılabilir. Laik toplumlarda insanlar kendi yasalarını yapar, tanrı onların dünyad...",
+          "metadata": {
+            "title": "Hukuk, İslam, Allah kelamı vs.",
+            "date": "30 July 2021",
+            "source": "https://www.sevannisanyan.com/metin/hukuk-islam-allah-kelami-vs-94373",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.26246724813924127,
+          "sparse_score": 3.853706121444702,
+          "dense_rank": 3,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "68b3c2887644#1",
+          "score": 0.031009615384615385,
+          "content": "Bu sınıf, asker ve sivil bürokrasinin iktidarını kısıtlayıcı, devletin ellerini bağlayıcı, reform projelerine köstek olucu bir güçtü. Laiklik, bu gücü kırmayı hedefleyen politikanın adıdır. Cumhuriyet...",
+          "metadata": {
+            "title": "Kemalizm İslam’ın bir mezhebi mi",
+            "date": "26 February 2023",
+            "source": "https://www.sevannisanyan.com/metin/kemalizm-islamin-bir-mezhebi-mi-11938",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.25667935683672494,
+          "sparse_score": 3.7413084506988525,
+          "dense_rank": 4,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "32bfb91b211d#4",
+          "score": 0.030090497737556562,
+          "content": "Türk elitinin kültürel modeli ve sosyal dayanağı olan, ona modacı, eğitmen, garson, banker, editör, mimar, matbaacı, tarım danışmanı ve piyano hocası olarak hizmet eden yerli gayrimüslimler gidince, s...",
+          "metadata": {
+            "title": "Kısaca, modern Türkiye tarihi: Sekülarizm",
+            "date": "Jun 24, 2021",
+            "source": "https://nisanyan.substack.com/p/ksaca-modern-turkiye-tarihi-sekularizm-21-06-24",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 8
+          },
+          "dense_score": 0.23330671405013112,
+          "sparse_score": 3.130406141281128,
+          "dense_rank": 5,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "2773389a8a1e#0",
+          "score": 0.029551337359792925,
+          "content": "I.\n\nLaiklik şarttır ve hayati önemdedir. Bin yıl öncenin hurafelerini kamu yönetiminden dışlamadan, gençleri o zararlı iptiladan az ya da çok kurtaracak tedbirleri almadan, sağlıklı ve uygar bir toplu...",
+          "metadata": {
+            "title": "On Kasım tezleri",
+            "date": "Nov 10, 2017",
+            "source": "https://nisanyan.substack.com/p/on-kasm-tezleri-17-11-10",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.21021731785404302,
+          "sparse_score": 3.9135501384735107,
+          "dense_rank": 16,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "32bfb91b211d#7",
+          "score": 0.025833333333333333,
+          "content": "Bir süre sonra bu kitlenin inanç ve önyargıları Cumhuriyet elitine baskın gelmeye başlayacaktır. ‘Laiklik’ davasının öznesini oluşturan gayri-islami yaşam tarzına sahip seçkinler 1960 ve 1980 askeri d...",
+          "metadata": {
+            "title": "Kısaca, modern Türkiye tarihi: Sekülarizm",
+            "date": "Jun 24, 2021",
+            "source": "https://nisanyan.substack.com/p/ksaca-modern-turkiye-tarihi-sekularizm-21-06-24",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 8
+          },
+          "dense_score": 0.2104291919538298,
+          "sparse_score": 2.6818060874938965,
+          "dense_rank": 15,
+          "sparse_rank": 20
+        },
+        {
+          "chunk_id": "068bd19015ab#1",
+          "score": 0.024489795918367346,
+          "content": "Çünkü tanrı hayaldir. Sadece yasa yapmanın farklı yöntemleri vardır.\n\n*“Roma imparatorluğunda kanunlarla toplumda kutsal olan ve olmayan net bir şekilde ayrılmıştır. Laiklik esas alınmıştır.”* Biraz R...",
+          "metadata": {
+            "title": "Seçme saçmalar: Hukuk, İslam, Allah kelamı vs.",
+            "date": "Jul 30, 2021",
+            "source": "https://nisanyan.substack.com/p/secme-sacmalar-hukuk-islam-allah-21-07-30",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.20019292557335266,
+          "sparse_score": 2.9635283946990967,
+          "dense_rank": 38,
+          "sparse_rank": 10
+        },
+        {
+          "chunk_id": "f7861fc867bc#1",
+          "score": 0.023518469306404464,
+          "content": "Çünkü tanrı hayaldir. Sadece yasa yapmanın farklı yöntemleri vardır.\n\n**“Roma imparatorluğunda kanunlarla toplumda kutsal olan ve olmayan net bir şekilde ayrılmıştır. Laiklik esas alınmıştır.”** Biraz...",
+          "metadata": {
+            "title": "Hukuk, İslam, Allah kelamı vs.",
+            "date": "30 July 2021",
+            "source": "https://www.sevannisanyan.com/metin/hukuk-islam-allah-kelami-vs-94373",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.19754817143115883,
+          "sparse_score": 2.9588892459869385,
+          "dense_rank": 46,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "2d3a21bfcb08#5",
+          "score": 0.015151515151515152,
+          "content": "Nereden buluyor enerjiyi, eğer nektar ve ambrosia ile beslenmiyorsa? Yoksa yoktan enerji var olmaz diyen Lavoisier yasaları geçersiz midir? “Konuşmak” intersübjektif bir eylemdir, yani birden fazla öz...",
+          "metadata": {
+            "title": "Halim ile Selim 1: Ateizme giriş",
+            "date": "Dec 24, 2017",
+            "source": "https://nisanyan.substack.com/p/halim-ile-selim-1-ateizme-giris-17-12-24",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 10
+          },
+          "dense_score": 0.2319413135401796,
+          "sparse_score": null,
+          "dense_rank": 6,
+          "sparse_rank": null
+        }
+      ],
+      "performance": {
+        "total_time_ms": 289.76988792419434,
+        "dense_time_ms": 288.8457775115967,
+        "sparse_time_ms": 0.7028579711914062,
+        "fusion_time_ms": 0.22125244140625
+      },
+      "total_candidates": 100
+    }
+  },
+  "overlap_analysis": {
+    "total_unique_chunks": 91,
+    "pairwise_overlap": {
+      "dense_vs_sparse": {
+        "intersection": 9,
+        "union": 91,
+        "jaccard": 0.0989010989010989,
+        "only_in_first": 41,
+        "only_in_second": 41
+      },
+      "dense_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      },
+      "sparse_vs_hybrid": {
+        "intersection": 9,
+        "union": 51,
+        "jaccard": 0.17647058823529413,
+        "only_in_first": 41,
+        "only_in_second": 1
+      }
+    }
+  }
+}

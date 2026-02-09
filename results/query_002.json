@@ -1,0 +1,1858 @@
+{
+  "query": "Osmanlı İmparatorluğu",
+  "strategies": {
+    "dense": {
+      "query": "Osmanlı İmparatorluğu",
+      "strategy": "dense",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "a65fa8729033#1",
+          "score": 0.6022534065383083,
+          "content": "Osmanlı’nın kavramları ve kurumları bu iki imparatorluktan mirastır. Abbasilerin kaderinden ders alır; yerel askeri şeflerin palazlanmasını önlemek için, merkezi hazineden beslenen bir köle ordusu kur...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 7
+          },
+          "dense_score": 0.6022534065383083,
+          "sparse_score": null,
+          "dense_rank": 1,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a65fa8729033#0",
+          "score": 0.5821947898405606,
+          "content": "Son paylaşımıma gelen cevaplardan anlaşıldı ki halkımız Osmanlı’dan nefret etmektedir, Osmanlı’yı bir tür über-AKP rejimi olarak tahayyül etmektedir – ya da öyle söyleyince Sevan Hoca’nın hoşuna gider...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5821947898405606,
+          "sparse_score": null,
+          "dense_rank": 2,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "04a42d78c49b#1",
+          "score": 0.5303527163082132,
+          "content": "Zorlama bir modeldi. Uygulanmadı, yürümedi. Zaten Ruslar Kırım’ı derhal kolonize ettiler, Tatarları korkutup kaçırdılar, kısa bir süre sonra orası Hristiyan memleketi oldu zaten, konu kapandı. Bu sıra...",
+          "metadata": {
+            "title": "Halifelik çağı geçmiş bir kurum mu",
+            "date": "18 June 2023",
+            "source": "https://www.sevannisanyan.com/metin/halifelik-cagi-gecmis-bir-kurum-mu-84883",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.5303527163082132,
+          "sparse_score": null,
+          "dense_rank": 3,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6cc4b07e54f1#1",
+          "score": 0.5224505253063414,
+          "content": "Mısır’da Cin Ali Paşa isyan ederek saltanatını ilan etti. İmparatorluğun farklı yerlerinde de isyanlar çıktı. Ruslar Romanya beyliklerini istila ettikten sonra Tuna’yı aşıp Bulgaristan’a yürüdüler. Fa...",
+          "metadata": {
+            "title": "Moskof Harpleri",
+            "date": "Feb 29, 2020",
+            "source": "https://nisanyan.substack.com/p/moskof-harpleri-20-02-29",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 8
+          },
+          "dense_score": 0.5224505253063414,
+          "sparse_score": null,
+          "dense_rank": 4,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6ae455cb6c50#0",
+          "score": 0.5215454232511817,
+          "content": "Osmanlı devletinde 1850’lere dek her türlü sivil ve askeri devlet görevi Müslümanların tekelinde idi. İslam hukukunun Osmanlı’da cari olan yorumuna göre, bir gayrimüslimin müslime emir verebileceği bi...",
+          "metadata": {
+            "title": "Bakan bile olmuş nankörler",
+            "date": "Jan 14, 2013",
+            "source": "https://nisanyan.substack.com/p/bakan-bile-olmus-nankorler-13-01-14",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5215454232511817,
+          "sparse_score": null,
+          "dense_rank": 5,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "46dc6f35309b#1",
+          "score": 0.5211511527387527,
+          "content": "Yalnız Anadolu değil, Balkan ülkeleri de böyle. Hele Suriye ile Irak büsbütün tükenmiştir 19. yüzyıl sonuna geldiğimizde. Osmanlı hakkında bilmeniz gereken temel bilgi budur. Gelmiş, çökmüş, bitirmiş....",
+          "metadata": {
+            "title": "Osmanlı nasıl özetlenir",
+            "date": "20 June 2021",
+            "source": "https://www.sevannisanyan.com/metin/osmanli-nasil-ozetlenir-96663",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.5211511527387527,
+          "sparse_score": null,
+          "dense_rank": 6,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a65fa8729033#2",
+          "score": 0.5163734617806741,
+          "content": "Bir zamanlar (Çin ve Hint ile birlikte) dünyanın en müreffeh diyarlarından ikisi olan Anadolu-Rumeli ve Mısır, beş yüz yıllık Osmanlı egemenliği sonunda ekonomik ve kültürel sahalarda taş devrine döne...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5163734617806741,
+          "sparse_score": null,
+          "dense_rank": 7,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "073b010093d0#1",
+          "score": 0.5157190266265126,
+          "content": "Fakat öyle bir noktaya gelindi ki, bugün Türkiye bir savaşa girse Batılı devletlerin NATO sözleşmesi çerçevesinde yardıma koşmaları ihtimali pek şüpheli hale geldi. 1876’da bir askeri darbeyle başa ge...",
+          "metadata": {
+            "title": "Osmanlı anayasasını kimler getirdi",
+            "date": "27 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/osmanli-anayasasini-kimler-getirdi-30316",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5157190266265126,
+          "sparse_score": null,
+          "dense_rank": 8,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "43ac52db8bdd#1",
+          "score": 0.5144968943434907,
+          "content": "Ben rastlamadım. Arapça sözcük *umm*(“ana”) kökünden gelir, “ortak kökten gelenler” anlamında frenkçe *nation*kelimesinin bire bir karşılığıdır. Lakin İslam kültüründe ‘islam ümmeti’ kavramı ek bir an...",
+          "metadata": {
+            "title": "Osmanlı tarihi, özet",
+            "date": "Nov 22, 2020",
+            "source": "https://nisanyan.substack.com/p/osmanl-tarihi-ozet-20-11-22",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5144968943434907,
+          "sparse_score": null,
+          "dense_rank": 9,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "08f23d4b06a0#0",
+          "score": 0.5004398873178195,
+          "content": "Bir arkadaş sormuş:\n\n\"Acaba iki milyona yakın bir sayıya sahip olan Osmanlı Ermenileri, genel olarak aynı tavrı devlet düşmanlarına karşı sergileseydi, Soykırım yaşanır mıydı? Yoksa vefa-ihanet bahane...",
+          "metadata": {
+            "title": "Osmanlı Ermenileri nasıl bozuldu",
+            "date": "Jun 15, 2020",
+            "source": "https://nisanyan.substack.com/p/osmanl-ermenileri-nasl-bozuldu-20-06-15",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.5004398873178195,
+          "sparse_score": null,
+          "dense_rank": 10,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e7e9db5f28cb#0",
+          "score": 0.4974466301748438,
+          "content": "Timur'u izleyen yüz yılda Osmanlı'nın amacı, hedefi, ideali, Doğu Roma İmparatorluğu'nu ihya etmekti.\n\nÖnce II. Murat, peşinden Fatih, Bizans'ın düşkünlük çağında kaybettiği eski topraklarını kazanmak...",
+          "metadata": {
+            "title": "Yavuz neden kötü",
+            "date": "Jan 07, 2026",
+            "source": "https://nisanyan.substack.com/p/yavuz-neden-kotu",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.4974466301748438,
+          "sparse_score": null,
+          "dense_rank": 11,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "43ac52db8bdd#3",
+          "score": 0.49472525880384366,
+          "content": "Yani İslam yükselişteyken halkın %60’ını susturdun diyelim. Fransız ihtilalini millet işittikten sonra nasıl susturacaksın? Kıyas gerekiyorsa belki Avrupa ile değil Hindistan’la kıyaslamak lazım. Hind...",
+          "metadata": {
+            "title": "Osmanlı tarihi, özet",
+            "date": "Nov 22, 2020",
+            "source": "https://nisanyan.substack.com/p/osmanl-tarihi-ozet-20-11-22",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.49472525880384366,
+          "sparse_score": null,
+          "dense_rank": 12,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6ae455cb6c50#3",
+          "score": 0.49312520711778274,
+          "content": "Ermeniler teorik olarak 1856’dan itibaren orduya kabul edilmişlerse de fiiliyatta ancak 1910’dan itibaren askere alınmışlar ve ilk kez 1912 Balkan Harbinde Osmanlı saflarında muharebeye katılmışlardır...",
+          "metadata": {
+            "title": "Bakan bile olmuş nankörler",
+            "date": "Jan 14, 2013",
+            "source": "https://nisanyan.substack.com/p/bakan-bile-olmus-nankorler-13-01-14",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.49312520711778274,
+          "sparse_score": null,
+          "dense_rank": 13,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5ce22c5438ef#1",
+          "score": 0.48725893698959133,
+          "content": "Jüstinyen zamanında kısa bir süre İtalya’nın tümünü kontrol altına almayı başardılar. Tunus’ta, İspanya’nın batı sahillerinde borularını öttürdüler. Bu egemenlik 6. yüzyıl ortalarında iflas etti. Bunu...",
+          "metadata": {
+            "title": "Bizans süper güç müydü",
+            "date": "09 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/bizans-super-guc-muydu-33757",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.48725893698959133,
+          "sparse_score": null,
+          "dense_rank": 14,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6cc4b07e54f1#6",
+          "score": 0.47891482031044463,
+          "content": "İktidardaki Rüştü Paşa-Mithat Paşa rejimi tınmadı, konferansın bitmesini beklemeden Meşrutiyet’i ilan etti, ertesi hafta alelacele Türk tarihinin ilk parlamento seçimlerini düzenledi. Bu suretle konfe...",
+          "metadata": {
+            "title": "Moskof Harpleri",
+            "date": "Feb 29, 2020",
+            "source": "https://nisanyan.substack.com/p/moskof-harpleri-20-02-29",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 8
+          },
+          "dense_score": 0.47891482031044463,
+          "sparse_score": null,
+          "dense_rank": 15,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "46dc6f35309b#2",
+          "score": 0.4782363016771213,
+          "content": "Dünyanın en zengin coğrafyalarından biri, dünyanın en feci, sikik coğrafyalarından biri haline gelmiş. Ve bu süreçte Osmanlı Devleti yönetmiş buraları. Osmanlı hakkında söyleyeceğiniz diğer her şey bu...",
+          "metadata": {
+            "title": "Osmanlı nasıl özetlenir",
+            "date": "20 June 2021",
+            "source": "https://www.sevannisanyan.com/metin/osmanli-nasil-ozetlenir-96663",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4782363016771213,
+          "sparse_score": null,
+          "dense_rank": 16,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5119c6416920#1",
+          "score": 0.47561507372831735,
+          "content": "Diplomatik. Almanya'nın yükselişi Avrupa dengelerini altüst etmiştir. Rusya'nın çökmesi beklenmektedir. O hengamede bize de bir pay düşebilir. 5. Askeri. Abdülhamit zamanında başlayan ve 1908'den sonr...",
+          "metadata": {
+            "title": "Yurtta sulh cihanda sulh konusuna devam",
+            "date": "Mar 14, 2020",
+            "source": "https://nisanyan.substack.com/p/yurtta-sulh-cihanda-sulh-konusuna-20-03-14",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 5
+          },
+          "dense_score": 0.47561507372831735,
+          "sparse_score": null,
+          "dense_rank": 17,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5d43f239b73c#2",
+          "score": 0.4753137935572984,
+          "content": "İkisinin de İngilizcesi, Fransızcası, Almancası var. Türkçe beklemeyin. \\*Amerika kıtasındaki İspanyol kolonyalizmi ile Osmanlı kıtasındaki İslam kolonyalizmi şaşılacak derecede birbirine benzer. İkis...",
+          "metadata": {
+            "title": "İspanyollar daha mı kötü?",
+            "date": "Apr 18, 2018",
+            "source": "https://nisanyan.substack.com/p/ispanyollar-daha-m-kotu-18-04-18",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 5
+          },
+          "dense_score": 0.4753137935572984,
+          "sparse_score": null,
+          "dense_rank": 18,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "43ac52db8bdd#2",
+          "score": 0.4706292296007728,
+          "content": "Çağdaşlaşılmış oldu.\n\n**Osmanlı’da gayrimüslimler paşa olur muydu?** Osmanlı’nın düşkünlük çağından söz etmiyorsak eğer, elbette olamazdı. 1299-1856 arasında bir tane bile gayrimüslim paşa, vezir, kom...",
+          "metadata": {
+            "title": "Osmanlı tarihi, özet",
+            "date": "Nov 22, 2020",
+            "source": "https://nisanyan.substack.com/p/osmanl-tarihi-ozet-20-11-22",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4706292296007728,
+          "sparse_score": null,
+          "dense_rank": 19,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e75ef03c4f84#3",
+          "score": 0.4705349872120038,
+          "content": "İdare ve ordu reformu için Batılıların desteği lazımdır. Abdülhamit’in iktidarı sallantıdadır. Bu sefer Galatasaray lisesi müdürlerinden, saygın bir İslam hukuku alimi olan Savvas Paşa göreve çağrılır...",
+          "metadata": {
+            "title": "Hain Abdül memleketi nasıl Ermenilere sattı",
+            "date": "Jun 15, 2020",
+            "source": "https://nisanyan.substack.com/p/hain-abdul-memleketi-nasl-ermenilere-20-06-15",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4705349872120038,
+          "sparse_score": null,
+          "dense_rank": 20,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a82398f8803d#0",
+          "score": 0.470358536740545,
+          "content": "Demokrasinin faydası ne? “Halk iradesi”, “halkın çıkarı” gibi fantezi fikirleri bir yana bırakırsan, çok basit, çok mütevazı, ama önemli birkaç şey. Bir, iktidarın kan dökülmeden el değiştirmesini sağ...",
+          "metadata": {
+            "title": "Rejim dersleri",
+            "date": "Jan 23, 2017",
+            "source": "https://nisanyan.substack.com/p/rejim-dersleri-1-2-3-17-01-23",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 7
+          },
+          "dense_score": 0.470358536740545,
+          "sparse_score": null,
+          "dense_rank": 21,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "585eefa74af0#1",
+          "score": 0.47022199068323756,
+          "content": "5) Aynı yy sonunda sosyal yapıda biçimsel Batılılaşma hareketleri gelir - 3.Selim ve 2.Mahmud - kılık kıyafet değişikliği, Anadolu Rum'unun \"fes\"ini benimseme, batılı gibi giyinme (Fransız Devriminin ...",
+          "metadata": {
+            "title": "Marx'ta hayat yok",
+            "date": "Nov 03, 2014",
+            "source": "https://nisanyan.substack.com/p/marxta-hayat-yok-14-11-03",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.47022199068323756,
+          "sparse_score": null,
+          "dense_rank": 22,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "46f7bd7e5c35#0",
+          "score": 0.46751099202289526,
+          "content": "**İki milyona yakın bir sayıya sahip olan Osmanlı Ermenileri, aynı tavrı devlet düşmanlarına karşı sergileseydi Soykırım yaşanır mıydı? Yoksa vefa-ihanet bahane miydi, gerçek sorun Anadolu’yu Türklük ...",
+          "metadata": {
+            "title": "Osmanlı Ermenileri nasıl bozuldu",
+            "date": "15 June 2020",
+            "source": "https://www.sevannisanyan.com/metin/osmanli-ermenileri-nasil-bozuldu-52635",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.46751099202289526,
+          "sparse_score": null,
+          "dense_rank": 23,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "db0632b88569#3",
+          "score": 0.4657500431270016,
+          "content": "Asıl yönetici olan askeriye sınıfında ve daha sonra güçlenen sivil kalemiyede her zaman toplumun en alt tabakalarından gelenler tercih ve teşvik edilmiştir. Paşaların büyük çoğunluğu, herhangi bir ail...",
+          "metadata": {
+            "title": "Osmanlı köle sever",
+            "date": "Oct 30, 2018",
+            "source": "https://nisanyan.substack.com/p/osmanl-kole-sever-18-10-30",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 9
+          },
+          "dense_score": 0.4657500431270016,
+          "sparse_score": null,
+          "dense_rank": 24,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "db0632b88569#5",
+          "score": 0.46511941911357196,
+          "content": "Yüz yıldır girdiği her savaştan galibiyetle çıkan ve zaten uçsuz bucaksız olan imparatorluğunu iki katına çıkarmanın eşiğinde duran Osmanlı’nın, uzun vadede kaybetmeye mahkum olduğu kanısını dile geti...",
+          "metadata": {
+            "title": "Osmanlı köle sever",
+            "date": "Oct 30, 2018",
+            "source": "https://nisanyan.substack.com/p/osmanl-kole-sever-18-10-30",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 9
+          },
+          "dense_score": 0.46511941911357196,
+          "sparse_score": null,
+          "dense_rank": 25,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "472803346a3a#11",
+          "score": 0.46465449727296415,
+          "content": "Palu’da, Dersim’de, Hizan’da, Van’da neler oluyor? O kadar net bir tablo çıkıyor ki ortaya! Osmanlı Devleti 17. yüzyıldan itibaren dirlik ve düzenlikten yoksun bir toplumdu. Devlet gücü çoğu yerde son...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": "",
+            "chunk_index": 11,
+            "total_chunks": 47
+          },
+          "dense_score": 0.46465449727296415,
+          "sparse_score": null,
+          "dense_rank": 26,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ccf4bee1a4a4#1",
+          "score": 0.46456091778090425,
+          "content": "Son halife Abdülmecid Efendi Paris’i tercih etti. Yirmi yıl orada resim yaparak ve ara sıra Fransız Riviera’sındaki torunlarını ziyaret ederek vakit geçirdi. Taht sırasında bir sonra gelen şehzade Sel...",
+          "metadata": {
+            "title": "Ecdat hikâyeleri",
+            "date": "Feb 26, 2017",
+            "source": "https://nisanyan.substack.com/p/ecdat-hikayeleri-17-02-26",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.46456091778090425,
+          "sparse_score": null,
+          "dense_rank": 27,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ff881f876f0b#2",
+          "score": 0.4628592696104555,
+          "content": "Devam edersek derya gibi konulara yelken açarız. Halk arasında “yobazlık” diye tanımlanan İslam dininin SİYASİ işlevi neydi? Osmanlı devletinin sınıfsal altyapısı neydi, matbaanın reddedilmesi bu yapı...",
+          "metadata": {
+            "title": "Osmanlı'da matbaa neden gecikti?",
+            "date": "Feb 16, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanlda-matbaa-neden-gecikti-19-02-16",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4628592696104555,
+          "sparse_score": null,
+          "dense_rank": 28,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5119c6416920#0",
+          "score": 0.4620642712556623,
+          "content": "Osmanlı'nın fütuhat çağı 1699'da kapanır. Bunu izleyen 210 yılda Osmanlı'nın yeni bir toprak fethetme çabası olmamıştır. Resmi ideoloji ve kültür buna paralel olarak değişmiş, var olan değerleri korum...",
+          "metadata": {
+            "title": "Yurtta sulh cihanda sulh konusuna devam",
+            "date": "Mar 14, 2020",
+            "source": "https://nisanyan.substack.com/p/yurtta-sulh-cihanda-sulh-konusuna-20-03-14",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 5
+          },
+          "dense_score": 0.4620642712556623,
+          "sparse_score": null,
+          "dense_rank": 29,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a82398f8803d#1",
+          "score": 0.46194250880667065,
+          "content": "Çünkü monark, Avrupa ülkelerine has bir dizi tarihi tesadüf sonucu, ırsî aristokrat sınıfıyla fazlaca iç içe geçmişti. O sınıf çökünce monarşi de dayanağını yitirdi.\n\n**Osmanlı’nın sonu** Avrupa öyle....",
+          "metadata": {
+            "title": "Rejim dersleri",
+            "date": "Jan 23, 2017",
+            "source": "https://nisanyan.substack.com/p/rejim-dersleri-1-2-3-17-01-23",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 7
+          },
+          "dense_score": 0.46194250880667065,
+          "sparse_score": null,
+          "dense_rank": 30,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "dacf4fe711ee#1",
+          "score": 0.4610193464184026,
+          "content": "Sürdürülebilse, geçiş döneminin yalpalamalarını aşıp kurumsal bir istikrara kavuşabilir miydi? 2. Abdülmecid ve belki Ömer Faruk Ef. gibi ‘modern’ ve ‘Avrupai’ hükümdarlar yönetiminde, Britanya veya H...",
+          "metadata": {
+            "title": "Saltanat ve Hilafete ilişkin cevabını bilmediğim sorular",
+            "date": "Jul 09, 2022",
+            "source": "https://nisanyan.substack.com/p/saltanat-ve-hilafete-iliskin-cevabn",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4610193464184026,
+          "sparse_score": null,
+          "dense_rank": 31,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "091985f92040#1",
+          "score": 0.4605461347969369,
+          "content": "Beklenmedik bir şekilde Avusturyalılar da Rusların Sırbistan’a müdahalesini destekler duruma geçtiler. Çünkü öbür türlü Bosna’daki beklentileri suya düşecekti. Mithat Paşa hükümetinin, öyle anlaşılıyo...",
+          "metadata": {
+            "title": "Osmanlı 1877 Rus Harbine nasıl girdi",
+            "date": "13 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/osmanli-1877-rus-harbine-nasil-girdi-37954",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4605461347969369,
+          "sparse_score": null,
+          "dense_rank": 32,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "8fee30fad980#1",
+          "score": 0.4598247984442412,
+          "content": "İslam ülkeleri yeni bir Osmanlı ağası arayışında değildir. Tarihi hatırlayın: 15. yy’da birleşik Avrupa güçlerini ezip geçen Osmanlı’nın, sonraki yüz yılda Orta Doğu savaşlarıyla bitkin düşmesi tesadü...",
+          "metadata": {
+            "title": "Minareler süngümüz, kubbeler miğferimiz",
+            "date": "Jul 13, 2020",
+            "source": "https://nisanyan.substack.com/p/minareler-sungumuz-kubbeler-migferimiz-20-07-13",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4598247984442412,
+          "sparse_score": null,
+          "dense_rank": 33,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0600eb971b9b#13",
+          "score": 0.4595978762014436,
+          "content": "It is not a matter of what happened a hundred years ago. It is what might happen today, and what it says about a people that find it in their conscience to make it happen. [[1]](https://www.blogger.co...",
+          "metadata": {
+            "title": "A Note on the Armenian Genocide",
+            "date": "Apr 14, 2019",
+            "source": "https://nisanyan.substack.com/p/a-note-on-the-armenian-genocide-19-04-14",
+            "keywords": "",
+            "chunk_index": 13,
+            "total_chunks": 15
+          },
+          "dense_score": 0.4595978762014436,
+          "sparse_score": null,
+          "dense_rank": 34,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "472803346a3a#5",
+          "score": 0.45938092507405043,
+          "content": "Teoriden çok gizli örgüt pratiğine önem verir. Kurucuları üç Rusya Ermenisidir. Üçü de üniversitelidir. Üçü de Rus polisinin baskısından kaçıp Avrupa’ya ve İstanbul’a göçecektir. 93 Rus-Osmanlı harbin...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 47
+          },
+          "dense_score": 0.45938092507405043,
+          "sparse_score": null,
+          "dense_rank": 35,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "472803346a3a#14",
+          "score": 0.45869733906463506,
+          "content": "Buna karşılık Rusya’nın politikası sistemli olarak Ermenileri Rusya’yı dost ve kurtarıcı olarak görecekleri bir noktaya çekmektir. İstanbul Ermenileri arasında o dönemde Rusçu parti vardır, İngilterec...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": "",
+            "chunk_index": 14,
+            "total_chunks": 47
+          },
+          "dense_score": 0.45869733906463506,
+          "sparse_score": null,
+          "dense_rank": 36,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a65fa8729033#3",
+          "score": 0.45712199434745326,
+          "content": "Çöker.\n\n**3. İslam** Osmanlı ekonomisinin temeli olan miri toprak düzeni İslam hukukunun ruhuna ve muhtemelen sözüne aykırıdır. İslam hukuku özel mülkiyeti ve bireysel ticareti esas alır, gelişkin bir...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 7
+          },
+          "dense_score": 0.45712199434745326,
+          "sparse_score": null,
+          "dense_rank": 37,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9eb51853e031#1",
+          "score": 0.4565621595913266,
+          "content": "Bulgaristan’daki müttefik kuvvetlerinin isterlerse birkaç gün içinde İstanbul’u alacaklarına kesin gözüyle bakılır. Başkentte panik başlar, hükümet Anadolu’ya çekilme hazırlığı yapar. [Batı Trakya o t...",
+          "metadata": {
+            "title": "Cihan Harbinin son günleri",
+            "date": "Nov 06, 2021",
+            "source": "https://nisanyan.substack.com/p/cihan-harbinin-son-gunleri",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4565621595913266,
+          "sparse_score": null,
+          "dense_rank": 38,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "32bfb91b211d#2",
+          "score": 0.4565214827966724,
+          "content": "Gâvurlar bunu başarıyorsa gâvurlukta bir hikmet mi var acaba?\n\n**Neden olmadı**\n\nDeney başarısızlıkla sonuçlanmıştır. Çünkü: 1) Özellikle taşradaki müslim ahali, islamın yüzyıllardan beri kendilerine ...",
+          "metadata": {
+            "title": "Kısaca, modern Türkiye tarihi: Sekülarizm",
+            "date": "Jun 24, 2021",
+            "source": "https://nisanyan.substack.com/p/ksaca-modern-turkiye-tarihi-sekularizm-21-06-24",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 8
+          },
+          "dense_score": 0.4565214827966724,
+          "sparse_score": null,
+          "dense_rank": 39,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9686f034b4eb#2",
+          "score": 0.4559759985650246,
+          "content": "Anadolu’daki yerleşimlerin yaklaşık üçte birinin bu kaotik süreçte iskan edildiği ve adlandırıldığını sanıyorum. Bu yerlerin hemen hepsi “Türkmen” veya “Yörük” olma iddiasındadır. Kanımca karışık veya...",
+          "metadata": {
+            "title": "Çıkan dört bölümün özeti",
+            "date": "Oct 28, 2018",
+            "source": "https://nisanyan.substack.com/p/ckan-dort-bolumun-ozeti-18-10-28",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4559759985650246,
+          "sparse_score": null,
+          "dense_rank": 40,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "67848f12d1c7#3",
+          "score": 0.45435239236379243,
+          "content": "Saltanatın sarsıldığı devrin siyasileri de haritamızda boy gösteriyorlar. On **Şevketiye**’nin tamamı Rumeli muhaciri yerleşkesi olduğuna göre, 1913’te Balkan Harbi mültecilerinin iskanına girişildiği...",
+          "metadata": {
+            "title": "Anadolu'da gezintiler: Yeni Osmanlıca",
+            "date": "May 30, 2018",
+            "source": "https://nisanyan.substack.com/p/anadoluda-gezintiler-yeni-osmanlca-18-05-30",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 7
+          },
+          "dense_score": 0.45435239236379243,
+          "sparse_score": null,
+          "dense_rank": 41,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "619315e90ff7#0",
+          "score": 0.4540520524588188,
+          "content": "**Osmanlı’da son dönem Ermenilerin soyadlarının Pastırmacıyan, Deveciyan, Nalbantyan, Terziyan gibi Türkçe meslek isimlerinden oluşma nedeni Ermenilerin tercihi mi, yoksa Osmanlıların zorlaması ile mi...",
+          "metadata": {
+            "title": "Ermeni soyadları neden Türkçe",
+            "date": "02 April 2023",
+            "source": "https://www.sevannisanyan.com/metin/ermeni-soyadlari-neden-turkce-39883",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4540520524588188,
+          "sparse_score": null,
+          "dense_rank": 42,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "d8886da2917e#2",
+          "score": 0.45325673815035483,
+          "content": "Osmanlı’da ise bütün mülkün sahibi zaten padişah, memurlarını gönderip köylüden istediği haracı keser, dilediği vergiyi toplar. Kim direnecek? Karikatürleştirilmiş bir anlatıdır ama kısmen de olsa var...",
+          "metadata": {
+            "title": "Özgürlük Batı’nın hamurunda mı var",
+            "date": "21 May 2023",
+            "source": "https://www.sevannisanyan.com/metin/ozgurluk-batinin-hamurunda-mi-var-36226",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.45325673815035483,
+          "sparse_score": null,
+          "dense_rank": 43,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "86974ca28717#1",
+          "score": 0.4525281241717297,
+          "content": "Belki yaşlı Abdülmecit Efendi olmasa da, genç ve karizmatik oğlu Ömer Faruk Efendinin siyasette dengeleyici bir rol oynayabileceğini umdular. Hiçbir diktatör ikinci bir iktidar odağına tahammül edemez...",
+          "metadata": {
+            "title": "3 Mart 1924'te neler oldu? (1 - 2 - 3)",
+            "date": "Apr 15, 2017",
+            "source": "https://nisanyan.substack.com/p/3-mart-1924te-neler-oldu-1-2-3-17-04-15",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 8
+          },
+          "dense_score": 0.4525281241717297,
+          "sparse_score": null,
+          "dense_rank": 44,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "07d2683d7590#1",
+          "score": 0.4510665969234134,
+          "content": "Ismarlarsın, yazarlar. Hele ne kadar överlerse o kadar bahşiş vereceğini bilince daha iyi yazarlar. O yüzden böyle şeylere fazla kulak asmamak lazım. Şuna değinelim. 2. Murat dönemi çok enteresan bir ...",
+          "metadata": {
+            "title": "Fatih Sultan Mehmet entelektüel miydi",
+            "date": "24 April 2022",
+            "source": "https://www.sevannisanyan.com/metin/fatih-sultan-mehmet-entelektuel-miydi-06067",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4510665969234134,
+          "sparse_score": null,
+          "dense_rank": 45,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "db5468ced725#4",
+          "score": 0.4507263003366965,
+          "content": "Osmanlı ülkesinde de eskiden Müslüman diye anılan halkın kendini ‘Türk’ olarak yeniden tanımlaması sürecinde rol oynamış bir faktördür. Rusya’daki 1905 ihtilalinden sonra Rusya’nın o zamanlar Tatar di...",
+          "metadata": {
+            "title": "Türkler eskiden Osmanlı mıydı",
+            "date": "28 November 2021",
+            "source": "https://www.sevannisanyan.com/metin/turkler-eskiden-osmanli-miydi-81340",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 5
+          },
+          "dense_score": 0.4507263003366965,
+          "sparse_score": null,
+          "dense_rank": 46,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6cc4b07e54f1#0",
+          "score": 0.44947320945418184,
+          "content": "Osmanlı devletinin son 150 yılında Ruslarla Türkler yedi kez savaştı. Savaşların altısında Türk tarafı hezimete uğradı. Birinde İngiltere ve Fransa’nın Türkler safında savaşa girmesiyle Rusya yenildi....",
+          "metadata": {
+            "title": "Moskof Harpleri",
+            "date": "Feb 29, 2020",
+            "source": "https://nisanyan.substack.com/p/moskof-harpleri-20-02-29",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 8
+          },
+          "dense_score": 0.44947320945418184,
+          "sparse_score": null,
+          "dense_rank": 47,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0600eb971b9b#2",
+          "score": 0.4487645871222237,
+          "content": "The **method** of the purge was ambiguous until about mid-1915. Possibly it was not thought through, or perhaps there was no agreement. Pogrom was the classic method in Turkey and elsewhere. The commu...",
+          "metadata": {
+            "title": "A Note on the Armenian Genocide",
+            "date": "Apr 14, 2019",
+            "source": "https://nisanyan.substack.com/p/a-note-on-the-armenian-genocide-19-04-14",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 15
+          },
+          "dense_score": 0.4487645871222237,
+          "sparse_score": null,
+          "dense_rank": 48,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "67848f12d1c7#5",
+          "score": 0.4474248089410102,
+          "content": "Hemen hepsi, imparatorluğun çöküş sürecinde elden giden ülkelerden ser ü sefil Anadolu’ya gelen mültecilerin iskanı için yeni kurulan, ya da eski sahiplerinden zaptedilen yerler. Çoğunluğu Fırat’ın ba...",
+          "metadata": {
+            "title": "Anadolu'da gezintiler: Yeni Osmanlıca",
+            "date": "May 30, 2018",
+            "source": "https://nisanyan.substack.com/p/anadoluda-gezintiler-yeni-osmanlca-18-05-30",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4474248089410102,
+          "sparse_score": null,
+          "dense_rank": 49,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9686f034b4eb#0",
+          "score": 0.44741360812337505,
+          "content": "**I.**Türkler Anadolu’ya göçmedi, Anadolu’yu fethetti. İkisi farklı şeylerdir. Farkı ne diye sorarsanız Güney Amerika’daki İspanyolları düşünün. Onlar da göçmedi, ya da göçtüyse yüzde beş, yüzde on gö...",
+          "metadata": {
+            "title": "Çıkan dört bölümün özeti",
+            "date": "Oct 28, 2018",
+            "source": "https://nisanyan.substack.com/p/ckan-dort-bolumun-ozeti-18-10-28",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.44741360812337505,
+          "sparse_score": null,
+          "dense_rank": 50,
+          "sparse_rank": null
+        }
+      ],
+      "performance": {
+        "total_time_ms": 233.78515243530273,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "sparse": {
+      "query": "Osmanlı İmparatorluğu",
+      "strategy": "sparse",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "0941a3d52273#0",
+          "score": 4.007061004638672,
+          "content": "**20. yüzyılın başında Rus İmparatorluğu’nun yıkılışının ardında pek çok Rus aydını, yazarı ve sanatçısı yeni rejimin baskısından kaçarak Batı toplumunda başarılı bir kariyer edindi. Aynı dönemde Osma...",
+          "metadata": {
+            "title": "Sürgün Osmanlı ve Rus aydınlarının farkı ne",
+            "date": "01 October 2023",
+            "source": "https://www.sevannisanyan.com/metin/surgun-osmanli-ve-rus-aydinlarinin-farki-ne-29881",
+            "keywords": "Osmanlı aydınları, Rus aydınları, sürgün"
+          },
+          "dense_score": null,
+          "sparse_score": 4.007061004638672,
+          "dense_rank": null,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "e7e9db5f28cb#0",
+          "score": 3.9696249961853027,
+          "content": "Timur'u izleyen yüz yılda Osmanlı'nın amacı, hedefi, ideali, Doğu Roma İmparatorluğu'nu ihya etmekti.\n\nÖnce II. Murat, peşinden Fatih, Bizans'ın düşkünlük çağında kaybettiği eski topraklarını kazanmak...",
+          "metadata": {
+            "title": "Yavuz neden kötü",
+            "date": "Jan 07, 2026",
+            "source": "https://nisanyan.substack.com/p/yavuz-neden-kotu",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.9696249961853027,
+          "dense_rank": null,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "a65fa8729033#0",
+          "score": 3.896012783050537,
+          "content": "Son paylaşımıma gelen cevaplardan anlaşıldı ki halkımız Osmanlı’dan nefret etmektedir, Osmanlı’yı bir tür über-AKP rejimi olarak tahayyül etmektedir – ya da öyle söyleyince Sevan Hoca’nın hoşuna gider...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.896012783050537,
+          "dense_rank": null,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "ff881f876f0b#1",
+          "score": 3.729814291000366,
+          "content": "Matbaanın Avrupa’da yarattığı devrim sır değil, en geç 1470-1480’lerde ayan beyan bilinen bir gerçek. Farkına varmamaları mümkün mü? 3c. Enteresan. Nihayet adım atmaya karar verince işi neden Latince ...",
+          "metadata": {
+            "title": "Osmanlı'da matbaa neden gecikti?",
+            "date": "Feb 16, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanlda-matbaa-neden-gecikti-19-02-16",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.729814291000366,
+          "dense_rank": null,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "db0632b88569#5",
+          "score": 3.725646495819092,
+          "content": "Yüz yıldır girdiği her savaştan galibiyetle çıkan ve zaten uçsuz bucaksız olan imparatorluğunu iki katına çıkarmanın eşiğinde duran Osmanlı’nın, uzun vadede kaybetmeye mahkum olduğu kanısını dile geti...",
+          "metadata": {
+            "title": "Osmanlı köle sever",
+            "date": "Oct 30, 2018",
+            "source": "https://nisanyan.substack.com/p/osmanl-kole-sever-18-10-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.725646495819092,
+          "dense_rank": null,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "6cc4b07e54f1#1",
+          "score": 3.627781391143799,
+          "content": "Mısır’da Cin Ali Paşa isyan ederek saltanatını ilan etti. İmparatorluğun farklı yerlerinde de isyanlar çıktı. Ruslar Romanya beyliklerini istila ettikten sonra Tuna’yı aşıp Bulgaristan’a yürüdüler. Fa...",
+          "metadata": {
+            "title": "Moskof Harpleri",
+            "date": "Feb 29, 2020",
+            "source": "https://nisanyan.substack.com/p/moskof-harpleri-20-02-29",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.627781391143799,
+          "dense_rank": null,
+          "sparse_rank": 6
+        },
+        {
+          "chunk_id": "472803346a3a#14",
+          "score": 3.563021659851074,
+          "content": "Buna karşılık Rusya’nın politikası sistemli olarak Ermenileri Rusya’yı dost ve kurtarıcı olarak görecekleri bir noktaya çekmektir. İstanbul Ermenileri arasında o dönemde Rusçu parti vardır, İngilterec...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.563021659851074,
+          "dense_rank": null,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "67848f12d1c7#6",
+          "score": 3.482175350189209,
+          "content": "Cumhuriyet’e zemin hazırlayan büyük ulusal travmayı kavramak açısından ilginç detaylar bunlar.\n\n-------------------- *(ertesi gün)*\n\nDoktora olmaz ama nefis master tezi konusu: \"Türkiye'de Mahmudiye v...",
+          "metadata": {
+            "title": "Anadolu'da gezintiler: Yeni Osmanlıca",
+            "date": "May 30, 2018",
+            "source": "https://nisanyan.substack.com/p/anadoluda-gezintiler-yeni-osmanlca-18-05-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.482175350189209,
+          "dense_rank": null,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "47c4a262ed95#1",
+          "score": 3.4129858016967773,
+          "content": "Anlaşılan 11.-12. yy’larda Müslüman olan ve Acem kültürünü benimseyen Asya Türklerine de bu etiket uygun görülmüş. Daha derine inersen muhtemelen enteresan şeyler keşfedersin, geçenlerde “Türkler nece...",
+          "metadata": {
+            "title": "Kavim isimleri kaygandır, yakaladım sanırsın kaçar",
+            "date": "Jan 16, 2018",
+            "source": "https://nisanyan.substack.com/p/kavim-isimleri-kaygandr-yakaladm-18-01-16",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.4129858016967773,
+          "dense_rank": null,
+          "sparse_rank": 9
+        },
+        {
+          "chunk_id": "3d3eeea17802#0",
+          "score": 3.3289756774902344,
+          "content": "**19. yüzyıldaki Kahire-İstanbul rekabeti hakkında ne dersiniz? Özellikle modernleşme bağlamında bana literatürde yeterince işlenmemiş gibi geliyor.**\n\nTürkiye’de özellikle 19. yüzyılın son çeyreğinde...",
+          "metadata": {
+            "title": "Mısır neden Osmanlı’dan önce modernleşti",
+            "date": "16 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/misir-neden-osmanlidan-once-modernlesti-46921",
+            "keywords": "İslamda modernleşme, Mısır, Osmanlı"
+          },
+          "dense_score": null,
+          "sparse_score": 3.3289756774902344,
+          "dense_rank": null,
+          "sparse_rank": 10
+        },
+        {
+          "chunk_id": "619315e90ff7#0",
+          "score": 3.290968894958496,
+          "content": "**Osmanlı’da son dönem Ermenilerin soyadlarının Pastırmacıyan, Deveciyan, Nalbantyan, Terziyan gibi Türkçe meslek isimlerinden oluşma nedeni Ermenilerin tercihi mi, yoksa Osmanlıların zorlaması ile mi...",
+          "metadata": {
+            "title": "Ermeni soyadları neden Türkçe",
+            "date": "02 April 2023",
+            "source": "https://www.sevannisanyan.com/metin/ermeni-soyadlari-neden-turkce-39883",
+            "keywords": "Ermeni soyadları"
+          },
+          "dense_score": null,
+          "sparse_score": 3.290968894958496,
+          "dense_rank": null,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "ff881f876f0b#2",
+          "score": 3.243807315826416,
+          "content": "Devam edersek derya gibi konulara yelken açarız. Halk arasında “yobazlık” diye tanımlanan İslam dininin SİYASİ işlevi neydi? Osmanlı devletinin sınıfsal altyapısı neydi, matbaanın reddedilmesi bu yapı...",
+          "metadata": {
+            "title": "Osmanlı'da matbaa neden gecikti?",
+            "date": "Feb 16, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanlda-matbaa-neden-gecikti-19-02-16",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.243807315826416,
+          "dense_rank": null,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "8a7e2034795b#1",
+          "score": 3.2211499214172363,
+          "content": "Balkanlarda 1870’lerde başladı, Birinci Dünya Savaşı ertesinde kudurmuşluk mertebesine vardı. Yani bir salgın hastalık vardı dünyada ve Türkiye de bundan nasibini aldı. Bulgar yapıyor, Yunan yapıyor, ...",
+          "metadata": {
+            "title": "Anadoluculuk neden tutmadı",
+            "date": "05 June 2022",
+            "source": "https://www.sevannisanyan.com/metin/anadoluculuk-neden-tutmadi-34081",
+            "keywords": "Anadoluculuk, milliyetçilik, Osmanlının sonu, Rusyada çokulusluluk"
+          },
+          "dense_score": null,
+          "sparse_score": 3.2211499214172363,
+          "dense_rank": null,
+          "sparse_rank": 13
+        },
+        {
+          "chunk_id": "2f2d9d960142#0",
+          "score": 3.1946098804473877,
+          "content": "**ABD bir imparatorluk mu? Rusya bir imparatorluk mu? İmparatorluk nedir?**\n\nEski Roma İmparatorluğuna, yahut Osmanlı’ya, yahut 19. yüzyılda Büyük Britanya’nın hakimiyet alanına benzeyen nesnelere imp...",
+          "metadata": {
+            "title": "ABD nasıl bir imparatorluk",
+            "date": "24 April 2022",
+            "source": "https://www.sevannisanyan.com/metin/abd-nasil-bir-imparatorluk-13398",
+            "keywords": "ABD, imparatorluk"
+          },
+          "dense_score": null,
+          "sparse_score": 3.1946098804473877,
+          "dense_rank": null,
+          "sparse_rank": 14
+        },
+        {
+          "chunk_id": "6cc4b07e54f1#0",
+          "score": 3.1052498817443848,
+          "content": "Osmanlı devletinin son 150 yılında Ruslarla Türkler yedi kez savaştı. Savaşların altısında Türk tarafı hezimete uğradı. Birinde İngiltere ve Fransa’nın Türkler safında savaşa girmesiyle Rusya yenildi....",
+          "metadata": {
+            "title": "Moskof Harpleri",
+            "date": "Feb 29, 2020",
+            "source": "https://nisanyan.substack.com/p/moskof-harpleri-20-02-29",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.1052498817443848,
+          "dense_rank": null,
+          "sparse_rank": 15
+        },
+        {
+          "chunk_id": "46dc6f35309b#1",
+          "score": 3.079432964324951,
+          "content": "Yalnız Anadolu değil, Balkan ülkeleri de böyle. Hele Suriye ile Irak büsbütün tükenmiştir 19. yüzyıl sonuna geldiğimizde. Osmanlı hakkında bilmeniz gereken temel bilgi budur. Gelmiş, çökmüş, bitirmiş....",
+          "metadata": {
+            "title": "Osmanlı nasıl özetlenir",
+            "date": "20 June 2021",
+            "source": "https://www.sevannisanyan.com/metin/osmanli-nasil-ozetlenir-96663",
+            "keywords": "Osmanlı tarihi, Osmanlı'nın çöküşü"
+          },
+          "dense_score": null,
+          "sparse_score": 3.079432964324951,
+          "dense_rank": null,
+          "sparse_rank": 16
+        },
+        {
+          "chunk_id": "07d2683d7590#1",
+          "score": 3.07515287399292,
+          "content": "Ismarlarsın, yazarlar. Hele ne kadar överlerse o kadar bahşiş vereceğini bilince daha iyi yazarlar. O yüzden böyle şeylere fazla kulak asmamak lazım. Şuna değinelim. 2. Murat dönemi çok enteresan bir ...",
+          "metadata": {
+            "title": "Fatih Sultan Mehmet entelektüel miydi",
+            "date": "24 April 2022",
+            "source": "https://www.sevannisanyan.com/metin/fatih-sultan-mehmet-entelektuel-miydi-06067",
+            "keywords": "Edirne sarayı, Fatih Sultan Mehmet, Osmanlı tarihi"
+          },
+          "dense_score": null,
+          "sparse_score": 3.07515287399292,
+          "dense_rank": null,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "073b010093d0#1",
+          "score": 3.0697920322418213,
+          "content": "Fakat öyle bir noktaya gelindi ki, bugün Türkiye bir savaşa girse Batılı devletlerin NATO sözleşmesi çerçevesinde yardıma koşmaları ihtimali pek şüpheli hale geldi. 1876’da bir askeri darbeyle başa ge...",
+          "metadata": {
+            "title": "Osmanlı anayasasını kimler getirdi",
+            "date": "27 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/osmanli-anayasasini-kimler-getirdi-30316",
+            "keywords": "Abdülhamit II, Kanun-ı Esasi, Krikor Odyan, Namık Kemal"
+          },
+          "dense_score": null,
+          "sparse_score": 3.0697920322418213,
+          "dense_rank": null,
+          "sparse_rank": 18
+        },
+        {
+          "chunk_id": "67848f12d1c7#2",
+          "score": 3.0133142471313477,
+          "content": "Sekiz **Muradiye**’nin kaçı Sultan Murat-ı Hamis’in üç aylık saltanatının anısıdır bilmiyorum. **Reşadiye**’ler 25 tane, buna karşılık Afyon Emridağ’daki **Vahdetiye** en talihsiz padişahın adını mı s...",
+          "metadata": {
+            "title": "Anadolu'da gezintiler: Yeni Osmanlıca",
+            "date": "May 30, 2018",
+            "source": "https://nisanyan.substack.com/p/anadoluda-gezintiler-yeni-osmanlca-18-05-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.0133142471313477,
+          "dense_rank": null,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "f3b142cfc0a0#3",
+          "score": 3.006423234939575,
+          "content": "Ancak fırınlanmış dolgulu patates anlamında **kumpir** yanılmıyorsam 1990 yılında aniden memleketi sardı. İmparatorluğun merkezinde patates ekimini II. Mahmut’un emri veya teşvikiyle Alibeyköy Çiftliğ...",
+          "metadata": {
+            "title": "Patates nasıl patates oldu",
+            "date": "Oct 05, 2023",
+            "source": "https://nisanyan.substack.com/p/patates-nasl-patates-oldu",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.006423234939575,
+          "dense_rank": null,
+          "sparse_rank": 20
+        },
+        {
+          "chunk_id": "a3362fbd7a46#5",
+          "score": 2.952570915222168,
+          "content": "Mısır’ın işini Osmanlı bitirmiş. Üç yüz yılda ülke taş devrine geri dönmüş. Gerilemeye yol açan bir önemli faktör, tabii, Avrupalıların okyanuslara hakim olması sonucu Kızıldeniz üzerinden Afrika ve H...",
+          "metadata": {
+            "title": "Mısır notları 7",
+            "date": "Feb 25, 2021",
+            "source": "https://nisanyan.substack.com/p/msr-notlar-7-21-02-25",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.952570915222168,
+          "dense_rank": null,
+          "sparse_rank": 21
+        },
+        {
+          "chunk_id": "d22ffad92793#3",
+          "score": 2.9476399421691895,
+          "content": "Ancak fırınlanmış dolgulu patates anlamında kumpir yanılmıyorsam 1990 yılında aniden memleketi sardı. İmparatorluğun merkezinde patates ekimini II. Mahmut’un emri veya teşvikiyle Alibeyköy Çiftliğinde...",
+          "metadata": {
+            "title": "Kelime çalışmaları: Patates, kumpir, kartofil",
+            "date": "06 October 2023",
+            "source": "https://www.sevannisanyan.com/metin/kelime-calismalari-patates-kumpir-kartofil-95957",
+            "keywords": "etimoloji, kumpir, patates"
+          },
+          "dense_score": null,
+          "sparse_score": 2.9476399421691895,
+          "dense_rank": null,
+          "sparse_rank": 22
+        },
+        {
+          "chunk_id": "8fdd24a5c5ff#0",
+          "score": 2.9247899055480957,
+          "content": "Bu da Kafkasya muhaciri yerleşimleri. Büyük çoğunluğu Çerkes ve Abhaz (Abaza); ama Çeçen, Oset, Dağıstanlı (Kumık, Avar, Lezgi), Karaçay ve Nogay da var. Gürcüleri dahil etmedim. Karapapak ve Terekeme...",
+          "metadata": {
+            "title": "Çerkes vs. köyleri",
+            "date": "Mar 22, 2018",
+            "source": "https://nisanyan.substack.com/p/cerkes-vs-koyleri-18-03-22",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.9247899055480957,
+          "dense_rank": null,
+          "sparse_rank": 23
+        },
+        {
+          "chunk_id": "7c8f15e1c1b8#1",
+          "score": 2.915761947631836,
+          "content": "Katoliklerin bir bölümünü Osmanlı Diyarbakır, Adıyaman taraflarına sürmüş. Bir bölümünün yolunun İtalya’ya çıkmış olması mümkün görünüyor. **Dukakinzade** Ahmed Paşa Yavuz Selim saltanatında sadrazam,...",
+          "metadata": {
+            "title": "Milli tarihi delik deşik edenler",
+            "date": "Apr 08, 2017",
+            "source": "https://nisanyan.substack.com/p/milli-tarihi-delik-desik-edenler-17-04-08",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.915761947631836,
+          "dense_rank": null,
+          "sparse_rank": 24
+        },
+        {
+          "chunk_id": "0941a3d52273#1",
+          "score": 2.890183925628662,
+          "content": "Aralarında ciddi bir toplumsal başarıya imza atmış olan hiç kimse yoktur. Adı duyulmuş olan, duyulmaya değer olan kimse de yok. Sebepleri nelerdir? Cevabın bir kısmı cümle arasına sıkıştırdığım “Türk ...",
+          "metadata": {
+            "title": "Sürgün Osmanlı ve Rus aydınlarının farkı ne",
+            "date": "01 October 2023",
+            "source": "https://www.sevannisanyan.com/metin/surgun-osmanli-ve-rus-aydinlarinin-farki-ne-29881",
+            "keywords": "Osmanlı aydınları, Rus aydınları, sürgün"
+          },
+          "dense_score": null,
+          "sparse_score": 2.890183925628662,
+          "dense_rank": null,
+          "sparse_rank": 25
+        },
+        {
+          "chunk_id": "111b2e849cc6#1",
+          "score": 2.873648166656494,
+          "content": "Enteresandır ki en başarılı oldukları saha Osmanlı Ermenilerinden çok Rusya İmparatorluğuna tabi Tiflis, Ahıska, Artvin gibi yörelerdir. İkinci dönem 1915 sürgününden sonrasıdır. Osmanlı devleti kırım...",
+          "metadata": {
+            "title": "Fransa’nın Ermenilerle ilgisi ne zaman başlar",
+            "date": "22 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/fransanin-ermenilerle-ilgisi-ne-zaman-baslar-42269",
+            "keywords": "asimilasyon, Ermeniler, Fransa"
+          },
+          "dense_score": null,
+          "sparse_score": 2.873648166656494,
+          "dense_rank": null,
+          "sparse_rank": 26
+        },
+        {
+          "chunk_id": "0b9e1d8fdb4a#0",
+          "score": 2.871265411376953,
+          "content": "**Petro’nun Rusya’da gerçekleştirdiği, çağ atlatan ve en önemlisi kalıcı olan reformları, neden Atatürk ya da II. Mahmud bu coğrafyada yapamadı?**\n\nÇok esaslı bir sorudur. Cevabı nedir biliyor musunuz...",
+          "metadata": {
+            "title": "Rus neden başardı da Osmanlı başaramadı",
+            "date": "21 May 2023",
+            "source": "https://www.sevannisanyan.com/metin/rus-neden-basardi-da-osmanli-basaramadi-35641",
+            "keywords": "Deli Petro, Osmanlı modernleşmesi, Rusya tarihi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.871265411376953,
+          "dense_rank": null,
+          "sparse_rank": 27
+        },
+        {
+          "chunk_id": "0b9e1d8fdb4a#1",
+          "score": 2.869019031524658,
+          "content": "Tatarlar da vardı aralarında, Ermeniler de vardı, Almanlar ve Lehler de vardı. Fakat onlar da Rus kimliğiyle ve Rus milli takımının bir oyuncusu olarak hareket ettiler. Osmanlı Devleti içinde ise, çok...",
+          "metadata": {
+            "title": "Rus neden başardı da Osmanlı başaramadı",
+            "date": "21 May 2023",
+            "source": "https://www.sevannisanyan.com/metin/rus-neden-basardi-da-osmanli-basaramadi-35641",
+            "keywords": "Deli Petro, Osmanlı modernleşmesi, Rusya tarihi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.869019031524658,
+          "dense_rank": null,
+          "sparse_rank": 28
+        },
+        {
+          "chunk_id": "a65fa8729033#1",
+          "score": 2.85931658744812,
+          "content": "Osmanlı’nın kavramları ve kurumları bu iki imparatorluktan mirastır. Abbasilerin kaderinden ders alır; yerel askeri şeflerin palazlanmasını önlemek için, merkezi hazineden beslenen bir köle ordusu kur...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.85931658744812,
+          "dense_rank": null,
+          "sparse_rank": 29
+        },
+        {
+          "chunk_id": "987827d1d518#2",
+          "score": 2.85347318649292,
+          "content": "Eskinin Akbaba vesaire dergileriyle kıyaslayın. Mizah olarak ne kadar renksiz, ne kadar yavandır onlar. Gırgır ise, hele 1980’lerde Oğuz Aral zamanında, boş bulunsan insanı altına işetecek bir espri a...",
+          "metadata": {
+            "title": "Kitap tanıtımları-9",
+            "date": "17 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/kitap-tanitimlari-9-96866",
+            "keywords": "Girit, Herkül Millas, Murat Menteş, Orhan Pamuk, postmodernizm"
+          },
+          "dense_score": null,
+          "sparse_score": 2.85347318649292,
+          "dense_rank": null,
+          "sparse_rank": 30
+        },
+        {
+          "chunk_id": "67848f12d1c7#4",
+          "score": 2.8491628170013428,
+          "content": "Listedekilerin büyükçe bir kısmı ihsan, lütuf, nimet ve minnet belirten adlar: **İhsaniye** (25), **Lütfiye**(12), **Şükriye** ve **Şükraniye** (10), **Hayriye** (10), **İnamiye**(3), **Rıfatiye** (2)...",
+          "metadata": {
+            "title": "Anadolu'da gezintiler: Yeni Osmanlıca",
+            "date": "May 30, 2018",
+            "source": "https://nisanyan.substack.com/p/anadoluda-gezintiler-yeni-osmanlca-18-05-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8491628170013428,
+          "dense_rank": null,
+          "sparse_rank": 31
+        },
+        {
+          "chunk_id": "a65fa8729033#2",
+          "score": 2.8453078269958496,
+          "content": "Bir zamanlar (Çin ve Hint ile birlikte) dünyanın en müreffeh diyarlarından ikisi olan Anadolu-Rumeli ve Mısır, beş yüz yıllık Osmanlı egemenliği sonunda ekonomik ve kültürel sahalarda taş devrine döne...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8453078269958496,
+          "dense_rank": null,
+          "sparse_rank": 32
+        },
+        {
+          "chunk_id": "ff881f876f0b#0",
+          "score": 2.8411645889282227,
+          "content": "Matbaa Avrupa’da 1455’te icat edildi. Osmanlı diyarında ilk matbaayı Yahudiler 1490’larda kurdular. Bunu izleyen seksen yılda en az üç Yahudi matbaası kurulmuştu. İlk Ermeni matbaasını Tokat’lı Abgar ...",
+          "metadata": {
+            "title": "Osmanlı'da matbaa neden gecikti?",
+            "date": "Feb 16, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanlda-matbaa-neden-gecikti-19-02-16",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8411645889282227,
+          "dense_rank": null,
+          "sparse_rank": 33
+        },
+        {
+          "chunk_id": "5ce22c5438ef#0",
+          "score": 2.8385605812072754,
+          "content": "**Bizans bir dönemin Roma İmparatorluğu gibi süper güç olmuş mudur? Yoksa dönem itibariyle kıyıda kalmış bir devlet miydi? Bilimden mi uzaklaştı ya da bürokrasi nedeniyle mi çöküşe doğru gitti acaba?*...",
+          "metadata": {
+            "title": "Bizans süper güç müydü",
+            "date": "09 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/bizans-super-guc-muydu-33757",
+            "keywords": "Bizans tarihi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.8385605812072754,
+          "dense_rank": null,
+          "sparse_rank": 34
+        },
+        {
+          "chunk_id": "9a0f290e8fb7#4",
+          "score": 2.822272777557373,
+          "content": "Neden diye sormayın, bilmiyorum. **Tükiye'de +iye takılı yer adlarının dağılımı.** (İki düzeltme. Adana, Hatay, Urfa ve Mardin'deki noktaların çoğu hakiki Arapça yer adlarıdır, bu makalenin ilgi alanı...",
+          "metadata": {
+            "title": "Anadolu yer adları kaç çeşit? - IV",
+            "date": "Oct 25, 2018",
+            "source": "https://nisanyan.substack.com/p/anadolu-yer-adlar-kac-cesit-iv-18-10-25",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.822272777557373,
+          "dense_rank": null,
+          "sparse_rank": 35
+        },
+        {
+          "chunk_id": "111b2e849cc6#0",
+          "score": 2.818150043487549,
+          "content": "**Ermeni ve Fransız ilişkilerinin tarihi boyutu nedir açıklar mısınız?**\n\nBir eski dönemi, bir yeni dönemi var. Bir de en eski dönemi var 1200’lerde, onu es geçiyoruz.\n\nEski dönemi 1700’lerde başlar. ...",
+          "metadata": {
+            "title": "Fransa’nın Ermenilerle ilgisi ne zaman başlar",
+            "date": "22 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/fransanin-ermenilerle-ilgisi-ne-zaman-baslar-42269",
+            "keywords": "asimilasyon, Ermeniler, Fransa"
+          },
+          "dense_score": null,
+          "sparse_score": 2.818150043487549,
+          "dense_rank": null,
+          "sparse_rank": 36
+        },
+        {
+          "chunk_id": "a5d382a25e6b#0",
+          "score": 2.808101177215576,
+          "content": "**Kemalistlerin bugün Twitter’da sıkça dillendirdiği gibi, Atatürk olmasaydı ülke Taliban olurdu görüşüne cevabınız nedir?**\n\nBu kadar cahil insanların konuşması bir toplumun sağlığı için zararlıdır d...",
+          "metadata": {
+            "title": "Atatürk olmasa Türkiye Taliban mı olurdu",
+            "date": "15 August 2021",
+            "source": "https://www.sevannisanyan.com/metin/ataturk-olmasa-turkiye-taliban-mi-olurdu-70280",
+            "keywords": "Afganistan, Atatürk, Batının çöküşü, İttihat ve Terakki, Talibancılık"
+          },
+          "dense_score": null,
+          "sparse_score": 2.808101177215576,
+          "dense_rank": null,
+          "sparse_rank": 37
+        },
+        {
+          "chunk_id": "987827d1d518#3",
+          "score": 2.790431499481201,
+          "content": "Rezil oldu. Yıkıldı. Ve insanların hayatı da onunla birlikte yıkıldı. Bu öyküyü günümüzde unutmayı tercih ediyor insanlar. Osmanlı’nın büyüklüğü, Osmanlı’nın adaleti, Osmanlı’nın kocaman kocaman camil...",
+          "metadata": {
+            "title": "Kitap tanıtımları-9",
+            "date": "17 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/kitap-tanitimlari-9-96866",
+            "keywords": "Girit, Herkül Millas, Murat Menteş, Orhan Pamuk, postmodernizm"
+          },
+          "dense_score": null,
+          "sparse_score": 2.790431499481201,
+          "dense_rank": null,
+          "sparse_rank": 38
+        },
+        {
+          "chunk_id": "5b4c3751227e#12",
+          "score": 2.764559268951416,
+          "content": "“Raviyanı ahbar ve muhaddisanı ruzigar rivayet ederler ki”, Roma’lı, yaşlı senatör Cato, hangi konuda konuşursa konuşsun, her konuşmasını “körün değneğini bellediği gibi” daima, “bu vesileyle de şunu ...",
+          "metadata": {
+            "title": "Doğu - Batı sorunsalı",
+            "date": "Mar 11, 2017",
+            "source": "https://nisanyan.substack.com/p/dogu-bat-sorunsal-17-03-11",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.764559268951416,
+          "dense_rank": null,
+          "sparse_rank": 39
+        },
+        {
+          "chunk_id": "fd1ad6b70025#1",
+          "score": 2.7637441158294678,
+          "content": "İkinci günden başladık tabelaları çatır çatır okumaya. Umman’ın Afrika’daki imparatorluğunu bilmiyordum, onu da öğrenmek nasip oldu. 17. yy sonlarında Umman’lılar Portekizlileri Hint Okyanusu kıyıları...",
+          "metadata": {
+            "title": "Tanzanya Notları I: Araplar Afrika’da",
+            "date": "Feb 07, 2013",
+            "source": "https://nisanyan.substack.com/p/tanzanya-notlar-i-araplar-afrikada-13-02-07",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7637441158294678,
+          "dense_rank": null,
+          "sparse_rank": 40
+        },
+        {
+          "chunk_id": "0ff924d7b36b#0",
+          "score": 2.7503647804260254,
+          "content": "**Prens Sabahattin hakkında fikirleriniz nelerdir? Yeni nesil İslamcılar çok eleştiriyor. Özal bir dönem yolumuz Prens Sabahattin’in yolu demişti. Siz nasıl değerlendirirsiniz.**\n\nKendine ‘Prens’ unva...",
+          "metadata": {
+            "title": "Prens Sabahattin’in şansı var mıydı",
+            "date": "25 October 2020",
+            "source": "https://www.sevannisanyan.com/metin/prens-sabahattinin-sansi-var-miydi-22841",
+            "keywords": "federalizm, Meşrutiyet, Osmanlı tarihi, Prens Sabahattin"
+          },
+          "dense_score": null,
+          "sparse_score": 2.7503647804260254,
+          "dense_rank": null,
+          "sparse_rank": 41
+        },
+        {
+          "chunk_id": "f56284194fda#0",
+          "score": 2.748070478439331,
+          "content": "**Osmanlı, kadınların nüfus sayımında sayılmayıp büyükbaş hayvanların sayıldığı bir anlayış. Tabii ki adam olmazlar.**\n\nBüyükbaş hayvan ekonomik değeri olan ve dolayısıyla vergilendirilen bir varlıktı...",
+          "metadata": {
+            "title": "Osmanlı neden kadınları saymadı",
+            "date": "04 February 2024",
+            "source": "https://www.sevannisanyan.com/metin/osmanli-neden-kadinlari-saymadi-07175",
+            "keywords": "Osmanlı nüfus sayımı, zorunlu askerlik"
+          },
+          "dense_score": null,
+          "sparse_score": 2.748070478439331,
+          "dense_rank": null,
+          "sparse_rank": 42
+        },
+        {
+          "chunk_id": "67848f12d1c7#3",
+          "score": 2.7396976947784424,
+          "content": "Saltanatın sarsıldığı devrin siyasileri de haritamızda boy gösteriyorlar. On **Şevketiye**’nin tamamı Rumeli muhaciri yerleşkesi olduğuna göre, 1913’te Balkan Harbi mültecilerinin iskanına girişildiği...",
+          "metadata": {
+            "title": "Anadolu'da gezintiler: Yeni Osmanlıca",
+            "date": "May 30, 2018",
+            "source": "https://nisanyan.substack.com/p/anadoluda-gezintiler-yeni-osmanlca-18-05-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7396976947784424,
+          "dense_rank": null,
+          "sparse_rank": 43
+        },
+        {
+          "chunk_id": "9eb51853e031#0",
+          "score": 2.7296900749206543,
+          "content": "“Müttefiklerimiz yenildiğinden biz de yenilmiş sayıldık” söyleminde hakikat payı var mıdır?\n\nVarsa bile pek cılızdır. Kastedilen müttefik Bulgaristan’dır. Bulgaristan’ın uğradığı yenilgi Türkiye açısı...",
+          "metadata": {
+            "title": "Cihan Harbinin son günleri",
+            "date": "Nov 06, 2021",
+            "source": "https://nisanyan.substack.com/p/cihan-harbinin-son-gunleri",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7296900749206543,
+          "dense_rank": null,
+          "sparse_rank": 44
+        },
+        {
+          "chunk_id": "4cc3ab82ef89#3",
+          "score": 2.7263660430908203,
+          "content": "Bu yüzden sanırım Rusya’da makam ve mevki sahibi birinin Rus emperyal sadakatiyle dar ulusal sadakat arasında gidip gelmesi nispeten kolay, Amerika’da değil. Osmanlı da mülti-etnik bir devletti, evet....",
+          "metadata": {
+            "title": "Devletler çeşit çeşit",
+            "date": "Apr 02, 2022",
+            "source": "https://nisanyan.substack.com/p/devletler-cesit-cesit",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7263660430908203,
+          "dense_rank": null,
+          "sparse_rank": 45
+        },
+        {
+          "chunk_id": "0b12666c0d53#0",
+          "score": 2.7170441150665283,
+          "content": "**Kutsal Roma Germen İmparatorluğunu aklımda bir yere oturtamıyorum, özellikle de kuruluşu ve coğrafyası bakımından. Yardımcı olabilir misiniz?**\n\nŞimdilik altmış yıllık tarih öğrenciliğim sürecinde b...",
+          "metadata": {
+            "title": "Roma imparatorluğu ne zaman bitti",
+            "date": "15 October 2023",
+            "source": "https://www.sevannisanyan.com/metin/roma-imparatorlugu-ne-zaman-bitti-35907",
+            "keywords": "Avrupa tarihi, Papalık, Roma imp"
+          },
+          "dense_score": null,
+          "sparse_score": 2.7170441150665283,
+          "dense_rank": null,
+          "sparse_rank": 46
+        },
+        {
+          "chunk_id": "2fdd08a8bb94#1",
+          "score": 2.7163968086242676,
+          "content": "Kız ve erkek çocukları okuttular ve Osmanlı ülkesinin her yerinde okuryazar bir kuşak yetiştirdiler. Bu Ermenilerin çoğunun anadili Türkçe idi. Bir kısmı Ermenice biliyordu, okullarda da Ermenice öğre...",
+          "metadata": {
+            "title": "Ermeni harfleriyle Türkçe olsa mıydı",
+            "date": "01 November 2020",
+            "source": "https://www.sevannisanyan.com/metin/ermeni-harfleriyle-turkce-olsa-miydi-39354",
+            "keywords": "Ermeni harfleri, Namık Kemal, Osmanlıda gayrimüslimler"
+          },
+          "dense_score": null,
+          "sparse_score": 2.7163968086242676,
+          "dense_rank": null,
+          "sparse_rank": 47
+        },
+        {
+          "chunk_id": "9e7c79a39406#1",
+          "score": 2.7099807262420654,
+          "content": "O noktadan itibaren müthiş bir çiçeklenme dönemine girdiler. Yahudilerin başarısının temelini araştırmak isterseniz Babil’e Sümer’e değil, o döneme bakmak lazım. 19. yüzyılda ne oldu da yüzyıllarca aş...",
+          "metadata": {
+            "title": "Yahudiler neden üstün",
+            "date": "05 February 2023",
+            "source": "https://www.sevannisanyan.com/metin/yahudiler-neden-ustun-96403",
+            "keywords": "Osmanlı Ermenileri, Yahudiler"
+          },
+          "dense_score": null,
+          "sparse_score": 2.7099807262420654,
+          "dense_rank": null,
+          "sparse_rank": 48
+        },
+        {
+          "chunk_id": "1cec607c4a06#2",
+          "score": 2.7086119651794434,
+          "content": "Yakın dönemde Bosna, Kosova ve Hırvatistan’da, Irak ve Suriye’de, Darfur ve Myanmar’da yaşananlarla benzerlik çarpıcıdır. **“Mustafa Kemal, Samsun’a ne görevle gönderilmişti Payitaht’tan, yıllarca yav...",
+          "metadata": {
+            "title": "Kahraman ırkıma bir gül",
+            "date": "May 23, 2014",
+            "source": "https://nisanyan.substack.com/p/kahraman-rkma-bir-gul-14-05-23",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7086119651794434,
+          "dense_rank": null,
+          "sparse_rank": 49
+        },
+        {
+          "chunk_id": "8faff013b1c2#1",
+          "score": 2.699946641921997,
+          "content": "Makul bir orandır. Kazalar bazında tam döküm Kevorkian ve Pabudjian’ın *Les Armeniens de l’empire ottoman à la veille du génocide* (Türkçe çevirisi: *Birinci Dünya Savaşı’ndan Önce Osmanlı Ermenileri*...",
+          "metadata": {
+            "title": "Türk Talibanının yıktıkları",
+            "date": "Sep 14, 2021",
+            "source": "https://nisanyan.substack.com/p/turk-talibannn-yktklar",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.699946641921997,
+          "dense_rank": null,
+          "sparse_rank": 50
+        }
+      ],
+      "performance": {
+        "total_time_ms": 1.0352134704589844,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "hybrid": {
+      "query": "Osmanlı İmparatorluğu",
+      "strategy": "hybrid",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "a65fa8729033#0",
+          "score": 0.03200204813108039,
+          "content": "Son paylaşımıma gelen cevaplardan anlaşıldı ki halkımız Osmanlı’dan nefret etmektedir, Osmanlı’yı bir tür über-AKP rejimi olarak tahayyül etmektedir – ya da öyle söyleyince Sevan Hoca’nın hoşuna gider...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5822487863946524,
+          "sparse_score": 3.896012783050537,
+          "dense_rank": 2,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "6cc4b07e54f1#1",
+          "score": 0.030776515151515152,
+          "content": "Mısır’da Cin Ali Paşa isyan ederek saltanatını ilan etti. İmparatorluğun farklı yerlerinde de isyanlar çıktı. Ruslar Romanya beyliklerini istila ettikten sonra Tuna’yı aşıp Bulgaristan’a yürüdüler. Fa...",
+          "metadata": {
+            "title": "Moskof Harpleri",
+            "date": "Feb 29, 2020",
+            "source": "https://nisanyan.substack.com/p/moskof-harpleri-20-02-29",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 8
+          },
+          "dense_score": 0.5224315146102212,
+          "sparse_score": 3.627781391143799,
+          "dense_rank": 4,
+          "sparse_rank": 6
+        },
+        {
+          "chunk_id": "e7e9db5f28cb#0",
+          "score": 0.03021353930031804,
+          "content": "Timur'u izleyen yüz yılda Osmanlı'nın amacı, hedefi, ideali, Doğu Roma İmparatorluğu'nu ihya etmekti.\n\nÖnce II. Murat, peşinden Fatih, Bizans'ın düşkünlük çağında kaybettiği eski topraklarını kazanmak...",
+          "metadata": {
+            "title": "Yavuz neden kötü",
+            "date": "Jan 07, 2026",
+            "source": "https://nisanyan.substack.com/p/yavuz-neden-kotu",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.497419978288132,
+          "sparse_score": 3.9696249961853027,
+          "dense_rank": 11,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "46dc6f35309b#1",
+          "score": 0.028309409888357256,
+          "content": "Yalnız Anadolu değil, Balkan ülkeleri de böyle. Hele Suriye ile Irak büsbütün tükenmiştir 19. yüzyıl sonuna geldiğimizde. Osmanlı hakkında bilmeniz gereken temel bilgi budur. Gelmiş, çökmüş, bitirmiş....",
+          "metadata": {
+            "title": "Osmanlı nasıl özetlenir",
+            "date": "20 June 2021",
+            "source": "https://www.sevannisanyan.com/metin/osmanli-nasil-ozetlenir-96663",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.5211589049872998,
+          "sparse_score": 3.079432964324951,
+          "dense_rank": 6,
+          "sparse_rank": 16
+        },
+        {
+          "chunk_id": "a65fa8729033#1",
+          "score": 0.027629397679130595,
+          "content": "Osmanlı’nın kavramları ve kurumları bu iki imparatorluktan mirastır. Abbasilerin kaderinden ders alır; yerel askeri şeflerin palazlanmasını önlemek için, merkezi hazineden beslenen bir köle ordusu kur...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 7
+          },
+          "dense_score": 0.602272918924784,
+          "sparse_score": 2.85931658744812,
+          "dense_rank": 1,
+          "sparse_rank": 29
+        },
+        {
+          "chunk_id": "073b010093d0#1",
+          "score": 0.027526395173453996,
+          "content": "Fakat öyle bir noktaya gelindi ki, bugün Türkiye bir savaşa girse Batılı devletlerin NATO sözleşmesi çerçevesinde yardıma koşmaları ihtimali pek şüpheli hale geldi. 1876’da bir askeri darbeyle başa ge...",
+          "metadata": {
+            "title": "Osmanlı anayasasını kimler getirdi",
+            "date": "27 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/osmanli-anayasasini-kimler-getirdi-30316",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5156414514756669,
+          "sparse_score": 3.0697920322418213,
+          "dense_rank": 8,
+          "sparse_rank": 18
+        },
+        {
+          "chunk_id": "db0632b88569#5",
+          "score": 0.027149321266968326,
+          "content": "Yüz yıldır girdiği her savaştan galibiyetle çıkan ve zaten uçsuz bucaksız olan imparatorluğunu iki katına çıkarmanın eşiğinde duran Osmanlı’nın, uzun vadede kaybetmeye mahkum olduğu kanısını dile geti...",
+          "metadata": {
+            "title": "Osmanlı köle sever",
+            "date": "Oct 30, 2018",
+            "source": "https://nisanyan.substack.com/p/osmanl-kole-sever-18-10-30",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 9
+          },
+          "dense_score": 0.46515718918953164,
+          "sparse_score": 3.725646495819092,
+          "dense_rank": 25,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "a65fa8729033#2",
+          "score": 0.025794938351719664,
+          "content": "Bir zamanlar (Çin ve Hint ile birlikte) dünyanın en müreffeh diyarlarından ikisi olan Anadolu-Rumeli ve Mısır, beş yüz yıllık Osmanlı egemenliği sonunda ekonomik ve kültürel sahalarda taş devrine döne...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5163458400921581,
+          "sparse_score": 2.8453078269958496,
+          "dense_rank": 7,
+          "sparse_rank": 32
+        },
+        {
+          "chunk_id": "472803346a3a#14",
+          "score": 0.025342039800995024,
+          "content": "Buna karşılık Rusya’nın politikası sistemli olarak Ermenileri Rusya’yı dost ve kurtarıcı olarak görecekleri bir noktaya çekmektir. İstanbul Ermenileri arasında o dönemde Rusçu parti vardır, İngilterec...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": "",
+            "chunk_index": 14,
+            "total_chunks": 47
+          },
+          "dense_score": 0.4587563372912947,
+          "sparse_score": 3.563021659851074,
+          "dense_rank": 36,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "ff881f876f0b#2",
+          "score": 0.025252525252525252,
+          "content": "Devam edersek derya gibi konulara yelken açarız. Halk arasında “yobazlık” diye tanımlanan İslam dininin SİYASİ işlevi neydi? Osmanlı devletinin sınıfsal altyapısı neydi, matbaanın reddedilmesi bu yapı...",
+          "metadata": {
+            "title": "Osmanlı'da matbaa neden gecikti?",
+            "date": "Feb 16, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanlda-matbaa-neden-gecikti-19-02-16",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.46290649171148013,
+          "sparse_score": 3.243807315826416,
+          "dense_rank": 28,
+          "sparse_rank": 12
+        }
+      ],
+      "performance": {
+        "total_time_ms": 183.2289695739746,
+        "dense_time_ms": 182.21688270568848,
+        "sparse_time_ms": 0.8440017700195312,
+        "fusion_time_ms": 0.16808509826660156
+      },
+      "total_candidates": 100
+    }
+  },
+  "overlap_analysis": {
+    "total_unique_chunks": 86,
+    "pairwise_overlap": {
+      "dense_vs_sparse": {
+        "intersection": 14,
+        "union": 86,
+        "jaccard": 0.16279069767441862,
+        "only_in_first": 36,
+        "only_in_second": 36
+      },
+      "dense_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      },
+      "sparse_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      }
+    }
+  }
+}

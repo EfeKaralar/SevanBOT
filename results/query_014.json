@@ -1,0 +1,1854 @@
+{
+  "query": "düşünce tarihi",
+  "strategies": {
+    "dense": {
+      "query": "düşünce tarihi",
+      "strategy": "dense",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "9e4052971057#0",
+          "score": 0.4909197123899868,
+          "content": "1. Bir kere daha, tekrar, yeniden ve eksilmeyen bir dehşetle müşahede ediyoruz ki insanların kahir ekseriyeti mit ile tarihsel hakikat arasındaki ayrımı kavramaktan acizdir. Geçmişe ilişkin öykülere, ...",
+          "metadata": {
+            "title": "Mit başka tarih başka",
+            "date": "May 31, 2018",
+            "source": "https://nisanyan.substack.com/p/mit-baska-tarih-baska-18-05-31",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4909197123899868,
+          "sparse_score": null,
+          "dense_rank": 1,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "75f724c47364#1",
+          "score": 0.47912955809633284,
+          "content": "O iletişimden ayrı düşünülemez. Ama böyle olması bir şey değiştirir mi? Sanmam. Zevk var mı, var. Bitti. Bilginin pratik faydası ikincildir. Paranın veya devletin kölesi olmuş toplumlarda, karşılıksız...",
+          "metadata": {
+            "title": "Akıl oyunları",
+            "date": "Oct 19, 2017",
+            "source": "https://nisanyan.substack.com/p/akl-oyunlar-17-10-19",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.47912955809633284,
+          "sparse_score": null,
+          "dense_rank": 2,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "309bc810eb5e#3",
+          "score": 0.4707985607512307,
+          "content": "Türkçe sahiden biliyorlar mıydı? Ne malum? Günlük hayatta dil Rumca, edebi sohbette Farsça neden olmasın? Tarih okudukça fark ediyorsun ki geçmiş hakkında bildiğin ya da bildiğini zannettiğin her şey ...",
+          "metadata": {
+            "title": "Türkler Nece Konuşurdu yazısına ek notlar",
+            "date": "Nov 22, 2017",
+            "source": "https://nisanyan.substack.com/p/turkler-nece-konusurdu-yazsna-ek-17-11-22",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4707985607512307,
+          "sparse_score": null,
+          "dense_rank": 3,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "bcec9ef40a3a#2",
+          "score": 0.4618643750684965,
+          "content": "Felsefeyi başlı başına bir düşünce disiplini haline getiren onlar. Siyaset teorisini, edebi eleştiriyi, eleştirel tarih yazımını icat edenler onlar. Toparlarsak, Afroasyatik kökenler meselesinde ölçül...",
+          "metadata": {
+            "title": "Yunanlar medeniyeti Afrika’dan mı öğrendi",
+            "date": "21 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/yunanlar-medeniyeti-afrikadan-mi-ogrendi-73845",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4618643750684965,
+          "sparse_score": null,
+          "dense_rank": 4,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "75f724c47364#2",
+          "score": 0.46083787005040566,
+          "content": "Zaman zaman simgesel anlatım, rasyonel düşünceyi boğacak ölçüde hakim olur. Bir süre sonra birileri “e yeter artık” deyip rönesans ve reform yaparlar. Öyle öyle devam eder. Antik çağın şafağında İyony...",
+          "metadata": {
+            "title": "Akıl oyunları",
+            "date": "Oct 19, 2017",
+            "source": "https://nisanyan.substack.com/p/akl-oyunlar-17-10-19",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.46083787005040566,
+          "sparse_score": null,
+          "dense_rank": 5,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9ab9f1de999b#2",
+          "score": 0.4594891807453493,
+          "content": "Ermeni örneği ve aynı şeyin Rumlara yapılması ihtimali olmasa İzmir’in Yunana verilmesini savunacak tek bir İngiliz veya Fransız bilmiyorum. 7. Mustafa Kemal Paşa’ya ne olurdu? “Anafartalar kahramanı”...",
+          "metadata": {
+            "title": "Çanakkale Harbi, meleksiz ve evliyasız",
+            "date": "Mar 19, 2019",
+            "source": "https://nisanyan.substack.com/p/canakkale-harbi-meleksiz-ve-evliyasz-19-03-19",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4594891807453493,
+          "sparse_score": null,
+          "dense_rank": 6,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "bb92204409b2#1",
+          "score": 0.4471065428456159,
+          "content": "Bu adam veya bu kadın bana hakikati anlatmaya çalışmıyor, beni kandırmaya çalışıyor diyerek beyninde alarm ışıkları yakmalısın. Anlatabiliyor muyum bunu? 9 Eylül 1922’de Türkler İzmir’i kurtardık diyo...",
+          "metadata": {
+            "title": "Tarih nasıl okunmalı",
+            "date": "14 March 2022",
+            "source": "https://www.sevannisanyan.com/metin/tarih-nasil-okunmali-92247",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4471065428456159,
+          "sparse_score": null,
+          "dense_rank": 7,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f799365040fc#5",
+          "score": 0.44397355104179126,
+          "content": "S. Nişanyan:** Hissetmezsin belki, ya da eğitiminle orantılı olarak çok belirsiz bir biçimde hissedersin. Ama tıpkı içinde yaşadığın coğrafya gibi, içinde dolandığın dilde de binlerce yıllık bir uygar...",
+          "metadata": {
+            "title": "Dile ve dillere dair bir söyleşi",
+            "date": "Aug 04, 2018",
+            "source": "https://nisanyan.substack.com/p/dile-ve-dillere-dair-bir-soylesi-18-08-04",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 7
+          },
+          "dense_score": 0.44397355104179126,
+          "sparse_score": null,
+          "dense_rank": 8,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#2",
+          "score": 0.43708665239387334,
+          "content": "O kıvılcım yoksa, bilgi kaynağı olarak ilginç ya da önemli de olsa burada değinmedim. DÜNYA TARİHİ 1. Edward Gibbon, **Decline and Fall of the Roman Empire**, 1786. İngiliz dilinin gelmiş geçmiş en bü...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 46
+          },
+          "dense_score": 0.43708665239387334,
+          "sparse_score": null,
+          "dense_rank": 9,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "54aaf19a61f8#1",
+          "score": 0.43682311596947976,
+          "content": "Bu soruları sormaya başladığın zaman tarihçilik yapmaya başlıyorsun. Zevkli bir iştir. Mutlak hakikate çok fazla yaklaşamazsın tarihte. Her zaman hipotez düzeyinde kalmak zorundasın. Tarihte nedensell...",
+          "metadata": {
+            "title": "Tarih safsata mıdır",
+            "date": "29 November 2020",
+            "source": "https://www.sevannisanyan.com/metin/tarih-safsata-midir-63149",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.43682311596947976,
+          "sparse_score": null,
+          "dense_rank": 10,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#4",
+          "score": 0.43671872719235016,
+          "content": "Yine aynı yazardan, **Empire: How Britain Made the Modern World**, 2003. İngiliz imparatorluğuna tarafsız bir bakış denemesi, ne övgü, ne sövgü. Bestseller olmaya çalışmasaydı daha iyi bir kitap olabi...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 46
+          },
+          "dense_score": 0.43671872719235016,
+          "sparse_score": null,
+          "dense_rank": 11,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "fa94e2258bde#0",
+          "score": 0.4329797855222767,
+          "content": "Özgür irade paradoksu Antik Çağ filozoflarından beri bilinen bir konu (belki Antik Çağ değil, Ortaçağ skolastikleridir, şimdi bakmaya üşendim). *Post facto* düşündüğünde insan davranışlarının her biri...",
+          "metadata": {
+            "title": "Özgür irade, hayvanlık, yapay zeka",
+            "date": "Aug 04, 2021",
+            "source": "https://nisanyan.substack.com/p/ozgur-irade-hayvanlk-yapay-zeka-21-08-04",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4329797855222767,
+          "sparse_score": null,
+          "dense_rank": 12,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "472803346a3a#32",
+          "score": 0.4277660263602979,
+          "content": "Sen inanmasan bile çocukların inanır, manevi tatmin kazanır. Bence hiç kendini kandırmaya gerek yok, Türk’ü kazısan altından ya Rum çıkar ya Ermeni. Ama iki ama yirmi iki kuşak önce! Ben Anadolu tarih...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": "",
+            "chunk_index": 32,
+            "total_chunks": 47
+          },
+          "dense_score": 0.4277660263602979,
+          "sparse_score": null,
+          "dense_rank": 13,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cc9505b96f5f#5",
+          "score": 0.42759582841456323,
+          "content": "Toplumun fikir üretme ve fikir tartışma konusunda eğitimli ve tecrübe sahibi olan kesimleri fikir üretir. Geri kalanlar ise, en iyi ihtimalle onlardan kaptıkları fikirleri tekrarlar. Fikir üretenler ş...",
+          "metadata": {
+            "title": "Bilimin işlevi nedir, nasıl gelişir, nasıl kurur",
+            "date": "24 December 2023",
+            "source": "https://www.sevannisanyan.com/metin/bilimin-islevi-nedir-nasil-gelisir-nasil-kurur-83627",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 6
+          },
+          "dense_score": 0.42759582841456323,
+          "sparse_score": null,
+          "dense_rank": 14,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "acbf2920a03f#1",
+          "score": 0.4273305783856872,
+          "content": "Bitti. Demek ki Aztekler Türktür. Peki arkadaşım bunun bir anlam ifade etmesi için bu dille Türkçe arasındaki ortaklıkları sistemleştir, ses değişim kurallarını çalış, yaz. Ama onlar yok. Pekala mümkü...",
+          "metadata": {
+            "title": "Aztekler ve Eskimolar Türk mü",
+            "date": "27 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/aztekler-ve-eskimolar-turk-mu-15802",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4273305783856872,
+          "sparse_score": null,
+          "dense_rank": 15,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "eb5ccbfff251#0",
+          "score": 0.42473897887843404,
+          "content": "Politik tahminlerin tutup tutmamasından ziyade akılcı, tutarlı, berrak ve özgün bir akılyürütmeye dayanmasıdır bana ilginç gelen. Söylenen şeyde mantık var mı? Alışılmadık faktörleri, ilginç emsalleri...",
+          "metadata": {
+            "title": "İstanbul-toto",
+            "date": "Apr 09, 2019",
+            "source": "https://nisanyan.substack.com/p/istanbul-toto-19-04-09",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 5
+          },
+          "dense_score": 0.42473897887843404,
+          "sparse_score": null,
+          "dense_rank": 16,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ebd267e811d7#1",
+          "score": 0.42465292066142823,
+          "content": "İlk bakışta birtakım bilgi kırıntıları var gibi görünüyor, incesine girince anlıyorsunuz ki hepsi tahmin, hepsi spekülasyon. Basit bir gerçek: Kaymak fiili eski Türkçede var olan bir fiil. Bugün kulla...",
+          "metadata": {
+            "title": "Kayı Boyu ne demek",
+            "date": "20 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/kayi-boyu-ne-demek-03401",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.42465292066142823,
+          "sparse_score": null,
+          "dense_rank": 17,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "638934467944#0",
+          "score": 0.4246027980106529,
+          "content": "**Tarihten çıkarılacak en önemli ders sizce nedir?**\n\nTarihten çıkarılacak en önemli ders, cehaletin ve akılsızlığın tarihteki önemini asla küçümsememek gerektiğidir.\n\nİnsanlar şaşkın ördekler gibi, t...",
+          "metadata": {
+            "title": "Tarihten çıkarılacak ders nedir",
+            "date": "16 August 2020",
+            "source": "https://www.sevannisanyan.com/metin/tarihten-cikarilacak-ders-nedir-86793",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.4246027980106529,
+          "sparse_score": null,
+          "dense_rank": 18,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b9ebbfc2a372#2",
+          "score": 0.42336019540273884,
+          "content": "İnsanlık tarihinin en çarpıcı, en üretken, en devrimci fikir ve sanat açılımlarından biridir. Önceki çağa bir tepkidir. Temel hareket noktası, Avrupa’yı iki yüz yıl meşgul eden din ve mezhep kavgaları...",
+          "metadata": {
+            "title": "'Aydınlanma' nedir?",
+            "date": "Mar 09, 2020",
+            "source": "https://nisanyan.substack.com/p/aydnlanma-nedir-20-03-09",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.42336019540273884,
+          "sparse_score": null,
+          "dense_rank": 19,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cd0cd3f252a8#0",
+          "score": 0.4218803695318684,
+          "content": "**19. yüzyıl sonlarına gelindiğinde tüm dünyada artık bir norm halini almış Batı’nın, Aydınlanma çağının, parlak ideallerini çökmeye götüren süreci anlatır mısınız? Şayet bunu başlatan faşizm ve içe k...",
+          "metadata": {
+            "title": "Avrupa ne zaman battı",
+            "date": "20 October 2022",
+            "source": "https://www.sevannisanyan.com/metin/avrupa-ne-zaman-batti-32444",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4218803695318684,
+          "sparse_score": null,
+          "dense_rank": 20,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5b4c3751227e#6",
+          "score": 0.4206759368741724,
+          "content": "Descartes 1650'de ölmüş. Evliya'dan 30 sene önce. Bir yandan kitabında Çelebi gibi kıçından uyduranlara karşı nasıl kuşkucu olunur onu düşünüyor ve ayrıca hayvanların birer makine olduklarından bahsed...",
+          "metadata": {
+            "title": "Doğu - Batı sorunsalı",
+            "date": "Mar 11, 2017",
+            "source": "https://nisanyan.substack.com/p/dogu-bat-sorunsal-17-03-11",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 14
+          },
+          "dense_score": 0.4206759368741724,
+          "sparse_score": null,
+          "dense_rank": 21,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ba6b71957266#2",
+          "score": 0.41828745367605313,
+          "content": "Tarih geleceği aydınlatabilir mi?**Bir yere kadar, evet. Tarih bize insan topluluklarının davranış kalıplarını öğretir. Nasıl kavga etmişler, kimlerin peşinden gitmişler, hangi topa çıkmışlar, hangi y...",
+          "metadata": {
+            "title": "Felsefe sınavı",
+            "date": "Jun 23, 2016",
+            "source": "https://nisanyan.substack.com/p/felsefe-snav-16-06-23",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 9
+          },
+          "dense_score": 0.41828745367605313,
+          "sparse_score": null,
+          "dense_rank": 22,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0da213c47b97#2",
+          "score": 0.4179669572897523,
+          "content": "Bir sömestr boyunca İbn Haldun’u Arapça orijinalinden okutmaya çalıştı, canımızı çıkardı. O vesileyle İngilizcesini de (tek ciltlik kısa versiyonunu) okudum. Orijinal bir düşünürdür. Şaşılacak kadar “...",
+          "metadata": {
+            "title": "\"İslamın Faydaları\" yazısına gelen yorumlardan bir potpuri",
+            "date": "May 31, 2015",
+            "source": "https://nisanyan.substack.com/p/islamn-faydalar-yazsna-gelen-yorumlardan-15-05-31",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 10
+          },
+          "dense_score": 0.4179669572897523,
+          "sparse_score": null,
+          "dense_rank": 23,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5d2ccd7681fa#1",
+          "score": 0.4177371635824778,
+          "content": "İşin enteresanı, en çok özleyenler o devri hatırlayan yaşlılar değildi, diktatör öldükten sonra doğan kuşaktı. Özlemleri bir şey bildiklerinden değil, belki ana babalarını özlediklerindendi. Daha doğr...",
+          "metadata": {
+            "title": "Ne güzeldi eskinin zorbaları",
+            "date": "Mar 17, 2017",
+            "source": "https://nisanyan.substack.com/p/ne-guzeldi-eskinin-zorbalar-17-03-17",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4177371635824778,
+          "sparse_score": null,
+          "dense_rank": 24,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2f7768835e70#17",
+          "score": 0.417732468728894,
+          "content": "ancak her düşünce ve fikir doğru ve yanlışlığı bir yana değerlidir.düşünmek başlı başına değerlidir.şu anki teknoloji temelli modern yaşamın ve düşüncesnin tek kaynağı sadece doğru düşünceler değildir...",
+          "metadata": {
+            "title": "Tefsir ilmine giriş",
+            "date": "Oct 25, 2012",
+            "source": "https://nisanyan.substack.com/p/tefsir-ilmine-giris-12-10-25",
+            "keywords": "",
+            "chunk_index": 17,
+            "total_chunks": 19
+          },
+          "dense_score": 0.417732468728894,
+          "sparse_score": null,
+          "dense_rank": 25,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "eeeecf9295e9#3",
+          "score": 0.4167252730117907,
+          "content": "Varolmayan bir Orta Çağ el yazmasının yeni yayınlanmış iki edisyonu üzerine akademik bir tartışmadır. Sadece akılda var olan bir eserin iki ayrı edisyonu arasındaki farkların yorumlanması ve eleştiril...",
+          "metadata": {
+            "title": "Trakya’da neleri görmeli",
+            "date": "18 June 2023",
+            "source": "https://www.sevannisanyan.com/metin/trakyada-neleri-gormeli-57690",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4167252730117907,
+          "sparse_score": null,
+          "dense_rank": 26,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0d7ac7479b72#6",
+          "score": 0.41563891631537125,
+          "content": "Kıssadan hisse? Bu seferlik olmasın. *Daha sonra eklenen*Peki kıssadan hisse ekleyelim.1. “İlkel”i yakalamak zannettiğinden zordur. En “ilkel” görünen toplumun dahi senin ve benim kadar tarihi vardır....",
+          "metadata": {
+            "title": "Şaman",
+            "date": "Apr 27, 2019",
+            "source": "https://nisanyan.substack.com/p/saman-19-04-27",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 7
+          },
+          "dense_score": 0.41563891631537125,
+          "sparse_score": null,
+          "dense_rank": 27,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "97e0cdd49c5f#2",
+          "score": 0.4155595107041666,
+          "content": "Çünkü, kurumsal skleroza uğramış medrese ilmi. Kurumsal bağlarla kendini bağlamış. Aşabilmek için topyekün bazı şeyleri reddetmeniz gerekmiş. Aradaki en önemli fark bu, dogma meselesi. Batı ve Doğunun...",
+          "metadata": {
+            "title": "Medrese ile çağdaş bilimin farkı ne",
+            "date": "17 December 2023",
+            "source": "https://www.sevannisanyan.com/metin/medrese-ile-cagdas-bilimin-farki-ne-25080",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4155595107041666,
+          "sparse_score": null,
+          "dense_rank": 28,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "4b6eeec541db#0",
+          "score": 0.4145618911280481,
+          "content": "**Türkçenin tarihi gelişimi hakkında kitap yazacaktınız, sonra rafa kaldırdığınızı söylediniz. Etimolojiyi bu memur kılıklılara bırakmadığınız gibi buna da el atmalısınız.**\n\nCezaevindeyken bir ara ço...",
+          "metadata": {
+            "title": "Türkçenin tarihi nasıl yazılmalı",
+            "date": "07 May 2023",
+            "source": "https://www.sevannisanyan.com/metin/turkcenin-tarihi-nasil-yazilmali-16208",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4145618911280481,
+          "sparse_score": null,
+          "dense_rank": 29,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5d2ccd7681fa#0",
+          "score": 0.4141703692066276,
+          "content": "“Her büyük sosyal değişim, ardında birilerine nostalji konusu olacak bir taze Altın Çağ bırakır” demiş Mark Lilla[[1]](file:///D:/sevan/ne%20g%C3%BCzeldi%20eskinin%20zorbalar%C4%B1.doc#_ftn1).\n\n“Nosta...",
+          "metadata": {
+            "title": "Ne güzeldi eskinin zorbaları",
+            "date": "Mar 17, 2017",
+            "source": "https://nisanyan.substack.com/p/ne-guzeldi-eskinin-zorbalar-17-03-17",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4141703692066276,
+          "sparse_score": null,
+          "dense_rank": 30,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#45",
+          "score": 0.4136191162648173,
+          "content": "Erichjan Zürcher, Modernleşen Türkiye’nin Tarihi\n\nMete Tunçay, Türkiye’de Tek Parti Yönetiminin Kurulması\n\nKemal Tahir, Kurtlar Sofrası\n\nSevan Nişanyan, Yanlış Cumhuriyet\n\nFikret Başkaya, Paradigmanın...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": "",
+            "chunk_index": 45,
+            "total_chunks": 46
+          },
+          "dense_score": 0.4136191162648173,
+          "sparse_score": null,
+          "dense_rank": 31,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "006c86ff2a95#10",
+          "score": 0.4131021041123504,
+          "content": "Bakınız Filistin, Irak, zavallı Kızılderililer. İşte, belli!\n\n**Evrensel bir zemin** Akıl ve vicdanın dayanağını arayanları alkışlamak gerekiyor, evet. Böyle bir memlekette insanların bir şeylere daya...",
+          "metadata": {
+            "title": "Batı dediğin tek dişi kalmış canavar mı?",
+            "date": "Oct 05, 2008",
+            "source": "https://nisanyan.substack.com/p/bat-dedigin-tek-disi-kalms-canavar-08-10-05",
+            "keywords": "",
+            "chunk_index": 10,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4131021041123504,
+          "sparse_score": null,
+          "dense_rank": 32,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "1211d2a250cd#9",
+          "score": 0.4121444720074743,
+          "content": "Bahse girerim maden çıkar. [[1]](https://www.blogger.com/blogger.g?blogID=1302467060357060984#_ftnref1) Bu ve önceki bölümdeki sayıları şöyle hesapladım. Domaniç, Bafra, Beypazarı-Nallıhan, Hınıs, Gel...",
+          "metadata": {
+            "title": "Anadolu yer adları kaç çeşit? - III",
+            "date": "Oct 24, 2018",
+            "source": "https://nisanyan.substack.com/p/anadolu-yer-adlar-kac-cesit-iii-18-10-24",
+            "keywords": "",
+            "chunk_index": 9,
+            "total_chunks": 10
+          },
+          "dense_score": 0.4121444720074743,
+          "sparse_score": null,
+          "dense_rank": 33,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5d7077202e96#0",
+          "score": 0.40999776198152116,
+          "content": "**Restorasyonun sınırları nelerdir? Türkiye’de Roma kalıntılarının çoğu yıkık dökük. Bunların bire bir orijinaline bağlı replika olarak restore edilmeleri nasıl olurdu sizce?**\n\nBence çok iyi olurdu. ...",
+          "metadata": {
+            "title": "Restorasyon nereye kadar",
+            "date": "28 January 2024",
+            "source": "https://www.sevannisanyan.com/metin/restorasyon-nereye-kadar-26451",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.40999776198152116,
+          "sparse_score": null,
+          "dense_rank": 34,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f592f66e222d#48",
+          "score": 0.4075211570442572,
+          "content": "sizi haksız bulduğum şey inançlı insanların cennet, cehennem, melekler ve cinler gibi deneyimleyemeyeceğimiz ve ispatı yapılamayacak şeylerin varlığını kabul edip ateistlerin hayal gücüyle dalga geçme...",
+          "metadata": {
+            "title": "Yedi Uyurlar ve bişey bişey",
+            "date": "Sep 08, 2013",
+            "source": "https://nisanyan.substack.com/p/yedi-uyurlar-ve-bisey-bisey-13-09-08",
+            "keywords": "",
+            "chunk_index": 48,
+            "total_chunks": 87
+          },
+          "dense_score": 0.4075211570442572,
+          "sparse_score": null,
+          "dense_rank": 35,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eb9cea86bc#5",
+          "score": 0.4072905109418963,
+          "content": "Arapça anlamı “çağ, dönem”. “Yüz yıllık dönem” anlamı Fransızca *siècle*çevirisi, 19. yy Osmanlıcası. Buraya kadar normal, esas macera Aramice-İbraniceye bakınca başlıyor. İbranice ayin ve sad ile *as...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4072905109418963,
+          "sparse_score": null,
+          "dense_rank": 36,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eb9cea86bc#8",
+          "score": 0.4071872382011912,
+          "content": "TDK 1945 basımı “ağırbaşlı” demiş. Bugünkü egemen anlamı ise “risk almama”. Evrime bakınız: “kudretli” > “ağır abi” > “ağırdan alır” > “korkak”. Gerçek dünyada da öyle değil midir? İktidar korkaklaştı...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": "",
+            "chunk_index": 8,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4071872382011912,
+          "sparse_score": null,
+          "dense_rank": 37,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ba6b71957266#1",
+          "score": 0.40650745456408777,
+          "content": "**1. Teknolojinin görevi sadece doğaya hakim olmak mıdır?**Şüphesiz evet. Başka türlü olabilir mi? Taştan ilk baltayı yonttuğu günden beri insan evladı teknik becerilerini a) doğanın amansız saldırıla...",
+          "metadata": {
+            "title": "Felsefe sınavı",
+            "date": "Jun 23, 2016",
+            "source": "https://nisanyan.substack.com/p/felsefe-snav-16-06-23",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 9
+          },
+          "dense_score": 0.40650745456408777,
+          "sparse_score": null,
+          "dense_rank": 38,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cdaf7c324e66#0",
+          "score": 0.40529762726003127,
+          "content": "**Tarihi her zaman kazananlar mı yazar? Resmi ideolojilerden uzak objektif bir tarih yazmak mümkün müdür?**\n\nElbette, tarihi her zaman kazananlar yazar. Objektiflik bir derece meselesidir. Tarihi yaza...",
+          "metadata": {
+            "title": "Tarihi kim yazar",
+            "date": "19 December 2021",
+            "source": "https://www.sevannisanyan.com/metin/tarihi-kim-yazar-28603",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.40529762726003127,
+          "sparse_score": null,
+          "dense_rank": 39,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6cd4b815f40c#3",
+          "score": 0.4047653821070457,
+          "content": "Eflatun’dan beri her yaşlı kuşak dilin elden gittiği korkusuna kapılmıştır. 2500 senenin sonunda o korkunun pek gerçekçi olmadığı açıkça ortada.\n\n**Bilgisayar ve teknolojik dönüşümün dil üzerindeki et...",
+          "metadata": {
+            "title": "Türkçeye dair bir söyleşi",
+            "date": "12 March 2023",
+            "source": "https://www.sevannisanyan.com/metin/turkceye-dair-bir-soylesi-65599",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 13
+          },
+          "dense_score": 0.4047653821070457,
+          "sparse_score": null,
+          "dense_rank": 40,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eb9cea86bc#7",
+          "score": 0.40411099156043806,
+          "content": "Osmanlının uydurmasyoncası Öztürkçecilerden zerre geri kalmıyor.\n\n**İvaz** “bedel ödeme, adak adama”. Sözlükte vardı tabi, yenilik yok. Ama fark etmemiştim, Hacı İvaz yani Hacivad, Türkçe **Satılmış**...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 11
+          },
+          "dense_score": 0.40411099156043806,
+          "sparse_score": null,
+          "dense_rank": 41,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7b58c1c57a6e#0",
+          "score": 0.40406931296010973,
+          "content": "*Instagramda @tarihselbilgi adlı hesapta B. S. Filiz imzasıyla yayınlanan harita önüme düştü. Güzel bir çalışma. Ana hatlarıyla doğru. Birkaç noktada itirazım var. Fakat önce kavramsal bir giriş:*\n\nGü...",
+          "metadata": {
+            "title": "Malazgirt'ten önce kimler vardı",
+            "date": "Jun 06, 2024",
+            "source": "https://nisanyan.substack.com/p/malazgirtten-once-kimler-vard",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.40406931296010973,
+          "sparse_score": null,
+          "dense_rank": 42,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9be7cbc4ce4d#11",
+          "score": 0.4036199043835551,
+          "content": "OlaÄanÃ¼stÃ¼ girift, tÃ¶rensel bir anlatÄ± â mit â dÃ¼nyasÄ±na adÄ±m atÄ±yorsun. Atmaca kafalÄ± tanrÄ±lar, timsah kafalÄ± tanrÄ±lar; sonsuz saflar halinde dizili koÃ§ kafalÄ± muktedirler, sol aya...",
+          "metadata": {
+            "title": "MÄ±sÄ±r notlarÄ±-2",
+            "date": null,
+            "source": "https://www.sevannisanyan.com",
+            "keywords": "",
+            "chunk_index": 11,
+            "total_chunks": 47
+          },
+          "dense_score": 0.4036199043835551,
+          "sparse_score": null,
+          "dense_rank": 43,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9be7cbc4ce4d#34",
+          "score": 0.4028634236321735,
+          "content": "Sanatla iktidar arasÄ±ndaki baÄlantÄ±yÄ± baÅka yerde bu kadar net kavramÄ±Å mÄ±ydÄ±m bilmiyorum. OlaÄanÃ¼stÃ¼ girift, tÃ¶rensel bir anlatÄ± â mit â dÃ¼nyasÄ±na adÄ±m atÄ±yorsun. Atmaca kafalÄ±...",
+          "metadata": {
+            "title": "MÄ±sÄ±r notlarÄ±-2",
+            "date": null,
+            "source": "https://www.sevannisanyan.com",
+            "keywords": "",
+            "chunk_index": 34,
+            "total_chunks": 47
+          },
+          "dense_score": 0.4028634236321735,
+          "sparse_score": null,
+          "dense_rank": 44,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "433e2f5cf866#0",
+          "score": 0.40255639489920275,
+          "content": "Bildiğin terane: Atalarımız göçebeydi o yüzden... bina yapamıyoruz/sokağa çöp atıyoruz/kırmızıda durmuyoruz/Kezban’ı dövüyoruz vs. vs.\n\nYok öyle bir şey. Bir kere atan göçebe filan değildi. Yüzde elli...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.40255639489920275,
+          "sparse_score": null,
+          "dense_rank": 45,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9be7cbc4ce4d#35",
+          "score": 0.4025037723053768,
+          "content": "Hayat boyu ilmini okursan belki anlatÄ±nÄ±n sÄ±rlarÄ±na erebilirsin diyor, Åimdilik Ã¼rper ve boyun eÄ. Zira biz, yÃ¼ce firavun ve hayat boyu bu iÅin ilmini yapmÄ±Å olan rahipleri, senin tahayyÃ¼l...",
+          "metadata": {
+            "title": "MÄ±sÄ±r notlarÄ±-2",
+            "date": null,
+            "source": "https://www.sevannisanyan.com",
+            "keywords": "",
+            "chunk_index": 35,
+            "total_chunks": 47
+          },
+          "dense_score": 0.4025037723053768,
+          "sparse_score": null,
+          "dense_rank": 46,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7e710cef55cf#3",
+          "score": 0.4022797023730054,
+          "content": "Dört yıl için konu kapandı. Site yüz üstü kaldı. Bir daha da dönmem o mevzuya diye düşündüm. 2018 Mart başında Halim ile Selim’i yatağa koyduktan sonra siteyi biraz adam etme niyetiyle yine yer adları...",
+          "metadata": {
+            "title": "Yer Adları bitti, gözümüz aydın",
+            "date": "Aug 17, 2019",
+            "source": "https://nisanyan.substack.com/p/yer-adlar-bitti-gozumuz-aydn-19-08-17",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 6
+          },
+          "dense_score": 0.4022797023730054,
+          "sparse_score": null,
+          "dense_rank": 47,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "940d816c1eb8#5",
+          "score": 0.40221144054343894,
+          "content": "Dikkat ediniz. Buradaki ses, bizim alışık olduğumuz bir ses değildir. Lavtacı Nazaret’le Hamparsum’dan söz ederken bir an için o tanıdık dolma-topik kardeşliğine düşecek gibi olsa da, söylediği şey o ...",
+          "metadata": {
+            "title": "Paris Nutku",
+            "date": "Jan 20, 2011",
+            "source": "https://nisanyan.substack.com/p/paris-nutku-11-01-20",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 10
+          },
+          "dense_score": 0.40221144054343894,
+          "sparse_score": null,
+          "dense_rank": 48,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "bbb9fca5b934#1",
+          "score": 0.4019187060722852,
+          "content": "Dediğim gibi, amatör olarak tarihle ilgilenen insanlar bu seviyenin ötesine kolay kolay geçemezler. İkinci seviye asıl keyifli olan tarih disiplinidir. Şöyle anlatmaya çalışayım. Bir tarih anlatısı ku...",
+          "metadata": {
+            "title": "Tarih nasıl çalışılır",
+            "date": "06 February 2022",
+            "source": "https://www.sevannisanyan.com/metin/tarih-nasil-calisilir-96461",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4019187060722852,
+          "sparse_score": null,
+          "dense_rank": 49,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6c96264665b5#2",
+          "score": 0.40185020689535866,
+          "content": "Fakat onun dışında çok geniş bir alanda yazı unutulmuş. Homeros’u mutlaka okudunuz, Eski Yunan destan şairi. Takriben milattan önce 800’lü yıllarda, yani karanlık çağın başlamasından 300-400 yıl sonra...",
+          "metadata": {
+            "title": "Bronz Çağı medeniyetleri nasıl çöktü",
+            "date": "20 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/bronz-cagi-medeniyetleri-nasil-coktu-20895",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.40185020689535866,
+          "sparse_score": null,
+          "dense_rank": 50,
+          "sparse_rank": null
+        }
+      ],
+      "performance": {
+        "total_time_ms": 208.10484886169434,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "sparse": {
+      "query": "düşünce tarihi",
+      "strategy": "sparse",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "bcec9ef40a3a#2",
+          "score": 2.529505729675293,
+          "content": "Felsefeyi başlı başına bir düşünce disiplini haline getiren onlar. Siyaset teorisini, edebi eleştiriyi, eleştirel tarih yazımını icat edenler onlar. Toparlarsak, Afroasyatik kökenler meselesinde ölçül...",
+          "metadata": {
+            "title": "Yunanlar medeniyeti Afrika’dan mı öğrendi",
+            "date": "21 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/yunanlar-medeniyeti-afrikadan-mi-ogrendi-73845",
+            "keywords": "Afroasyatik, Fenike, Martin Bernal, Yunan medeniyeti"
+          },
+          "dense_score": null,
+          "sparse_score": 2.529505729675293,
+          "dense_rank": null,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "85c4939bdc9d#1",
+          "score": 2.1450672149658203,
+          "content": "Hayattaki yegane amacım kendi çıkarımı gözetmektir diye özetlenebilecek dünya görüşüne giydirilmiş bir kılıktır. İmdi, geleneksel toplum felsefesi insanların bencilliği gerçeğini kabul etmiş. Ancak de...",
+          "metadata": {
+            "title": "Akademi neden solcu",
+            "date": "05 March 2023",
+            "source": "https://www.sevannisanyan.com/metin/akademi-neden-solcu-57234",
+            "keywords": "akademi, elit, solculuk, üniversite"
+          },
+          "dense_score": null,
+          "sparse_score": 2.1450672149658203,
+          "dense_rank": null,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "f799365040fc#5",
+          "score": 2.137012481689453,
+          "content": "S. Nişanyan:** Hissetmezsin belki, ya da eğitiminle orantılı olarak çok belirsiz bir biçimde hissedersin. Ama tıpkı içinde yaşadığın coğrafya gibi, içinde dolandığın dilde de binlerce yıllık bir uygar...",
+          "metadata": {
+            "title": "Dile ve dillere dair bir söyleşi",
+            "date": "Aug 04, 2018",
+            "source": "https://nisanyan.substack.com/p/dile-ve-dillere-dair-bir-soylesi-18-08-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.137012481689453,
+          "dense_rank": null,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "3b702f1d267b#0",
+          "score": 2.1361446380615234,
+          "content": "**(1964-1971)**\n\nİlkokul ikiyi bitirdiğim yaz Baruyr Eniştem Hayat Tarih Gazetesi’nin ciltlenmiş koleksiyonunu hediye etti. Günlük gazete şeklinde hazırlanmış dünya tarihi, 52 sayı, Yılmaz Öztuna yaza...",
+          "metadata": {
+            "title": "Nasıl tarih öğrendim",
+            "date": "Apr 28, 2019",
+            "source": "https://nisanyan.substack.com/p/nasl-tarih-ogrendim-19-04-28",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.1361446380615234,
+          "dense_rank": null,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "5a8b30c402c6#2",
+          "score": 2.0737709999084473,
+          "content": "Dört beş yıl önce Prof. Dr. Paşa Yavuzarslan cidden takdire değer bir detektif çalışması yapıp, düzinelerce köhne metni didik didik edip, hiçbir ipucunu atlamayıp, meseleye tatmin edici bir çözüm bulm...",
+          "metadata": {
+            "title": "Kulunç, şimşek, stepne",
+            "date": "Feb 08, 2018",
+            "source": "https://nisanyan.substack.com/p/kulunc-simsek-stepne-18-02-08",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.0737709999084473,
+          "dense_rank": null,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "2ff6c02627f1#3",
+          "score": 1.9496610164642334,
+          "content": "Beşer ile basur’un, hasar ile hasretin kavramsal ilişkisini aklına bile getiremezsin. Birçok kelimenin Arapça dahilindeki anlam evrimini de çoğu zaman kavrayamazsın. 2003’ten 2009’a giden süreçte ‘lev...",
+          "metadata": {
+            "title": "Nişanyan Sözlük nasıl yazıldı",
+            "date": "29 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/nisanyan-sozluk-nasil-yazildi-57381",
+            "keywords": "etimoloji, Nişanyan Sözlük, Türkçe sözlükler"
+          },
+          "dense_score": null,
+          "sparse_score": 1.9496610164642334,
+          "dense_rank": null,
+          "sparse_rank": 6
+        },
+        {
+          "chunk_id": "fc0f23c443ab#9",
+          "score": 1.9374488592147827,
+          "content": "Neden unutturulmadı? Sorumuz bu. Resmi Tarih’in işlevi meşrulaştırmaktır. Bir hikâye anlatırsın. Bu hikâye senin bugününü, varlığını, iktidarını, yasalarını, törelerini, eksiklerini, yanlışlarını hakl...",
+          "metadata": {
+            "title": "Beni Kureyza katliamı",
+            "date": "May 25, 2013",
+            "source": "https://nisanyan.substack.com/p/beni-kureyza-katliam-13-05-25",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.9374488592147827,
+          "dense_rank": null,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "71ddfe8871fd#8",
+          "score": 1.929061770439148,
+          "content": "Yönetici elitin aslında bihaber olduğu köylü ve kasabalı Türkçesinden yeni bir kültür dili üretilebileceği fantezisine bel bağlanmıştır. Üçüncü sebep ‘komşuda var bizde niye yok’ sendromudur. Sırasıyl...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.929061770439148,
+          "dense_rank": null,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "472803346a3a#0",
+          "score": 1.920613408088684,
+          "content": "***Ekopolitik**adlı düşünce kuruluşunda, çoğu milliyetçi sağ kesimden gelen kalabalık bir dinleyici grubuna verdiğim konferansın transkripti. Başı yarım sayfa kadar eksik. Dinleyiciler arasında İstanb...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.920613408088684,
+          "dense_rank": null,
+          "sparse_rank": 9
+        },
+        {
+          "chunk_id": "5f4cc11d9ab6#1",
+          "score": 1.904022455215454,
+          "content": "Algoritmik düşünce diyebiliriz buna. Yani bir işlem şeması şeklinde düzenlenmiş bir eylem planı. Daha geniş perspektiften baktığınızda kolayca görülen insani, ahlaki, sosyal, kültürel, ekonomik, siyas...",
+          "metadata": {
+            "title": "Bürokratik aklın sakıncaları nedir",
+            "date": "25 June 2023",
+            "source": "https://www.sevannisanyan.com/metin/burokratik-aklin-sakincalari-nedir-92196",
+            "keywords": "algoritma, bürokratik akıl, eğitim ilkeleri"
+          },
+          "dense_score": null,
+          "sparse_score": 1.904022455215454,
+          "dense_rank": null,
+          "sparse_rank": 10
+        },
+        {
+          "chunk_id": "309bc810eb5e#3",
+          "score": 1.8851853609085083,
+          "content": "Türkçe sahiden biliyorlar mıydı? Ne malum? Günlük hayatta dil Rumca, edebi sohbette Farsça neden olmasın? Tarih okudukça fark ediyorsun ki geçmiş hakkında bildiğin ya da bildiğini zannettiğin her şey ...",
+          "metadata": {
+            "title": "Türkler Nece Konuşurdu yazısına ek notlar",
+            "date": "Nov 22, 2017",
+            "source": "https://nisanyan.substack.com/p/turkler-nece-konusurdu-yazsna-ek-17-11-22",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8851853609085083,
+          "dense_rank": null,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "806caf9c0d28#3",
+          "score": 1.856407642364502,
+          "content": "Birkaç gün sonra, öldürülme hadisesinde rol oynayan Mustafa Kaptan’ın ifadesi üzerine gidip cesedi buluyorlar. Olay aslında apaçık. Fakat bunun Cumhuriyetin resmi tarih yazımında ele alınış biçimi son...",
+          "metadata": {
+            "title": "Topal Osman vakasının güncel anlamı nedir",
+            "date": "31 March 2019",
+            "source": "https://www.sevannisanyan.com/metin/topal-osman-vakasinin-guncel-anlami-nedir-40362",
+            "keywords": "Atatürk, Topal Osman, Veli Küçük"
+          },
+          "dense_score": null,
+          "sparse_score": 1.856407642364502,
+          "dense_rank": null,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "3b702f1d267b#11",
+          "score": 1.8536725044250488,
+          "content": "Dergideki arkadaşlar tereddüde düştüler, “hani nerede sınıflar, nerede üretim ilişkileri” diye soran oldu. Dergi kapanmasaydı yazıyı basarlar mıydı? Emin değilim. O dönemde kafamda netleşen fikir topl...",
+          "metadata": {
+            "title": "Nasıl tarih öğrendim",
+            "date": "Apr 28, 2019",
+            "source": "https://nisanyan.substack.com/p/nasl-tarih-ogrendim-19-04-28",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8536725044250488,
+          "dense_rank": null,
+          "sparse_rank": 13
+        },
+        {
+          "chunk_id": "2e4fdd512975#0",
+          "score": 1.8460781574249268,
+          "content": "1-8 Eylülde Şirince'de birincisini gerçekleştirdiğimiz Akıl ve Din seminerinin videoları aşağıda. Hepsi 8 tane, toplam yaklaşık 9 saat.\n\n1. gün - <http://www.youtube.com/watch?v=CuOUwlNYfSc> Konular: ...",
+          "metadata": {
+            "title": "Akıl ve Din Semineri videoları",
+            "date": "Sep 23, 2013",
+            "source": "https://nisanyan.substack.com/p/akl-ve-din-semineri-videolar-13-09-23",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8460781574249268,
+          "dense_rank": null,
+          "sparse_rank": 14
+        },
+        {
+          "chunk_id": "7eb5e35d2982#2",
+          "score": 1.838853359222412,
+          "content": "Modern Çek milliyetçiliğinin önyargıları gereği ülkenin tarihi, Çek sanatçılar, Çek filozofları, Çek bilim adamları ile dolu görünüyor. Oysa bunların hemen hepsi vaktiyle adlarını Almanca telaffuz etm...",
+          "metadata": {
+            "title": "Çek defteri",
+            "date": "Mar 31, 2017",
+            "source": "https://nisanyan.substack.com/p/cek-defteri-17-03-31",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.838853359222412,
+          "dense_rank": null,
+          "sparse_rank": 15
+        },
+        {
+          "chunk_id": "5d43f239b73c#3",
+          "score": 1.8276727199554443,
+          "content": "Osmanlının şunca yüz yıllık tarihinde (en son dekadans dönemi hariç) “**gâvur da iyidir, hoş görelim**” diye akıl yürüten tek bir kalem sahibi bulamazsınız. Sömürdüklerinin dinine dokunmadı, çünkü eko...",
+          "metadata": {
+            "title": "İspanyollar daha mı kötü?",
+            "date": "Apr 18, 2018",
+            "source": "https://nisanyan.substack.com/p/ispanyollar-daha-m-kotu-18-04-18",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8276727199554443,
+          "dense_rank": null,
+          "sparse_rank": 16
+        },
+        {
+          "chunk_id": "818472382d83#0",
+          "score": 1.8239103555679321,
+          "content": "*28 Mart 2024’te Agos Gazetesinde çıkan röportajım.*\n\n**-Peder Sukyas Eprigyan'ın kitabı çok sınırlı bir çevrede bilinen bir çalışmaydı. Zannediyorum belli bir harfe kadar gelmişti ve devamı yoktu. Bu...",
+          "metadata": {
+            "title": "'Türkiye'nin Ermeni Coğrafyası' röportajı",
+            "date": "Mar 28, 2024",
+            "source": "https://nisanyan.substack.com/p/turkiyenin-ermeni-cografyas-roportaj",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8239103555679321,
+          "dense_rank": null,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "1cec607c4a06#3",
+          "score": 1.8026906251907349,
+          "content": "1918 Eylül’ünde Filistin’de bulunan üç adet Osmanlı ordusundan ikisi tüm mevcuduyla İngilizlere esir düştü, üçüncüsü çil yavrusu gibi dağıldı. Kırk günde bütün Suriye, Lübnan ve Ürdün kaybedildi. Aynı...",
+          "metadata": {
+            "title": "Kahraman ırkıma bir gül",
+            "date": "May 23, 2014",
+            "source": "https://nisanyan.substack.com/p/kahraman-rkma-bir-gul-14-05-23",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8026906251907349,
+          "dense_rank": null,
+          "sparse_rank": 18
+        },
+        {
+          "chunk_id": "0da213c47b97#8",
+          "score": 1.8013441562652588,
+          "content": "1200’den, hadi diyelim 1500’den sonra durmuş. O günden bu güne geçen beş yüz küsur yılda hiçbir katkı yok. Hiç yok. Sıfır. Nul. İnsanlığın evriminde bir adım sayılacak bir tanecik fikir, bir tanecik b...",
+          "metadata": {
+            "title": "\"İslamın Faydaları\" yazısına gelen yorumlardan bir potpuri",
+            "date": "May 31, 2015",
+            "source": "https://nisanyan.substack.com/p/islamn-faydalar-yazsna-gelen-yorumlardan-15-05-31",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8013441562652588,
+          "dense_rank": null,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "8eb9069b89c1#4",
+          "score": 1.7952771186828613,
+          "content": "Ta baştan beri bunu görebilen filozoflar vardı gerçi; biz sıradan insanlar ancak 2020’de Covid kriziyle beraber bu gerçeğe tüm dehşetiyle uyanabildik. Sovyetlerin çöküşünden sonra Amerikan elitleri dü...",
+          "metadata": {
+            "title": "Amerika’yla derdim ne",
+            "date": "20 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/amerikayla-derdim-ne-79307",
+            "keywords": "ABD-toplumsal yapı, Covid, globalizm, polis devleti, Soğuk Savaş"
+          },
+          "dense_score": null,
+          "sparse_score": 1.7952771186828613,
+          "dense_rank": null,
+          "sparse_rank": 20
+        },
+        {
+          "chunk_id": "4b6aeca8d3d2#0",
+          "score": 1.7942237854003906,
+          "content": "**Sevan’ın son zamanlarda artarak artan İslam sempatisi beni bir hayli şaşırtıyor. Ama bu basitçe bir barışmaktan çok, farklı olana dikkat çekme çabasıdır. Bakın burada böyle bir şey de var diyor.**\n\n...",
+          "metadata": {
+            "title": "Nişanyan neden İslam’ı övüyor",
+            "date": "17 July 2022",
+            "source": "https://www.sevannisanyan.com/metin/nisanyan-neden-islami-ovuyor-77187",
+            "keywords": "Balkanlar, Batı Doğu sentezi, İslam"
+          },
+          "dense_score": null,
+          "sparse_score": 1.7942237854003906,
+          "dense_rank": null,
+          "sparse_rank": 21
+        },
+        {
+          "chunk_id": "cdfb79eca3c4#0",
+          "score": 1.7835180759429932,
+          "content": "**Osmanlı’nın son döneminde okuryazarlık oranı neydi? O kadar da düşük değildi, Cumhuriyet rejimi az gösterdi deniyor. Ama ayrılan Balkan ülkelerindeki Müslüman nüfusta yüzde altı yedi gibi oranlar sö...",
+          "metadata": {
+            "title": "Osmanlı’da okur yazar oranı neydi",
+            "date": "04 July 2021",
+            "source": "https://www.sevannisanyan.com/metin/osmanlida-okur-yazar-orani-neydi-61258",
+            "keywords": "Abdülhamit, Osmanlı gayrimüslimleri, Osmanlıda okuryazarlık"
+          },
+          "dense_score": null,
+          "sparse_score": 1.7835180759429932,
+          "dense_rank": null,
+          "sparse_rank": 22
+        },
+        {
+          "chunk_id": "058bb5d3d9b7#0",
+          "score": 1.7804867029190063,
+          "content": "**Porno sanayiinin devasa büyüklüğünü ve toplumlar üzerindeki etkisini konuşsanız?**\n\nPorno zararlı mı, faydalı mı? Helal mi, sömürü mü? Valla düşündüm, düşündüm, bulamadım bu soruların cevaplarını. B...",
+          "metadata": {
+            "title": "Porno sanayiinin anlam ve önemi nedir",
+            "date": "05 September 2021",
+            "source": "https://www.sevannisanyan.com/metin/porno-sanayiinin-anlam-ve-onemi-nedir-73795",
+            "keywords": "Kadın psikolojisi, Para ekonomisi, Porno"
+          },
+          "dense_score": null,
+          "sparse_score": 1.7804867029190063,
+          "dense_rank": null,
+          "sparse_rank": 23
+        },
+        {
+          "chunk_id": "300a3df19be8#2",
+          "score": 1.7768287658691406,
+          "content": "Ciddi konulara değinen hemen her yazımın içinde bu fikir bir yerlerde mutlaka saklıdır. Halim-Selim’de de epey değindim. Her ahlaki arınma teşebbüsünün, her dini uyanış hareketinin kaçınılmaz akıbetid...",
+          "metadata": {
+            "title": "Ahlaklı yaşamın sırları",
+            "date": "Oct 01, 2018",
+            "source": "https://nisanyan.substack.com/p/ahlakl-yasamn-srlar-18-10-01",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7768287658691406,
+          "dense_rank": null,
+          "sparse_rank": 24
+        },
+        {
+          "chunk_id": "7e710cef55cf#2",
+          "score": 1.7556004524230957,
+          "content": "Devamı gelmedi. Bir buçuk yıl kadar yer adlarını unuttum. Etimoloji sözlüğümü geliştirmekle uğraştım. Hatırlarsınız, İslam dini üzerine uzun bir polemik dönemine girdim; epey İslam tarihi okudum. 2013...",
+          "metadata": {
+            "title": "Yer Adları bitti, gözümüz aydın",
+            "date": "Aug 17, 2019",
+            "source": "https://nisanyan.substack.com/p/yer-adlar-bitti-gozumuz-aydn-19-08-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7556004524230957,
+          "dense_rank": null,
+          "sparse_rank": 25
+        },
+        {
+          "chunk_id": "17ee038edfb3#3",
+          "score": 1.748579740524292,
+          "content": "Bunun anlamı nedir? Bir yazı (kültür) dili olarak Türkçe neden ve nasıl doğmuş; nasıl bir toplumsal, psikolojik, siyasi bileşkenin ürünüymüş? Bir tarihte birden bire Farsçayı bırakıp Türkçe yazmaya ba...",
+          "metadata": {
+            "title": "En Şarkî Roma",
+            "date": "Apr 03, 2017",
+            "source": "https://nisanyan.substack.com/p/en-sarki-roma-17-04-03",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.748579740524292,
+          "dense_rank": null,
+          "sparse_rank": 26
+        },
+        {
+          "chunk_id": "1df77b64b3bc#4",
+          "score": 1.742177963256836,
+          "content": "Daha erkenini bilen varsa haber etsin lütfen. Bir tane daha kelimemiz var bu kökten gelen, kırk yıl düşünsen aklına gelmez. Aramiceye bakıyoruz. *Genez* גֵנֶז Kudüs'teki tapınak hazinesine verilen ad....",
+          "metadata": {
+            "title": "Hazine nasıl aranır?",
+            "date": "Mar 08, 2015",
+            "source": "https://nisanyan.substack.com/p/hazine-nasl-aranr-15-03-08",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.742177963256836,
+          "dense_rank": null,
+          "sparse_rank": 27
+        },
+        {
+          "chunk_id": "de77ffef9634#1",
+          "score": 1.7223294973373413,
+          "content": "Dili bilmek yetmez, kültürlerini bilmen, önyargılarını tanıman, zihinsel sınırlarını tartman gerekir. Şayet orada Türkiye’de farklı milletlerin yaşadığını anlatmak gibi bir hedefin varsa şu gerçeği as...",
+          "metadata": {
+            "title": "Eğil nasıl gezilir",
+            "date": "14 January 2024",
+            "source": "https://www.sevannisanyan.com/metin/egil-nasil-gezilir-03296",
+            "keywords": "Eğil, milliyetçi tarih, Sophene krallığı"
+          },
+          "dense_score": null,
+          "sparse_score": 1.7223294973373413,
+          "dense_rank": null,
+          "sparse_rank": 28
+        },
+        {
+          "chunk_id": "940d816c1eb8#1",
+          "score": 1.7183284759521484,
+          "content": "Hepimiz Hrant’ız diye bir kere daha tekrarladılar. Düşünün, belki tarihte ilk kez biz Ermenilerle Türklerin ortak bir martir’i var! Cahit Koytak’ı belki tanırsınız. İslami kesimde popüler olan bir şai...",
+          "metadata": {
+            "title": "Paris Nutku",
+            "date": "Jan 20, 2011",
+            "source": "https://nisanyan.substack.com/p/paris-nutku-11-01-20",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7183284759521484,
+          "dense_rank": null,
+          "sparse_rank": 29
+        },
+        {
+          "chunk_id": "3bd8743c1107#2",
+          "score": 1.7163699865341187,
+          "content": "Gerisine üşendim. Nişanyan Sözlük baskısı elinizdeyse alın web sitesiyle karşılaştırın, yaptığım işi kolayca bulursunuz. Mutfağımız o kadar şeffaf. 1 Ağustosta hafta bir gol bir, Brezilya taşrasını oğ...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7163699865341187,
+          "dense_rank": null,
+          "sparse_rank": 30
+        },
+        {
+          "chunk_id": "7e710cef55cf#3",
+          "score": 1.7163699865341187,
+          "content": "Dört yıl için konu kapandı. Site yüz üstü kaldı. Bir daha da dönmem o mevzuya diye düşündüm. 2018 Mart başında Halim ile Selim’i yatağa koyduktan sonra siteyi biraz adam etme niyetiyle yine yer adları...",
+          "metadata": {
+            "title": "Yer Adları bitti, gözümüz aydın",
+            "date": "Aug 17, 2019",
+            "source": "https://nisanyan.substack.com/p/yer-adlar-bitti-gozumuz-aydn-19-08-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7163699865341187,
+          "dense_rank": null,
+          "sparse_rank": 31
+        },
+        {
+          "chunk_id": "433e2f5cf866#0",
+          "score": 1.714324712753296,
+          "content": "Bildiğin terane: Atalarımız göçebeydi o yüzden... bina yapamıyoruz/sokağa çöp atıyoruz/kırmızıda durmuyoruz/Kezban’ı dövüyoruz vs. vs.\n\nYok öyle bir şey. Bir kere atan göçebe filan değildi. Yüzde elli...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.714324712753296,
+          "dense_rank": null,
+          "sparse_rank": 32
+        },
+        {
+          "chunk_id": "fa6fe7276001#0",
+          "score": 1.7076387405395508,
+          "content": "Götz Kubitschek, Spiegel dergisinden\n\nDer Spiegel’de Alman yeni sağının başta gelen fikir önderlerinden Götz Kubitschek’le söyleşi/makale. Spiegel için ideolojik düşmandır. Ama Kubitschek’lerin köy ev...",
+          "metadata": {
+            "title": "Yeni sağ neyin sağı",
+            "date": "Apr 11, 2017",
+            "source": "https://nisanyan.substack.com/p/yeni-sag-neyin-sag-17-04-11",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7076387405395508,
+          "dense_rank": null,
+          "sparse_rank": 33
+        },
+        {
+          "chunk_id": "b41eb720d367#2",
+          "score": 1.7029614448547363,
+          "content": "Dolayısıyla İslam demek, hem İslam toplumu içinde yarı İslam ve yarı cahil olanlara karşı, hem toplumun büyük bir kısmını oluşturan gayrimüslim zümrüye karşı bir elit pozisyonuna sahip olmakla eş anla...",
+          "metadata": {
+            "title": "İslam kitap dini mi",
+            "date": "28 June 2020",
+            "source": "https://www.sevannisanyan.com/metin/islam-kitap-dini-mi-29668",
+            "keywords": "İslam tarihi, İslamda kadın, Kutsal kitaplar"
+          },
+          "dense_score": null,
+          "sparse_score": 1.7029614448547363,
+          "dense_rank": null,
+          "sparse_rank": 34
+        },
+        {
+          "chunk_id": "bcec9ef40a3a#1",
+          "score": 1.686728596687317,
+          "content": "Bu da, Bernal’ın aslında gayet makul ve ölçülü olan tezlerinin akademik dünyada karikatürleşmesine, alay konusu olmasına sebep oldu. İşin ölçüsü kaçtı. Biliyorsunuz geçenlerde Mısır’a gittik. O vesile...",
+          "metadata": {
+            "title": "Yunanlar medeniyeti Afrika’dan mı öğrendi",
+            "date": "21 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/yunanlar-medeniyeti-afrikadan-mi-ogrendi-73845",
+            "keywords": "Afroasyatik, Fenike, Martin Bernal, Yunan medeniyeti"
+          },
+          "dense_score": null,
+          "sparse_score": 1.686728596687317,
+          "dense_rank": null,
+          "sparse_rank": 35
+        },
+        {
+          "chunk_id": "ba6b71957266#3",
+          "score": 1.684653639793396,
+          "content": "Politika herkesi ilgilendiren birşey midir?** Tarihimizin çok uzun bir döneminde öyle olmadığı kabul edildi. Toplum yönetimi akıl ve tecrübe gerektiren bir iş ise, akıl ve tecrübeden yoksun olanlara n...",
+          "metadata": {
+            "title": "Felsefe sınavı",
+            "date": "Jun 23, 2016",
+            "source": "https://nisanyan.substack.com/p/felsefe-snav-16-06-23",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.684653639793396,
+          "dense_rank": null,
+          "sparse_rank": 36
+        },
+        {
+          "chunk_id": "1790989ce0f5#0",
+          "score": 1.667319655418396,
+          "content": "*Kelimebaz'dan bir yazı. 9 Haziran 2009'da Taraf'ta çıktı.*\n\nSatanist varsa vatanist de var tabii, hangisi topluma daha zararlı bir akımdır onu ayrıca tartışırız. Şimdilik şöyle ipucu vereyim: Satanis...",
+          "metadata": {
+            "title": "Vatanist",
+            "date": "Jun 09, 2009",
+            "source": "https://nisanyan.substack.com/p/vatanist-09-06-09",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.667319655418396,
+          "dense_rank": null,
+          "sparse_rank": 37
+        },
+        {
+          "chunk_id": "e4462ee19aab#0",
+          "score": 1.665452003479004,
+          "content": "Bir vesileyle Ebulferec Tarihi’ni[[1]](https://www.blogger.com/blogger.g?blogID=1302467060357060984#_ftn1)tararken, tık, en az yirmi senedir takılı duran bir jeton düştü. Selahaddin Eyyubi’nin berbat ...",
+          "metadata": {
+            "title": "Çapakçur, Çevlik, Bingöl",
+            "date": "Mar 17, 2018",
+            "source": "https://nisanyan.substack.com/p/capakcur-cevlik-bingol-18-03-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.665452003479004,
+          "dense_rank": null,
+          "sparse_rank": 38
+        },
+        {
+          "chunk_id": "30e027c18013#9",
+          "score": 1.6603989601135254,
+          "content": "Mudanya mütarekesinden sonra, tek el silah atmadan, Türkiye'den de çekildiler. İkinci harpten sonra Almanya dört sene, Japonya yedi sene, Avusturya on sene müttefik işgali altında kaldı. Kimsenin de a...",
+          "metadata": {
+            "title": "Milli Mücadele neyin mücadelesi",
+            "date": "Nov 08, 2013",
+            "source": "https://nisanyan.substack.com/p/milli-mucadele-neyin-mucadelesi-13-11-08",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.6603989601135254,
+          "dense_rank": null,
+          "sparse_rank": 39
+        },
+        {
+          "chunk_id": "db5468ced725#4",
+          "score": 1.6560187339782715,
+          "content": "Osmanlı ülkesinde de eskiden Müslüman diye anılan halkın kendini ‘Türk’ olarak yeniden tanımlaması sürecinde rol oynamış bir faktördür. Rusya’daki 1905 ihtilalinden sonra Rusya’nın o zamanlar Tatar di...",
+          "metadata": {
+            "title": "Türkler eskiden Osmanlı mıydı",
+            "date": "28 November 2021",
+            "source": "https://www.sevannisanyan.com/metin/turkler-eskiden-osmanli-miydi-81340",
+            "keywords": "Azeri, Osmanlı, Türkler"
+          },
+          "dense_score": null,
+          "sparse_score": 1.6560187339782715,
+          "dense_rank": null,
+          "sparse_rank": 40
+        },
+        {
+          "chunk_id": "f3b142cfc0a0#3",
+          "score": 1.655238389968872,
+          "content": "Ancak fırınlanmış dolgulu patates anlamında **kumpir** yanılmıyorsam 1990 yılında aniden memleketi sardı. İmparatorluğun merkezinde patates ekimini II. Mahmut’un emri veya teşvikiyle Alibeyköy Çiftliğ...",
+          "metadata": {
+            "title": "Patates nasıl patates oldu",
+            "date": "Oct 05, 2023",
+            "source": "https://nisanyan.substack.com/p/patates-nasl-patates-oldu",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.655238389968872,
+          "dense_rank": null,
+          "sparse_rank": 41
+        },
+        {
+          "chunk_id": "7b26dc288ef0#0",
+          "score": 1.6374775171279907,
+          "content": "**Hocam, son zamanlarda uzun süredir doğru kabul ettiğiniz birtakım bilgilere karşı artık şüpheyle yaklaşımınızı hiç Nazi Almanyası’na karşı yaptınız mı?**\n\nBu soruyla ben bugün yüzleşmedim, bundan 50...",
+          "metadata": {
+            "title": "Naziler hep mi haksız",
+            "date": "17 October 2022",
+            "source": "https://www.sevannisanyan.com/metin/naziler-hep-mi-haksiz-80857",
+            "keywords": "naziler, Ukrayna"
+          },
+          "dense_score": null,
+          "sparse_score": 1.6374775171279907,
+          "dense_rank": null,
+          "sparse_rank": 42
+        },
+        {
+          "chunk_id": "c676025303ab#1",
+          "score": 1.634934425354004,
+          "content": "Emirle bir şey gerçekleşir. Emirle hakikat arasındaki farkı bir süre sonra algılama yeteneğini kaybeder askerlik mesleğinde olanlar. Emirle bir tarihi gerçeğin ortadan kalkabileceğini düşündüler belki...",
+          "metadata": {
+            "title": "Soykırımı tanısalar ne olur",
+            "date": "02 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/soykirimi-tanisalar-ne-olur-55260",
+            "keywords": "Biden, CIA, Ermeni soykırımı, Kamuran İnan"
+          },
+          "dense_score": null,
+          "sparse_score": 1.634934425354004,
+          "dense_rank": null,
+          "sparse_rank": 43
+        },
+        {
+          "chunk_id": "0a2f31042136#3",
+          "score": 1.6344287395477295,
+          "content": "Bir yandan da, bugünkü Türkiye’nin ya da Cumhuriyet öncesinin tutukluğu ile kıyaslarsanız, büyük cesaret, büyük delilik, büyük hayalperestlik. Bu ‘Kültür Devrimi’ esasen iki yıl sürdü. İki yılın sonun...",
+          "metadata": {
+            "title": "Kadro Hareketi neydi",
+            "date": "23 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/kadro-hareketi-neydi-44093",
+            "keywords": "Atatürk devrimleri, Kadro Harekeri"
+          },
+          "dense_score": null,
+          "sparse_score": 1.6344287395477295,
+          "dense_rank": null,
+          "sparse_rank": 44
+        },
+        {
+          "chunk_id": "066fbe4c512b#2",
+          "score": 1.632993221282959,
+          "content": "Birkaç gerizekalı yüzünden kural aksar ve düzen işlemezse bürokratın otoritesi sarsılır, işlevi sıfırlanır. 1. Bürokrat polise muhtaçtır. Kural koydun uymadılar; ilkinde nazikçe uyarman, o arkadaşa ge...",
+          "metadata": {
+            "title": "Bugün bir memur vurdun mu?",
+            "date": "Jun 07, 2020",
+            "source": "https://nisanyan.substack.com/p/bugun-bir-memur-vurdun-mu-20-06-07",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.632993221282959,
+          "dense_rank": null,
+          "sparse_rank": 45
+        },
+        {
+          "chunk_id": "940d816c1eb8#0",
+          "score": 1.6313914060592651,
+          "content": "*Hrant Dink cinayetini anma etkinliği çerçevesinde Paris’te Tıbrevank’tan Yetişenler Derneği’nin davetlisi olarak yaptığım konuşma.*\n\nHRANT’IN DÖRDÜNCÜ YILINDA TÜRKİYE’DE NELER OLUYOR\n\nBüyük siyasi de...",
+          "metadata": {
+            "title": "Paris Nutku",
+            "date": "Jan 20, 2011",
+            "source": "https://nisanyan.substack.com/p/paris-nutku-11-01-20",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.6313914060592651,
+          "dense_rank": null,
+          "sparse_rank": 46
+        },
+        {
+          "chunk_id": "d22ffad92793#3",
+          "score": 1.6200525760650635,
+          "content": "Ancak fırınlanmış dolgulu patates anlamında kumpir yanılmıyorsam 1990 yılında aniden memleketi sardı. İmparatorluğun merkezinde patates ekimini II. Mahmut’un emri veya teşvikiyle Alibeyköy Çiftliğinde...",
+          "metadata": {
+            "title": "Kelime çalışmaları: Patates, kumpir, kartofil",
+            "date": "06 October 2023",
+            "source": "https://www.sevannisanyan.com/metin/kelime-calismalari-patates-kumpir-kartofil-95957",
+            "keywords": "etimoloji, kumpir, patates"
+          },
+          "dense_score": null,
+          "sparse_score": 1.6200525760650635,
+          "dense_rank": null,
+          "sparse_rank": 47
+        },
+        {
+          "chunk_id": "66ececa65e51#3",
+          "score": 1.6163771152496338,
+          "content": "O cihadın ateşi içinde, kanlı ve bozkurtlu bir tür İslami hamasetin memleketin hastalıklı muhayyilesini ele geçirmesi sizce şaşırtıcı olmuş mudur? Yetmedi, ama evet Bunlara karşı girdiği mücadelede be...",
+          "metadata": {
+            "title": "Siyaset yaz dediler, işte yazdım",
+            "date": "Nov 02, 2017",
+            "source": "https://nisanyan.substack.com/p/siyaset-yaz-dediler-iste-yazdm-17-11-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.6163771152496338,
+          "dense_rank": null,
+          "sparse_rank": 48
+        },
+        {
+          "chunk_id": "7c24119ff1e5#1",
+          "score": 1.6134083271026611,
+          "content": "Hepsi anlatmışlar o masalı. Türklerin farkı (eğer varsa) şu. Osmanlı siyasi eliti, çok yakın döneme dek, siyasi nedenlerle, böyle bir “ortak köken” anlatısından özenle kaçındı. Sonra “Türk ırkı” teori...",
+          "metadata": {
+            "title": "Türk güzellemesi",
+            "date": "Sep 24, 2017",
+            "source": "https://nisanyan.substack.com/p/turk-guzellemesi-17-09-24",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.6134083271026611,
+          "dense_rank": null,
+          "sparse_rank": 49
+        },
+        {
+          "chunk_id": "86974ca28717#6",
+          "score": 1.5987298488616943,
+          "content": "Tevhid-i Tedrisat** Aynı gün çıkarılan 430 sayılı yasayla Türkiye'de eğitim tekeli devlete verildi. Devletten izinsiz her türlü eğitim ve öğretim faaliyeti hapislik suç sayıldı. Resmi okulların yanınd...",
+          "metadata": {
+            "title": "3 Mart 1924'te neler oldu? (1 - 2 - 3)",
+            "date": "Apr 15, 2017",
+            "source": "https://nisanyan.substack.com/p/3-mart-1924te-neler-oldu-1-2-3-17-04-15",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.5987298488616943,
+          "dense_rank": null,
+          "sparse_rank": 50
+        }
+      ],
+      "performance": {
+        "total_time_ms": 1.4772415161132812,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "hybrid": {
+      "query": "düşünce tarihi",
+      "strategy": "hybrid",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "bcec9ef40a3a#2",
+          "score": 0.032018442622950824,
+          "content": "Felsefeyi başlı başına bir düşünce disiplini haline getiren onlar. Siyaset teorisini, edebi eleştiriyi, eleştirel tarih yazımını icat edenler onlar. Toparlarsak, Afroasyatik kökenler meselesinde ölçül...",
+          "metadata": {
+            "title": "Yunanlar medeniyeti Afrika’dan mı öğrendi",
+            "date": "21 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/yunanlar-medeniyeti-afrikadan-mi-ogrendi-73845",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4618109676045295,
+          "sparse_score": 2.529505729675293,
+          "dense_rank": 4,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "f799365040fc#5",
+          "score": 0.03057889822595705,
+          "content": "S. Nişanyan:** Hissetmezsin belki, ya da eğitiminle orantılı olarak çok belirsiz bir biçimde hissedersin. Ama tıpkı içinde yaşadığın coğrafya gibi, içinde dolandığın dilde de binlerce yıllık bir uygar...",
+          "metadata": {
+            "title": "Dile ve dillere dair bir söyleşi",
+            "date": "Aug 04, 2018",
+            "source": "https://nisanyan.substack.com/p/dile-ve-dillere-dair-bir-soylesi-18-08-04",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4439784257040098,
+          "sparse_score": 2.137012481689453,
+          "dense_rank": 8,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "309bc810eb5e#3",
+          "score": 0.029957522915269395,
+          "content": "Türkçe sahiden biliyorlar mıydı? Ne malum? Günlük hayatta dil Rumca, edebi sohbette Farsça neden olmasın? Tarih okudukça fark ediyorsun ki geçmiş hakkında bildiğin ya da bildiğini zannettiğin her şey ...",
+          "metadata": {
+            "title": "Türkler Nece Konuşurdu yazısına ek notlar",
+            "date": "Nov 22, 2017",
+            "source": "https://nisanyan.substack.com/p/turkler-nece-konusurdu-yazsna-ek-17-11-22",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4707441914328806,
+          "sparse_score": 1.8851853609085083,
+          "dense_rank": 3,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "433e2f5cf866#0",
+          "score": 0.02039337474120083,
+          "content": "Bildiğin terane: Atalarımız göçebeydi o yüzden... bina yapamıyoruz/sokağa çöp atıyoruz/kırmızıda durmuyoruz/Kezban’ı dövüyoruz vs. vs.\n\nYok öyle bir şey. Bir kere atan göçebe filan değildi. Yüzde elli...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4025203679575057,
+          "sparse_score": 1.714324712753296,
+          "dense_rank": 45,
+          "sparse_rank": 32
+        },
+        {
+          "chunk_id": "7e710cef55cf#3",
+          "score": 0.020334805381534354,
+          "content": "Dört yıl için konu kapandı. Site yüz üstü kaldı. Bir daha da dönmem o mevzuya diye düşündüm. 2018 Mart başında Halim ile Selim’i yatağa koyduktan sonra siteyi biraz adam etme niyetiyle yine yer adları...",
+          "metadata": {
+            "title": "Yer Adları bitti, gözümüz aydın",
+            "date": "Aug 17, 2019",
+            "source": "https://nisanyan.substack.com/p/yer-adlar-bitti-gozumuz-aydn-19-08-17",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 6
+          },
+          "dense_score": 0.40227009592220503,
+          "sparse_score": 1.7163699865341187,
+          "dense_rank": 47,
+          "sparse_rank": 31
+        },
+        {
+          "chunk_id": "9e4052971057#0",
+          "score": 0.01639344262295082,
+          "content": "1. Bir kere daha, tekrar, yeniden ve eksilmeyen bir dehşetle müşahede ediyoruz ki insanların kahir ekseriyeti mit ile tarihsel hakikat arasındaki ayrımı kavramaktan acizdir. Geçmişe ilişkin öykülere, ...",
+          "metadata": {
+            "title": "Mit başka tarih başka",
+            "date": "May 31, 2018",
+            "source": "https://nisanyan.substack.com/p/mit-baska-tarih-baska-18-05-31",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.49086906274477776,
+          "sparse_score": null,
+          "dense_rank": 1,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "75f724c47364#1",
+          "score": 0.016129032258064516,
+          "content": "O iletişimden ayrı düşünülemez. Ama böyle olması bir şey değiştirir mi? Sanmam. Zevk var mı, var. Bitti. Bilginin pratik faydası ikincildir. Paranın veya devletin kölesi olmuş toplumlarda, karşılıksız...",
+          "metadata": {
+            "title": "Akıl oyunları",
+            "date": "Oct 19, 2017",
+            "source": "https://nisanyan.substack.com/p/akl-oyunlar-17-10-19",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4791987971721516,
+          "sparse_score": null,
+          "dense_rank": 2,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "85c4939bdc9d#1",
+          "score": 0.016129032258064516,
+          "content": "Hayattaki yegane amacım kendi çıkarımı gözetmektir diye özetlenebilecek dünya görüşüne giydirilmiş bir kılıktır. İmdi, geleneksel toplum felsefesi insanların bencilliği gerçeğini kabul etmiş. Ancak de...",
+          "metadata": {
+            "title": "Akademi neden solcu",
+            "date": "05 March 2023",
+            "source": "https://www.sevannisanyan.com/metin/akademi-neden-solcu-57234",
+            "keywords": "akademi, elit, solculuk, üniversite"
+          },
+          "dense_score": null,
+          "sparse_score": 2.1450672149658203,
+          "dense_rank": null,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "3b702f1d267b#0",
+          "score": 0.015625,
+          "content": "**(1964-1971)**\n\nİlkokul ikiyi bitirdiğim yaz Baruyr Eniştem Hayat Tarih Gazetesi’nin ciltlenmiş koleksiyonunu hediye etti. Günlük gazete şeklinde hazırlanmış dünya tarihi, 52 sayı, Yılmaz Öztuna yaza...",
+          "metadata": {
+            "title": "Nasıl tarih öğrendim",
+            "date": "Apr 28, 2019",
+            "source": "https://nisanyan.substack.com/p/nasl-tarih-ogrendim-19-04-28",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.1361446380615234,
+          "dense_rank": null,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "75f724c47364#2",
+          "score": 0.015384615384615385,
+          "content": "Zaman zaman simgesel anlatım, rasyonel düşünceyi boğacak ölçüde hakim olur. Bir süre sonra birileri “e yeter artık” deyip rönesans ve reform yaparlar. Öyle öyle devam eder. Antik çağın şafağında İyony...",
+          "metadata": {
+            "title": "Akıl oyunları",
+            "date": "Oct 19, 2017",
+            "source": "https://nisanyan.substack.com/p/akl-oyunlar-17-10-19",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4608659651638246,
+          "sparse_score": null,
+          "dense_rank": 5,
+          "sparse_rank": null
+        }
+      ],
+      "performance": {
+        "total_time_ms": 325.5114555358887,
+        "dense_time_ms": 324.5532512664795,
+        "sparse_time_ms": 0.762939453125,
+        "fusion_time_ms": 0.1952648162841797
+      },
+      "total_candidates": 100
+    }
+  },
+  "overlap_analysis": {
+    "total_unique_chunks": 95,
+    "pairwise_overlap": {
+      "dense_vs_sparse": {
+        "intersection": 5,
+        "union": 95,
+        "jaccard": 0.05263157894736842,
+        "only_in_first": 45,
+        "only_in_second": 45
+      },
+      "dense_vs_hybrid": {
+        "intersection": 8,
+        "union": 52,
+        "jaccard": 0.15384615384615385,
+        "only_in_first": 42,
+        "only_in_second": 2
+      },
+      "sparse_vs_hybrid": {
+        "intersection": 7,
+        "union": 53,
+        "jaccard": 0.1320754716981132,
+        "only_in_first": 43,
+        "only_in_second": 3
+      }
+    }
+  }
+}
