@@ -1,0 +1,24 @@
+# Example queries for testing retrieval system
+# Lines starting with # are ignored
+
+# Historical and political topics
+Türk dili tarihi
+Osmanlı İmparatorluğu
+modernleşme
+dil devrimi
+laiklik
+
+# Language and linguistics
+Türkçe dilbilgisi
+etimoloji
+Hint-Avrupa dilleri
+
+# Cultural topics
+İstanbul tarihi
+Anadolu kültürü
+Bizans İmparatorluğu
+
+# Philosophy and thought
+Aydınlanma
+akılcılık
+düşünce tarihi

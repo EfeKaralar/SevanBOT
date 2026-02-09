@@ -165,41 +165,102 @@ Output is saved to `embeddings/{model}/embeddings.jsonl` and metadata to `embedd
 
 ---
 
-## RAG Retrieval Pipeline (Next Steps)
+## RAG Retrieval System (IMPLEMENTED ✓)
 
-See `advanced-rag/RETRIEVAL_PLAN.md` for full details. This section summarizes key decisions for implementation.
+A modular, production-ready retrieval system with dense, sparse, and hybrid search capabilities.
 
-### Target Architecture
+### Architecture
 
 ```
-INDEXING: Documents → Semantic Chunking → Context Enrichment → Dual Index (Dense + Sparse)
+INDEXING: Documents → Semantic Chunking → Context Enrichment → Dual Index
                            ↓                      ↓                    ↓
-                    256-512 tokens         Prepend metadata      Vector + BM25
+                    256-512 tokens         LLM/Simple Context   Qdrant + BM25
 
-RETRIEVAL: Query → Hybrid Search → RRF Fusion → Reranking → Top-K Results
-                        ↓              ↓            ↓
-                 Dense + Sparse    Combine      Cross-encoder
+RETRIEVAL: Query → Hybrid Search → RRF Fusion → Top-K Results
+                        ↓              ↓
+                 Dense + Sparse    Combine scores
 ```
 
-### Implementation Phases
+### Quick Start
 
-**Phase 1: Foundation**
-1. Set up vector database (Qdrant recommended - has native hybrid support)
-2. Choose embedding model: `text-embedding-3-large` (OpenAI) or `Cohere embed-v4` (excellent multilingual)
-3. Implement basic dense retrieval from existing chunks
+```bash
+# Dense retrieval (vector similarity)
+python3 src/test_retrieval.py --query "Türk dili tarihi" --strategy dense
 
-**Phase 2: Hybrid Search**
-4. Add BM25 sparse indexing using `bm25s` library
-5. Implement Reciprocal Rank Fusion (RRF) - NOT weighted averaging
-6. Test hybrid vs dense-only
+# Sparse retrieval (BM25 keyword matching)
+python3 src/test_retrieval.py --query "Osmanlı İmparatorluğu" --strategy sparse
 
-**Phase 3: Reranking**
-7. Add cross-encoder reranking: `BAAI/bge-reranker-v2-m3` (open-source) or `Cohere Rerank 3.5` (API)
-8. Retrieve 20-50, rerank to top 5
+# Hybrid retrieval (combines dense + sparse with RRF)
+python3 src/test_retrieval.py --query "modernleşme" --strategy hybrid
 
-**Phase 4: Advanced (Optional)**
-9. Query expansion with LLM
-10. Contextual embeddings experiment
+# Compare all strategies side-by-side
+python3 src/test_retrieval.py --query "dil devrimi" --compare
+
+# Batch comparison with example queries
+python3 src/test_retrieval.py --queries example_queries.txt --compare --output results/
+```
+
+### Available Retrieval Strategies
+
+| Strategy | Method | Best For | Latency |
+|----------|--------|----------|---------|
+| **Dense** | Vector similarity (Qdrant) | Semantic search, conceptual queries | ~50-100ms |
+| **Sparse** | BM25 keyword matching (Turkish stemming) | Exact terms, proper nouns | ~20-50ms |
+| **Hybrid** | RRF fusion of dense + sparse | General purpose, best recall | ~100-150ms |
+
+### Configuration Options
+
+```bash
+# Adjust number of results
+--top-k 20
+
+# Change RRF constant (default: 60)
+--rrf-k 30
+
+# Adjust retrieval before fusion (default: 50 each)
+--dense-top-k 100 --sparse-top-k 100
+
+# Use weighted fusion instead of RRF (experimental)
+--strategy hybrid --fusion weighted --dense-weight 0.7 --sparse-weight 0.3
+
+# Export results to JSON for analysis
+--output results/
+```
+
+### Modular Design
+
+The system is built with clean abstractions for experimentation:
+
+```
+src/retrieval/
+├── base.py          # Abstract classes (BaseRetriever, BaseFusion)
+├── dense.py         # DenseRetriever (Qdrant vector search)
+├── sparse.py        # SparseRetriever (BM25 with Turkish stemming)
+├── fusion.py        # RRFFusion, WeightedFusion
+├── hybrid.py        # HybridRetriever (combines retrievers)
+└── evaluator.py     # Comparison and metrics tools
+```
+
+**Programmatic Usage:**
+
+```python
+from retrieval import DenseRetriever, SparseRetriever, HybridRetriever, SearchConfig
+
+# Initialize
+dense = DenseRetriever(collection_name="contextual_chunks")
+sparse = SparseRetriever(chunks_file="chunks_contextual.jsonl")
+hybrid = HybridRetriever(dense, sparse)
+
+# Search
+config = SearchConfig(top_k=10, rrf_k=60)
+results = hybrid.search("Türk dili tarihi", config)
+
+# Compare
+from retrieval import RetrievalComparator
+comparator = RetrievalComparator({"dense": dense, "sparse": sparse, "hybrid": hybrid})
+comparison = comparator.compare("query", config)
+comparison.print_summary()
+```
 
 ### Key Technical Decisions
 
