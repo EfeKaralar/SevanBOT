@@ -1,0 +1,1858 @@
+{
+  "query": "Anadolu kültürü",
+  "strategies": {
+    "dense": {
+      "query": "Anadolu kültürü",
+      "strategy": "dense",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "db1d4e475520#3",
+          "score": 0.5294989644785144,
+          "content": "Yanısıra hukuk ve bilim dili olarak Arapça egemendir. Şiir ve ticari evrak Farsça yazılır, ama yanılmıyorsam daha çok kitap Arapçadır. 1310'lara dek ilaç için tek Türkçe kitap yoktur. Konya'da **Mevla...",
+          "metadata": {
+            "title": "Türkiye nasıl Türkleşti?",
+            "date": "Apr 05, 2017",
+            "source": "https://nisanyan.substack.com/p/turkiye-nasl-turklesti-17-04-05",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5294989644785144,
+          "sparse_score": null,
+          "dense_rank": 1,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "db1d4e475520#2",
+          "score": 0.5203461340232353,
+          "content": "Burada da pekâlâ öyle olabilirdi; olmadı. Ülkenin ana gövdesi kimlik değiştirdi, fatihlerin milliyetini benimsedi, tabir caizse ''Normanlaştı''. Nasıl?\n\n**2. İslam göçü ve şehirleşme** Demografik hare...",
+          "metadata": {
+            "title": "Türkiye nasıl Türkleşti?",
+            "date": "Apr 05, 2017",
+            "source": "https://nisanyan.substack.com/p/turkiye-nasl-turklesti-17-04-05",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5203461340232353,
+          "sparse_score": null,
+          "dense_rank": 2,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2bead4dce0d8#0",
+          "score": 0.5198273248377019,
+          "content": "*Dünkü yazıda “asıl Anadolu” adını verdiğimiz, Giresun’dan başlayıp Tokat, Yozgat, Kayseri ve Adana-Osmaniye’yi içeren kavisin batısında kalan bölgenin yer adlarından söz ettik. Bunların beş tarihi ka...",
+          "metadata": {
+            "title": "Anadolu yer adları kaç çeşit? - II",
+            "date": "Oct 22, 2018",
+            "source": "https://nisanyan.substack.com/p/anadolu-yer-adlar-kac-cesit-ii-18-10-22",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 5
+          },
+          "dense_score": 0.5198273248377019,
+          "sparse_score": null,
+          "dense_rank": 3,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "1211d2a250cd#0",
+          "score": 0.5082824400781583,
+          "content": "*Türkiye’nin “Asıl Anadolu” adını verdiğimiz batı ve orta bölümleri ile kuzeyde Giresun’a, güneyde Adana-Osmaniye’ye ulaşan alanın yer adlarını analiz etmeye devam ediyoruz. Bugün üçüncü, yarın dördün...",
+          "metadata": {
+            "title": "Anadolu yer adları kaç çeşit? - III",
+            "date": "Oct 24, 2018",
+            "source": "https://nisanyan.substack.com/p/anadolu-yer-adlar-kac-cesit-iii-18-10-24",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 10
+          },
+          "dense_score": 0.5082824400781583,
+          "sparse_score": null,
+          "dense_rank": 4,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eef620d22d#1",
+          "score": 0.5079664818405085,
+          "content": "Dolaysız kaynak Farsça ve Arapça olduğu için ‘yüksek kültüre’ ait sayılırlar. Doğrudan Yunanca alıntıların aksine, edebi dilde serbestçe kullanılırlar. abanoz, afyon, badya, balgam, baytar, beled/beld...",
+          "metadata": {
+            "title": "Türkçe tarihi 6: Yunancadan gelen",
+            "date": "Nov 19, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-6-yunancadan-gelen-17-11-19",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 8
+          },
+          "dense_score": 0.5079664818405085,
+          "sparse_score": null,
+          "dense_rank": 5,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "433e2f5cf866#1",
+          "score": 0.5077417811686202,
+          "content": "İmar ve umran adına ciddi ve kalıcı ne yapılmışsa, onlar da bu iki dönemin eseridir. (İstisnaları biliyorum, açıklayabilirim istersen.) 13. ve 14. yy’lar Anadolu’da (ve genelde İslam aleminde) şehirli...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5077417811686202,
+          "sparse_score": null,
+          "dense_rank": 6,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "1211d2a250cd#5",
+          "score": 0.5062886280130205,
+          "content": "Karakeçili/Şexbizinli, Badıllı/Beğdilli, Çakallı gibi bazı aşiretlerin ne kadar Kürt, ne kadar Türkmen, ya da Türkleşmiş Kürt ve Kürtleşmiş Türkmen oldukları meçhuldür. Buna karşılık eski kaynaklarda ...",
+          "metadata": {
+            "title": "Anadolu yer adları kaç çeşit? - III",
+            "date": "Oct 24, 2018",
+            "source": "https://nisanyan.substack.com/p/anadolu-yer-adlar-kac-cesit-iii-18-10-24",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 10
+          },
+          "dense_score": 0.5062886280130205,
+          "sparse_score": null,
+          "dense_rank": 7,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eef620d22d#2",
+          "score": 0.5054081872072111,
+          "content": "Bizans pratiğinden Türkçeye devralınan üst düzey kültür kavramları sayıca çok az olup, tümü Anadolu’nun Türkleşmesinin en erken aşamalarında, her halükârda İstanbul’un 1453’teki fethinden önce benimse...",
+          "metadata": {
+            "title": "Türkçe tarihi 6: Yunancadan gelen",
+            "date": "Nov 19, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-6-yunancadan-gelen-17-11-19",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 8
+          },
+          "dense_score": 0.5054081872072111,
+          "sparse_score": null,
+          "dense_rank": 8,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9918007cf516#0",
+          "score": 0.504577317921291,
+          "content": "“Asıl Anadolu” ya da eski deyimle “Rum diyarı” derken Küçük Asya yarımadasının Fırat’ın batısında kalan kısmını kastediyorum. Bu makale kapsamında isterseniz Sivas, Malatya, Maraş, Antep’i de dışarıda...",
+          "metadata": {
+            "title": "Anadolu yer adları kaç çeşit? - I",
+            "date": "Oct 21, 2018",
+            "source": "https://nisanyan.substack.com/p/anadolu-yer-adlar-kac-cesit-i-18-10-21",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 5
+          },
+          "dense_score": 0.504577317921291,
+          "sparse_score": null,
+          "dense_rank": 9,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "1211d2a250cd#1",
+          "score": 0.5030209198146243,
+          "content": "Sözlü anlatıların hemen hepsi, köyün “Türkmen yerleşimi” olduğu noktasında birleşir. Karakeçili, Kızılkeçili, Tacirli, İnallı, Çakallı, Eşmeli, Savcıllı, Honamlı, Şerefli, Hotamış, Horzum, Caber, Bara...",
+          "metadata": {
+            "title": "Anadolu yer adları kaç çeşit? - III",
+            "date": "Oct 24, 2018",
+            "source": "https://nisanyan.substack.com/p/anadolu-yer-adlar-kac-cesit-iii-18-10-24",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 10
+          },
+          "dense_score": 0.5030209198146243,
+          "sparse_score": null,
+          "dense_rank": 10,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "fed333af0176#0",
+          "score": 0.5026931250363124,
+          "content": "**Osmanlı ideolojisinde kültür nasıl tanımlanıyordu?**\n\nBugün nasıl tanımlanıyor kültür? Bir toplumun kendine özgü töreleri, özellikle de o törelerin düşünsel ve sanatsal boyutu demek sanırım. Bu anla...",
+          "metadata": {
+            "title": "Osmanlı’da kültür var mıydı",
+            "date": "25 September 2022",
+            "source": "https://www.sevannisanyan.com/metin/osmanlida-kultur-var-miydi-86394",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5026931250363124,
+          "sparse_score": null,
+          "dense_rank": 11,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "218a14b35b4a#1",
+          "score": 0.5023199683478966,
+          "content": "634 gibi İslam istilası başlar. Anatoli süper-vilayeti on yıldan kısa sürede elden çıkar. Roma ordularından arta kalanlar apar topar ricat ederler. Yenilmiş ordular tehlikelidir, nereye sataşacakları ...",
+          "metadata": {
+            "title": "Anadoli",
+            "date": "Feb 03, 2019",
+            "source": "https://nisanyan.substack.com/p/anadoli-19-02-03",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5023199683478966,
+          "sparse_score": null,
+          "dense_rank": 12,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2bead4dce0d8#1",
+          "score": 0.5010067438883388,
+          "content": "Kastamonu, Karaman, Kayseri gibi Osmanlı’ya daha geç katılan yerlerde bu oran yüzde 80’lere kadar düşer. Fırat hattının doğusu ile Trabzon-Rize’de Türkçe oranı yüzde sıfır ila 25 mertebesindedir.Bu ve...",
+          "metadata": {
+            "title": "Anadolu yer adları kaç çeşit? - II",
+            "date": "Oct 22, 2018",
+            "source": "https://nisanyan.substack.com/p/anadolu-yer-adlar-kac-cesit-ii-18-10-22",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 5
+          },
+          "dense_score": 0.5010067438883388,
+          "sparse_score": null,
+          "dense_rank": 13,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "433e2f5cf866#0",
+          "score": 0.49939769503373754,
+          "content": "Bildiğin terane: Atalarımız göçebeydi o yüzden... bina yapamıyoruz/sokağa çöp atıyoruz/kırmızıda durmuyoruz/Kezban’ı dövüyoruz vs. vs.\n\nYok öyle bir şey. Bir kere atan göçebe filan değildi. Yüzde elli...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.49939769503373754,
+          "sparse_score": null,
+          "dense_rank": 14,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a037cba99d5b#0",
+          "score": 0.49498165939777,
+          "content": "**Bir üniversite öğrencisinin ülke içinde oluşturabileceği en iyi kültür rotası hangisidir? Özellikle Ankara’nın doğusundaki Türkiye’de neleri önerirsiniz?**\n\nKüçük çaplı harikalar her yerde var da, T...",
+          "metadata": {
+            "title": "Doğuda nereleri gezmeli",
+            "date": "19 June 2022",
+            "source": "https://www.sevannisanyan.com/metin/doguda-nereleri-gezmeli-26586",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.49498165939777,
+          "sparse_score": null,
+          "dense_rank": 15,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a8f998365ac3#2",
+          "score": 0.49277797243209637,
+          "content": "Yoksa bugün için Avrupa medeniyetinin batmış olduğunu, Amerika medeniyetinin ise yabancı ve ürkütücü ufuklara yelken açtığını herkes kadar ben de idrak edebiliyorum, merak etmeyin.\n\nEn az dört bin yıl...",
+          "metadata": {
+            "title": "Kökü dışarıda aydın muhabbeti",
+            "date": "Jul 28, 2017",
+            "source": "https://nisanyan.substack.com/p/koku-dsarda-aydn-muhabbeti-17-07-28",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.49277797243209637,
+          "sparse_score": null,
+          "dense_rank": 16,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2036178c7745#1",
+          "score": 0.4916842453687484,
+          "content": "Bu konuyu Süryaniler öyleydi, Türkler böyle, Kürtler böyle düzeyinden biraz daha farklı bir tarihi perspektiften değerlendirmek lazım diye düşünüyorum. Altı yüz yıl önce vekayiname yazan tek kişi deği...",
+          "metadata": {
+            "title": "Turabdin’de medeniyet nasıl bitti",
+            "date": "23 July 2023",
+            "source": "https://www.sevannisanyan.com/metin/turabdinde-medeniyet-nasil-bitti-31529",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 6
+          },
+          "dense_score": 0.4916842453687484,
+          "sparse_score": null,
+          "dense_rank": 17,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e75f1d034e46#0",
+          "score": 0.48904126803471815,
+          "content": "1. Avşarlar Türk değil dedim mi? Demedim. Belli ki kadimden beri Oğuz Türkçesi konuşan “Avşar” diye bir topluluk var. Çeşitli tarihlerde o topluluğun tanımı ve işlevi değişmiş olabilir; mesela bir tar...",
+          "metadata": {
+            "title": "Etnik coğrafyaların gezginlerine notlar",
+            "date": "Mar 24, 2018",
+            "source": "https://nisanyan.substack.com/p/etnik-cografyalarn-gezginlerine-notlar-18-03-24",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 6
+          },
+          "dense_score": 0.48904126803471815,
+          "sparse_score": null,
+          "dense_rank": 18,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "068e72c32a30#6",
+          "score": 0.48747640405357284,
+          "content": "Fakat yakın zamana dek Anadoli’ye ait olmuşlardır. Şimdi de “Anadolu tarafında” olduklarını söylemek yanlış sayılmaz. Anadoli eyaleti 433 yıllık bir yaşamdan sonra 1825’te parçalanır, 1841’de idari bi...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 7
+          },
+          "dense_score": 0.48747640405357284,
+          "sparse_score": null,
+          "dense_rank": 19,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3907ae5b9c7a#5",
+          "score": 0.4870961546654378,
+          "content": "Anadolu’nun en eski kutsal yerlerinden biri olan Pessinús, Paliá (“eskiler, eski şeyler”) diye harcanmış, Türkçesi kalın l ile Balahisar olmuş. Bu adlarda ben bir tavır görüyorum. Sanki eski kültürden...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 1",
+            "date": "Jan 12, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-1-19-01-12",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4870961546654378,
+          "sparse_score": null,
+          "dense_rank": 20,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "068e72c32a30#5",
+          "score": 0.48450940453425767,
+          "content": "Bir başka deyimle, Fatih ve Kanuni çağında iki Marmara boğazının Asya kıyıları da Anadolu’ya tabidir.\n\n1610 dolayında Anadoli Beylerbeyiliği Evliya Çelebi’de Anadoli veya Anatoli kelimesi 264 defa geç...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 7
+          },
+          "dense_score": 0.48450940453425767,
+          "sparse_score": null,
+          "dense_rank": 21,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "fed333af0176#1",
+          "score": 0.4809484837470458,
+          "content": "İlkelliğin zıddıdır. İlkel kültür olur, çünkü Batı dünyası Asya’da, Afrika’da, Okyanusya’da yazılı kültürü olmayan toplumlarla tanışmış ve onların töre ve geleneklerini tanıma ihtiyacını duymuştur. Bu...",
+          "metadata": {
+            "title": "Osmanlı’da kültür var mıydı",
+            "date": "25 September 2022",
+            "source": "https://www.sevannisanyan.com/metin/osmanlida-kultur-var-miydi-86394",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4809484837470458,
+          "sparse_score": null,
+          "dense_rank": 22,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "433e2f5cf866#2",
+          "score": 0.4784140802837909,
+          "content": "Kadınlar Boccaccio’nun karakterlerine taş çıkartacak derecede hırslı, entrikacı ve seks düşkünüdür. Köylüler yoktur, ya da komedi unsuru olarak marjdadır. (Buna karşılık köleler çokça vardır, talihin ...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4784140802837909,
+          "sparse_score": null,
+          "dense_rank": 23,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "694b0d366738#0",
+          "score": 0.4776075493991228,
+          "content": "Listede Türkçe yer adlarında belli bir sıklıkla geçen ve güncel Türkçede anlamı herkes için açık olmayan sözcüklerden bir seçme verilmiştir. Yabancı kökenli sözcükler ancak Türkçede yerlileşmiş ve Tür...",
+          "metadata": {
+            "title": "Türkçe yer adları sözlüğü",
+            "date": "Sep 16, 2018",
+            "source": "https://nisanyan.substack.com/p/turkce-yer-adlar-sozlugu-18-09-16",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 17
+          },
+          "dense_score": 0.4776075493991228,
+          "sparse_score": null,
+          "dense_rank": 24,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "fb63ad518ffd#1",
+          "score": 0.47730760518606147,
+          "content": "Uzun yüzyıllar boyunca Suriye ovaları ile İç Anadolu arasındaki geçit yollarının ekonomik yaşantısının can damarlarından biri, mevsimlik Kürt ve Türkmen (ve hatta Arap) göçleri. Mevsimlik olarak Anado...",
+          "metadata": {
+            "title": "İç Anadolu Kürtleri kimdir",
+            "date": "01 August 2021",
+            "source": "https://www.sevannisanyan.com/metin/ic-anadolu-kurtleri-kimdir-72355",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.47730760518606147,
+          "sparse_score": null,
+          "dense_rank": 25,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9efab887adf6#7",
+          "score": 0.4762312781499921,
+          "content": "Akilisene’dir. Aziris diye bir yer yoktur.\n>\n> **Dersim:** İlin güney kısmının antik adı Yunanca Sophene = Ermenice Dzopk idi. Antik çağda Karkathiokerta (Pertek kalesi), 950 dolayında yeniden Bizans ...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4762312781499921,
+          "sparse_score": null,
+          "dense_rank": 26,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e75f1d034e46#1",
+          "score": 0.4744997570953771,
+          "content": "Hatta, ne bileyim, Suriyeli göçüne karışıp karambolde arazi kapmış bir Afgan grubu da olabilir. 2. Türkiye’de halen “Avşar” diye nitelenen topluluklar 18. yy’da İran’dan göçmüş. Nispeten yakın bir tar...",
+          "metadata": {
+            "title": "Etnik coğrafyaların gezginlerine notlar",
+            "date": "Mar 24, 2018",
+            "source": "https://nisanyan.substack.com/p/etnik-cografyalarn-gezginlerine-notlar-18-03-24",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 6
+          },
+          "dense_score": 0.4744997570953771,
+          "sparse_score": null,
+          "dense_rank": 27,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f1628b5b8e56#3",
+          "score": 0.47391424911741087,
+          "content": "Milattan bir süre önce Paflagon’lara yenilip onlara karıştılar.\n>\n> 7. Bartın Çayı ile Kızılırmak arası Paflagon ülkesiydi. Paflagonlar muhtemelen MÖ 2. binyılda adı geçen Kaşka halkının devamıdır. Hi...",
+          "metadata": {
+            "title": "Sıfır Yılında Anadolu'nun Etnik ve Dilsel Haritası",
+            "date": "Jun 20, 2024",
+            "source": "https://nisanyan.substack.com/p/sfr-ylnda-anadolunun-etnik-ve-dilsel",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 10
+          },
+          "dense_score": 0.47391424911741087,
+          "sparse_score": null,
+          "dense_rank": 28,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "929a453797a5#3",
+          "score": 0.4738408721336136,
+          "content": "Bunun tercih edilecek bir yol olmadığı kanısındayım. Kürt coğrafyasında izlenmesi gereken yol bence son derece nettir.\n\na. Her şeyden önce bölgedeki coğrafi birimlerin Kürtçede cari olan adlarının tes...",
+          "metadata": {
+            "title": "Eski yeradlarının iadesi için ne yapılmalı",
+            "date": "Mar 12, 2011",
+            "source": "https://nisanyan.substack.com/p/eski-yeradlarnn-iadesi-icin-ne-yaplmal-11-03-12",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 8
+          },
+          "dense_score": 0.4738408721336136,
+          "sparse_score": null,
+          "dense_rank": 29,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cdcd36863789#0",
+          "score": 0.4730642744043603,
+          "content": "Kültür, egemen sınıfların egemenlikleri etrafına ördükleri kozadır. Olağanüstü karmaşık, öğrenmesi son derece zor davranış kodlarından oluşur. O kültür içinde yetişmeyenler – yani egemenlerin evlatlar...",
+          "metadata": {
+            "title": "Görgü mörgü",
+            "date": "Nov 20, 2019",
+            "source": "https://nisanyan.substack.com/p/gorgu-morgu-19-11-20",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4730642744043603,
+          "sparse_score": null,
+          "dense_rank": 30,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e2f6481d120b#0",
+          "score": 0.4727593192922789,
+          "content": "Klasik \"geleneksel Türk ailesi\" fotoğrafı. Abdullah Gül olması tesadüf: gazetede bunu gördüm bunu yazdım. Başka herhangi bir aile de olabilirdi. Zaten geleneksel demek o demek, milyonla benzeri var.O ...",
+          "metadata": {
+            "title": "Geleneksel Türkiye",
+            "date": "Oct 01, 2014",
+            "source": "https://nisanyan.substack.com/p/geleneksel-turkiye-14-10-01",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4727593192922789,
+          "sparse_score": null,
+          "dense_rank": 31,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03c99c996b85#4",
+          "score": 0.47273039288572927,
+          "content": "Adana, Kayseri, Malatya, belki Ankara ve Konya, Rumca adın Arapçada kullanılan biçiminden alınmıştır. Kilis de belki buna eklenebilir. Belki aşağıdaki Arapça listesine aktarılsa daha iyi.\n\n**Türkçeler...",
+          "metadata": {
+            "title": "Şehir adları nereden gelir",
+            "date": "Nov 30, 2021",
+            "source": "https://nisanyan.substack.com/p/sehir-adlar-nereden-gelir",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 8
+          },
+          "dense_score": 0.47273039288572927,
+          "sparse_score": null,
+          "dense_rank": 32,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a4d589a6da69#15",
+          "score": 0.4722046940167881,
+          "content": "Osmanlı kültürünün timsali Karagöz değil Hacivat’tır. Karagöz, bu ülke halkının Osmanlı’ya karşı küskün ve sonuçsuz öfkesinin dışa vurumudur sadece. Cumhuriyet’in ilk kuşaklarının, bugünkü bakış açımı...",
+          "metadata": {
+            "title": "Cumhuriyetin Batılı olması değil mesele, olamaması - Bölüm 1",
+            "date": "Oct 12, 2014",
+            "source": "https://nisanyan.substack.com/p/cumhuriyetin-batl-olmas-degil-mesele-14-10-12",
+            "keywords": "",
+            "chunk_index": 15,
+            "total_chunks": 17
+          },
+          "dense_score": 0.4722046940167881,
+          "sparse_score": null,
+          "dense_rank": 33,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5452e690f5fa#0",
+          "score": 0.4721996769611452,
+          "content": "**Anadolu dilleri**\n\nAnadolu dillerine de kısaca değinelim, çok uzayan bu diziyi bitirelim.\n\nEski ve Orta Yunanca biçimiyle karşımıza çıkan 1500 kadar yerleşim adının çok büyük bölümü, sanırım %75 kad...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 3",
+            "date": "Jan 16, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-3-19-01-16",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4721996769611452,
+          "sparse_score": null,
+          "dense_rank": 34,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e75f1d034e46#2",
+          "score": 0.47176950489249037,
+          "content": "3. Fırat berisinde İSMİ Avşar (ve Kınık, Kargın, Eymür, İğdir vb.) olan yerlerin çoğunun, muhtemelen hiç birinin, Avşarlık vb. ile alakasını kuramıyoruz. Bu isimler 15. yy’ın ikinci yarısından itibare...",
+          "metadata": {
+            "title": "Etnik coğrafyaların gezginlerine notlar",
+            "date": "Mar 24, 2018",
+            "source": "https://nisanyan.substack.com/p/etnik-cografyalarn-gezginlerine-notlar-18-03-24",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 6
+          },
+          "dense_score": 0.47176950489249037,
+          "sparse_score": null,
+          "dense_rank": 35,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ad1f4e8705ea#1",
+          "score": 0.47118260966942715,
+          "content": "Eğitimli kişi olmak, Arapça ve biraz Farsça bilmekle eş anlamlı sayılmış. Daha ne kadar Araplaşacaksın ki? İki yüzyıla yakın zamandır, Tanzimat’tan beri bu ülkenin seçkinleri, elitleri, yönetici sınıf...",
+          "metadata": {
+            "title": "Türkler Araplaşıyor mu",
+            "date": "23 October 2022",
+            "source": "https://www.sevannisanyan.com/metin/turkler-araplasiyor-mu-65476",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.47118260966942715,
+          "sparse_score": null,
+          "dense_rank": 36,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5452e690f5fa#3",
+          "score": 0.47103590726291944,
+          "content": "Birkaç kural: 1) Nominatif +s ekiyle biten Yunanca adlar Türkçeye akkusatif (belirtme hali) +n ekiyle gelir. 2) Özellikle ünlüyle başlayan yer adlarında s+ önekli ve öneksiz biçimler eşdeğer olarak ku...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 3",
+            "date": "Jan 16, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-3-19-01-16",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.47103590726291944,
+          "sparse_score": null,
+          "dense_rank": 37,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "aec35fee6de7#3",
+          "score": 0.46968202752605115,
+          "content": "Osmanlı da büyük ve görkemli camiler yapmış. Ama İstanbul’da yapmış, Edirne’de yapmış, hadi Bursa’da da yapmış diyelim. Başka yerde yapmamış. Yanına bile yaklaşmamış.\n\n12. ve 13. yüzyılda Avrupa henüz...",
+          "metadata": {
+            "title": "Avrupa dünyaya ne zaman hakim oldu",
+            "date": "27 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/avrupa-dunyaya-ne-zaman-hakim-oldu-00844",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.46968202752605115,
+          "sparse_score": null,
+          "dense_rank": 38,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e2f6481d120b#1",
+          "score": 0.46847520382644336,
+          "content": "Elektronikte şimdi Uzakdoğu ile rekabet var, ama mekanik saatlerde Batı hala tek tabanca.Dede ve Macit Bey gözlük kullanıyorlar. Batının en olağanüstü icatlarından biri. Gözlük fikri bir yana, numaral...",
+          "metadata": {
+            "title": "Geleneksel Türkiye",
+            "date": "Oct 01, 2014",
+            "source": "https://nisanyan.substack.com/p/geleneksel-turkiye-14-10-01",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.46847520382644336,
+          "sparse_score": null,
+          "dense_rank": 39,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eef620d22d#7",
+          "score": 0.4670386521150346,
+          "content": "Rum kültürüne ve yaşam tarzına ilişkin egzotik terimler özellikle dini kültür ve müzik/raks alanında yoğunlaşır. İlk grup Türkçede yüzlerce yıllık geçmişe sahip iken, ikinci gruptaki sözcüklerin (horo...",
+          "metadata": {
+            "title": "Türkçe tarihi 6: Yunancadan gelen",
+            "date": "Nov 19, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-6-yunancadan-gelen-17-11-19",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 8
+          },
+          "dense_score": 0.4670386521150346,
+          "sparse_score": null,
+          "dense_rank": 40,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3a2a06d513af#1",
+          "score": 0.466204491737115,
+          "content": "Önemsiz bir ayrıntı mıdır sence? Bildiğim kadarıyla Asya Türklerinin medeniyete katkısı üzenginin keşfi veya yaygınlaştırılmasıyla sınırlıdır. Biruni veya Cevheri gibi Türk kökenli bazı İslam alimleri...",
+          "metadata": {
+            "title": "Atalarımız çapulcu muydu?",
+            "date": "Jul 21, 2020",
+            "source": "https://nisanyan.substack.com/p/atalarmz-capulcu-muydu-20-07-21",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.466204491737115,
+          "sparse_score": null,
+          "dense_rank": 41,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f1628b5b8e56#7",
+          "score": 0.4656984186650856,
+          "content": "Ancak Med dili ve kültürünün bu sahada yaşamaya devam ettiğine dair elimizde bir veri yoktur. Birçok örnekte Ermeni dilini ve siyasi kültürünü benimsemiş oldukları anlaşılıyor.\n>\n> Urartu krallığı MÖ ...",
+          "metadata": {
+            "title": "Sıfır Yılında Anadolu'nun Etnik ve Dilsel Haritası",
+            "date": "Jun 20, 2024",
+            "source": "https://nisanyan.substack.com/p/sfr-ylnda-anadolunun-etnik-ve-dilsel",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 10
+          },
+          "dense_score": 0.4656984186650856,
+          "sparse_score": null,
+          "dense_rank": 42,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "fb63ad518ffd#0",
+          "score": 0.46559672233032645,
+          "content": "**İç Anadolu Kürtleri’nin tarihi nedir? O bölgeye neden ve nasıl yerleştirilmişlerdir?**\n\nTürkiye’de pek çok insan Orta Anadolu Kürtlüğünün farkında değil. Konya’nın kuzey tarafı, yani Haymana, Cihanb...",
+          "metadata": {
+            "title": "İç Anadolu Kürtleri kimdir",
+            "date": "01 August 2021",
+            "source": "https://www.sevannisanyan.com/metin/ic-anadolu-kurtleri-kimdir-72355",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.46559672233032645,
+          "sparse_score": null,
+          "dense_rank": 43,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "44b4a84a8419#14",
+          "score": 0.4651123340863623,
+          "content": "Urartuca-Ermenice bağı konusunda verdiğin tarihsel bilgiler değerli, ancak Nişanyan'ın bu konuda en ufak bir akrabalık iddiası yok zaten. İrfan Boztaş'ın önceki üst kültür dili vurgusu güçlü. Kanımca ...",
+          "metadata": {
+            "title": "Bizim ecdadımız hem savaşır hem sevişirdi",
+            "date": "Jan 13, 2013",
+            "source": "https://nisanyan.substack.com/p/bizim-ecdadmz-hem-savasr-hem-sevisirdi-13-01-13",
+            "keywords": "",
+            "chunk_index": 14,
+            "total_chunks": 16
+          },
+          "dense_score": 0.4651123340863623,
+          "sparse_score": null,
+          "dense_rank": 44,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3cfddfe6cad1#1",
+          "score": 0.4648618086673185,
+          "content": "Ağrı (Tutak, Taşlıçay, Patnos), Erzurum (Narman, Horasan), Sivas (Ulaş ve Şarkışla) kayda değer Karapapak nüfusu barındıran yerler. **Ahıska Türkleri** adı verilen toplumun Türkiye’deki ana yerleşim a...",
+          "metadata": {
+            "title": "Azeri, Karapapak, Ahıska kişi adları",
+            "date": "Aug 19, 2020",
+            "source": "https://nisanyan.substack.com/p/azeri-karapapak-ahska-kisi-adlar-20-08-19",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 12
+          },
+          "dense_score": 0.4648618086673185,
+          "sparse_score": null,
+          "dense_rank": 45,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e75f1d034e46#3",
+          "score": 0.4641456175252281,
+          "content": "4. Latin Amerika ile kıyasla. Orası da burası gibi kolonize edilmiş bir diyardır. Çoğu yerin biri yerel kızılderili dilinde, bir de İspanyolca adı vardır. İspanyolca adlar ya a) oranın keşfedildiği ya...",
+          "metadata": {
+            "title": "Etnik coğrafyaların gezginlerine notlar",
+            "date": "Mar 24, 2018",
+            "source": "https://nisanyan.substack.com/p/etnik-cografyalarn-gezginlerine-notlar-18-03-24",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 6
+          },
+          "dense_score": 0.4641456175252281,
+          "sparse_score": null,
+          "dense_rank": 46,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "1211d2a250cd#4",
+          "score": 0.46376165091589333,
+          "content": "Süleyman ve Hüseyin'in halka zarar vermelerine ve inzibatı yok etmelerine meydan verilmemesi.” [[2]](https://www.blogger.com/blogger.g?blogID=1302467060357060984#_ftn2)Dönemin yazışmalarında “Kürd/Ekr...",
+          "metadata": {
+            "title": "Anadolu yer adları kaç çeşit? - III",
+            "date": "Oct 24, 2018",
+            "source": "https://nisanyan.substack.com/p/anadolu-yer-adlar-kac-cesit-iii-18-10-24",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 10
+          },
+          "dense_score": 0.46376165091589333,
+          "sparse_score": null,
+          "dense_rank": 47,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "c9645d716d8e#1",
+          "score": 0.4630748647372601,
+          "content": "Ağanın gücüne ve kalıcılığına bağlı olarak, birkaç kuşak sonra yerli dilini konuşan sade dağ köylüleri ile en yoksullar, bir de o garibanlara din hizmeti veren sakallılar kalır. 2. Osmanlı gelir, Rum ...",
+          "metadata": {
+            "title": "Dil ve etnik kimlik nasıl değişir",
+            "date": "Aug 11, 2024",
+            "source": "https://nisanyan.substack.com/p/dil-ve-etnik-kimlik-nasl-degisir",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4630748647372601,
+          "sparse_score": null,
+          "dense_rank": 48,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "694b0d366738#14",
+          "score": 0.4624400267005661,
+          "content": "Akşar, Alaşar, Şarköyü vb.**Şen:** Ermenice ve Gürcücede ortak olan kelime “yerleşim, köy” anlamına gelir. Umumiyetle bu dillerden aktarılmış olan yer adlarında görülür. Türkçede “yeni yerleşim, kolon...",
+          "metadata": {
+            "title": "Türkçe yer adları sözlüğü",
+            "date": "Sep 16, 2018",
+            "source": "https://nisanyan.substack.com/p/turkce-yer-adlar-sozlugu-18-09-16",
+            "keywords": "",
+            "chunk_index": 14,
+            "total_chunks": 17
+          },
+          "dense_score": 0.4624400267005661,
+          "sparse_score": null,
+          "dense_rank": 49,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7523319e5aa2#4",
+          "score": 0.46075355290133396,
+          "content": "Mümkün mü böyle bir kültür? Mümkün. Hatta mümkün olmakla kalmıyor, Türkiye’de var bu adlar. Hatta daha ilginci, doksan yıllık propagandaya rağmen hala Cumhuriyet adlarından daha yaygınlar. Buyurun:\n\n(...",
+          "metadata": {
+            "title": "Cumhuriyet ile medeniyet nasıl çatıştı",
+            "date": "Jan 24, 2021",
+            "source": "https://nisanyan.substack.com/p/cumhuriyet-ile-medeniyet-nasl-catst-21-01-24",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 10
+          },
+          "dense_score": 0.46075355290133396,
+          "sparse_score": null,
+          "dense_rank": 50,
+          "sparse_rank": null
+        }
+      ],
+      "performance": {
+        "total_time_ms": 282.2608947753906,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "sparse": {
+      "query": "Anadolu kültürü",
+      "strategy": "sparse",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "3907ae5b9c7a#5",
+          "score": 3.953906536102295,
+          "content": "Anadolu’nun en eski kutsal yerlerinden biri olan Pessinús, Paliá (“eskiler, eski şeyler”) diye harcanmış, Türkçesi kalın l ile Balahisar olmuş. Bu adlarda ben bir tavır görüyorum. Sanki eski kültürden...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 1",
+            "date": "Jan 12, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-1-19-01-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.953906536102295,
+          "dense_rank": null,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "d8c994e60307#3",
+          "score": 3.4833240509033203,
+          "content": "Roma İmp. çağında (0-500) şehir kültürü bütün Anadolu sathına yayıldı. Bini aşkın “Yunan” şehri kuruldu. En olmadık vahşi taşrada dahi zebil kadar Yunanca yazıt üretildi. Fakat ‘Yunan’ (Hellen) kelime...",
+          "metadata": {
+            "title": "Etnik haritaların kavramsal çıkmazı",
+            "date": "Jun 21, 2024",
+            "source": "https://nisanyan.substack.com/p/etnik-haritalarn-kavramsal-ckmaz",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.4833240509033203,
+          "dense_rank": null,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "433e2f5cf866#1",
+          "score": 3.387115716934204,
+          "content": "İmar ve umran adına ciddi ve kalıcı ne yapılmışsa, onlar da bu iki dönemin eseridir. (İstisnaları biliyorum, açıklayabilirim istersen.) 13. ve 14. yy’lar Anadolu’da (ve genelde İslam aleminde) şehirli...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.387115716934204,
+          "dense_rank": null,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "a4d589a6da69#15",
+          "score": 3.338797092437744,
+          "content": "Osmanlı kültürünün timsali Karagöz değil Hacivat’tır. Karagöz, bu ülke halkının Osmanlı’ya karşı küskün ve sonuçsuz öfkesinin dışa vurumudur sadece. Cumhuriyet’in ilk kuşaklarının, bugünkü bakış açımı...",
+          "metadata": {
+            "title": "Cumhuriyetin Batılı olması değil mesele, olamaması - Bölüm 1",
+            "date": "Oct 12, 2014",
+            "source": "https://nisanyan.substack.com/p/cumhuriyetin-batl-olmas-degil-mesele-14-10-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.338797092437744,
+          "dense_rank": null,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "2036178c7745#1",
+          "score": 3.1636219024658203,
+          "content": "Bu konuyu Süryaniler öyleydi, Türkler böyle, Kürtler böyle düzeyinden biraz daha farklı bir tarihi perspektiften değerlendirmek lazım diye düşünüyorum. Altı yüz yıl önce vekayiname yazan tek kişi deği...",
+          "metadata": {
+            "title": "Turabdin’de medeniyet nasıl bitti",
+            "date": "23 July 2023",
+            "source": "https://www.sevannisanyan.com/metin/turabdinde-medeniyet-nasil-bitti-31529",
+            "keywords": "manastır, medeniyet kaybı, Mor Gabriel, Tur Abdin"
+          },
+          "dense_score": null,
+          "sparse_score": 3.1636219024658203,
+          "dense_rank": null,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "530da102cc5b#2",
+          "score": 3.1547226905822754,
+          "content": "Karagöz, bu ülke halkının Osmanlı'ya karşı küskün ve sonuçsuz öfkesinin dışa vurumudur sadece. Cumhuriyet'in ilk kuşaklarının, bugünkü bakış açımızla sakil duran elitizmi Batı'dan öğrenilmiş bir \"orya...",
+          "metadata": {
+            "title": "Cumhuriyetin Batılı olması değil mesele, olamaması - Bölüm 3",
+            "date": "Oct 14, 2014",
+            "source": "https://nisanyan.substack.com/p/cumhuriyetin-batl-olmas-degil-mesele-14-10-14",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.1547226905822754,
+          "dense_rank": null,
+          "sparse_rank": 6
+        },
+        {
+          "chunk_id": "a05f5b507a70#1",
+          "score": 3.1073570251464844,
+          "content": "Bu görsel düzenleme, Geç Antik Çağ’ın zirvesinde dahi Anadolu’nun büyük bir bölümünün kentsel kültürden (ve muhtemelen merkezi yönetimden) kopuk olduğunu hatırlatmak açısından ilgi çekicidir.\n\nSynekde...",
+          "metadata": {
+            "title": "6. Yüzyılda Bizans eyaletleri",
+            "date": "Sep 04, 2024",
+            "source": "https://nisanyan.substack.com/p/6-yuzylda-bizans-eyaletleri",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.1073570251464844,
+          "dense_rank": null,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "433e2f5cf866#3",
+          "score": 2.965283155441284,
+          "content": "Anadolu’nun 1071 ile 1450 arası İslamlaşması, bir *şehirleşme* hadisesidir. E hani göçebe kültürüydü? Anadolu’ya Türkler göçebe olarak gelmediler, asker ve yönetici olarak geldiler. Onların “açtığı” k...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.965283155441284,
+          "dense_rank": null,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "f1628b5b8e56#5",
+          "score": 2.8088676929473877,
+          "content": "Galatlar Batı veya Orta Avrupalı Keltlerdir. MÖ 278’de büyük bir güruh halinde Balkanları yakıp yağmaladıktan sonra Anadolu’ya geçtiler. Pessinus (Eskişehir Ballıhisar), Ankyra (Ankara) ve Tavion’da (...",
+          "metadata": {
+            "title": "Sıfır Yılında Anadolu'nun Etnik ve Dilsel Haritası",
+            "date": "Jun 20, 2024",
+            "source": "https://nisanyan.substack.com/p/sfr-ylnda-anadolunun-etnik-ve-dilsel",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8088676929473877,
+          "dense_rank": null,
+          "sparse_rank": 9
+        },
+        {
+          "chunk_id": "f1628b5b8e56#1",
+          "score": 2.8026018142700195,
+          "content": "Doğu illerine ilişkin işe yarar kaynaklar ise ancak MS 4. yüzyıl sonlarında yoğunluk kazanır. > 1. Haritanın en çarpıcı grafik unsuru bence Yunan şehirlerinin dağılımıdır.\n>\n> Yunanlar Anadolu’da kitl...",
+          "metadata": {
+            "title": "Sıfır Yılında Anadolu'nun Etnik ve Dilsel Haritası",
+            "date": "Jun 20, 2024",
+            "source": "https://nisanyan.substack.com/p/sfr-ylnda-anadolunun-etnik-ve-dilsel",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8026018142700195,
+          "dense_rank": null,
+          "sparse_rank": 10
+        },
+        {
+          "chunk_id": "433e2f5cf866#2",
+          "score": 2.755232095718384,
+          "content": "Kadınlar Boccaccio’nun karakterlerine taş çıkartacak derecede hırslı, entrikacı ve seks düşkünüdür. Köylüler yoktur, ya da komedi unsuru olarak marjdadır. (Buna karşılık köleler çokça vardır, talihin ...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.755232095718384,
+          "dense_rank": null,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "433e2f5cf866#0",
+          "score": 2.7395987510681152,
+          "content": "Bildiğin terane: Atalarımız göçebeydi o yüzden... bina yapamıyoruz/sokağa çöp atıyoruz/kırmızıda durmuyoruz/Kezban’ı dövüyoruz vs. vs.\n\nYok öyle bir şey. Bir kere atan göçebe filan değildi. Yüzde elli...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7395987510681152,
+          "dense_rank": null,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "2036178c7745#0",
+          "score": 2.735637903213501,
+          "content": "**Geçenlerde tesadüfen bir kitap buldum, Basibrinalı Addai Vekayinamesi. Vekayinameyi yazan papaz Basibrinalı Addai bizim hemen yan köydeki halen Süryanilerin yaşadığı İdil ilçesinin Basibrin yani Hab...",
+          "metadata": {
+            "title": "Turabdin’de medeniyet nasıl bitti",
+            "date": "23 July 2023",
+            "source": "https://www.sevannisanyan.com/metin/turabdinde-medeniyet-nasil-bitti-31529",
+            "keywords": "manastır, medeniyet kaybı, Mor Gabriel, Tur Abdin"
+          },
+          "dense_score": null,
+          "sparse_score": 2.735637903213501,
+          "dense_rank": null,
+          "sparse_rank": 13
+        },
+        {
+          "chunk_id": "d8c994e60307#2",
+          "score": 2.6909756660461426,
+          "content": "Fakat Galatlar da (muhtemelen işlerine geldiği için) Kybele tapınağını ve Frig rahiplerini korudular. Tahminimce haraçtan pay aldılar.\n\n**Yunan nedir** Evvelce Atina ve İyonya’da denenmiş yepyeni bir ...",
+          "metadata": {
+            "title": "Etnik haritaların kavramsal çıkmazı",
+            "date": "Jun 21, 2024",
+            "source": "https://nisanyan.substack.com/p/etnik-haritalarn-kavramsal-ckmaz",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.6909756660461426,
+          "dense_rank": null,
+          "sparse_rank": 14
+        },
+        {
+          "chunk_id": "a9ad88531af4#0",
+          "score": 2.647036552429199,
+          "content": "**Neden dünyada akraba evliliğinin en sık görüldüğü yerler İslam ülkeleridir?**\n\nBu çok doğru değil. Akraba evliliği özellikle İran kültürünün bir tezahürü. İslam öncesi devirde, Zerdüşt töresinde, bü...",
+          "metadata": {
+            "title": "Ensest yasağının bilimsel temeli var mı",
+            "date": "19 September 2021",
+            "source": "https://www.sevannisanyan.com/metin/ensest-yasaginin-bilimsel-temeli-var-mi-52431",
+            "keywords": "akraba evliliği, bilim teorisi, Ensest, inanç, İran kültürü"
+          },
+          "dense_score": null,
+          "sparse_score": 2.647036552429199,
+          "dense_rank": null,
+          "sparse_rank": 15
+        },
+        {
+          "chunk_id": "f1628b5b8e56#8",
+          "score": 2.581343650817871,
+          "content": "İsim yapıca Gürcüce veya benzer bir dildedir. Ancak Milat öncesi veya sonrası belirsiz bir tarihte bu bölge Ermenilerce zaptedilmiştir. Günümüze gelen eski yer adlarının tamamı Ermenicedir.\n>\n> 28. 29...",
+          "metadata": {
+            "title": "Sıfır Yılında Anadolu'nun Etnik ve Dilsel Haritası",
+            "date": "Jun 20, 2024",
+            "source": "https://nisanyan.substack.com/p/sfr-ylnda-anadolunun-etnik-ve-dilsel",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.581343650817871,
+          "dense_rank": null,
+          "sparse_rank": 16
+        },
+        {
+          "chunk_id": "088bd8de6faf#0",
+          "score": 2.56642746925354,
+          "content": "**1864 Çerkes sürgünü ile 1915 Ermeni tehciri benzer özellikler taşıyor mu Sevan Bey?**\n\nBenzerlikler var, doğal olarak. Farklar da var.\n\nOsmanlı coğrafyasında ve yakın çevresinde etnik temizlik modas...",
+          "metadata": {
+            "title": "Ermeniler neden Çerkeslerden farklı",
+            "date": "01 November 2020",
+            "source": "https://www.sevannisanyan.com/metin/ermeniler-neden-cerkeslerden-farkli-94180",
+            "keywords": "Çerkes soykırımı, Ermeni soykırımı"
+          },
+          "dense_score": null,
+          "sparse_score": 2.56642746925354,
+          "dense_rank": null,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "f1628b5b8e56#7",
+          "score": 2.5578269958496094,
+          "content": "Ancak Med dili ve kültürünün bu sahada yaşamaya devam ettiğine dair elimizde bir veri yoktur. Birçok örnekte Ermeni dilini ve siyasi kültürünü benimsemiş oldukları anlaşılıyor.\n>\n> Urartu krallığı MÖ ...",
+          "metadata": {
+            "title": "Sıfır Yılında Anadolu'nun Etnik ve Dilsel Haritası",
+            "date": "Jun 20, 2024",
+            "source": "https://nisanyan.substack.com/p/sfr-ylnda-anadolunun-etnik-ve-dilsel",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.5578269958496094,
+          "dense_rank": null,
+          "sparse_rank": 18
+        },
+        {
+          "chunk_id": "03eef620d22d#2",
+          "score": 2.516845703125,
+          "content": "Bizans pratiğinden Türkçeye devralınan üst düzey kültür kavramları sayıca çok az olup, tümü Anadolu’nun Türkleşmesinin en erken aşamalarında, her halükârda İstanbul’un 1453’teki fethinden önce benimse...",
+          "metadata": {
+            "title": "Türkçe tarihi 6: Yunancadan gelen",
+            "date": "Nov 19, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-6-yunancadan-gelen-17-11-19",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.516845703125,
+          "dense_rank": null,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "2036178c7745#3",
+          "score": 2.5025901794433594,
+          "content": "Vakfı gerekirse silah gücüyle korumaya azimli bir kamu otoritesi yoksa koruyamazsın, birkaç yılda buharlaşır gider. Gitgide o kanıya vardım ki Küçük Asya ve Mezopotamya ve Orta Doğu coğrafyasının en b...",
+          "metadata": {
+            "title": "Turabdin’de medeniyet nasıl bitti",
+            "date": "23 July 2023",
+            "source": "https://www.sevannisanyan.com/metin/turabdinde-medeniyet-nasil-bitti-31529",
+            "keywords": "manastır, medeniyet kaybı, Mor Gabriel, Tur Abdin"
+          },
+          "dense_score": null,
+          "sparse_score": 2.5025901794433594,
+          "dense_rank": null,
+          "sparse_rank": 20
+        },
+        {
+          "chunk_id": "fc8be0ac5940#1",
+          "score": 2.4718074798583984,
+          "content": "Türkiye Türkçesinin başlangıcını öne alma çabasında üç tez veya varsayım belirleyici olmuş görünüyor. Her üçü, ciddi bir eleştirel analize direnme ihtimali bulunmayan mantık ve bilgi hatalarıyla malul...",
+          "metadata": {
+            "title": "Türkçe tarihi 8: 13. yy'da Türkçe yazıldı mı?",
+            "date": "Nov 21, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-8-13-yyda-turkce-yazld-17-11-21",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.4718074798583984,
+          "dense_rank": null,
+          "sparse_rank": 21
+        },
+        {
+          "chunk_id": "2232df6bc4e3#1",
+          "score": 2.451712131500244,
+          "content": "Sinhali dili konuşan Sri Lankalılar kara derilidir. Vaktiyle Toharca konuşan Orta Asyalılar muhtemelen çekik gözlü idiler. Buna rağmen, İzlanda diliyle eş kökenli olduğu şüphesiz olan diller konuştula...",
+          "metadata": {
+            "title": "Hintavrupa battı mı?",
+            "date": "May 09, 2019",
+            "source": "https://nisanyan.substack.com/p/hintavrupa-batt-m-19-05-09",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.451712131500244,
+          "dense_rank": null,
+          "sparse_rank": 22
+        },
+        {
+          "chunk_id": "585eefa74af0#1",
+          "score": 2.450381278991699,
+          "content": "5) Aynı yy sonunda sosyal yapıda biçimsel Batılılaşma hareketleri gelir - 3.Selim ve 2.Mahmud - kılık kıyafet değişikliği, Anadolu Rum'unun \"fes\"ini benimseme, batılı gibi giyinme (Fransız Devriminin ...",
+          "metadata": {
+            "title": "Marx'ta hayat yok",
+            "date": "Nov 03, 2014",
+            "source": "https://nisanyan.substack.com/p/marxta-hayat-yok-14-11-03",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.450381278991699,
+          "dense_rank": null,
+          "sparse_rank": 23
+        },
+        {
+          "chunk_id": "03c99c996b85#0",
+          "score": 2.4377708435058594,
+          "content": "1960 sonrasında Türkiye’de Türkçe olmayan veya Türkçeye benzemeyen tüm köy adları değiştirilirken il ve ilçe adlarına genellikle dokunulmadı. Bunun başlıca nedeni, köy adları İçişleri Bakanlığı kararn...",
+          "metadata": {
+            "title": "Şehir adları nereden gelir",
+            "date": "Nov 30, 2021",
+            "source": "https://nisanyan.substack.com/p/sehir-adlar-nereden-gelir",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.4377708435058594,
+          "dense_rank": null,
+          "sparse_rank": 24
+        },
+        {
+          "chunk_id": "47c4a262ed95#1",
+          "score": 2.4071736335754395,
+          "content": "Anlaşılan 11.-12. yy’larda Müslüman olan ve Acem kültürünü benimseyen Asya Türklerine de bu etiket uygun görülmüş. Daha derine inersen muhtemelen enteresan şeyler keşfedersin, geçenlerde “Türkler nece...",
+          "metadata": {
+            "title": "Kavim isimleri kaygandır, yakaladım sanırsın kaçar",
+            "date": "Jan 16, 2018",
+            "source": "https://nisanyan.substack.com/p/kavim-isimleri-kaygandr-yakaladm-18-01-16",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.4071736335754395,
+          "dense_rank": null,
+          "sparse_rank": 25
+        },
+        {
+          "chunk_id": "472803346a3a#3",
+          "score": 2.394300699234009,
+          "content": "Protestan meselesi 19. yüzyılda, İngiltere’nın ve sonra Amerika’nın güçlenmesiyle gündeme gelir. Ermeniler sonuçta bu toprakların insanıdır. Türklerin Avrupalılar konusundaki duygu ve düşünceleri neys...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.394300699234009,
+          "dense_rank": null,
+          "sparse_rank": 26
+        },
+        {
+          "chunk_id": "1f2cf23f6398#5",
+          "score": 2.3565168380737305,
+          "content": "İsa’nın müritleri yazmıştır, yani yanılma payı olan ölümlü kişiler yazmıştır. Fakat geçmişteki, yanılma payı olmayan biri hakkında yazmışlardır. Biliyorsunuz, şeyh uçmaz, mürit uçurur. İncil dört tane...",
+          "metadata": {
+            "title": "Kutsal Kitap nasıl yazılır",
+            "date": "27 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/kutsal-kitap-nasil-yazilir-10459",
+            "keywords": "ahlak teorisi, kutsal kitaplar, mitoloji, peygamberlik"
+          },
+          "dense_score": null,
+          "sparse_score": 2.3565168380737305,
+          "dense_rank": null,
+          "sparse_rank": 27
+        },
+        {
+          "chunk_id": "b147bd8bbeae#1",
+          "score": 2.2794458866119385,
+          "content": "Bizans ile Sasani İran arasında dördüncü yüzyılda çizilmiş olan sınırıdır. İslam fethine dek üç yüzyıl boyunca orası, çağın iki süper gücü arasındaki devlet sınırı olmuş. Ve bugüne kadar izi kalmış. H...",
+          "metadata": {
+            "title": "Anadolu’nun yara izleri hangileridir",
+            "date": "09 August 2020",
+            "source": "https://www.sevannisanyan.com/metin/anadolunun-yara-izleri-hangileridir-89906",
+            "keywords": "Anadolu'nun yara izleri, Kars, Mardin"
+          },
+          "dense_score": null,
+          "sparse_score": 2.2794458866119385,
+          "dense_rank": null,
+          "sparse_rank": 28
+        },
+        {
+          "chunk_id": "46dc6f35309b#0",
+          "score": 2.2729384899139404,
+          "content": "**Osmanlı tarihi hakkında genel bir değerlendirme yaparsanız ne düşünürsünüz? Osmanlı iyi miydi, kötü müydü?**\n\nOsmanlı başa geçtiğinde — 1453 diyelim, yahut daha önce, 14. yüzyıl sonu ile 15. yüzyıl ...",
+          "metadata": {
+            "title": "Osmanlı nasıl özetlenir",
+            "date": "20 June 2021",
+            "source": "https://www.sevannisanyan.com/metin/osmanli-nasil-ozetlenir-96663",
+            "keywords": "Osmanlı tarihi, Osmanlı'nın çöküşü"
+          },
+          "dense_score": null,
+          "sparse_score": 2.2729384899139404,
+          "dense_rank": null,
+          "sparse_rank": 29
+        },
+        {
+          "chunk_id": "db1d4e475520#3",
+          "score": 2.2729384899139404,
+          "content": "Yanısıra hukuk ve bilim dili olarak Arapça egemendir. Şiir ve ticari evrak Farsça yazılır, ama yanılmıyorsam daha çok kitap Arapçadır. 1310'lara dek ilaç için tek Türkçe kitap yoktur. Konya'da **Mevla...",
+          "metadata": {
+            "title": "Türkiye nasıl Türkleşti?",
+            "date": "Apr 05, 2017",
+            "source": "https://nisanyan.substack.com/p/turkiye-nasl-turklesti-17-04-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.2729384899139404,
+          "dense_rank": null,
+          "sparse_rank": 30
+        },
+        {
+          "chunk_id": "472803346a3a#29",
+          "score": 2.246412515640259,
+          "content": "Ama “mukatele” adı altında yumuşatılmaya çalışılan durumla ilgisi yoktur işin. Yani karşılıklı olarak iki taraf birbirini kesti dediğimizde olayları çarpıtmış ve üstünü örtmüş oluruz. Bir tarafta kosk...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.246412515640259,
+          "dense_rank": null,
+          "sparse_rank": 31
+        },
+        {
+          "chunk_id": "59e6ed4d8751#0",
+          "score": 2.2058029174804688,
+          "content": "“İnançlar eşdeğer midir” konulu dünkü notumu[[1]](file:///C:/Users/pc/Documents/aa%20-%20blog/Tarh;%20bilgi%20teorisi.docx#_ftn1) galiba millet yanlış anladı. İnanç deyince herkesin aklına din geliyor...",
+          "metadata": {
+            "title": "Ecdadımız Küba'ya cami yaptı mı?",
+            "date": "May 26, 2019",
+            "source": "https://nisanyan.substack.com/p/ecdadmz-kubaya-cami-yapt-m-19-05-26",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.2058029174804688,
+          "dense_rank": null,
+          "sparse_rank": 32
+        },
+        {
+          "chunk_id": "fb26f905aecf#2",
+          "score": 2.181025981903076,
+          "content": "Kilisenin de desteğiyle, bazı büyük derebeyleri ile küçükleri arasında uzun mücadeleler sonunda bir modus vivendi, bir arada yaşama düzeni kurulmuş. Avrupa feodalizmi Türk İslam geleneğindeki beylik v...",
+          "metadata": {
+            "title": "Feodalizmin nesi kötü",
+            "date": "05 February 2023",
+            "source": "https://www.sevannisanyan.com/metin/feodalizmin-nesi-kotu-99462",
+            "keywords": "derebeylik, feodalizm, Marksizm"
+          },
+          "dense_score": null,
+          "sparse_score": 2.181025981903076,
+          "dense_rank": null,
+          "sparse_rank": 33
+        },
+        {
+          "chunk_id": "068e72c32a30#6",
+          "score": 2.1531527042388916,
+          "content": "Fakat yakın zamana dek Anadoli’ye ait olmuşlardır. Şimdi de “Anadolu tarafında” olduklarını söylemek yanlış sayılmaz. Anadoli eyaleti 433 yıllık bir yaşamdan sonra 1825’te parçalanır, 1841’de idari bi...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.1531527042388916,
+          "dense_rank": null,
+          "sparse_rank": 34
+        },
+        {
+          "chunk_id": "e75f1d034e46#5",
+          "score": 2.143773078918457,
+          "content": "Yani şimdiki Aliköy eski Sirna, şimdiki Yeşilyurt eski Aliköy imiş. Kolaysa git, define ara! Kırk bin tane köy için böyle iz sürmek nasıl bir delilik, bilmem canlandırabiliyor musunuz? **Daha alakasız...",
+          "metadata": {
+            "title": "Etnik coğrafyaların gezginlerine notlar",
+            "date": "Mar 24, 2018",
+            "source": "https://nisanyan.substack.com/p/etnik-cografyalarn-gezginlerine-notlar-18-03-24",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.143773078918457,
+          "dense_rank": null,
+          "sparse_rank": 35
+        },
+        {
+          "chunk_id": "5452e690f5fa#0",
+          "score": 2.1264278888702393,
+          "content": "**Anadolu dilleri**\n\nAnadolu dillerine de kısaca değinelim, çok uzayan bu diziyi bitirelim.\n\nEski ve Orta Yunanca biçimiyle karşımıza çıkan 1500 kadar yerleşim adının çok büyük bölümü, sanırım %75 kad...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 3",
+            "date": "Jan 16, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-3-19-01-16",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.1264278888702393,
+          "dense_rank": null,
+          "sparse_rank": 36
+        },
+        {
+          "chunk_id": "f1628b5b8e56#4",
+          "score": 2.115734815597534,
+          "content": "Küçük haritada Eski Anadolu dillerinde (yani Hititçe ve Luwice ile akraba dillerde) olan antik yer adlarının dağılımını görüyoruz. Bu sahadaki yerli halkın çeşitli Anadolu dilleri konuştuğunu var saya...",
+          "metadata": {
+            "title": "Sıfır Yılında Anadolu'nun Etnik ve Dilsel Haritası",
+            "date": "Jun 20, 2024",
+            "source": "https://nisanyan.substack.com/p/sfr-ylnda-anadolunun-etnik-ve-dilsel",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.115734815597534,
+          "dense_rank": null,
+          "sparse_rank": 37
+        },
+        {
+          "chunk_id": "fb63ad518ffd#0",
+          "score": 2.088542938232422,
+          "content": "**İç Anadolu Kürtleri’nin tarihi nedir? O bölgeye neden ve nasıl yerleştirilmişlerdir?**\n\nTürkiye’de pek çok insan Orta Anadolu Kürtlüğünün farkında değil. Konya’nın kuzey tarafı, yani Haymana, Cihanb...",
+          "metadata": {
+            "title": "İç Anadolu Kürtleri kimdir",
+            "date": "01 August 2021",
+            "source": "https://www.sevannisanyan.com/metin/ic-anadolu-kurtleri-kimdir-72355",
+            "keywords": "Cihanbeyli, İç Anadolu Kürtleri"
+          },
+          "dense_score": null,
+          "sparse_score": 2.088542938232422,
+          "dense_rank": null,
+          "sparse_rank": 38
+        },
+        {
+          "chunk_id": "ffc8035268e4#0",
+          "score": 2.075673818588257,
+          "content": "*Arayan ve bulan: Sevan Nişanyan ve İra Tzourou*\n\nÖnceki makaleyi yazdıktan sonra ister istemez Umurca Çiftliği ile Ragıp Paşa’nın peşine düşüyoruz. İnternette milyon defa copy-pastelenerek milli kült...",
+          "metadata": {
+            "title": "Boş Zamanlarımızı nasıl değerlendiriyoruz - II",
+            "date": "May 24, 2025",
+            "source": "https://nisanyan.substack.com/p/bos-zamanlarmz-nasl-degerlendiriyoruz-902",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.075673818588257,
+          "dense_rank": null,
+          "sparse_rank": 39
+        },
+        {
+          "chunk_id": "fb63ad518ffd#1",
+          "score": 2.0541648864746094,
+          "content": "Uzun yüzyıllar boyunca Suriye ovaları ile İç Anadolu arasındaki geçit yollarının ekonomik yaşantısının can damarlarından biri, mevsimlik Kürt ve Türkmen (ve hatta Arap) göçleri. Mevsimlik olarak Anado...",
+          "metadata": {
+            "title": "İç Anadolu Kürtleri kimdir",
+            "date": "01 August 2021",
+            "source": "https://www.sevannisanyan.com/metin/ic-anadolu-kurtleri-kimdir-72355",
+            "keywords": "Cihanbeyli, İç Anadolu Kürtleri"
+          },
+          "dense_score": null,
+          "sparse_score": 2.0541648864746094,
+          "dense_rank": null,
+          "sparse_rank": 40
+        },
+        {
+          "chunk_id": "950fe9dd4a4f#2",
+          "score": 2.044865369796753,
+          "content": "Bunları sunuyor şu anda dünyaya. Başka bir marifeti yok. Bu koşullardada, aman illallah, İslam kültüründen kurtulalım, ‘evrensel’ kültürü benimseyelim diyen geleneksel Tanzimat ve Cumhuriyet ideolojis...",
+          "metadata": {
+            "title": "Siyasal İslam aşıldı mı",
+            "date": "25 December 2022",
+            "source": "https://www.sevannisanyan.com/metin/siyasal-islam-asildi-mi-75175",
+            "keywords": "Batının çöküşü, siyasal islam, Türkiye"
+          },
+          "dense_score": null,
+          "sparse_score": 2.044865369796753,
+          "dense_rank": null,
+          "sparse_rank": 41
+        },
+        {
+          "chunk_id": "7bdf652c885d#0",
+          "score": 2.034134864807129,
+          "content": "**Antik Yunan’sız felsefe olmaz mı? Neden felsefenin orijini Antik Yunan kabul ediliyor? Bu ideolojik mi? Aynı dönemlerde başka toplumlarda felsefe yapılmıyor muydu?**\n\nYahu adamlar felsefe kavramını ...",
+          "metadata": {
+            "title": "Antik Yunan’sız felsefe olur mu",
+            "date": "04 December 2022",
+            "source": "https://www.sevannisanyan.com/metin/antik-yunansiz-felsefe-olur-mu-11475",
+            "keywords": "Antik Yunan, felsefe, tartışma sanatı"
+          },
+          "dense_score": null,
+          "sparse_score": 2.034134864807129,
+          "dense_rank": null,
+          "sparse_rank": 42
+        },
+        {
+          "chunk_id": "694b0d366738#0",
+          "score": 2.0296218395233154,
+          "content": "Listede Türkçe yer adlarında belli bir sıklıkla geçen ve güncel Türkçede anlamı herkes için açık olmayan sözcüklerden bir seçme verilmiştir. Yabancı kökenli sözcükler ancak Türkçede yerlileşmiş ve Tür...",
+          "metadata": {
+            "title": "Türkçe yer adları sözlüğü",
+            "date": "Sep 16, 2018",
+            "source": "https://nisanyan.substack.com/p/turkce-yer-adlar-sozlugu-18-09-16",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.0296218395233154,
+          "dense_rank": null,
+          "sparse_rank": 43
+        },
+        {
+          "chunk_id": "21532ac41187#3",
+          "score": 2.0073537826538086,
+          "content": "Kurduğun federasyonun şemsiyesi altında örgütlenenler, ondan sonra 500 sene boyunca Falanca Beyin Aşireti diye anılırlar. Devletin zayıflığının bir eseridir aşiret yapılanması. Bundan istiyorsanız çok...",
+          "metadata": {
+            "title": "Batıda neden aşiret yok",
+            "date": "28 January 2024",
+            "source": "https://www.sevannisanyan.com/metin/batida-neden-asiret-yok-89045",
+            "keywords": "aşiret, doğu/batı Türkiye, merkezi devlet"
+          },
+          "dense_score": null,
+          "sparse_score": 2.0073537826538086,
+          "dense_rank": null,
+          "sparse_rank": 44
+        },
+        {
+          "chunk_id": "7b58c1c57a6e#2",
+          "score": 2.0029585361480713,
+          "content": "Yönetim dili her yerde Arapçaydı ve mezhep ayrılığı henüz netleşmemişti diye biliyorum. Ayrı bir İran-İslam kimliği 15. yüzyıl başlarında konsolide oldu ve hiçbir zaman batıdaki Sünni bölgeleri (yani ...",
+          "metadata": {
+            "title": "Malazgirt'ten önce kimler vardı",
+            "date": "Jun 06, 2024",
+            "source": "https://nisanyan.substack.com/p/malazgirtten-once-kimler-vard",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.0029585361480713,
+          "dense_rank": null,
+          "sparse_rank": 45
+        },
+        {
+          "chunk_id": "773a14d1e40c#0",
+          "score": 1.9968767166137695,
+          "content": "Paris-Berkeley-Londra dünyasından söz etmiş, bir önceki yazıda mevzubahis ettiğimiz eleştirmen kardeşimiz. Var mı öyle bir dünya? Vallahi sanmıyorum. O sandviç kaşarı gibi araya giren Berkeley orada o...",
+          "metadata": {
+            "title": "Paris – Berkeley – Londra",
+            "date": "Jul 29, 2017",
+            "source": "https://nisanyan.substack.com/p/paris-berkeley-londra-17-07-29",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.9968767166137695,
+          "dense_rank": null,
+          "sparse_rank": 46
+        },
+        {
+          "chunk_id": "99db16f3ed8c#0",
+          "score": 1.9684785604476929,
+          "content": "Listede 1923 yılından önce doğmuş olup 2009’da hayatta olanlar arasında ‘Türkçe’ ya da ‘Türkçe karışık’ olarak işaretlediğimiz adların dökümünü görüyoruz. ‘Cumhuriyet öncesi Türkçe isim envanteri’ni e...",
+          "metadata": {
+            "title": "Cumhuriyet öncesi Türkçe kişi adları",
+            "date": "Aug 15, 2020",
+            "source": "https://nisanyan.substack.com/p/cumhuriyet-oncesi-turkce-kisi-adlar-20-08-15",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.9684785604476929,
+          "dense_rank": null,
+          "sparse_rank": 47
+        },
+        {
+          "chunk_id": "940ca3cc5e83#1",
+          "score": 1.9658318758010864,
+          "content": "Yazarın bakış açısı, sonraki 500 yılda emsaline rastlamayacağınız ölçüde seküler ve gerçekçidir. İnsanlık komedisine eğlenceli ve renkli bir ışık tutar. Dekameron’un bir yönü genellikle göz ardı edili...",
+          "metadata": {
+            "title": "Karantina günlerinde ne okunur",
+            "date": "15 March 2020",
+            "source": "https://www.sevannisanyan.com/metin/karantina-gunlerinde-ne-okunur-78694",
+            "keywords": "Covid, Decameron, karantina günleri, şark uygarlığı"
+          },
+          "dense_score": null,
+          "sparse_score": 1.9658318758010864,
+          "dense_rank": null,
+          "sparse_rank": 48
+        },
+        {
+          "chunk_id": "8d2ecaa61804#1",
+          "score": 1.96004319190979,
+          "content": "Bilfiil vurmaktansa karakter cinayetinin daha ucuza mal olacağını hesapladılar. Tetikçi bulması da öyle daha kolay üstelik.\n\n**Devekuşu tepkisi** Etrafım silahlı adamlarla sarıldığında durup düşündüm....",
+          "metadata": {
+            "title": "Kaya Mezarın öyküsü",
+            "date": "Oct 26, 2021",
+            "source": "https://nisanyan.substack.com/p/kaya-mezarn-oykusu",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.96004319190979,
+          "dense_rank": null,
+          "sparse_rank": 49
+        },
+        {
+          "chunk_id": "ec2c60bad948#1",
+          "score": 1.96004319190979,
+          "content": "Bilfiil vurmaktansa karakter cinayetinin daha ucuza mal olacağını hesapladılar. Tetikçi bulması da öyle daha kolay üstelik. Dönelim 2008’e. Etrafım silahlı adamlarla sarıldığında durup düşündüm. Bunla...",
+          "metadata": {
+            "title": "Kaya mezarı neden yapılır?",
+            "date": "Feb 20, 2012",
+            "source": "https://nisanyan.substack.com/p/kaya-mezar-neden-yaplr-12-02-20",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.96004319190979,
+          "dense_rank": null,
+          "sparse_rank": 50
+        }
+      ],
+      "performance": {
+        "total_time_ms": 1.2009143829345703,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "hybrid": {
+      "query": "Anadolu kültürü",
+      "strategy": "hybrid",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "433e2f5cf866#1",
+          "score": 0.031024531024531024,
+          "content": "İmar ve umran adına ciddi ve kalıcı ne yapılmışsa, onlar da bu iki dönemin eseridir. (İstisnaları biliyorum, açıklayabilirim istersen.) 13. ve 14. yy’lar Anadolu’da (ve genelde İslam aleminde) şehirli...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5077417811686202,
+          "sparse_score": 3.387115716934204,
+          "dense_rank": 6,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "3907ae5b9c7a#5",
+          "score": 0.02889344262295082,
+          "content": "Anadolu’nun en eski kutsal yerlerinden biri olan Pessinús, Paliá (“eskiler, eski şeyler”) diye harcanmış, Türkçesi kalın l ile Balahisar olmuş. Bu adlarda ben bir tavır görüyorum. Sanki eski kültürden...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 1",
+            "date": "Jan 12, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-1-19-01-12",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4870961546654378,
+          "sparse_score": 3.953906536102295,
+          "dense_rank": 20,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "2036178c7745#1",
+          "score": 0.028371628371628373,
+          "content": "Bu konuyu Süryaniler öyleydi, Türkler böyle, Kürtler böyle düzeyinden biraz daha farklı bir tarihi perspektiften değerlendirmek lazım diye düşünüyorum. Altı yüz yıl önce vekayiname yazan tek kişi deği...",
+          "metadata": {
+            "title": "Turabdin’de medeniyet nasıl bitti",
+            "date": "23 July 2023",
+            "source": "https://www.sevannisanyan.com/metin/turabdinde-medeniyet-nasil-bitti-31529",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 6
+          },
+          "dense_score": 0.4916842453687484,
+          "sparse_score": 3.1636219024658203,
+          "dense_rank": 17,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "db1d4e475520#3",
+          "score": 0.02750455373406193,
+          "content": "Yanısıra hukuk ve bilim dili olarak Arapça egemendir. Şiir ve ticari evrak Farsça yazılır, ama yanılmıyorsam daha çok kitap Arapçadır. 1310'lara dek ilaç için tek Türkçe kitap yoktur. Konya'da **Mevla...",
+          "metadata": {
+            "title": "Türkiye nasıl Türkleşti?",
+            "date": "Apr 05, 2017",
+            "source": "https://nisanyan.substack.com/p/turkiye-nasl-turklesti-17-04-05",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5294989644785144,
+          "sparse_score": 2.2729384899139404,
+          "dense_rank": 1,
+          "sparse_rank": 30
+        },
+        {
+          "chunk_id": "433e2f5cf866#0",
+          "score": 0.027402402402402402,
+          "content": "Bildiğin terane: Atalarımız göçebeydi o yüzden... bina yapamıyoruz/sokağa çöp atıyoruz/kırmızıda durmuyoruz/Kezban’ı dövüyoruz vs. vs.\n\nYok öyle bir şey. Bir kere atan göçebe filan değildi. Yüzde elli...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.49939769503373754,
+          "sparse_score": 2.7395987510681152,
+          "dense_rank": 14,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "03eef620d22d#2",
+          "score": 0.027364110201042444,
+          "content": "Bizans pratiğinden Türkçeye devralınan üst düzey kültür kavramları sayıca çok az olup, tümü Anadolu’nun Türkleşmesinin en erken aşamalarında, her halükârda İstanbul’un 1453’teki fethinden önce benimse...",
+          "metadata": {
+            "title": "Türkçe tarihi 6: Yunancadan gelen",
+            "date": "Nov 19, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-6-yunancadan-gelen-17-11-19",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 8
+          },
+          "dense_score": 0.5054081872072111,
+          "sparse_score": 2.516845703125,
+          "dense_rank": 8,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "a4d589a6da69#15",
+          "score": 0.02637768817204301,
+          "content": "Osmanlı kültürünün timsali Karagöz değil Hacivat’tır. Karagöz, bu ülke halkının Osmanlı’ya karşı küskün ve sonuçsuz öfkesinin dışa vurumudur sadece. Cumhuriyet’in ilk kuşaklarının, bugünkü bakış açımı...",
+          "metadata": {
+            "title": "Cumhuriyetin Batılı olması değil mesele, olamaması - Bölüm 1",
+            "date": "Oct 12, 2014",
+            "source": "https://nisanyan.substack.com/p/cumhuriyetin-batl-olmas-degil-mesele-14-10-12",
+            "keywords": "",
+            "chunk_index": 15,
+            "total_chunks": 17
+          },
+          "dense_score": 0.4722046940167881,
+          "sparse_score": 3.338797092437744,
+          "dense_rank": 33,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "433e2f5cf866#2",
+          "score": 0.026132699813337858,
+          "content": "Kadınlar Boccaccio’nun karakterlerine taş çıkartacak derecede hırslı, entrikacı ve seks düşkünüdür. Köylüler yoktur, ya da komedi unsuru olarak marjdadır. (Buna karşılık köleler çokça vardır, talihin ...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4784140802837909,
+          "sparse_score": 2.755232095718384,
+          "dense_rank": 23,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "068e72c32a30#6",
+          "score": 0.02329652572044169,
+          "content": "Fakat yakın zamana dek Anadoli’ye ait olmuşlardır. Şimdi de “Anadolu tarafında” olduklarını söylemek yanlış sayılmaz. Anadoli eyaleti 433 yıllık bir yaşamdan sonra 1825’te parçalanır, 1841’de idari bi...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 7
+          },
+          "dense_score": 0.48747640405357284,
+          "sparse_score": 2.1531527042388916,
+          "dense_rank": 19,
+          "sparse_rank": 34
+        },
+        {
+          "chunk_id": "f1628b5b8e56#7",
+          "score": 0.02262443438914027,
+          "content": "Ancak Med dili ve kültürünün bu sahada yaşamaya devam ettiğine dair elimizde bir veri yoktur. Birçok örnekte Ermeni dilini ve siyasi kültürünü benimsemiş oldukları anlaşılıyor.\n>\n> Urartu krallığı MÖ ...",
+          "metadata": {
+            "title": "Sıfır Yılında Anadolu'nun Etnik ve Dilsel Haritası",
+            "date": "Jun 20, 2024",
+            "source": "https://nisanyan.substack.com/p/sfr-ylnda-anadolunun-etnik-ve-dilsel",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 10
+          },
+          "dense_score": 0.4656984186650856,
+          "sparse_score": 2.5578269958496094,
+          "dense_rank": 42,
+          "sparse_rank": 18
+        }
+      ],
+      "performance": {
+        "total_time_ms": 612.8342151641846,
+        "dense_time_ms": 611.4802360534668,
+        "sparse_time_ms": 1.1997222900390625,
+        "fusion_time_ms": 0.15425682067871094
+      },
+      "total_candidates": 100
+    }
+  },
+  "overlap_analysis": {
+    "total_unique_chunks": 86,
+    "pairwise_overlap": {
+      "dense_vs_sparse": {
+        "intersection": 14,
+        "union": 86,
+        "jaccard": 0.16279069767441862,
+        "only_in_first": 36,
+        "only_in_second": 36
+      },
+      "dense_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      },
+      "sparse_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,1848 @@
+{
+  "query": "akılcılık",
+  "strategies": {
+    "dense": {
+      "query": "akılcılık",
+      "strategy": "dense",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "f592f66e222d#50",
+          "score": 0.43480876417490655,
+          "content": "Yanlışlama konusuna gelince.Tanrı O kadar da soyut bir kavram değil.Gerçi Sizin zihniniz gerçekliği görünür olmaya, soyutluğu da görünmez olana indirgediği için kızamıyorum. Klasik ateist felsefe gitt...",
+          "metadata": {
+            "title": "Yedi Uyurlar ve bişey bişey",
+            "date": "Sep 08, 2013",
+            "source": "https://nisanyan.substack.com/p/yedi-uyurlar-ve-bisey-bisey-13-09-08",
+            "keywords": "",
+            "chunk_index": 50,
+            "total_chunks": 87
+          },
+          "dense_score": 0.43480876417490655,
+          "sparse_score": null,
+          "dense_rank": 1,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "207cb3344101#2",
+          "score": 0.4293364793058,
+          "content": "Az ya da çok, ahlaki bir çıkmaza girdiler. İlk bakışta makul ve masum görünen bu dönüşümün uzun vadede korkunç sonuçları oldu. 20. yüzyıl sonlarından itibaren bilim tamamile devletlerin güç oyununun b...",
+          "metadata": {
+            "title": "Bilim nasıl bozuldu",
+            "date": "19 February 2023",
+            "source": "https://www.sevannisanyan.com/metin/bilim-nasil-bozuldu-68906",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4293364793058,
+          "sparse_score": null,
+          "dense_rank": 2,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ad6542c3b6ef#1",
+          "score": 0.4278094496782404,
+          "content": "En ilkel solucan bile biliyor, gün ışığı kötü, şu taşın altı iyi. Akıl diyebilir miyiz buna? HALİM – Diyanet İşleri Başkanlığının Dini Bilgiler Sözlüğü böyle tanımlamış. Yanlış mı diyorsunuz? SELİM – ...",
+          "metadata": {
+            "title": "Halim ve Selim 18: Akıl ve İslam",
+            "date": "Feb 18, 2018",
+            "source": "https://nisanyan.substack.com/p/halim-ve-selim-18-akl-ve-islam-18-02-18",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 5
+          },
+          "dense_score": 0.4278094496782404,
+          "sparse_score": null,
+          "dense_rank": 3,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f592f66e222d#23",
+          "score": 0.4256298933124757,
+          "content": "Rakiym hatalıdır bak diyor yani. Bu da bizim için bir delil oluyor tabi, ileriye dönük bir atıf yapıyor açık açık Kuran.\n\n[Yanıtlar](https://www.blogger.com/null) 1. **Adsız**[10 Eylül 2013 14:32](htt...",
+          "metadata": {
+            "title": "Yedi Uyurlar ve bişey bişey",
+            "date": "Sep 08, 2013",
+            "source": "https://nisanyan.substack.com/p/yedi-uyurlar-ve-bisey-bisey-13-09-08",
+            "keywords": "",
+            "chunk_index": 23,
+            "total_chunks": 87
+          },
+          "dense_score": 0.4256298933124757,
+          "sparse_score": null,
+          "dense_rank": 4,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "faa4bbb0b233#0",
+          "score": 0.42393889674302154,
+          "content": "Memlekette şimdi âkil adam modası çıktı. Halbuki bunun aslı uzun â ve kısa ı ile **âkıl**’dır, isterseniz aakıl diye de yazabiliriz, yani عاقِل. Eski yazıda kaf’tan sonra esrenin /i/ okunmasına imkân ...",
+          "metadata": {
+            "title": "Akil adamlar",
+            "date": "Apr 03, 2013",
+            "source": "https://nisanyan.substack.com/p/akil-adamlar-13-04-03",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.42393889674302154,
+          "sparse_score": null,
+          "dense_rank": 5,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "fe7711ab877c#7",
+          "score": 0.4172800490281572,
+          "content": "İnancı terk etmenin bedeli cüzidir. O yüzden bu inançlar din sayılmaz. Tarihteki büyük dinî nefret hadiselerinin birçoğu yabancı dinden olanlara değil, aidiyet ve samimiyetleri kuşkulu olan dindaşlara...",
+          "metadata": {
+            "title": "Saklı canlılar, elektrikli balıklar, doğuran bakireler",
+            "date": "May 02, 2016",
+            "source": "https://nisanyan.substack.com/p/sakl-canllar-elektrikli-balklar-doguran-16-05-02",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 10
+          },
+          "dense_score": 0.4172800490281572,
+          "sparse_score": null,
+          "dense_rank": 6,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "300a3df19be8#2",
+          "score": 0.414883075761191,
+          "content": "Ciddi konulara değinen hemen her yazımın içinde bu fikir bir yerlerde mutlaka saklıdır. Halim-Selim’de de epey değindim. Her ahlaki arınma teşebbüsünün, her dini uyanış hareketinin kaçınılmaz akıbetid...",
+          "metadata": {
+            "title": "Ahlaklı yaşamın sırları",
+            "date": "Oct 01, 2018",
+            "source": "https://nisanyan.substack.com/p/ahlakl-yasamn-srlar-18-10-01",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.414883075761191,
+          "sparse_score": null,
+          "dense_rank": 7,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "8d2ecaa61804#2",
+          "score": 0.41429869070697983,
+          "content": "Ayrıca, otuz senede çürüyecek bir şey değil, **bin sene kalacak bir şey** olmalı. Misal: antik Anadolu kültürlerinden kalan mezar anıtları! Yıllar önce Likya hakkında bir kitap yazmıştım. O sırada ora...",
+          "metadata": {
+            "title": "Kaya Mezarın öyküsü",
+            "date": "Oct 26, 2021",
+            "source": "https://nisanyan.substack.com/p/kaya-mezarn-oykusu",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 10
+          },
+          "dense_score": 0.41429869070697983,
+          "sparse_score": null,
+          "dense_rank": 8,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7992c76a87ba#1",
+          "score": 0.4103307986442858,
+          "content": "Arada da fırsat bu fırsattır deyip birkaç trilyon doları doları vatandaşın cebinden çekip kendi müttefikleri olan birtakım şirketlere aktarmayı başardılar. Müthiş bir operasyon. Büyük ustalık gerçekte...",
+          "metadata": {
+            "title": "Marslıların istilası ile Covid salgını ilgili mi",
+            "date": "05 June 2022",
+            "source": "https://www.sevannisanyan.com/metin/marslilarin-istilasi-ile-covid-salgini-ilgili-mi-14384",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4103307986442858,
+          "sparse_score": null,
+          "dense_rank": 9,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b9ebbfc2a372#2",
+          "score": 0.4100758294856848,
+          "content": "İnsanlık tarihinin en çarpıcı, en üretken, en devrimci fikir ve sanat açılımlarından biridir. Önceki çağa bir tepkidir. Temel hareket noktası, Avrupa’yı iki yüz yıl meşgul eden din ve mezhep kavgaları...",
+          "metadata": {
+            "title": "'Aydınlanma' nedir?",
+            "date": "Mar 09, 2020",
+            "source": "https://nisanyan.substack.com/p/aydnlanma-nedir-20-03-09",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4100758294856848,
+          "sparse_score": null,
+          "dense_rank": 10,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ad6542c3b6ef#2",
+          "score": 0.4093056183129007,
+          "content": "Bunları eğer iki temel sorunun eleğinden geçirmeyi huy edinmişsek akıl yoluna girdik demektir. Bir, mantıken tutarlı mı? İki, gözlem ve deneylerimize uygun mu? Yolun ilk adımı kuşkudur: “Böyle diyorla...",
+          "metadata": {
+            "title": "Halim ve Selim 18: Akıl ve İslam",
+            "date": "Feb 18, 2018",
+            "source": "https://nisanyan.substack.com/p/halim-ve-selim-18-akl-ve-islam-18-02-18",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 5
+          },
+          "dense_score": 0.4093056183129007,
+          "sparse_score": null,
+          "dense_rank": 11,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3af1e9e6dc6e#7",
+          "score": 0.40891313132602003,
+          "content": "Bahçeye dikilecek ağaçların dizilişinde ne kadar katı bir geometri uygulanmalı? Taşd uvarı yamarken Beylikiçi’nin sarı taşı mı yoksa vadinin beji mi daha uyumlu olur? Günde bunun gibi yirmi, otuz, kır...",
+          "metadata": {
+            "title": "Şirince: Bir muhasebe",
+            "date": "Jul 25, 2016",
+            "source": "https://nisanyan.substack.com/p/sirince-bir-muhasebe-16-07-25",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 11
+          },
+          "dense_score": 0.40891313132602003,
+          "sparse_score": null,
+          "dense_rank": 12,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b72a681ed225#6",
+          "score": 0.39909399393510314,
+          "content": "Hiçbir düzenleyici irade olmadan moleküller bir araya gelip, yeterince denemeden sonra insan gözü oluşturuyorlar. Aklınız yatıyor mu böyle bir şeye? SELİM – “İrade yoksa tesadüf var” diyorsunuz, insan...",
+          "metadata": {
+            "title": "Halim ve Selim 3: Evrim",
+            "date": "Dec 28, 2017",
+            "source": "https://nisanyan.substack.com/p/halim-ve-selim-3-evrim-17-12-28",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 7
+          },
+          "dense_score": 0.39909399393510314,
+          "sparse_score": null,
+          "dense_rank": 13,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e86edf257e43#0",
+          "score": 0.39878389998651576,
+          "content": "**IŞİD’i kim ortaya çıkardı? Bir Amerikan projesi miydi? Kim onlara silah verdi, organize etti?**\n\nIŞİD çok netameli bir konu. Adeta başından sonuna bir tiyatro gösterisiydi IŞİD. ‘Bak ne kadar kötü, ...",
+          "metadata": {
+            "title": "Aşırı güç nasıl yozlaştırır",
+            "date": "19 September 2021",
+            "source": "https://www.sevannisanyan.com/metin/asiri-guc-nasil-yozlastirir-43933",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.39878389998651576,
+          "sparse_score": null,
+          "dense_rank": 14,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f592f66e222d#49",
+          "score": 0.39841632252172143,
+          "content": "mesela ayetlerde ashabı kehfin sayısı da belirsizdir. ama siz illa ki 7 + kıtmir olanı kabulle bu mağaraya işaret eden meal-tefsirleri baz aldınız. kıssanın anlattığını maddileştirmek istediniz. biz i...",
+          "metadata": {
+            "title": "Yedi Uyurlar ve bişey bişey",
+            "date": "Sep 08, 2013",
+            "source": "https://nisanyan.substack.com/p/yedi-uyurlar-ve-bisey-bisey-13-09-08",
+            "keywords": "",
+            "chunk_index": 49,
+            "total_chunks": 87
+          },
+          "dense_score": 0.39841632252172143,
+          "sparse_score": null,
+          "dense_rank": 15,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "67a6439f69f8#1",
+          "score": 0.3983629630800335,
+          "content": "Aşağıda 24 Kasım 2014 tarihli bir gazetenin sadece ilk beş sayfasında tesadüf ettiğim deyimlerden birkaçını görüyoruz. Tümü bildiğim kadarıyla 1980 veya 1990’lı yıllardan sonrasına aittir. *atölye çal...",
+          "metadata": {
+            "title": "Öztürkçenin sonu",
+            "date": "May 10, 2019",
+            "source": "https://nisanyan.substack.com/p/ozturkcenin-sonu-19-05-10",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.3983629630800335,
+          "sparse_score": null,
+          "dense_rank": 16,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e6ead953a292#3",
+          "score": 0.39809437080489196,
+          "content": "Bugünün sorularına cevap bulamazsın. Ha, vardır elbet orada da bir-iki hikmet incisi: Sonuçta insanlığın ahlaki sorunlarının bir kısmı yeniyse, bir kısmı dünden beri var olan sorunlar. Ama ona bakarsa...",
+          "metadata": {
+            "title": "Arkadaşlar Allah'ı neden sever, biz neden sevmeyiz",
+            "date": "Dec 10, 2013",
+            "source": "https://nisanyan.substack.com/p/arkadaslar-allah-neden-sever-biz-13-12-10",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.39809437080489196,
+          "sparse_score": null,
+          "dense_rank": 17,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f592f66e222d#48",
+          "score": 0.39793166058776885,
+          "content": "sizi haksız bulduğum şey inançlı insanların cennet, cehennem, melekler ve cinler gibi deneyimleyemeyeceğimiz ve ispatı yapılamayacak şeylerin varlığını kabul edip ateistlerin hayal gücüyle dalga geçme...",
+          "metadata": {
+            "title": "Yedi Uyurlar ve bişey bişey",
+            "date": "Sep 08, 2013",
+            "source": "https://nisanyan.substack.com/p/yedi-uyurlar-ve-bisey-bisey-13-09-08",
+            "keywords": "",
+            "chunk_index": 48,
+            "total_chunks": 87
+          },
+          "dense_score": 0.39793166058776885,
+          "sparse_score": null,
+          "dense_rank": 18,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f592f66e222d#47",
+          "score": 0.3969072069350726,
+          "content": "bu arada türkiyede bence en zeki eklektik müslüman mustafa islamoğlu'dur. yabancısı değiliz izliyoruz merak etmeyin.\n\naltınbaş:)\n\n2. **[Kaaria](https://www.blogger.com/profile/13168351902479744815)**[...",
+          "metadata": {
+            "title": "Yedi Uyurlar ve bişey bişey",
+            "date": "Sep 08, 2013",
+            "source": "https://nisanyan.substack.com/p/yedi-uyurlar-ve-bisey-bisey-13-09-08",
+            "keywords": "",
+            "chunk_index": 47,
+            "total_chunks": 87
+          },
+          "dense_score": 0.3969072069350726,
+          "sparse_score": null,
+          "dense_rank": 19,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "80a83ba126ed#61",
+          "score": 0.3953872039570874,
+          "content": "Bu aktarılanlar anladığım o dönemin hadis nakilcileri ve tarih anlatıcılarının dürüstlüğü,saptırmasızlığı. Şimdikiler çok saptırıyor.\n\n6. **[Yanıtla](https://www.blogger.com/null)**\n\n25. **Adsız**[16 ...",
+          "metadata": {
+            "title": "Sevan Nişanyan'dan İslami Bilgiler: Nisa Faslı",
+            "date": "Nov 15, 2012",
+            "source": "https://nisanyan.substack.com/p/sevan-nisanyandan-islami-bilgiler-12-11-15",
+            "keywords": "",
+            "chunk_index": 61,
+            "total_chunks": 115
+          },
+          "dense_score": 0.3953872039570874,
+          "sparse_score": null,
+          "dense_rank": 20,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f592f66e222d#24",
+          "score": 0.39437454449675596,
+          "content": "Eskiler için bir anlamı var dedim ya, decius anlamında rakim diye yanlış kelime kullanıyorlarmış herhalde falan dedim bir başka yorumda. Her neyse belki de hiç bir şey anlamamışlardır kelimeden. Metin...",
+          "metadata": {
+            "title": "Yedi Uyurlar ve bişey bişey",
+            "date": "Sep 08, 2013",
+            "source": "https://nisanyan.substack.com/p/yedi-uyurlar-ve-bisey-bisey-13-09-08",
+            "keywords": "",
+            "chunk_index": 24,
+            "total_chunks": 87
+          },
+          "dense_score": 0.39437454449675596,
+          "sparse_score": null,
+          "dense_rank": 21,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "c310489a2b4b#10",
+          "score": 0.392171622655543,
+          "content": "[Yanıtla](https://www.blogger.com/null)\n\n6. **Adsız**[14 Aralık 2012 15:16](http://nisanyan1.blogspot.com/2012/12/yer-ays.html?showComment=1355491014434#c6406421930427795137)\n\nBununla ilgili değil ama...",
+          "metadata": {
+            "title": "Yer ayısı",
+            "date": "Dec 13, 2012",
+            "source": "https://nisanyan.substack.com/p/yer-ays-12-12-13",
+            "keywords": "",
+            "chunk_index": 10,
+            "total_chunks": 15
+          },
+          "dense_score": 0.392171622655543,
+          "sparse_score": null,
+          "dense_rank": 22,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9e1ec347e414#0",
+          "score": 0.3914705046861754,
+          "content": "**Bilginin bu kadar kirlendiği bir çağda hakikatin peşinden nasıl gidebiliriz? En basit konuda bile kerli ferli akademisyenler yalan konuşuyorlar.**\n\nDoğrudur, bir felaket tablosuyla karşı karşıyayız....",
+          "metadata": {
+            "title": "Nasıl bağımsız olunur",
+            "date": "20 February 2022",
+            "source": "https://www.sevannisanyan.com/metin/nasil-bagimsiz-olunur-99462",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.3914705046861754,
+          "sparse_score": null,
+          "dense_rank": 23,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cc9505b96f5f#1",
+          "score": 0.3913737306842432,
+          "content": "Bu amaçlara belli başlı üç yoldan ulaşılabilir. Şimdi o yolları görelim. Birinci yol cazgırlık yapmaktır. Bağırarak, safsata ve mugalata yoluyla karşı tarafı susturursun. Pes ederler. İkinci yol otori...",
+          "metadata": {
+            "title": "Bilimin işlevi nedir, nasıl gelişir, nasıl kurur",
+            "date": "24 December 2023",
+            "source": "https://www.sevannisanyan.com/metin/bilimin-islevi-nedir-nasil-gelisir-nasil-kurur-83627",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 6
+          },
+          "dense_score": 0.3913737306842432,
+          "sparse_score": null,
+          "dense_rank": 24,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2f7768835e70#8",
+          "score": 0.3913307777308248,
+          "content": "Acımasız güzellikte kafa kurcalayan ancak sizin gibi bir delinin kurcalayıp kuracağı bir metin... Hintli amca çevirinizde de bu his bir gelip gitmişti, yaz(a)mamıştım; şimdi tutamıyorum kendimi.... De...",
+          "metadata": {
+            "title": "Tefsir ilmine giriş",
+            "date": "Oct 25, 2012",
+            "source": "https://nisanyan.substack.com/p/tefsir-ilmine-giris-12-10-25",
+            "keywords": "",
+            "chunk_index": 8,
+            "total_chunks": 19
+          },
+          "dense_score": 0.3913307777308248,
+          "sparse_score": null,
+          "dense_rank": 25,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2f7768835e70#12",
+          "score": 0.3896284779469604,
+          "content": "Bir de mümin cevabını dinleyelim: \"Aksine, her kitabın ambaşka oluşu, vahiy olduğuna işarettir. allah her defasında orjinal bir şeyler gönderdi\" aynı bakış açısı. Yine olgu, varsayımlar açısından, her...",
+          "metadata": {
+            "title": "Tefsir ilmine giriş",
+            "date": "Oct 25, 2012",
+            "source": "https://nisanyan.substack.com/p/tefsir-ilmine-giris-12-10-25",
+            "keywords": "",
+            "chunk_index": 12,
+            "total_chunks": 19
+          },
+          "dense_score": 0.3896284779469604,
+          "sparse_score": null,
+          "dense_rank": 26,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7e4651b597a8#0",
+          "score": 0.38871370351868295,
+          "content": "**Hocam ben salağım, ne yapabilirim?**\n\nİki şeyden birini yapabilirsin.\n\nİlki insanların yüzde doksan dokuzunun seçtiği salaklıkla başa çıkma yoludur. Salaklığını kabul et ve onunla gurur duy. Salaklı...",
+          "metadata": {
+            "title": "Salaklıkla nasıl başa çıkılır",
+            "date": "27 February 2022",
+            "source": "https://www.sevannisanyan.com/metin/salaklikla-nasil-basa-cikilir-73231",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.38871370351868295,
+          "sparse_score": null,
+          "dense_rank": 27,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "23160e7e3ebb#1",
+          "score": 0.3855982907034705,
+          "content": "Ayrıca 5- şehre hem yakın hem uzak olmalı, 6- içinde saklanacak ormanları olmalı, 7- mimarisi tutarsız olmalı. Bir kere, güzel. Üniversitinin asıl işlevi insanın ruhunu yüksek bir yerlere çekmek olmal...",
+          "metadata": {
+            "title": "Akademi inşa edeceklere öğütler",
+            "date": "May 04, 2014",
+            "source": "https://nisanyan.substack.com/p/akademi-insa-edeceklere-ogutler-14-05-04",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.3855982907034705,
+          "sparse_score": null,
+          "dense_rank": 28,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3af1e9e6dc6e#8",
+          "score": 0.38550389648671923,
+          "content": "İlham için antik mimariye, İtalyan Rönesansına, ya da (Türk ve Yunan) eski vernaküler mimarinin geleneklerine danış. Yaptığın her şey sakin ve kalıcı olsun. Yüzlerce yıldan beri hep oradaymış ve yüzle...",
+          "metadata": {
+            "title": "Şirince: Bir muhasebe",
+            "date": "Jul 25, 2016",
+            "source": "https://nisanyan.substack.com/p/sirince-bir-muhasebe-16-07-25",
+            "keywords": "",
+            "chunk_index": 8,
+            "total_chunks": 11
+          },
+          "dense_score": 0.38550389648671923,
+          "sparse_score": null,
+          "dense_rank": 29,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a4d589a6da69#12",
+          "score": 0.3851129684000021,
+          "content": "Her mahallede bir Galileo, her sanayi sitesinde bir Edison yahut Steve Jobs türedi mi? Yozgat’ta Mars kaşifleri sıraya girdi mi? Soruyu doğru sorarsan cevabı yarı yarıya vermiş olursun. Batı’yı ilginç...",
+          "metadata": {
+            "title": "Cumhuriyetin Batılı olması değil mesele, olamaması - Bölüm 1",
+            "date": "Oct 12, 2014",
+            "source": "https://nisanyan.substack.com/p/cumhuriyetin-batl-olmas-degil-mesele-14-10-12",
+            "keywords": "",
+            "chunk_index": 12,
+            "total_chunks": 17
+          },
+          "dense_score": 0.3851129684000021,
+          "sparse_score": null,
+          "dense_rank": 30,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "099e19a43c6f#1",
+          "score": 0.38491860213148843,
+          "content": "Kimi inanç ve töreleriyle, kimi siyasi mücadeleyle, sanatla, emekle, felsefe ve hukukla, kimi sevgiyle, kimi inatla, kimi meydan okuyarak, savaşarak ya da kaçarak, kimi cinayetle ve eroinle. Bu adamla...",
+          "metadata": {
+            "title": "Yanlış Kutup",
+            "date": "Nov 12, 2017",
+            "source": "https://nisanyan.substack.com/p/yanls-kutup-17-11-12",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 11
+          },
+          "dense_score": 0.38491860213148843,
+          "sparse_score": null,
+          "dense_rank": 31,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "207cb3344101#0",
+          "score": 0.3835879465370503,
+          "content": "**Doğu Ergil Hocam demiş geçen gün, inanmak mantığın, zamanın ve mekanın sınırlarını kaldırır, her şeyi mümkün kılar. Ancak doğruyu bulmak için aklın ve bilimin rehberliğine ihtiyaç vardır. Çünkü insa...",
+          "metadata": {
+            "title": "Bilim nasıl bozuldu",
+            "date": "19 February 2023",
+            "source": "https://www.sevannisanyan.com/metin/bilim-nasil-bozuldu-68906",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.3835879465370503,
+          "sparse_score": null,
+          "dense_rank": 32,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "066fbe4c512b#0",
+          "score": 0.383553845775784,
+          "content": "Bürokratın varlık nedeni kural ve düzeni sağlamaktır. Otoritesi buna dayanır. Kural ve düzeni sağladı, gücü var; sağlayamadı, gücü yok. Halbuki mesela feodal beyinki, ağanınki, padişahınki farklı tür ...",
+          "metadata": {
+            "title": "Bugün bir memur vurdun mu?",
+            "date": "Jun 07, 2020",
+            "source": "https://nisanyan.substack.com/p/bugun-bir-memur-vurdun-mu-20-06-07",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 6
+          },
+          "dense_score": 0.383553845775784,
+          "sparse_score": null,
+          "dense_rank": 33,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a342062f853f#19",
+          "score": 0.3832259929114739,
+          "content": "Darbecileri hapsa tıkalım mı? Elbette. Bu yargılananlar darbeci mi? Büyük bir olasılıkla en azından bir kısmı darbeci. Davada bu adil bir şekilde kanıtlandı mı? Kesinlikle hayır. Türk adaletinin yerle...",
+          "metadata": {
+            "title": "Balyozuna sağlık",
+            "date": "Sep 22, 2012",
+            "source": "https://nisanyan.substack.com/p/balyozuna-saglk-12-09-22",
+            "keywords": "",
+            "chunk_index": 19,
+            "total_chunks": 34
+          },
+          "dense_score": 0.3832259929114739,
+          "sparse_score": null,
+          "dense_rank": 34,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "8d2ecaa61804#3",
+          "score": 0.3825812132170119,
+          "content": "Ayrıca vaktiyle Kant okumuşuz, üçüncü kritik üstünde de haftalarca kafa patlatmışız. “Güzellik, her türlü çıkar hesabının üstünde olan şeydir,” diye kalmış aklımın bir köşesinde.\n\n**Oymaca faslı**\n\nHe...",
+          "metadata": {
+            "title": "Kaya Mezarın öyküsü",
+            "date": "Oct 26, 2021",
+            "source": "https://nisanyan.substack.com/p/kaya-mezarn-oykusu",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 10
+          },
+          "dense_score": 0.3825812132170119,
+          "sparse_score": null,
+          "dense_rank": 35,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e58e3cf6b38c#8",
+          "score": 0.3821449218237871,
+          "content": "Kuşku ve eleştiri payını kaybetmesi. İnsanların aklına kuşku tohumları ekmeye çalışıyorum, hepsi bu. \"Muzaffer ateizmin ne olacağını merak ediyorsan Enver Hoca diyeyim, belki yeter.\" Bahailik, Alevili...",
+          "metadata": {
+            "title": "Gene bir sol kroşe",
+            "date": "Aug 07, 2015",
+            "source": "https://nisanyan.substack.com/p/gene-bir-sol-krose-15-08-07",
+            "keywords": "",
+            "chunk_index": 8,
+            "total_chunks": 10
+          },
+          "dense_score": 0.3821449218237871,
+          "sparse_score": null,
+          "dense_rank": 36,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cf04a50b2f74#6",
+          "score": 0.3820650000237745,
+          "content": "Her mahallede bir Galileo, her sanayi sitesinde bir Edison yahut Steve Jobs türedi mi? Yozgat'ta Mars kaşifleri sıraya girdi mi? Soruyu doğru sorarsan cevabı yarı yarıya vermiş olursun. Batı'yı ilginç...",
+          "metadata": {
+            "title": "Cumhuriyetin Batılı olması değil mesele, olamaması - Bölüm 2",
+            "date": "Oct 13, 2014",
+            "source": "https://nisanyan.substack.com/p/cumhuriyetin-batl-olmas-degil-mesele-14-10-13",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 8
+          },
+          "dense_score": 0.3820650000237745,
+          "sparse_score": null,
+          "dense_rank": 37,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "80a83ba126ed#72",
+          "score": 0.37989568643684424,
+          "content": "Sorun büyük ölçüde meşruluk kaynağını sorgulamakla alakalıdır. Tek eşliliği meşru kılan nedir? İnsanların düşünsel ve sosyal gelişim sonucu vardıkları son karar olması mıdır?\n\na- karar ortak değildir....",
+          "metadata": {
+            "title": "Sevan Nişanyan'dan İslami Bilgiler: Nisa Faslı",
+            "date": "Nov 15, 2012",
+            "source": "https://nisanyan.substack.com/p/sevan-nisanyandan-islami-bilgiler-12-11-15",
+            "keywords": "",
+            "chunk_index": 72,
+            "total_chunks": 115
+          },
+          "dense_score": 0.37989568643684424,
+          "sparse_score": null,
+          "dense_rank": 38,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "bc57f8b6d67e#6",
+          "score": 0.3796142413445659,
+          "content": "Kemeri iki kolon üzerine oturtursan, kolonlar dışa doğru basınç altında kalır. O yüzden Romanesk dönemin kemer taşıyıcıları ağır ve sağlam olmak zorundadır. Yoksa devrilir zaman içinde. O yüzden çok y...",
+          "metadata": {
+            "title": "Fairy ile peri akraba mı",
+            "date": "13 February 2022",
+            "source": "https://www.sevannisanyan.com/metin/fairy-ile-peri-akraba-mi-48643",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 7
+          },
+          "dense_score": 0.3796142413445659,
+          "sparse_score": null,
+          "dense_rank": 39,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "fbfedc18ca47#2",
+          "score": 0.3793137463928692,
+          "content": "Bu törenlerin şöyle bir özelliği vardır. Ne kadar irrasyonel olursa, ne kadar anlamsız, ve saçma olursa o kadar kıymetlidir bu törenler. Çünkü anlamsız olmasa, mesela Atatürk’ü anmak için korna çalmak...",
+          "metadata": {
+            "title": "On Kasım neden anılır",
+            "date": "13 November 2020",
+            "source": "https://www.sevannisanyan.com/metin/on-kasim-neden-anilir-85728",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 11
+          },
+          "dense_score": 0.3793137463928692,
+          "sparse_score": null,
+          "dense_rank": 40,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9c7a7dad6cd7#11",
+          "score": 0.37825999881839034,
+          "content": "İmdi, kamuoyunun sesi cırtlak çıkan bir kısmında affa karşı bir yaklaşımın pompalandığını görüyoruz. Sözde ahlaki argümanların arkasına saklanan bu görüşün, gerçek bir vicdan muhasebesine, üzerinde dü...",
+          "metadata": {
+            "title": "Feminizmin cinnetine dair",
+            "date": "Sep 15, 2016",
+            "source": "https://nisanyan.substack.com/p/feminizmin-cinnetine-dair-16-09-15",
+            "keywords": "",
+            "chunk_index": 11,
+            "total_chunks": 12
+          },
+          "dense_score": 0.37825999881839034,
+          "sparse_score": null,
+          "dense_rank": 41,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "86c46601ec22#1",
+          "score": 0.3781129697329453,
+          "content": "Aksinin düşünülmesi bile absürt bir şey. İnsan toplumları inanılmaz derecede saçma şeylere inanma eğilimindedir. Zaman geçtikçe gitgide daha net olarak kavrıyorum ki, insanların birtakım olgulara inan...",
+          "metadata": {
+            "title": "Cinsiyet nasıl ideolojik inanç haline gelir",
+            "date": "24 January 2021",
+            "source": "https://www.sevannisanyan.com/metin/cinsiyet-nasil-ideolojik-inanc-haline-gelir-61510",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.3781129697329453,
+          "sparse_score": null,
+          "dense_rank": 42,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "d9117d4656f4#3",
+          "score": 0.3781048606467639,
+          "content": "Mevcut yapı kalıntısı varsa, ondan hareket ederek ne yapabilirim? Her yerin bir ruhu vardır. O ruhun ne istediğini anlamaya çalışmadıkça her yapacağınız iş kabak gibi sırıtacaktır. Sonra sıra gelir us...",
+          "metadata": {
+            "title": "Eski usul evler nasıl yapılır",
+            "date": "05 July 2020",
+            "source": "https://www.sevannisanyan.com/metin/eski-usul-evler-nasil-yapilir-68581",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.3781048606467639,
+          "sparse_score": null,
+          "dense_rank": 43,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "8bdac57b6519#0",
+          "score": 0.37786578124519704,
+          "content": "“Osmanlı nedir” diye sormuş birisi. Tam o sırada tesadüfen Hoca Sadeddin Efendi’nin bir cümlesine denk geldim, “budur” dedim.\n\n“sur içinde olan dinsiz cehennemlikler hisar içinden kaplumbağa gibi baş ...",
+          "metadata": {
+            "title": "Osmanlı, özet",
+            "date": "Jun 11, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanl-ozet-19-06-11",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.37786578124519704,
+          "sparse_score": null,
+          "dense_rank": 44,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f592f66e222d#28",
+          "score": 0.3771595317068782,
+          "content": "sistemli bir akıl işletmiyorsunuz, sadece cevap vermek adına eklektik bir zihinsel dünya kuruyorsunuz. bu şekilde kendinizi anlık olarak rahatlatırsınız. ama sonra daha büyük sorunlarla uğraşmak zorun...",
+          "metadata": {
+            "title": "Yedi Uyurlar ve bişey bişey",
+            "date": "Sep 08, 2013",
+            "source": "https://nisanyan.substack.com/p/yedi-uyurlar-ve-bisey-bisey-13-09-08",
+            "keywords": "",
+            "chunk_index": 28,
+            "total_chunks": 87
+          },
+          "dense_score": 0.3771595317068782,
+          "sparse_score": null,
+          "dense_rank": 45,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3b58d78266c3#12",
+          "score": 0.3768184525603934,
+          "content": "KS- Bunu farklı şekillerde yapıyorsun ama. Halvete kapanarak değil de, bisikletle İran'a giderek yahud Etiyopya'ya giderek mesela. Müslümanların nefisleriyle mücadelelerinden farklı seninkisi. SN- O d...",
+          "metadata": {
+            "title": "Kadir Sarıkaya ile ikinci sohbet",
+            "date": "Oct 24, 2012",
+            "source": "https://nisanyan.substack.com/p/kadir-sarkaya-ile-ikinci-sohbet-12-10-24",
+            "keywords": "",
+            "chunk_index": 12,
+            "total_chunks": 28
+          },
+          "dense_score": 0.3768184525603934,
+          "sparse_score": null,
+          "dense_rank": 46,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e6bfc9ef7419#6",
+          "score": 0.376794060948641,
+          "content": "E bunu demeyen yok ki? Tarihteki her insan topluluğunda, ortalama aklı temsil eden her ahlakçı söylemiş bunu. Söylemese zaten döve döve kovarlardı, ya da hatırlamaya değer görmeyip unuturlardı. Marife...",
+          "metadata": {
+            "title": "Halim ve Selim 16: Ahlaki yargılar nereden gelir (2)",
+            "date": "Feb 09, 2018",
+            "source": "https://nisanyan.substack.com/p/halim-ve-selim-16-ahlaki-yarglar-18-02-09",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 8
+          },
+          "dense_score": 0.376794060948641,
+          "sparse_score": null,
+          "dense_rank": 47,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "8b648ee65420#1",
+          "score": 0.3766486357010955,
+          "content": "Beyaz önlüklü adamların kürsülerden tebliğ ettiği hakikatler dizisi. İnsan psikolojisinin ve toplum dinamiklerinin tahmin edilenden çok daha karmaşık, çözümlenememiş boyutları olduğunu anlıyorum. Dola...",
+          "metadata": {
+            "title": "Mistik gizemler neyi açıklar",
+            "date": "30 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/mistik-gizemler-neyi-aciklar-78645",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.3766486357010955,
+          "sparse_score": null,
+          "dense_rank": 48,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9c7883cf98be#6",
+          "score": 0.37660002105838436,
+          "content": "Arabulucu olarak, o günlerde AKP’de suyu kaynamaya başlayan Kültür Bakanı Ertuğrul Günay görevlendirildi. Bir sonuç alınamadı.Minnet duydum mu? Belki nankörüm, ama duymadım. İyi bir insan olan Nabi Av...",
+          "metadata": {
+            "title": "Linç uzmanı konuşuyor",
+            "date": "Mar 03, 2018",
+            "source": "https://nisanyan.substack.com/p/linc-uzman-konusuyor-18-03-03",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 7
+          },
+          "dense_score": 0.37660002105838436,
+          "sparse_score": null,
+          "dense_rank": 49,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f4b1e1fa1e68#1",
+          "score": 0.37611367595476364,
+          "content": "Bunu elimine etmek için ne kadar çaba göstermeliyiz? Bunu elimine etmenin getireceği olası zararlar, elde edilmesi umulan faydadan daha mı büyüktür, daha mı küçüktür? Bu soruların sorulması gerekir. D...",
+          "metadata": {
+            "title": "Topluma zararlı akımları ne yapmalı",
+            "date": "10 December 2023",
+            "source": "https://www.sevannisanyan.com/metin/topluma-zararli-akimlari-ne-yapmali-90548",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.37611367595476364,
+          "sparse_score": null,
+          "dense_rank": 50,
+          "sparse_rank": null
+        }
+      ],
+      "performance": {
+        "total_time_ms": 400.82788467407227,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "sparse": {
+      "query": "akılcılık",
+      "strategy": "sparse",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "40d6e8c864f1#0",
+          "score": 4.0942063331604,
+          "content": "*Bundan tam bir yıl önce büyük oğlum Arsen’le yazışmışız. Arsen akademik dünyadaki post-Hellenocentrism eğiliminden söz etmiş, yani Antik Yunan merkezli tarih anlayışının terk edilmesinden. Ben de ora...",
+          "metadata": {
+            "title": "Post-Helenosantrizm iyi bişey mi?",
+            "date": "Jul 06, 2017",
+            "source": "https://nisanyan.substack.com/p/post-helenosantrizm-iyi-bisey-mi-17-07-06",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 4.0942063331604,
+          "dense_rank": null,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "80a83ba126ed#110",
+          "score": 3.2984960079193115,
+          "content": "Hatta hocanin kullandigi ayni bilgilerle (kaynaklarla) bambaska cikarimlara da varabilir. Ama hoca yorumlarinin akilci oldugunu iddia etmektedir. Bir adamin 50 yasindan sonra bes alti tane 20 yas alti...",
+          "metadata": {
+            "title": "Sevan Nişanyan'dan İslami Bilgiler: Nisa Faslı",
+            "date": "Nov 15, 2012",
+            "source": "https://nisanyan.substack.com/p/sevan-nisanyandan-islami-bilgiler-12-11-15",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.2984960079193115,
+          "dense_rank": null,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "225ebb2bd962#3",
+          "score": 2.811657667160034,
+          "content": "İkinci nokta silah zoruyla (yazarın deyimiyle “cinayet ve yağma” yoluyla) din yayma fikridir. Üçüncü nokta, İslam dininin çok eşlilik ve cariyeliğe izin vermesidir. Her üç noktada Luther İslam peygamb...",
+          "metadata": {
+            "title": "Zındıklardan bir demet",
+            "date": "Oct 13, 2012",
+            "source": "https://nisanyan.substack.com/p/zndklardan-bir-demet-12-10-13",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.811657667160034,
+          "dense_rank": null,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "84cb6176fb00#0",
+          "score": 2.7287395000457764,
+          "content": "*Eylül 2016’da yazılmış bir mektuptan.*\n\nRousseau, *İtiraflar*. Etkileyici ve tuhaf bir kitap. Türkçesi var, mutlaka okumalısın.Batı entelektüel tarihinin dönüm noktalarından biridir. “Aydınlanma” den...",
+          "metadata": {
+            "title": "İtiraflar",
+            "date": "Jul 03, 2017",
+            "source": "https://nisanyan.substack.com/p/itiraflar-17-07-03",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7287395000457764,
+          "dense_rank": null,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "bbb9fca5b934#2",
+          "score": 0.0,
+          "content": "Tarihçilik çok katmanlı bir detektif çalışmasıdır. ‘History is about evidence’ demiş adam. Tarihin konusu kanıttır. Hani derler ya matematiğin konusu kanıttır diye. Esas, tarihçiliğin konusudur kanıt....",
+          "metadata": {
+            "title": "Tarih nasıl çalışılır",
+            "date": "06 February 2022",
+            "source": "https://www.sevannisanyan.com/metin/tarih-nasil-calisilir-96461",
+            "keywords": "Edhem Eldem, Noel Malcolm, tarihin konusu"
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "c89f5ce7a7f2#3",
+          "score": 0.0,
+          "content": "Varlıkları, dünya için bir talihtir. Türkiye’de şu kırk gün içinde ortaya atılan, az ya da çok ciddiyetle tartışılan isimlere bakın, Ekmeleddin İhsanoğlu’ndan allah muhafaza, İlber Ortaylı’sına kadar....",
+          "metadata": {
+            "title": "İlm-i Siyaset Sohbetleri - 3",
+            "date": "May 22, 2014",
+            "source": "https://nisanyan.substack.com/p/ilm-i-siyaset-sohbetleri-3-14-05-22",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 6
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#41",
+          "score": 0.0,
+          "content": "\"Refakatçi\" ve \"Ali ile Ramazan\"da da olmakla birlikte, güzel romanlar olduğunu düşünüyorum... Murat Menteş'i henüz okumadım; beğeninize güvenerek, okuma listeme alıyorum.) [Yanıtla](https://www.blogg...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#42",
+          "score": 0.0,
+          "content": "Iste bunlari becerebilen var mi? Richard Gollmer. (1928). Das Apicius Kochbuch. Yagmur suyu ile hazirlanmis antik yemek tarifleri.... elime gecmesi bile mujize :) anlatilmaz okunmali! [Yanıtla](https:...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#43",
+          "score": 0.0,
+          "content": "Sonra açıcaz kitabı 3-5 derken 10. sayfada bi sig anlamadım diyip ötekine ve sonra ötekine geçicez. Ondan sonra kitap okumaktan soğuyup cahil cühela bir toplum olacağız. [Yanıtla](https://www.blogger....",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 9
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#44",
+          "score": 0.0,
+          "content": "Hiç sekmedi, hepsi harika. [Yanıtla](https://www.blogger.com/null)\n\n47. **Adsız**[17 Mayıs 2015 17:08](http://nisanyan1.blogspot.com/2013/01/oku.html?showComment=1431871691562#c5027106034537710277)\n\nH...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 10
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#45",
+          "score": 0.0,
+          "content": "Erichjan Zürcher, Modernleşen Türkiye’nin Tarihi\n\nMete Tunçay, Türkiye’de Tek Parti Yönetiminin Kurulması\n\nKemal Tahir, Kurtlar Sofrası\n\nSevan Nişanyan, Yanlış Cumhuriyet\n\nFikret Başkaya, Paradigmanın...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "c89f5ce7a7f2#0",
+          "score": 0.0,
+          "content": "Başkanlığın Faydaları",
+          "metadata": {
+            "title": "İlm-i Siyaset Sohbetleri - 3",
+            "date": "May 22, 2014",
+            "source": "https://nisanyan.substack.com/p/ilm-i-siyaset-sohbetleri-3-14-05-22",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "c89f5ce7a7f2#1",
+          "score": 0.0,
+          "content": "Geçen yazıda başkanlık sistemine dair iki teze değindik:\n\n1. Yürütmenin başının özerkliği artar.\n\n2.”Kutsal devlet”e karşı “milli irade” güçlenir. Bunlar ilk bakışta cazip tezlerdir. Doğruluk kırıntıl...",
+          "metadata": {
+            "title": "İlm-i Siyaset Sohbetleri - 3",
+            "date": "May 22, 2014",
+            "source": "https://nisanyan.substack.com/p/ilm-i-siyaset-sohbetleri-3-14-05-22",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 13
+        },
+        {
+          "chunk_id": "c89f5ce7a7f2#2",
+          "score": 0.0,
+          "content": "Bu saltanatların etrafında midye yığınları gibi biriken parti oligarşileri de nispeten daha mülayim şekil alır. Ararsan istisnaları bulabilirsin şüphesiz. Ama temel dinamikte yanıldığımı sanmıyorum. M...",
+          "metadata": {
+            "title": "İlm-i Siyaset Sohbetleri - 3",
+            "date": "May 22, 2014",
+            "source": "https://nisanyan.substack.com/p/ilm-i-siyaset-sohbetleri-3-14-05-22",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 14
+        },
+        {
+          "chunk_id": "cce4879e1bf7#1",
+          "score": 0.0,
+          "content": "Olmamış bir şeyi olmuş göstermek anlamında pozitif yalana Resmi Tarihte pek rastlamazsın. Yalan tarih icat etmek zordur. Olayları yaşamış olanlar veya onların çocukları ve öğrencileri, Resmi Tarihin ü...",
+          "metadata": {
+            "title": "İslam tarihine giriş: Resmi Tarih öğretisi",
+            "date": "May 12, 2013",
+            "source": "https://nisanyan.substack.com/p/islam-tarihine-giris-resmi-tarih-13-05-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 15
+        },
+        {
+          "chunk_id": "cce4879e1bf7#0",
+          "score": 0.0,
+          "content": "Resmi Tarih oluşturma süreci her çağda ve her kültürde aşağı yukarı aynıdır.\n\n**Bir**, sivilceler temizlenir. Kahramanımızın yenilgileri, yanlışları, ahlaken savunulması zor eylemleri unutulur. Mesela...",
+          "metadata": {
+            "title": "İslam tarihine giriş: Resmi Tarih öğretisi",
+            "date": "May 12, 2013",
+            "source": "https://nisanyan.substack.com/p/islam-tarihine-giris-resmi-tarih-13-05-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 16
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#39",
+          "score": 0.0,
+          "content": "Christopher Hitchens, ed., The Portable Atheist: Essential Readings for the Nonbeliever, 2007. Anti-dinci düşüncenin öncülerinden elli kadar kuvvetli polemik yazısı. Bazıları şaheser. SEVAN HOCAM ŞAHE...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#15",
+          "score": 0.0,
+          "content": "Tevekkelidegil pek yanlis...\n\n[Yanıtla](https://www.blogger.com/null)\n\n[Yanıtlar](https://www.blogger.com/null) 1. **[Sevan Nişanyan](https://www.blogger.com/profile/11368801692909214434)**[4 Ocak 201...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 18
+        },
+        {
+          "chunk_id": "cce4879e1bf7#4",
+          "score": 0.0,
+          "content": "Yani yalan haber aktarmış olması zor. Ama şu da basit bir gerçek ki, Muhammed hakkında bugün ne biliyorsan Taberi aktardığı için biliyorsun. Aktarmadığı eğer varsa, onları bilmiyorsun. Troçki eğer fot...",
+          "metadata": {
+            "title": "İslam tarihine giriş: Resmi Tarih öğretisi",
+            "date": "May 12, 2013",
+            "source": "https://nisanyan.substack.com/p/islam-tarihine-giris-resmi-tarih-13-05-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "c845f71407c0#0",
+          "score": 0.0,
+          "content": "Theba kentini kuran Fenikeli Kadmos'un hanedanıyla lisedeyken tanışmıştım. Oedipus ve Antigone, Laios ve Kreon, talihsiz kraliçe Iokaste, düşman kardeşler Polynikes ve Eteokles ile sonradan epey mesai...",
+          "metadata": {
+            "title": "Nektar ve Batı",
+            "date": "Mar 09, 2015",
+            "source": "https://nisanyan.substack.com/p/nektar-ve-bat-15-03-09",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 20
+        },
+        {
+          "chunk_id": "8194a19c8b9c#1",
+          "score": 0.0,
+          "content": "Her toplumda olduğu gibi Batı toplumunda da vardır, hatta bazen öne geçmiş görünür. Ama fikir akımı sayılabilir mi bilmem. Daha ziyade fren mekanizması. Akıl balatası. Yorgunluk kahvesi. Öbürü Sosyali...",
+          "metadata": {
+            "title": "Liberalizm",
+            "date": "Feb 05, 2017",
+            "source": "https://nisanyan.substack.com/p/liberalizm-17-02-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 21
+        },
+        {
+          "chunk_id": "c845f71407c0#1",
+          "score": 0.0,
+          "content": "Keşfettiğimde galiba sene 2000 veya 2001'di. Gözümden bir perde düştü. Daha sonra antik Yunanca etimolojinin iki klasik başvuru kaynağı, Pierre Chantraine'in *Dictionnaire étymologique de la langue gr...",
+          "metadata": {
+            "title": "Nektar ve Batı",
+            "date": "Mar 09, 2015",
+            "source": "https://nisanyan.substack.com/p/nektar-ve-bat-15-03-09",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 22
+        },
+        {
+          "chunk_id": "a3d016fbad62#0",
+          "score": 0.0,
+          "content": "**Menbic**\n\nAntik Yunanca ve Latince kaynaklarda kentin adı *Mabog, Manbog, Mambog* olarak geçiyor. Doğrusu ikincisi olacak çünkü nb ikilisinin b’ye sadeleştirilmesi Yunancaya özgü bir deformasyon. Ay...",
+          "metadata": {
+            "title": "Menbiç, Humus, eskiden",
+            "date": "Mar 30, 2017",
+            "source": "https://nisanyan.substack.com/p/menbic-humus-eskiden-17-03-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 23
+        },
+        {
+          "chunk_id": "a3d016fbad62#2",
+          "score": 0.0,
+          "content": "Strabon bunlardan *skēnitai*, yani “çadır halkı” diye söz etmiş. MS 1. yy’da Emesa’da Roma şemsiyesi altında müstakilimsi bir krallık (“demokratik özerklik”?) hüküm sürmüş. Bilinen iki hükümdar Yunanc...",
+          "metadata": {
+            "title": "Menbiç, Humus, eskiden",
+            "date": "Mar 30, 2017",
+            "source": "https://nisanyan.substack.com/p/menbic-humus-eskiden-17-03-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 24
+        },
+        {
+          "chunk_id": "a3d016fbad62#1",
+          "score": 0.0,
+          "content": "Lukianos tapınma usulünü ayrıntılı olarak anlatmış. Rahipler, tepesinde bir hilal olan yüksek külah (kalensüve) ve altın sırmalı beyaz cübbe giyermiş. Tüm tasvirlerde görülen ilahi sancağın yerli dild...",
+          "metadata": {
+            "title": "Menbiç, Humus, eskiden",
+            "date": "Mar 30, 2017",
+            "source": "https://nisanyan.substack.com/p/menbic-humus-eskiden-17-03-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 25
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#40",
+          "score": 0.0,
+          "content": "Özellikle Büyücü ve Fransız Teğmenin Kadını son zamanlarda okuduğum en iyi romanlar... [Yanıtla](https://www.blogger.com/null)\n\n37. **Adsız**[5 Temmuz 2013 01:39](http://nisanyan1.blogspot.com/2013/01...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 26
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#37",
+          "score": 0.0,
+          "content": "Sevan Nişanyan bence Frankfurt okulu türevli eleştirel teori, kültürel çalışmalar, postmodern (kastım ilerlemeci modernist düşünce eleştirisi), yapısalcılıksonrası ve (sanırım) sömürgesonrası teori il...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 27
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#38",
+          "score": 0.0,
+          "content": "Bu listede gordugume sevindim. Eger okumadiysaniz, Allan Bloom'un cok yakin bir arkadasi olan, yine Chicago yazari Saul Bellow romanlarindan da okumanizi oneririm. Chicago'dan sevgiler, [Yanıtla](http...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 28
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#26",
+          "score": 0.0,
+          "content": "Baba benim yorumu niye yayınlamadın yav?\"Sevan Nişanyan'dan İslami Bilgiler: Nisa Faslı\" başlıklı yazına \"zamanın en güçlü lideri dediğiniz adamın karısının kişiliği altında ezilmesi pek akla yakın de...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 29
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#17",
+          "score": 0.0,
+          "content": "Taner Akçam'ın Torosyan tartışmasındaki tavrı gerçekten de objektif bir tarihçiden asla beklenmeyecek ölçüde angaje ve tarihsel gerçeklerden ve bilimsellikten uzak. Bu maalesef diğer konularda verdiği...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 30
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#18",
+          "score": 0.0,
+          "content": "Dijital olarak okumak isterseniz aşağıdaki sitetedn dört cilt olarak linklerine erişebilirsiniz.\n\nhttp://tarihvemedeniyet.org/2010/06/ibnulemin-son-sadrazamlar/ Cilt 1: http://www.mediafire.com/?ynteg...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 31
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#19",
+          "score": 0.0,
+          "content": "Sevan Hocam, Dünya Tarihi olanların 3ü hariç okumuşum ya da kısmen okumuşum, geri kalanlardan yazarların çoğunu ve eserlerini tanıyorum ama okuduklarım bir kaç tane. Keşke imkanım olsa da hep kitap al...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 32
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#20",
+          "score": 0.0,
+          "content": "Moltke'nin Türkiye Mektupları - kesinlikle evet, listede olmalı. Vardı bende de gitmiş bir yerlere herhalde, aklıma gelmedi.\n\n2. **Adsız**[11 Ocak 2013 15:41](http://nisanyan1.blogspot.com/2013/01/oku...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 33
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#21",
+          "score": 0.0,
+          "content": "Evet, okumalıyım sanırım. Ama Gibbon'un dili eşsizdir, zannetmem ki başka kimse yakınına gelebilsin. Org mübarek, org.\n\n2. **[Yanıtla](https://www.blogger.com/null)**\n\n12. **Adsız**[5 Ocak 2013 01:49]...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 34
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#22",
+          "score": 0.0,
+          "content": "Yorum sahibi, a) Perihan Mağdeni sevmiyor, b) alkollü veya dumanlı.\n\n2. **[savrulangünler](https://www.blogger.com/profile/07360367582107021279)**[8 Ocak 2013 14:25](http://nisanyan1.blogspot.com/2013...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 35
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#23",
+          "score": 0.0,
+          "content": "Hoca yaktın bizi... Kredi mi çeksek napsak?\n\n[Yanıtla](https://www.blogger.com/null)\n\n15. **[sevgiinsani](http://sevgiinsani.livejournal.com/)**[5 Ocak 2013 11:34](http://nisanyan1.blogspot.com/2013/0...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 36
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#24",
+          "score": 0.0,
+          "content": "Türkiye'nin entelektüel mahalleleri sayılacak olsa belki de ilk 3'e girecek mahallede durum böyle. [Yanıtla](https://www.blogger.com/null)\n\n16. **[Raşit Özenç](https://www.blogger.com/profile/00290927...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 37
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#25",
+          "score": 0.0,
+          "content": "hocam yok ya kitap olarak lazım dergah yayınları en son bi 1982 ii bir basım yapmış 4 cilt ondan bidaha yok bide size facebook dan bi yazıt göndermiştim belki ilginizi çeker diye:http://www.mustafacam...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 38
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#27",
+          "score": 0.0,
+          "content": "Üstadım, sizin kadar da ince, gelişmiş zevklerle böylesine bir paspallığı birleştiren kimse yoktur, herhalde. Bach dinle, dünyayı gezip gör, onca dile vakıf ol, sonra da gel mahalle cazgırı, bohçaçı t...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 39
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#16",
+          "score": 0.0,
+          "content": "okumak için aradığım 1-2 kitap var... bu kitaplar mevcut mu? mevcutsa nasıl bulabilirim. birincisi kırmızı siyah kitap( hani şu ünlü mavi kitabın balkanlar versiyonu) 2 ncisi de yozgat yargılama tutan...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 40
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#28",
+          "score": 0.0,
+          "content": "Niçe korkunç bir adamdı heval! Bunun manyak ablası götünden bir gün bile ayrılamadı.\n\nbunu evlendirmeye çalışıyordu iblis boku\n\nbir gün Niçe çıldırdı ablasına; 'Sen nasıl bana böyle bir şey teklif ede...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 41
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#29",
+          "score": 0.0,
+          "content": "http://www.publishersweekly.com/pw/by-topic/industry-news/tip-sheet/article/53409-the-top-10-most-difficult-books.html#path/pw/by-topic/industry-news/tip-sheet/article/53409-the-top-10-most-difficult-...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 42
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#30",
+          "score": 0.0,
+          "content": "Maaluf yüzeysel geldi, sevemedim. Žižek'i ise okumadım. Kısmet.\n\n2. **[Sevan Nişanyan](https://www.blogger.com/profile/11368801692909214434)**[9 Ocak 2013 11:47](http://nisanyan1.blogspot.com/2013/01/...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 43
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#31",
+          "score": 0.0,
+          "content": "\"Guns, Germs and Steel\"den yola çıkarak geniş bir okur yelpazesi için yazılmış Zinn'in A People's History of the United States: 1492-Present (Perennial Classics) kitabı hatta büyük üslupçu Bartolome d...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 44
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#32",
+          "score": 0.0,
+          "content": "\"Heath Lowry, Trabzon Şehrinin İslamlaşma ve Türkleşmesi, 1461-1583.\"\n\nkesinlikle okumak isterim, tesekkürler:)\n\nson zamanlarda calisma alanim geregi bir cok Yunan asilli insanlarla tanistim ve ayni d...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 45
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#33",
+          "score": 0.0,
+          "content": "Perihan M'yi kiniyorun berbat bir roman yazari oldugu, Nuray Mert'e yaptigi haksizlik icin. İyi kose yazariydi, ama iyi ahlakli degil. RIP\n\nPopper - Hegel yanyana! Yani OPen Soc.'deki Hegel elestirisi...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 46
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#34",
+          "score": 0.0,
+          "content": "Ama sana Bakhtin yaziyorum. Sendeki karnavalesk deliriumun ozunu orda bulabilirsin.\n\n[Yanıtla](https://www.blogger.com/null)\n\n[Yanıtlar](https://www.blogger.com/null) 1. **[Sevan Nişanyan](https://www...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 47
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#35",
+          "score": 0.0,
+          "content": "ya arkadaş, hakkaten düşünüyorum, bi insan nasıl bu kadar küstah olabiliyor diye.\n\nöyle bir yazmışsın ki gören tüm kaynakları hatim edip anlamışsın sanacak.\n\nşu yorumu herhangi bir uyuşturucu veya uya...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 48
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#36",
+          "score": 0.0,
+          "content": "Michel Foucault yani,okudu bağlı olduğun Çiviler çektin\n\n7. **[Yanıtla](https://www.blogger.com/null)**\n\n27. **[Sevan Nişanyan](https://www.blogger.com/profile/11368801692909214434)**[11 Ocak 2013 21:...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 49
+        },
+        {
+          "chunk_id": "a3d016fbad62#3",
+          "score": 0.0,
+          "content": "Bu sonuncusu bütün Fenike-Suriye alanında yaygın bir tabir. Aramice Beth-el yani Beytullah (Allah’ın Evi”) deyiminin Grekleştirilmiş hali. Belli ki Elagabal tapınağının cari adı bu. Geçenlerde bir yaz...",
+          "metadata": {
+            "title": "Menbiç, Humus, eskiden",
+            "date": "Mar 30, 2017",
+            "source": "https://nisanyan.substack.com/p/menbic-humus-eskiden-17-03-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 50
+        }
+      ],
+      "performance": {
+        "total_time_ms": 0.6959438323974609,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "hybrid": {
+      "query": "akılcılık",
+      "strategy": "hybrid",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "f592f66e222d#50",
+          "score": 0.01639344262295082,
+          "content": "Yanlışlama konusuna gelince.Tanrı O kadar da soyut bir kavram değil.Gerçi Sizin zihniniz gerçekliği görünür olmaya, soyutluğu da görünmez olana indirgediği için kızamıyorum. Klasik ateist felsefe gitt...",
+          "metadata": {
+            "title": "Yedi Uyurlar ve bişey bişey",
+            "date": "Sep 08, 2013",
+            "source": "https://nisanyan.substack.com/p/yedi-uyurlar-ve-bisey-bisey-13-09-08",
+            "keywords": "",
+            "chunk_index": 50,
+            "total_chunks": 87
+          },
+          "dense_score": 0.4347205452260751,
+          "sparse_score": null,
+          "dense_rank": 1,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "40d6e8c864f1#0",
+          "score": 0.01639344262295082,
+          "content": "*Bundan tam bir yıl önce büyük oğlum Arsen’le yazışmışız. Arsen akademik dünyadaki post-Hellenocentrism eğiliminden söz etmiş, yani Antik Yunan merkezli tarih anlayışının terk edilmesinden. Ben de ora...",
+          "metadata": {
+            "title": "Post-Helenosantrizm iyi bişey mi?",
+            "date": "Jul 06, 2017",
+            "source": "https://nisanyan.substack.com/p/post-helenosantrizm-iyi-bisey-mi-17-07-06",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 4.0942063331604,
+          "dense_rank": null,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "207cb3344101#2",
+          "score": 0.016129032258064516,
+          "content": "Az ya da çok, ahlaki bir çıkmaza girdiler. İlk bakışta makul ve masum görünen bu dönüşümün uzun vadede korkunç sonuçları oldu. 20. yüzyıl sonlarından itibaren bilim tamamile devletlerin güç oyununun b...",
+          "metadata": {
+            "title": "Bilim nasıl bozuldu",
+            "date": "19 February 2023",
+            "source": "https://www.sevannisanyan.com/metin/bilim-nasil-bozuldu-68906",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4292705971262903,
+          "sparse_score": null,
+          "dense_rank": 2,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "80a83ba126ed#110",
+          "score": 0.016129032258064516,
+          "content": "Hatta hocanin kullandigi ayni bilgilerle (kaynaklarla) bambaska cikarimlara da varabilir. Ama hoca yorumlarinin akilci oldugunu iddia etmektedir. Bir adamin 50 yasindan sonra bes alti tane 20 yas alti...",
+          "metadata": {
+            "title": "Sevan Nişanyan'dan İslami Bilgiler: Nisa Faslı",
+            "date": "Nov 15, 2012",
+            "source": "https://nisanyan.substack.com/p/sevan-nisanyandan-islami-bilgiler-12-11-15",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.2984960079193115,
+          "dense_rank": null,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "ad6542c3b6ef#1",
+          "score": 0.015873015873015872,
+          "content": "En ilkel solucan bile biliyor, gün ışığı kötü, şu taşın altı iyi. Akıl diyebilir miyiz buna? HALİM – Diyanet İşleri Başkanlığının Dini Bilgiler Sözlüğü böyle tanımlamış. Yanlış mı diyorsunuz? SELİM – ...",
+          "metadata": {
+            "title": "Halim ve Selim 18: Akıl ve İslam",
+            "date": "Feb 18, 2018",
+            "source": "https://nisanyan.substack.com/p/halim-ve-selim-18-akl-ve-islam-18-02-18",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 5
+          },
+          "dense_score": 0.42780284831436843,
+          "sparse_score": null,
+          "dense_rank": 3,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "225ebb2bd962#3",
+          "score": 0.015873015873015872,
+          "content": "İkinci nokta silah zoruyla (yazarın deyimiyle “cinayet ve yağma” yoluyla) din yayma fikridir. Üçüncü nokta, İslam dininin çok eşlilik ve cariyeliğe izin vermesidir. Her üç noktada Luther İslam peygamb...",
+          "metadata": {
+            "title": "Zındıklardan bir demet",
+            "date": "Oct 13, 2012",
+            "source": "https://nisanyan.substack.com/p/zndklardan-bir-demet-12-10-13",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.811657667160034,
+          "dense_rank": null,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "f592f66e222d#23",
+          "score": 0.015625,
+          "content": "Rakiym hatalıdır bak diyor yani. Bu da bizim için bir delil oluyor tabi, ileriye dönük bir atıf yapıyor açık açık Kuran.\n\n[Yanıtlar](https://www.blogger.com/null) 1. **Adsız**[10 Eylül 2013 14:32](htt...",
+          "metadata": {
+            "title": "Yedi Uyurlar ve bişey bişey",
+            "date": "Sep 08, 2013",
+            "source": "https://nisanyan.substack.com/p/yedi-uyurlar-ve-bisey-bisey-13-09-08",
+            "keywords": "",
+            "chunk_index": 23,
+            "total_chunks": 87
+          },
+          "dense_score": 0.42564069444346464,
+          "sparse_score": null,
+          "dense_rank": 4,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "84cb6176fb00#0",
+          "score": 0.015625,
+          "content": "*Eylül 2016’da yazılmış bir mektuptan.*\n\nRousseau, *İtiraflar*. Etkileyici ve tuhaf bir kitap. Türkçesi var, mutlaka okumalısın.Batı entelektüel tarihinin dönüm noktalarından biridir. “Aydınlanma” den...",
+          "metadata": {
+            "title": "İtiraflar",
+            "date": "Jul 03, 2017",
+            "source": "https://nisanyan.substack.com/p/itiraflar-17-07-03",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7287395000457764,
+          "dense_rank": null,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "faa4bbb0b233#0",
+          "score": 0.015384615384615385,
+          "content": "Memlekette şimdi âkil adam modası çıktı. Halbuki bunun aslı uzun â ve kısa ı ile **âkıl**’dır, isterseniz aakıl diye de yazabiliriz, yani عاقِل. Eski yazıda kaf’tan sonra esrenin /i/ okunmasına imkân ...",
+          "metadata": {
+            "title": "Akil adamlar",
+            "date": "Apr 03, 2013",
+            "source": "https://nisanyan.substack.com/p/akil-adamlar-13-04-03",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.4240728070819688,
+          "sparse_score": null,
+          "dense_rank": 5,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "bbb9fca5b934#2",
+          "score": 0.015384615384615385,
+          "content": "Tarihçilik çok katmanlı bir detektif çalışmasıdır. ‘History is about evidence’ demiş adam. Tarihin konusu kanıttır. Hani derler ya matematiğin konusu kanıttır diye. Esas, tarihçiliğin konusudur kanıt....",
+          "metadata": {
+            "title": "Tarih nasıl çalışılır",
+            "date": "06 February 2022",
+            "source": "https://www.sevannisanyan.com/metin/tarih-nasil-calisilir-96461",
+            "keywords": "Edhem Eldem, Noel Malcolm, tarihin konusu"
+          },
+          "dense_score": null,
+          "sparse_score": 0.0,
+          "dense_rank": null,
+          "sparse_rank": 5
+        }
+      ],
+      "performance": {
+        "total_time_ms": 215.37303924560547,
+        "dense_time_ms": 214.8280143737793,
+        "sparse_time_ms": 0.4439353942871094,
+        "fusion_time_ms": 0.1010894775390625
+      },
+      "total_candidates": 100
+    }
+  },
+  "overlap_analysis": {
+    "total_unique_chunks": 100,
+    "pairwise_overlap": {
+      "dense_vs_sparse": {
+        "intersection": 0,
+        "union": 100,
+        "jaccard": 0.0,
+        "only_in_first": 50,
+        "only_in_second": 50
+      },
+      "dense_vs_hybrid": {
+        "intersection": 5,
+        "union": 55,
+        "jaccard": 0.09090909090909091,
+        "only_in_first": 45,
+        "only_in_second": 5
+      },
+      "sparse_vs_hybrid": {
+        "intersection": 5,
+        "union": 55,
+        "jaccard": 0.09090909090909091,
+        "only_in_first": 45,
+        "only_in_second": 5
+      }
+    }
+  }
+}

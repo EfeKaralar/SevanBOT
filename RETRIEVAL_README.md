@@ -429,6 +429,10 @@ expanded = expand_query(query)
 results = hybrid.search(expanded, config)
 ```
 
+### Optional: Turkish Stop Word Removal
+
+Experiment with removing common Turkish stop words (`ve`, `bir`, `bu`, `için`, etc.) in sparse retrieval to reduce noise, though BM25's IDF scoring already handles this to some extent. Add as a configurable option and compare results using the existing comparison tools.
+
 ## Troubleshooting
 
 ### Qdrant Connection Refused

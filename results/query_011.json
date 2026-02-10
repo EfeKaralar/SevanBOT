@@ -1,0 +1,1858 @@
+{
+  "query": "Bizans İmparatorluğu",
+  "strategies": {
+    "dense": {
+      "query": "Bizans İmparatorluğu",
+      "strategy": "dense",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "5ce22c5438ef#1",
+          "score": 0.6639242545494937,
+          "content": "Jüstinyen zamanında kısa bir süre İtalya’nın tümünü kontrol altına almayı başardılar. Tunus’ta, İspanya’nın batı sahillerinde borularını öttürdüler. Bu egemenlik 6. yüzyıl ortalarında iflas etti. Bunu...",
+          "metadata": {
+            "title": "Bizans süper güç müydü",
+            "date": "09 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/bizans-super-guc-muydu-33757",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.6639242545494937,
+          "sparse_score": null,
+          "dense_rank": 1,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5ce22c5438ef#0",
+          "score": 0.5582771863506313,
+          "content": "**Bizans bir dönemin Roma İmparatorluğu gibi süper güç olmuş mudur? Yoksa dönem itibariyle kıyıda kalmış bir devlet miydi? Bilimden mi uzaklaştı ya da bürokrasi nedeniyle mi çöküşe doğru gitti acaba?*...",
+          "metadata": {
+            "title": "Bizans süper güç müydü",
+            "date": "09 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/bizans-super-guc-muydu-33757",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5582771863506313,
+          "sparse_score": null,
+          "dense_rank": 2,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a65fa8729033#1",
+          "score": 0.5141151979589469,
+          "content": "Osmanlı’nın kavramları ve kurumları bu iki imparatorluktan mirastır. Abbasilerin kaderinden ders alır; yerel askeri şeflerin palazlanmasını önlemek için, merkezi hazineden beslenen bir köle ordusu kur...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5141151979589469,
+          "sparse_score": null,
+          "dense_rank": 3,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a65fa8729033#0",
+          "score": 0.506453165756511,
+          "content": "Son paylaşımıma gelen cevaplardan anlaşıldı ki halkımız Osmanlı’dan nefret etmektedir, Osmanlı’yı bir tür über-AKP rejimi olarak tahayyül etmektedir – ya da öyle söyleyince Sevan Hoca’nın hoşuna gider...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 7
+          },
+          "dense_score": 0.506453165756511,
+          "sparse_score": null,
+          "dense_rank": 4,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "058205c232a5#3",
+          "score": 0.49460099673668834,
+          "content": "Bugünkü Anadolu kentlerinin çoğunluğu (Güneydoğu hariç) böyle doğmuştur, Kastamonu'dan Denizli'ye, Divriği'den Çemişkezek'e kadar. Yeni düzen, kurumsal yapılar içinde yetişmemiş, hariçten gelen macera...",
+          "metadata": {
+            "title": "Askeri tarih",
+            "date": "Mar 18, 2017",
+            "source": "https://nisanyan.substack.com/p/askeri-tarih-17-03-18",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.49460099673668834,
+          "sparse_score": null,
+          "dense_rank": 5,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3679eaa13a8c#1",
+          "score": 0.48857580434421227,
+          "content": "Bizans imparatoru 7. Konstantin Porphyrogenetos’un çağdaş olayları anlatan siyasetnamesinden[[1]](https://www.blogger.com/blogger.g?blogID=1302467060357060984#_ftn1) çıkarabildiğimiz kadarıyla emir is...",
+          "metadata": {
+            "title": "Malazgirt, öncesi ve sonrası",
+            "date": "Aug 31, 2018",
+            "source": "https://nisanyan.substack.com/p/malazgirt-oncesi-ve-sonras-18-08-31",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.48857580434421227,
+          "sparse_score": null,
+          "dense_rank": 6,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "068e72c32a30#0",
+          "score": 0.4830266858412522,
+          "content": "Diokletianus İmparator zamanında Roma vilayetleri küçültülürken, bir yandan da birkaç vilayeti bir araya getiren *diocaesis* (İng. *diocese*) adlı süper valilikler teşkil edildi. Bunları Osmanlı’nın b...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4830266858412522,
+          "sparse_score": null,
+          "dense_rank": 7,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ff881f876f0b#1",
+          "score": 0.4774196103824511,
+          "content": "Matbaanın Avrupa’da yarattığı devrim sır değil, en geç 1470-1480’lerde ayan beyan bilinen bir gerçek. Farkına varmamaları mümkün mü? 3c. Enteresan. Nihayet adım atmaya karar verince işi neden Latince ...",
+          "metadata": {
+            "title": "Osmanlı'da matbaa neden gecikti?",
+            "date": "Feb 16, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanlda-matbaa-neden-gecikti-19-02-16",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4774196103824511,
+          "sparse_score": null,
+          "dense_rank": 8,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "068e72c32a30#1",
+          "score": 0.4747851992431672,
+          "content": "Konstans zamanında (641-668) şekillenir. *Thema* esasen “üs” veya “mevzi” demektir. Sahayı değil karargahı tanımlar. Mesela Ermenistan’dan çekilen orduların thema’sı (*Armeniakón théma*) Amasya kentid...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4747851992431672,
+          "sparse_score": null,
+          "dense_rank": 9,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6cc4b07e54f1#1",
+          "score": 0.47473380070484894,
+          "content": "Mısır’da Cin Ali Paşa isyan ederek saltanatını ilan etti. İmparatorluğun farklı yerlerinde de isyanlar çıktı. Ruslar Romanya beyliklerini istila ettikten sonra Tuna’yı aşıp Bulgaristan’a yürüdüler. Fa...",
+          "metadata": {
+            "title": "Moskof Harpleri",
+            "date": "Feb 29, 2020",
+            "source": "https://nisanyan.substack.com/p/moskof-harpleri-20-02-29",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 8
+          },
+          "dense_score": 0.47473380070484894,
+          "sparse_score": null,
+          "dense_rank": 10,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3679eaa13a8c#2",
+          "score": 0.4670317117737165,
+          "content": "Sonraki Gürcü kralları bu zatın yeğeninin soyundan gelir. 1000 yılında Bizanslılar aşırı güçlenen David’i bir suikastçi gönderip öldürürler. Vakanüvis Tovma Artsruni’nin ifadesine göre Bizans bu tarih...",
+          "metadata": {
+            "title": "Malazgirt, öncesi ve sonrası",
+            "date": "Aug 31, 2018",
+            "source": "https://nisanyan.substack.com/p/malazgirt-oncesi-ve-sonras-18-08-31",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4670317117737165,
+          "sparse_score": null,
+          "dense_rank": 11,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a2e0df9e025c#1",
+          "score": 0.4652346692521566,
+          "content": "Bizans bitti. Bu olayın sebeplerini, ayrıntılı analizini hiçbir yerde doğru dürüst görmedim. Din tabii işin görünen tarafıdır. Bunun altında mutlaka ekonomik ve siyasi nedenler vardır. Bizans yönetici...",
+          "metadata": {
+            "title": "Anadolu’nun Türkleşmesinde Lyon Konsili’nin rolü nedir",
+            "date": "13 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/anadolunun-turklesmesinde-lyon-konsilinin-rolu-nedir-76325",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4652346692521566,
+          "sparse_score": null,
+          "dense_rank": 12,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "18b9a1e79d97#3",
+          "score": 0.4627601598373034,
+          "content": "Bunlardan Tr sınırları içinde 70 kadarı bizim için yenidir. Stephanos antikçidir, yani kendi çağında çıkmış yeni yer adlarıyla ilgilenmez. Ancak Miletli Hekataios ve Atinalı Apollodoros gibi bugün kay...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 2",
+            "date": "Jan 14, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-2-19-01-14",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4627601598373034,
+          "sparse_score": null,
+          "dense_rank": 13,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "826ff84ab6ab#3",
+          "score": 0.45992792128872456,
+          "content": "> a) Tekik ve Kovrek: Eyaletin batı ucunda ve Fırat’ın solunda oldukları malumdur, ancak yerleri net değildir. Çemişgezek ve Baskil olabilir.\n>\n> b) Asıl Dzopk, Yun. Sophênê: Eski Sophene krallarının ...",
+          "metadata": {
+            "title": "Altıncı Yüzyılda Ermeni illeri",
+            "date": "Aug 24, 2024",
+            "source": "https://nisanyan.substack.com/p/altnc-yuzylda-ermeni-illeri",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 9
+          },
+          "dense_score": 0.45992792128872456,
+          "sparse_score": null,
+          "dense_rank": 14,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e7e9db5f28cb#0",
+          "score": 0.45984494201217174,
+          "content": "Timur'u izleyen yüz yılda Osmanlı'nın amacı, hedefi, ideali, Doğu Roma İmparatorluğu'nu ihya etmekti.\n\nÖnce II. Murat, peşinden Fatih, Bizans'ın düşkünlük çağında kaybettiği eski topraklarını kazanmak...",
+          "metadata": {
+            "title": "Yavuz neden kötü",
+            "date": "Jan 07, 2026",
+            "source": "https://nisanyan.substack.com/p/yavuz-neden-kotu",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.45984494201217174,
+          "sparse_score": null,
+          "dense_rank": 15,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "d8c994e60307#3",
+          "score": 0.45951245506603455,
+          "content": "Roma İmp. çağında (0-500) şehir kültürü bütün Anadolu sathına yayıldı. Bini aşkın “Yunan” şehri kuruldu. En olmadık vahşi taşrada dahi zebil kadar Yunanca yazıt üretildi. Fakat ‘Yunan’ (Hellen) kelime...",
+          "metadata": {
+            "title": "Etnik haritaların kavramsal çıkmazı",
+            "date": "Jun 21, 2024",
+            "source": "https://nisanyan.substack.com/p/etnik-haritalarn-kavramsal-ckmaz",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 6
+          },
+          "dense_score": 0.45951245506603455,
+          "sparse_score": null,
+          "dense_rank": 16,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "218a14b35b4a#1",
+          "score": 0.4591907572928652,
+          "content": "634 gibi İslam istilası başlar. Anatoli süper-vilayeti on yıldan kısa sürede elden çıkar. Roma ordularından arta kalanlar apar topar ricat ederler. Yenilmiş ordular tehlikelidir, nereye sataşacakları ...",
+          "metadata": {
+            "title": "Anadoli",
+            "date": "Feb 03, 2019",
+            "source": "https://nisanyan.substack.com/p/anadoli-19-02-03",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4591907572928652,
+          "sparse_score": null,
+          "dense_rank": 17,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "068e72c32a30#4",
+          "score": 0.45788509637397296,
+          "content": "Beyler üzerine süper-bey gelmiştir. Beylerbeyinin payitahtı önce Ankara’dır. Sonra (en geç 1451’de, belki 1402’den önce) Kütahya’ya taşınır. Anadoli Eyaletinin lağvedildiği 1841 yılına dek Kütahya’da ...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 7
+          },
+          "dense_score": 0.45788509637397296,
+          "sparse_score": null,
+          "dense_rank": 18,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5b4c3751227e#13",
+          "score": 0.4534423739949309,
+          "content": "Akdeniz uygarlığında kentler dönemi bitiyor, ticaret yollarının emniyetini sağlayan İmparatorluklar dönemi başlıyordu. Benzeri binlerce yıl önce, Mezopotamya’da, Sümer kentlerinin yerini Sargon’un kur...",
+          "metadata": {
+            "title": "Doğu - Batı sorunsalı",
+            "date": "Mar 11, 2017",
+            "source": "https://nisanyan.substack.com/p/dogu-bat-sorunsal-17-03-11",
+            "keywords": "",
+            "chunk_index": 13,
+            "total_chunks": 14
+          },
+          "dense_score": 0.4534423739949309,
+          "sparse_score": null,
+          "dense_rank": 19,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "218a14b35b4a#0",
+          "score": 0.45267441041971884,
+          "content": "Anadolu’nun Bizans’ta bir eyalet adı olduğunu elbette biliyorduk. Ama anlamını, daha doğrusu mantığını tam kavramamıştık. Neden “doğu”? Neyin doğusu? Meğer ilginçmiş.\n\nDiocletianus’un 285 yılındaki id...",
+          "metadata": {
+            "title": "Anadoli",
+            "date": "Feb 03, 2019",
+            "source": "https://nisanyan.substack.com/p/anadoli-19-02-03",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.45267441041971884,
+          "sparse_score": null,
+          "dense_rank": 20,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b2792cf8953d#1",
+          "score": 0.45139049719267693,
+          "content": "Onun öğretilerini hatırlayanlar var. Bir kısmı yanlış olduğu için onları atalım. Kalanını derleyelim. İmparatorluğumuz için yeni bir öğreti inşa edelim ki bu artık asla Hristiyanlık değildir, asla Yah...",
+          "metadata": {
+            "title": "Yeni dinler nasıl çıkar",
+            "date": "23 April 2023",
+            "source": "https://www.sevannisanyan.com/metin/yeni-dinler-nasil-cikar-92787",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.45139049719267693,
+          "sparse_score": null,
+          "dense_rank": 21,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "068e72c32a30#2",
+          "score": 0.44678574218328243,
+          "content": "Çünkü siyasetin kuralıdır: çok para çok güç, az para az güç. Yarım vilayetle darbe yapmak daha zor. 803 yılında Türk Vartan (Βαρδάνης ὁ Τοῦρκος) gibi fantastik bir isim taşıyan Anatolikon Beyi yeniden...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 7
+          },
+          "dense_score": 0.44678574218328243,
+          "sparse_score": null,
+          "dense_rank": 22,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "18b9a1e79d97#4",
+          "score": 0.4467457623016035,
+          "content": "Bir özelliği de, o tarihten üç yıl önce adlandırılan Konstantinopolis kentini anan eldeki ilk yazılı belge olmasıdır.\n\n**Bizans kaynakları** 6. yy’dan sonra yazılı kaynakların hacmi ve kalitesi düşer....",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 2",
+            "date": "Jan 14, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-2-19-01-14",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4467457623016035,
+          "sparse_score": null,
+          "dense_rank": 23,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3aa2e42f1c6e#0",
+          "score": 0.4443926320247754,
+          "content": "**Fatih Sultan Mehmet neden Ermenileri İstanbul’a getirip patrikhane kurdurdu?**\n\nİlk akla gelen cevap basittir. Çağlar boyunca her imparatorluğun temel yönetim ilkesidir, böl ve yönet. Sen İstanbul’u...",
+          "metadata": {
+            "title": "Fatih neden Patrikhane kurdu",
+            "date": "11 September 2022",
+            "source": "https://www.sevannisanyan.com/metin/fatih-neden-patrikhane-kurdu-73396",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4443926320247754,
+          "sparse_score": null,
+          "dense_rank": 24,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "18b9a1e79d97#2",
+          "score": 0.4421502948186103,
+          "content": "Roma imparatorları devrinde, takriben 75 yılında, “Eski” lakaplı **Plinius** çağının tüm bilimlerini kapsayan bir *Naturalis Historia* yazar; coğrafya faslında 40 kadar yeni yer ekler. Metin Yunanca d...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 2",
+            "date": "Jan 14, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-2-19-01-14",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4421502948186103,
+          "sparse_score": null,
+          "dense_rank": 25,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7c8f15e1c1b8#1",
+          "score": 0.4419247736177017,
+          "content": "Katoliklerin bir bölümünü Osmanlı Diyarbakır, Adıyaman taraflarına sürmüş. Bir bölümünün yolunun İtalya’ya çıkmış olması mümkün görünüyor. **Dukakinzade** Ahmed Paşa Yavuz Selim saltanatında sadrazam,...",
+          "metadata": {
+            "title": "Milli tarihi delik deşik edenler",
+            "date": "Apr 08, 2017",
+            "source": "https://nisanyan.substack.com/p/milli-tarihi-delik-desik-edenler-17-04-08",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4419247736177017,
+          "sparse_score": null,
+          "dense_rank": 26,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "826ff84ab6ab#1",
+          "score": 0.4401474734498648,
+          "content": "Haritada her eyaleti ayrı bir renkle gösterdik. Aşağıdaki listeler batıdan doğuya ve kuzeyden güneye sıralıdır. Kalın mavi çizgi MÖ 1. ila MS 3. /4. yüzyıllarda Roma İmparatorluğu’na bağlı olan Armeni...",
+          "metadata": {
+            "title": "Altıncı Yüzyılda Ermeni illeri",
+            "date": "Aug 24, 2024",
+            "source": "https://nisanyan.substack.com/p/altnc-yuzylda-ermeni-illeri",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 9
+          },
+          "dense_score": 0.4401474734498648,
+          "sparse_score": null,
+          "dense_rank": 27,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "c38ec7106018#0",
+          "score": 0.4398173285250697,
+          "content": "**Anadolu’da bulunan Göktürk yazıtları hakkında ne düşünüyorsunuz? Malazgirt’ten yüzyıllar önce Türkiye’deki Türk varlığı kanıtlandı mı sizce?**\n\nSahtekarlık ve cahillik diyorum. İdeolojik saplantılar...",
+          "metadata": {
+            "title": "Göktürkler Anadolu’ya geldi mi",
+            "date": "21 June 2020",
+            "source": "https://www.sevannisanyan.com/metin/gokturkler-anadoluya-geldi-mi-15337",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4398173285250697,
+          "sparse_score": null,
+          "dense_rank": 28,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "d7ce9cc090b2#1",
+          "score": 0.4390440342928252,
+          "content": "Bir ucu o tarihte Atlantik’e, öbür ucu Kızıldeniz’e dayanan Roma imparatorluğundaki Hristiyan cemaatlerinin özgürlüğü ciddi bir şekilde kısıldı ve merkezi bürokratik güç arttırıldı. Roma’daki Papa kon...",
+          "metadata": {
+            "title": "Ermeniler nasıl Hristiyan oldu",
+            "date": "12 July 2020",
+            "source": "https://www.sevannisanyan.com/metin/ermeniler-nasil-hristiyan-oldu-01837",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 5
+          },
+          "dense_score": 0.4390440342928252,
+          "sparse_score": null,
+          "dense_rank": 29,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "068e72c32a30#3",
+          "score": 0.43839400870570766,
+          "content": "Değerli dostumuz araştırmacı Ramazan Topraklı gerçek Amorion’un Isparta Uluborlu’da olduğunu savunursa da bu görüşe katılma olanağı görmüyoruz. 7. yüzyılın ilk yarısında henüz nispeten önemsiz bir yer...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 7
+          },
+          "dense_score": 0.43839400870570766,
+          "sparse_score": null,
+          "dense_rank": 30,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7b58c1c57a6e#3",
+          "score": 0.4383854604666367,
+          "content": "Yanısıra Rum, Ermeni ve Müslüman Arap unsurlar vardır. 1071 öncesinde Rum devletinin temsilcileri ile kuzeyden göçen Ermeni feodalleri kıyasıya egemenlik çatışmasına girerler.\n>\n> 6. **Türk**: Bizans’...",
+          "metadata": {
+            "title": "Malazgirt'ten önce kimler vardı",
+            "date": "Jun 06, 2024",
+            "source": "https://nisanyan.substack.com/p/malazgirtten-once-kimler-vard",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4383854604666367,
+          "sparse_score": null,
+          "dense_rank": 31,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0b12666c0d53#1",
+          "score": 0.43772901283045407,
+          "content": "Otto bir kez daha imparatorluk makamını üstlendi. Bu seferki 840 yıl sürdü, 1806’da Napolyon tarafından noktalanıncaya dek Avrupa politikasında baş rollerden birini oynadı. İmparatorluk unvanı, “trans...",
+          "metadata": {
+            "title": "Roma imparatorluğu ne zaman bitti",
+            "date": "15 October 2023",
+            "source": "https://www.sevannisanyan.com/metin/roma-imparatorlugu-ne-zaman-bitti-35907",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.43772901283045407,
+          "sparse_score": null,
+          "dense_rank": 32,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f592f66e222d#46",
+          "score": 0.43746257044332815,
+          "content": "[Yanıtlar](https://www.blogger.com/null)\n\n1. **Adsız**[20 Eylül 2013 23:23](http://nisanyan1.blogspot.com/2013/09/yedi-uyurlar-ve-bisey-bisey.html?showComment=1379708585866#c559764103841401019)\n\nbir m...",
+          "metadata": {
+            "title": "Yedi Uyurlar ve bişey bişey",
+            "date": "Sep 08, 2013",
+            "source": "https://nisanyan.substack.com/p/yedi-uyurlar-ve-bisey-bisey-13-09-08",
+            "keywords": "",
+            "chunk_index": 46,
+            "total_chunks": 87
+          },
+          "dense_score": 0.43746257044332815,
+          "sparse_score": null,
+          "dense_rank": 33,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9686f034b4eb#2",
+          "score": 0.4357011649357289,
+          "content": "Anadolu’daki yerleşimlerin yaklaşık üçte birinin bu kaotik süreçte iskan edildiği ve adlandırıldığını sanıyorum. Bu yerlerin hemen hepsi “Türkmen” veya “Yörük” olma iddiasındadır. Kanımca karışık veya...",
+          "metadata": {
+            "title": "Çıkan dört bölümün özeti",
+            "date": "Oct 28, 2018",
+            "source": "https://nisanyan.substack.com/p/ckan-dort-bolumun-ozeti-18-10-28",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4357011649357289,
+          "sparse_score": null,
+          "dense_rank": 34,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "826ff84ab6ab#5",
+          "score": 0.4354756083632304,
+          "content": "Sadece Türkiye’de kalan ilçelerini sayıyoruz: > a) Pasean: Pasinler, Köprüköy ve Horasan\n>\n> b) Havnunik: Köprüköy güneyi, Avnik (Güzelhisar) Kalesi.\n>\n> c) Apeğenk ve Kapeğenk: Sarıkamış ile Kağızman...",
+          "metadata": {
+            "title": "Altıncı Yüzyılda Ermeni illeri",
+            "date": "Aug 24, 2024",
+            "source": "https://nisanyan.substack.com/p/altnc-yuzylda-ermeni-illeri",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 9
+          },
+          "dense_score": 0.4354756083632304,
+          "sparse_score": null,
+          "dense_rank": 35,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "db1d4e475520#2",
+          "score": 0.4347759183190709,
+          "content": "Burada da pekâlâ öyle olabilirdi; olmadı. Ülkenin ana gövdesi kimlik değiştirdi, fatihlerin milliyetini benimsedi, tabir caizse ''Normanlaştı''. Nasıl?\n\n**2. İslam göçü ve şehirleşme** Demografik hare...",
+          "metadata": {
+            "title": "Türkiye nasıl Türkleşti?",
+            "date": "Apr 05, 2017",
+            "source": "https://nisanyan.substack.com/p/turkiye-nasl-turklesti-17-04-05",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4347759183190709,
+          "sparse_score": null,
+          "dense_rank": 36,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ff881f876f0b#2",
+          "score": 0.4343103639021304,
+          "content": "Devam edersek derya gibi konulara yelken açarız. Halk arasında “yobazlık” diye tanımlanan İslam dininin SİYASİ işlevi neydi? Osmanlı devletinin sınıfsal altyapısı neydi, matbaanın reddedilmesi bu yapı...",
+          "metadata": {
+            "title": "Osmanlı'da matbaa neden gecikti?",
+            "date": "Feb 16, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanlda-matbaa-neden-gecikti-19-02-16",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4343103639021304,
+          "sparse_score": null,
+          "dense_rank": 37,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "566849ff7127#4",
+          "score": 0.4340269930865008,
+          "content": "Barış girişiminde bulunan İran Şahı Husrev Pervîz kendi saraylıları tarafından kurulan bir komplo sonucu 629’da öldürülmüştür. Bu sırada Bizans’ın müttefiki olan Türkler Kafkas geçitlerini aşıp İran E...",
+          "metadata": {
+            "title": "Bari dipnot ver birader",
+            "date": "Jan 17, 2013",
+            "source": "https://nisanyan.substack.com/p/bari-dipnot-ver-birader-13-01-17",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 13
+          },
+          "dense_score": 0.4340269930865008,
+          "sparse_score": null,
+          "dense_rank": 38,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "826ff84ab6ab#4",
+          "score": 0.43398872918840004,
+          "content": "Teorik olarak Bizans eyaletinin idari başkenti olduğu halde, uzunca süre İran tarafında kalmış olduğu anlaşılıyor. İRAN HÜKMÜ ALTINDAKİ ESKİ ERMENİ İLLERİ 1) **Kukark**, Yun. Gogarênê: Vaktiyle Ermeni...",
+          "metadata": {
+            "title": "Altıncı Yüzyılda Ermeni illeri",
+            "date": "Aug 24, 2024",
+            "source": "https://nisanyan.substack.com/p/altnc-yuzylda-ermeni-illeri",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 9
+          },
+          "dense_score": 0.43398872918840004,
+          "sparse_score": null,
+          "dense_rank": 39,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "18b9a1e79d97#5",
+          "score": 0.43395060210248104,
+          "content": "Sabredip tarayınca Bizans vakanüvislerinin her birinden beşer onar yer adı çıkar. Ben Kayserili **Prokopios**’un hem Binalar hem İran Savaşları kitabını (550 civarı), **Kıbrıslı Ioannes**’i (610), **T...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 2",
+            "date": "Jan 14, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-2-19-01-14",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 7
+          },
+          "dense_score": 0.43395060210248104,
+          "sparse_score": null,
+          "dense_rank": 40,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "46dc6f35309b#1",
+          "score": 0.43369693684724053,
+          "content": "Yalnız Anadolu değil, Balkan ülkeleri de böyle. Hele Suriye ile Irak büsbütün tükenmiştir 19. yüzyıl sonuna geldiğimizde. Osmanlı hakkında bilmeniz gereken temel bilgi budur. Gelmiş, çökmüş, bitirmiş....",
+          "metadata": {
+            "title": "Osmanlı nasıl özetlenir",
+            "date": "20 June 2021",
+            "source": "https://www.sevannisanyan.com/metin/osmanli-nasil-ozetlenir-96663",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.43369693684724053,
+          "sparse_score": null,
+          "dense_rank": 41,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "058205c232a5#0",
+          "score": 0.4335493267155131,
+          "content": "Beş yüz yıl boyunca Roma lejyonları imparatorluğun göz bebeği ve can damarı idi. Profesyonel askerdiler. Üç ayda bir gümüş akçe (denarius) ile ödenen maaşları ve emeklilik ikramiyeleri vardı. Garnizon...",
+          "metadata": {
+            "title": "Askeri tarih",
+            "date": "Mar 18, 2017",
+            "source": "https://nisanyan.substack.com/p/askeri-tarih-17-03-18",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4335493267155131,
+          "sparse_score": null,
+          "dense_rank": 42,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "04a42d78c49b#1",
+          "score": 0.4329085781455962,
+          "content": "Zorlama bir modeldi. Uygulanmadı, yürümedi. Zaten Ruslar Kırım’ı derhal kolonize ettiler, Tatarları korkutup kaçırdılar, kısa bir süre sonra orası Hristiyan memleketi oldu zaten, konu kapandı. Bu sıra...",
+          "metadata": {
+            "title": "Halifelik çağı geçmiş bir kurum mu",
+            "date": "18 June 2023",
+            "source": "https://www.sevannisanyan.com/metin/halifelik-cagi-gecmis-bir-kurum-mu-84883",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4329085781455962,
+          "sparse_score": null,
+          "dense_rank": 43,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "8e83769e77b9#2",
+          "score": 0.43196169201277346,
+          "content": "Tek problemi vardır: sürdürülebilir değildir. İnsanlar çıplak sömürüye bir yere kadar tahammül eder. Sonra çalışmayı bırakırlar. Daha zorlasan kazan patlar. Eski çağdan bir öyküyle örnekleyelim. MS 5....",
+          "metadata": {
+            "title": "Liboşlar çeşit çeşit - 2",
+            "date": "Sep 14, 2018",
+            "source": "https://nisanyan.substack.com/p/liboslar-cesit-cesit-2-18-09-14",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.43196169201277346,
+          "sparse_score": null,
+          "dense_rank": 44,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "43ac52db8bdd#3",
+          "score": 0.4292354127639233,
+          "content": "Yani İslam yükselişteyken halkın %60’ını susturdun diyelim. Fransız ihtilalini millet işittikten sonra nasıl susturacaksın? Kıyas gerekiyorsa belki Avrupa ile değil Hindistan’la kıyaslamak lazım. Hind...",
+          "metadata": {
+            "title": "Osmanlı tarihi, özet",
+            "date": "Nov 22, 2020",
+            "source": "https://nisanyan.substack.com/p/osmanl-tarihi-ozet-20-11-22",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4292354127639233,
+          "sparse_score": null,
+          "dense_rank": 45,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "664d189662ff#3",
+          "score": 0.42730542235054514,
+          "content": "Neden yıkıldı? Yıkılması mukadder miydi? İslam medeniyetinin 1450-1500’den sonra yıkılması, en azından Roma medeniyetinin yıkılması kadar muamma bir konudur. Bin kişi bu konuda fikir beyan etmişse, bi...",
+          "metadata": {
+            "title": "İslam medeniyeti neydi, neden çöktü, şimdi ne durumda",
+            "date": "Mar 17, 2020",
+            "source": "https://nisanyan.substack.com/p/islam-medeniyeti-neydi-neden-coktu-20-03-17",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 5
+          },
+          "dense_score": 0.42730542235054514,
+          "sparse_score": null,
+          "dense_rank": 46,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b2ea774a23c9#1",
+          "score": 0.42687701339603423,
+          "content": "Yaygın bir hadise bu, milli isimlerin kaydırılması. Çinliler Moğollara Türk dedi diye Moğollar Türk olmaz. Moğollarla Türkler arasında her zaman yakın ilişkiler olmuş, kültürel ve siyasi etkileşim olm...",
+          "metadata": {
+            "title": "Cengiz Han’ın Türklerle alakası ne",
+            "date": "13 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/cengiz-hanin-turklerle-alakasi-ne-81872",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.42687701339603423,
+          "sparse_score": null,
+          "dense_rank": 47,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3d21e3450b6c#2",
+          "score": 0.42655982019626926,
+          "content": "Afrika’da, Sahra’nın hemen güney kıyısındaki girişimci insanlar hemen adapte olmuşlar duruma, Müslüman olup Araplar adına köle toplamaya ve İslam dünyasına sevk etmeye başlamışlar. Türklerde de benzer...",
+          "metadata": {
+            "title": "Türkler nasıl Müslüman oldu",
+            "date": "08 March 2020",
+            "source": "https://www.sevannisanyan.com/metin/turkler-nasil-musluman-oldu-71470",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.42655982019626926,
+          "sparse_score": null,
+          "dense_rank": 48,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "db5468ced725#3",
+          "score": 0.4261334522978169,
+          "content": "Ama çok küçük bir çevrede, İstanbul’un ve belki birkaç vilayet merkezinin seçkin çevrelerinde duyulan bir kavramdı Osmanlı milliyeti. Toplumun ezici çoğunluğu açısından milletin tanımı değişmedi. Bir ...",
+          "metadata": {
+            "title": "Türkler eskiden Osmanlı mıydı",
+            "date": "28 November 2021",
+            "source": "https://www.sevannisanyan.com/metin/turkler-eskiden-osmanli-miydi-81340",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 5
+          },
+          "dense_score": 0.4261334522978169,
+          "sparse_score": null,
+          "dense_rank": 49,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "318c6cc9f131#7",
+          "score": 0.4260405478757242,
+          "content": "Fakat nihayet Sultan Selim [1789-1808] devrinde güçten düşerek #Hzu [Batman Kozluk] tarafına kaçtı. Günümüzde Van paşalığı aslen Van’ın şehirlisi olan bir Kürt hanedanının elindedir. Sancakları ise pa...",
+          "metadata": {
+            "title": "Osmanlı feodal miydi?",
+            "date": "Apr 20, 2023",
+            "source": "https://nisanyan.substack.com/p/osmanl-feodal-miydi",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 9
+          },
+          "dense_score": 0.4260405478757242,
+          "sparse_score": null,
+          "dense_rank": 50,
+          "sparse_rank": null
+        }
+      ],
+      "performance": {
+        "total_time_ms": 263.21887969970703,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "sparse": {
+      "query": "Bizans İmparatorluğu",
+      "strategy": "sparse",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "5ce22c5438ef#0",
+          "score": 5.741306304931641,
+          "content": "**Bizans bir dönemin Roma İmparatorluğu gibi süper güç olmuş mudur? Yoksa dönem itibariyle kıyıda kalmış bir devlet miydi? Bilimden mi uzaklaştı ya da bürokrasi nedeniyle mi çöküşe doğru gitti acaba?*...",
+          "metadata": {
+            "title": "Bizans süper güç müydü",
+            "date": "09 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/bizans-super-guc-muydu-33757",
+            "keywords": "Bizans tarihi"
+          },
+          "dense_score": null,
+          "sparse_score": 5.741306304931641,
+          "dense_rank": null,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "e7e9db5f28cb#0",
+          "score": 4.537440776824951,
+          "content": "Timur'u izleyen yüz yılda Osmanlı'nın amacı, hedefi, ideali, Doğu Roma İmparatorluğu'nu ihya etmekti.\n\nÖnce II. Murat, peşinden Fatih, Bizans'ın düşkünlük çağında kaybettiği eski topraklarını kazanmak...",
+          "metadata": {
+            "title": "Yavuz neden kötü",
+            "date": "Jan 07, 2026",
+            "source": "https://nisanyan.substack.com/p/yavuz-neden-kotu",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 4.537440776824951,
+          "dense_rank": null,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "5ce22c5438ef#1",
+          "score": 4.284548282623291,
+          "content": "Jüstinyen zamanında kısa bir süre İtalya’nın tümünü kontrol altına almayı başardılar. Tunus’ta, İspanya’nın batı sahillerinde borularını öttürdüler. Bu egemenlik 6. yüzyıl ortalarında iflas etti. Bunu...",
+          "metadata": {
+            "title": "Bizans süper güç müydü",
+            "date": "09 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/bizans-super-guc-muydu-33757",
+            "keywords": "Bizans tarihi"
+          },
+          "dense_score": null,
+          "sparse_score": 4.284548282623291,
+          "dense_rank": null,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "826ff84ab6ab#1",
+          "score": 4.263524055480957,
+          "content": "Haritada her eyaleti ayrı bir renkle gösterdik. Aşağıdaki listeler batıdan doğuya ve kuzeyden güneye sıralıdır. Kalın mavi çizgi MÖ 1. ila MS 3. /4. yüzyıllarda Roma İmparatorluğu’na bağlı olan Armeni...",
+          "metadata": {
+            "title": "Altıncı Yüzyılda Ermeni illeri",
+            "date": "Aug 24, 2024",
+            "source": "https://nisanyan.substack.com/p/altnc-yuzylda-ermeni-illeri",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 4.263524055480957,
+          "dense_rank": null,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "9fc65b3c2a29#2",
+          "score": 4.18219518661499,
+          "content": "Demediler. Ondan sonraki on yıl boyunca Türkler pek ilgilenmediler bu yerle. O dönemde ne oldu? 1071’in hemen sonrasında Filaretos adlı biri kendini Bizans İmparatoru ilan etti. Filaretos eski, köklü ...",
+          "metadata": {
+            "title": "Malazgirt’te Türkler nereyi fethetti",
+            "date": "16 August 2020",
+            "source": "https://www.sevannisanyan.com/metin/malazgirtte-turkler-nereyi-fethetti-45412",
+            "keywords": "Bizans, Filaretos, Malazgirt"
+          },
+          "dense_score": null,
+          "sparse_score": 4.18219518661499,
+          "dense_rank": null,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "3b5f1a737501#0",
+          "score": 4.17454719543457,
+          "content": "**Haçlı Seferleri’nin asıl nedeni neydi?**\n\nEsas hadise Türk istilasıdır. 1071’de Türkler Bizans İmparatorluğu’nun belini kırdılar. 1073’te Hristiyanların kutsal saydığı Kudüs’ü fethettiler. Türkler s...",
+          "metadata": {
+            "title": "Haçlı Seferleri’ne neden çıktılar",
+            "date": "26 December 2021",
+            "source": "https://www.sevannisanyan.com/metin/hacli-seferlerine-neden-ciktilar-80970",
+            "keywords": "Haçlı Seferleri"
+          },
+          "dense_score": null,
+          "sparse_score": 4.17454719543457,
+          "dense_rank": null,
+          "sparse_rank": 6
+        },
+        {
+          "chunk_id": "a65fa8729033#0",
+          "score": 3.8304224014282227,
+          "content": "Son paylaşımıma gelen cevaplardan anlaşıldı ki halkımız Osmanlı’dan nefret etmektedir, Osmanlı’yı bir tür über-AKP rejimi olarak tahayyül etmektedir – ya da öyle söyleyince Sevan Hoca’nın hoşuna gider...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.8304224014282227,
+          "dense_rank": null,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "826ff84ab6ab#4",
+          "score": 3.7503488063812256,
+          "content": "Teorik olarak Bizans eyaletinin idari başkenti olduğu halde, uzunca süre İran tarafında kalmış olduğu anlaşılıyor. İRAN HÜKMÜ ALTINDAKİ ESKİ ERMENİ İLLERİ 1) **Kukark**, Yun. Gogarênê: Vaktiyle Ermeni...",
+          "metadata": {
+            "title": "Altıncı Yüzyılda Ermeni illeri",
+            "date": "Aug 24, 2024",
+            "source": "https://nisanyan.substack.com/p/altnc-yuzylda-ermeni-illeri",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.7503488063812256,
+          "dense_rank": null,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "5b4c3751227e#12",
+          "score": 3.6750118732452393,
+          "content": "“Raviyanı ahbar ve muhaddisanı ruzigar rivayet ederler ki”, Roma’lı, yaşlı senatör Cato, hangi konuda konuşursa konuşsun, her konuşmasını “körün değneğini bellediği gibi” daima, “bu vesileyle de şunu ...",
+          "metadata": {
+            "title": "Doğu - Batı sorunsalı",
+            "date": "Mar 11, 2017",
+            "source": "https://nisanyan.substack.com/p/dogu-bat-sorunsal-17-03-11",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.6750118732452393,
+          "dense_rank": null,
+          "sparse_rank": 9
+        },
+        {
+          "chunk_id": "0b5d419214fc#1",
+          "score": 3.399078607559204,
+          "content": "Belki de İstanbul Belediyesinin şöyle bir şey yapması gerekirdi. Makam odasına tablo konulacaksa, bir tane Bizas, bir tane Konstantin, bir tane de Fatih Sultan Mehmet koysaydı mesela, bu çok ilginç bi...",
+          "metadata": {
+            "title": "Hz. Kostantin halka nasıl satılır",
+            "date": "28 June 2020",
+            "source": "https://www.sevannisanyan.com/metin/hz-kostantin-halka-nasil-satilir-13427",
+            "keywords": "Bellini, Fatih Sultan Mehmet, Konstantin, sanat"
+          },
+          "dense_score": null,
+          "sparse_score": 3.399078607559204,
+          "dense_rank": null,
+          "sparse_rank": 10
+        },
+        {
+          "chunk_id": "a3362fbd7a46#3",
+          "score": 3.271543025970459,
+          "content": "Tarihin ilk devletini Mısır'da kurmuşlar, Deltadan birinci katarakta kadar Nil havzasının rantını toplamışlar. O gelirle piramitler ve akıllara ziyan tapınaklar inşa etmişler, fantastik ilimlere ve yü...",
+          "metadata": {
+            "title": "Mısır notları 7",
+            "date": "Feb 25, 2021",
+            "source": "https://nisanyan.substack.com/p/msr-notlar-7-21-02-25",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.271543025970459,
+          "dense_rank": null,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "068e72c32a30#4",
+          "score": 3.2177891731262207,
+          "content": "Beyler üzerine süper-bey gelmiştir. Beylerbeyinin payitahtı önce Ankara’dır. Sonra (en geç 1451’de, belki 1402’den önce) Kütahya’ya taşınır. Anadoli Eyaletinin lağvedildiği 1841 yılına dek Kütahya’da ...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.2177891731262207,
+          "dense_rank": null,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "826ff84ab6ab#5",
+          "score": 3.1534714698791504,
+          "content": "Sadece Türkiye’de kalan ilçelerini sayıyoruz: > a) Pasean: Pasinler, Köprüköy ve Horasan\n>\n> b) Havnunik: Köprüköy güneyi, Avnik (Güzelhisar) Kalesi.\n>\n> c) Apeğenk ve Kapeğenk: Sarıkamış ile Kağızman...",
+          "metadata": {
+            "title": "Altıncı Yüzyılda Ermeni illeri",
+            "date": "Aug 24, 2024",
+            "source": "https://nisanyan.substack.com/p/altnc-yuzylda-ermeni-illeri",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.1534714698791504,
+          "dense_rank": null,
+          "sparse_rank": 13
+        },
+        {
+          "chunk_id": "07d2683d7590#1",
+          "score": 2.979220151901245,
+          "content": "Ismarlarsın, yazarlar. Hele ne kadar överlerse o kadar bahşiş vereceğini bilince daha iyi yazarlar. O yüzden böyle şeylere fazla kulak asmamak lazım. Şuna değinelim. 2. Murat dönemi çok enteresan bir ...",
+          "metadata": {
+            "title": "Fatih Sultan Mehmet entelektüel miydi",
+            "date": "24 April 2022",
+            "source": "https://www.sevannisanyan.com/metin/fatih-sultan-mehmet-entelektuel-miydi-06067",
+            "keywords": "Edirne sarayı, Fatih Sultan Mehmet, Osmanlı tarihi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.979220151901245,
+          "dense_rank": null,
+          "sparse_rank": 14
+        },
+        {
+          "chunk_id": "a2e0df9e025c#1",
+          "score": 2.9619457721710205,
+          "content": "Bizans bitti. Bu olayın sebeplerini, ayrıntılı analizini hiçbir yerde doğru dürüst görmedim. Din tabii işin görünen tarafıdır. Bunun altında mutlaka ekonomik ve siyasi nedenler vardır. Bizans yönetici...",
+          "metadata": {
+            "title": "Anadolu’nun Türkleşmesinde Lyon Konsili’nin rolü nedir",
+            "date": "13 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/anadolunun-turklesmesinde-lyon-konsilinin-rolu-nedir-76325",
+            "keywords": "Anadolunun Türkleşmesi, Bizans, Lyon konsili"
+          },
+          "dense_score": null,
+          "sparse_score": 2.9619457721710205,
+          "dense_rank": null,
+          "sparse_rank": 15
+        },
+        {
+          "chunk_id": "03c99c996b85#0",
+          "score": 2.923292636871338,
+          "content": "1960 sonrasında Türkiye’de Türkçe olmayan veya Türkçeye benzemeyen tüm köy adları değiştirilirken il ve ilçe adlarına genellikle dokunulmadı. Bunun başlıca nedeni, köy adları İçişleri Bakanlığı kararn...",
+          "metadata": {
+            "title": "Şehir adları nereden gelir",
+            "date": "Nov 30, 2021",
+            "source": "https://nisanyan.substack.com/p/sehir-adlar-nereden-gelir",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.923292636871338,
+          "dense_rank": null,
+          "sparse_rank": 16
+        },
+        {
+          "chunk_id": "068e72c32a30#1",
+          "score": 2.909879684448242,
+          "content": "Konstans zamanında (641-668) şekillenir. *Thema* esasen “üs” veya “mevzi” demektir. Sahayı değil karargahı tanımlar. Mesela Ermenistan’dan çekilen orduların thema’sı (*Armeniakón théma*) Amasya kentid...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.909879684448242,
+          "dense_rank": null,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "026aa7db3ae8#2",
+          "score": 2.8776516914367676,
+          "content": "Oysa öbür Germanikopolis halen Türkiye coğrafyasında capcanlı, Rumca *Yermanikía* telaffuzundan **Ermenek**. İsaurya’nın başkenti.[[1]](https://www.blogger.com/blogger.g?blogID=1302467060357060984&pli...",
+          "metadata": {
+            "title": "Anadolu'da gezintiler: İkon kırıcılar, İsaurya",
+            "date": "May 25, 2018",
+            "source": "https://nisanyan.substack.com/p/anadoluda-gezintiler-ikon-krclar-18-05-25",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8776516914367676,
+          "dense_rank": null,
+          "sparse_rank": 18
+        },
+        {
+          "chunk_id": "4ffd9c3bbb63#1",
+          "score": 2.8204703330993652,
+          "content": "Yüksek Almancada sözcük başındaki /t/ daima /ts/ sesine dönüşür, z ile yazılır. O yüzden **Ziegel**, “kiremit”. Latinceden Bizans Yunancasına da geçmiş. Besbelli bu kiremit hadisesini Romalılar keşfet...",
+          "metadata": {
+            "title": "Sabah gazete okurken aklıma düşenler",
+            "date": "May 30, 2013",
+            "source": "https://nisanyan.substack.com/p/sabah-gazete-okurken-aklma-dusenler-13-05-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8204703330993652,
+          "dense_rank": null,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "026aa7db3ae8#0",
+          "score": 2.8173763751983643,
+          "content": "İkon kırıcıların en ünlüsü “İsauryalı” lakabıyla anılan Rum kayseri 3. Leon’dur. 717 yılında İstanbul’da tahta geçtiğinde Anadolu’nun tamamına yakını otuz yıldan beri Arap/İslam istilası altındaydı. Ö...",
+          "metadata": {
+            "title": "Anadolu'da gezintiler: İkon kırıcılar, İsaurya",
+            "date": "May 25, 2018",
+            "source": "https://nisanyan.substack.com/p/anadoluda-gezintiler-ikon-krclar-18-05-25",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8173763751983643,
+          "dense_rank": null,
+          "sparse_rank": 20
+        },
+        {
+          "chunk_id": "a65fa8729033#1",
+          "score": 2.8165321350097656,
+          "content": "Osmanlı’nın kavramları ve kurumları bu iki imparatorluktan mirastır. Abbasilerin kaderinden ders alır; yerel askeri şeflerin palazlanmasını önlemek için, merkezi hazineden beslenen bir köle ordusu kur...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8165321350097656,
+          "dense_rank": null,
+          "sparse_rank": 21
+        },
+        {
+          "chunk_id": "9efab887adf6#9",
+          "score": 2.8115687370300293,
+          "content": "Daha önceki geçmişi, eğer varsa, meçhuldür. ‘İskender’in komutanı’ öyküsü mesnetsizdir.\n>\n> **Batman:** Nymph(e)ios Batman ırmağının 6. yy’da Rumlarca kullanılan adıdır. Ermenicesi Kağirt’tir. Şehir 2...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8115687370300293,
+          "dense_rank": null,
+          "sparse_rank": 22
+        },
+        {
+          "chunk_id": "9efab887adf6#1",
+          "score": 2.764580726623535,
+          "content": "> **Edirne:** Hadrianopolis veya Hadrianupolis, doğru. İmparator Hadrian onuruna adlandırıldığı söylenir. Türkçe isim oradan.\n>\n> **Kırklareli:** Rumca Saranda Eklisies (“kırk kilise”) adı 19. yy’dan ...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.764580726623535,
+          "dense_rank": null,
+          "sparse_rank": 23
+        },
+        {
+          "chunk_id": "b147bd8bbeae#1",
+          "score": 2.730722665786743,
+          "content": "Bizans ile Sasani İran arasında dördüncü yüzyılda çizilmiş olan sınırıdır. İslam fethine dek üç yüzyıl boyunca orası, çağın iki süper gücü arasındaki devlet sınırı olmuş. Ve bugüne kadar izi kalmış. H...",
+          "metadata": {
+            "title": "Anadolu’nun yara izleri hangileridir",
+            "date": "09 August 2020",
+            "source": "https://www.sevannisanyan.com/metin/anadolunun-yara-izleri-hangileridir-89906",
+            "keywords": "Anadolu'nun yara izleri, Kars, Mardin"
+          },
+          "dense_score": null,
+          "sparse_score": 2.730722665786743,
+          "dense_rank": null,
+          "sparse_rank": 24
+        },
+        {
+          "chunk_id": "0b12666c0d53#0",
+          "score": 2.7170441150665283,
+          "content": "**Kutsal Roma Germen İmparatorluğunu aklımda bir yere oturtamıyorum, özellikle de kuruluşu ve coğrafyası bakımından. Yardımcı olabilir misiniz?**\n\nŞimdilik altmış yıllık tarih öğrenciliğim sürecinde b...",
+          "metadata": {
+            "title": "Roma imparatorluğu ne zaman bitti",
+            "date": "15 October 2023",
+            "source": "https://www.sevannisanyan.com/metin/roma-imparatorlugu-ne-zaman-bitti-35907",
+            "keywords": "Avrupa tarihi, Papalık, Roma imp"
+          },
+          "dense_score": null,
+          "sparse_score": 2.7170441150665283,
+          "dense_rank": null,
+          "sparse_rank": 25
+        },
+        {
+          "chunk_id": "18b9a1e79d97#4",
+          "score": 2.712636709213257,
+          "content": "Bir özelliği de, o tarihten üç yıl önce adlandırılan Konstantinopolis kentini anan eldeki ilk yazılı belge olmasıdır.\n\n**Bizans kaynakları** 6. yy’dan sonra yazılı kaynakların hacmi ve kalitesi düşer....",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 2",
+            "date": "Jan 14, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-2-19-01-14",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.712636709213257,
+          "dense_rank": null,
+          "sparse_rank": 26
+        },
+        {
+          "chunk_id": "3679eaa13a8c#1",
+          "score": 2.7033891677856445,
+          "content": "Bizans imparatoru 7. Konstantin Porphyrogenetos’un çağdaş olayları anlatan siyasetnamesinden[[1]](https://www.blogger.com/blogger.g?blogID=1302467060357060984#_ftn1) çıkarabildiğimiz kadarıyla emir is...",
+          "metadata": {
+            "title": "Malazgirt, öncesi ve sonrası",
+            "date": "Aug 31, 2018",
+            "source": "https://nisanyan.substack.com/p/malazgirt-oncesi-ve-sonras-18-08-31",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7033891677856445,
+          "dense_rank": null,
+          "sparse_rank": 27
+        },
+        {
+          "chunk_id": "9efab887adf6#10",
+          "score": 2.6923975944519043,
+          "content": "Yeri belli değildir. Iğdır ile Tuzluca sınırında Aras nehri kıyısında olan Sürmeli Kalesi (Karakale) olabilir. Şimdiki Iğdır önemsiz bir köyken Rus idaresi zamanında kalkındı. Dağda olan eski İğdir Ka...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.6923975944519043,
+          "dense_rank": null,
+          "sparse_rank": 28
+        },
+        {
+          "chunk_id": "f592f66e222d#46",
+          "score": 2.6725451946258545,
+          "content": "[Yanıtlar](https://www.blogger.com/null)\n\n1. **Adsız**[20 Eylül 2013 23:23](http://nisanyan1.blogspot.com/2013/09/yedi-uyurlar-ve-bisey-bisey.html?showComment=1379708585866#c559764103841401019)\n\nbir m...",
+          "metadata": {
+            "title": "Yedi Uyurlar ve bişey bişey",
+            "date": "Sep 08, 2013",
+            "source": "https://nisanyan.substack.com/p/yedi-uyurlar-ve-bisey-bisey-13-09-08",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.6725451946258545,
+          "dense_rank": null,
+          "sparse_rank": 29
+        },
+        {
+          "chunk_id": "9efab887adf6#0",
+          "score": 2.672086715698242,
+          "content": "İllerin Roma ve Bizans Dönemindeki Adları başlıklı bu harita bir süredir elden ele dolaşıyor. Doğru mudur diye bana soruyorlar. Topluca bir göz atalım isterseniz. Özet sonuç: Yaklaşık yarısı doğru vey...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.672086715698242,
+          "dense_rank": null,
+          "sparse_rank": 30
+        },
+        {
+          "chunk_id": "3679eaa13a8c#2",
+          "score": 2.6719610691070557,
+          "content": "Sonraki Gürcü kralları bu zatın yeğeninin soyundan gelir. 1000 yılında Bizanslılar aşırı güçlenen David’i bir suikastçi gönderip öldürürler. Vakanüvis Tovma Artsruni’nin ifadesine göre Bizans bu tarih...",
+          "metadata": {
+            "title": "Malazgirt, öncesi ve sonrası",
+            "date": "Aug 31, 2018",
+            "source": "https://nisanyan.substack.com/p/malazgirt-oncesi-ve-sonras-18-08-31",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.6719610691070557,
+          "dense_rank": null,
+          "sparse_rank": 31
+        },
+        {
+          "chunk_id": "058205c232a5#1",
+          "score": 2.664911985397339,
+          "content": "Gezi olaylarından daha kanlı bitti, kırk bin kişi boğazlandı. Cesetlerinin Sultan Ahmet Meydanı altında halâ gömülü olduğu söylenir. Bunu izleyen yıllarda Jüstinyen büyük bir yapı seferberliğine giriş...",
+          "metadata": {
+            "title": "Askeri tarih",
+            "date": "Mar 18, 2017",
+            "source": "https://nisanyan.substack.com/p/askeri-tarih-17-03-18",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.664911985397339,
+          "dense_rank": null,
+          "sparse_rank": 32
+        },
+        {
+          "chunk_id": "a2e0df9e025c#0",
+          "score": 2.658273935317993,
+          "content": "**Hocam, Lyon Konsili ile Anadolu’nun Türkleşmesi arasındaki bağ nedir? Bir blog yazısında bahsetmiştiniz.**\n\nBiliyorsunuz 1204’ten 1261’e kadar Haçlılar İstanbul’u işgal ettiler. Bizans devleti dağıl...",
+          "metadata": {
+            "title": "Anadolu’nun Türkleşmesinde Lyon Konsili’nin rolü nedir",
+            "date": "13 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/anadolunun-turklesmesinde-lyon-konsilinin-rolu-nedir-76325",
+            "keywords": "Anadolunun Türkleşmesi, Bizans, Lyon konsili"
+          },
+          "dense_score": null,
+          "sparse_score": 2.658273935317993,
+          "dense_rank": null,
+          "sparse_rank": 33
+        },
+        {
+          "chunk_id": "ff881f876f0b#1",
+          "score": 2.6515350341796875,
+          "content": "Matbaanın Avrupa’da yarattığı devrim sır değil, en geç 1470-1480’lerde ayan beyan bilinen bir gerçek. Farkına varmamaları mümkün mü? 3c. Enteresan. Nihayet adım atmaya karar verince işi neden Latince ...",
+          "metadata": {
+            "title": "Osmanlı'da matbaa neden gecikti?",
+            "date": "Feb 16, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanlda-matbaa-neden-gecikti-19-02-16",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.6515350341796875,
+          "dense_rank": null,
+          "sparse_rank": 34
+        },
+        {
+          "chunk_id": "18b9a1e79d97#5",
+          "score": 2.6150755882263184,
+          "content": "Sabredip tarayınca Bizans vakanüvislerinin her birinden beşer onar yer adı çıkar. Ben Kayserili **Prokopios**’un hem Binalar hem İran Savaşları kitabını (550 civarı), **Kıbrıslı Ioannes**’i (610), **T...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 2",
+            "date": "Jan 14, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-2-19-01-14",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.6150755882263184,
+          "dense_rank": null,
+          "sparse_rank": 35
+        },
+        {
+          "chunk_id": "bccad810b99c#0",
+          "score": 2.6069118976593018,
+          "content": "**Demreli Aziz Nikolaos’tan bahseder misiniz? Noel’le ilgisi nedir?**\n\nHristiyanlık biliyorsunuz 320’li yıllardan itibaren gitgide Roma İmparatorluğunun resmi ve egemen dini oldu. Bundan kısa bir süre...",
+          "metadata": {
+            "title": "Aziz Nikola nasıl sömürüldü",
+            "date": "29 December 2019",
+            "source": "https://www.sevannisanyan.com/metin/aziz-nikola-nasil-somuruldu-95586",
+            "keywords": "Aziz Nikola, Fetöcülük, İsa, Noel"
+          },
+          "dense_score": null,
+          "sparse_score": 2.6069118976593018,
+          "dense_rank": null,
+          "sparse_rank": 36
+        },
+        {
+          "chunk_id": "f592f66e222d#53",
+          "score": 2.5453805923461914,
+          "content": "Bu başlık altında ben ve daha sonra Karia 1963 tarihli arkeolojik keşiften bahis açmış olmasaydık, sizler hâlen Afşin dolaylarında seyrediyor olacaktınız! Bu durum, Nişanyan başta hepiniz için BÜYÜK e...",
+          "metadata": {
+            "title": "Yedi Uyurlar ve bişey bişey",
+            "date": "Sep 08, 2013",
+            "source": "https://nisanyan.substack.com/p/yedi-uyurlar-ve-bisey-bisey-13-09-08",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.5453805923461914,
+          "dense_rank": null,
+          "sparse_rank": 37
+        },
+        {
+          "chunk_id": "0941a3d52273#0",
+          "score": 2.500247001647949,
+          "content": "**20. yüzyılın başında Rus İmparatorluğu’nun yıkılışının ardında pek çok Rus aydını, yazarı ve sanatçısı yeni rejimin baskısından kaçarak Batı toplumunda başarılı bir kariyer edindi. Aynı dönemde Osma...",
+          "metadata": {
+            "title": "Sürgün Osmanlı ve Rus aydınlarının farkı ne",
+            "date": "01 October 2023",
+            "source": "https://www.sevannisanyan.com/metin/surgun-osmanli-ve-rus-aydinlarinin-farki-ne-29881",
+            "keywords": "Osmanlı aydınları, Rus aydınları, sürgün"
+          },
+          "dense_score": null,
+          "sparse_score": 2.500247001647949,
+          "dense_rank": null,
+          "sparse_rank": 38
+        },
+        {
+          "chunk_id": "9fc65b3c2a29#1",
+          "score": 2.4948041439056396,
+          "content": "Çemişgezek ile Pertek’te de Türk beylikleri kuruldu. Fakat Fırat’ın doğusunda Türkleşme belirtisi olmadı. Cılız birtakım hamleler olduysa da kalıcı olamadı. Beri taraf ise Türk oldu. Bunu mesela neden...",
+          "metadata": {
+            "title": "Malazgirt’te Türkler nereyi fethetti",
+            "date": "16 August 2020",
+            "source": "https://www.sevannisanyan.com/metin/malazgirtte-turkler-nereyi-fethetti-45412",
+            "keywords": "Bizans, Filaretos, Malazgirt"
+          },
+          "dense_score": null,
+          "sparse_score": 2.4948041439056396,
+          "dense_rank": null,
+          "sparse_rank": 39
+        },
+        {
+          "chunk_id": "9efab887adf6#8",
+          "score": 2.4773569107055664,
+          "content": "Yunanlar ve onları takliden Romalılar Edessa adını verdiler. Ermenicede (Y)etesia kullanılır. Süryanice ve Arapçası daima Urha veya Ruha’dır.\n>\n> **Mardin:** İlk kez 4. yy’da Ammianus Marcellinus Tari...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.4773569107055664,
+          "dense_rank": null,
+          "sparse_rank": 40
+        },
+        {
+          "chunk_id": "b4781ecb3108#8",
+          "score": 2.470074415206909,
+          "content": "Söz konusu sözcüklerin büyük bir kısmı 20. yy sonlarına doğru kullanımdan düşmüştür. (31 kelime, %8) > **Argo**: afili, aftos, angarya, barba, duziko, erkete, fasarya, fos, kaşkariko, kerata (aşağılam...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.470074415206909,
+          "dense_rank": null,
+          "sparse_rank": 41
+        },
+        {
+          "chunk_id": "03eef620d22d#2",
+          "score": 2.4527809619903564,
+          "content": "Bizans pratiğinden Türkçeye devralınan üst düzey kültür kavramları sayıca çok az olup, tümü Anadolu’nun Türkleşmesinin en erken aşamalarında, her halükârda İstanbul’un 1453’teki fethinden önce benimse...",
+          "metadata": {
+            "title": "Türkçe tarihi 6: Yunancadan gelen",
+            "date": "Nov 19, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-6-yunancadan-gelen-17-11-19",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.4527809619903564,
+          "dense_rank": null,
+          "sparse_rank": 42
+        },
+        {
+          "chunk_id": "566849ff7127#4",
+          "score": 2.4372363090515137,
+          "content": "Barış girişiminde bulunan İran Şahı Husrev Pervîz kendi saraylıları tarafından kurulan bir komplo sonucu 629’da öldürülmüştür. Bu sırada Bizans’ın müttefiki olan Türkler Kafkas geçitlerini aşıp İran E...",
+          "metadata": {
+            "title": "Bari dipnot ver birader",
+            "date": "Jan 17, 2013",
+            "source": "https://nisanyan.substack.com/p/bari-dipnot-ver-birader-13-01-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.4372363090515137,
+          "dense_rank": null,
+          "sparse_rank": 43
+        },
+        {
+          "chunk_id": "7b58c1c57a6e#3",
+          "score": 2.416562080383301,
+          "content": "Yanısıra Rum, Ermeni ve Müslüman Arap unsurlar vardır. 1071 öncesinde Rum devletinin temsilcileri ile kuzeyden göçen Ermeni feodalleri kıyasıya egemenlik çatışmasına girerler.\n>\n> 6. **Türk**: Bizans’...",
+          "metadata": {
+            "title": "Malazgirt'ten önce kimler vardı",
+            "date": "Jun 06, 2024",
+            "source": "https://nisanyan.substack.com/p/malazgirtten-once-kimler-vard",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.416562080383301,
+          "dense_rank": null,
+          "sparse_rank": 44
+        },
+        {
+          "chunk_id": "9efab887adf6#6",
+          "score": 2.412522077560425,
+          "content": "Adanus/Adanos değil.\n>\n> **Antakya:** Antiokh(e)ia. Türkçe isim oradan geliyor.\n>\n> **Antep:** Roma çağında yörenin başlıca kenti 9 km kuzeydeki Dolikhe idi. Antep Arap egemenliğinin tasfiyesinden son...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.412522077560425,
+          "dense_rank": null,
+          "sparse_rank": 45
+        },
+        {
+          "chunk_id": "9efab887adf6#4",
+          "score": 2.3872742652893066,
+          "content": "Yunan ve Roma çağına ait bir kayıt yok.\n>\n> **Kastamonu:** Bizans egemenliği döneminde adı geçmez. Türk egemenliğine girdikten sonra Bryennios Tarih’inde (1137) Kastamon olarak anılır. İsmin Kastra iç...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.3872742652893066,
+          "dense_rank": null,
+          "sparse_rank": 46
+        },
+        {
+          "chunk_id": "21532ac41187#1",
+          "score": 2.3656888008117676,
+          "content": "Bütün dünyada hep böyle olmuş. İngiltere’de aşiret yok, İskoçya’da var. Çünkü uzak. Fransa’da aşiret yok, Korsika’da var. Çünkü uzak. Çünkü devlet otoritesi zayıf. Devlet otoritesinin güçlü olması ne ...",
+          "metadata": {
+            "title": "Batıda neden aşiret yok",
+            "date": "28 January 2024",
+            "source": "https://www.sevannisanyan.com/metin/batida-neden-asiret-yok-89045",
+            "keywords": "aşiret, doğu/batı Türkiye, merkezi devlet"
+          },
+          "dense_score": null,
+          "sparse_score": 2.3656888008117676,
+          "dense_rank": null,
+          "sparse_rank": 47
+        },
+        {
+          "chunk_id": "8e83769e77b9#2",
+          "score": 2.3600902557373047,
+          "content": "Tek problemi vardır: sürdürülebilir değildir. İnsanlar çıplak sömürüye bir yere kadar tahammül eder. Sonra çalışmayı bırakırlar. Daha zorlasan kazan patlar. Eski çağdan bir öyküyle örnekleyelim. MS 5....",
+          "metadata": {
+            "title": "Liboşlar çeşit çeşit - 2",
+            "date": "Sep 14, 2018",
+            "source": "https://nisanyan.substack.com/p/liboslar-cesit-cesit-2-18-09-14",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.3600902557373047,
+          "dense_rank": null,
+          "sparse_rank": 48
+        },
+        {
+          "chunk_id": "171c44e48ba6#2",
+          "score": 2.3586902618408203,
+          "content": "**Harita 3: M 387 yılında Ermeni Krallığının Paylaşımı.**\n\nBunu da Robert Hewsen'ın atlasından kopyaladım. Pembe olan alan Miladın ilk dört yüzyılında Arşakuni/Arsacid soyundan krallarca yönetilen Arm...",
+          "metadata": {
+            "title": "Türkiye haritalarından bir demet",
+            "date": "Jan 13, 2013",
+            "source": "https://nisanyan.substack.com/p/turkiye-haritalarndan-bir-demet-13-01-13",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.3586902618408203,
+          "dense_rank": null,
+          "sparse_rank": 49
+        },
+        {
+          "chunk_id": "3a4dc8d94f46#0",
+          "score": 2.3586902618408203,
+          "content": "*Bir arkadaş kod adı Erzincan-Kemaliye olan Eğin’e fotoğraf turuna gidiyormuş, fikrimi sormuş. Söyledim.*Eğin’de ilk kez 2000’de bütün bir gün dolaşıp fotoğraf çekmeye çalıştım. Hayır, bulamadım. Geçm...",
+          "metadata": {
+            "title": "Eğin, Arapgir",
+            "date": "Mar 29, 2017",
+            "source": "https://nisanyan.substack.com/p/egin-arapgir-17-03-29",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.3586902618408203,
+          "dense_rank": null,
+          "sparse_rank": 50
+        }
+      ],
+      "performance": {
+        "total_time_ms": 1.8138885498046875,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "hybrid": {
+      "query": "Bizans İmparatorluğu",
+      "strategy": "hybrid",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "5ce22c5438ef#0",
+          "score": 0.03252247488101534,
+          "content": "**Bizans bir dönemin Roma İmparatorluğu gibi süper güç olmuş mudur? Yoksa dönem itibariyle kıyıda kalmış bir devlet miydi? Bilimden mi uzaklaştı ya da bürokrasi nedeniyle mi çöküşe doğru gitti acaba?*...",
+          "metadata": {
+            "title": "Bizans süper güç müydü",
+            "date": "09 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/bizans-super-guc-muydu-33757",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5582702736588278,
+          "sparse_score": 5.741306304931641,
+          "dense_rank": 2,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "5ce22c5438ef#1",
+          "score": 0.032266458495966696,
+          "content": "Jüstinyen zamanında kısa bir süre İtalya’nın tümünü kontrol altına almayı başardılar. Tunus’ta, İspanya’nın batı sahillerinde borularını öttürdüler. Bu egemenlik 6. yüzyıl ortalarında iflas etti. Bunu...",
+          "metadata": {
+            "title": "Bizans süper güç müydü",
+            "date": "09 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/bizans-super-guc-muydu-33757",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.6639588311684833,
+          "sparse_score": 4.284548282623291,
+          "dense_rank": 1,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "a65fa8729033#0",
+          "score": 0.03055037313432836,
+          "content": "Son paylaşımıma gelen cevaplardan anlaşıldı ki halkımız Osmanlı’dan nefret etmektedir, Osmanlı’yı bir tür über-AKP rejimi olarak tahayyül etmektedir – ya da öyle söyleyince Sevan Hoca’nın hoşuna gider...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 7
+          },
+          "dense_score": 0.506342008834567,
+          "sparse_score": 3.8304224014282227,
+          "dense_rank": 4,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "e7e9db5f28cb#0",
+          "score": 0.02946236559139785,
+          "content": "Timur'u izleyen yüz yılda Osmanlı'nın amacı, hedefi, ideali, Doğu Roma İmparatorluğu'nu ihya etmekti.\n\nÖnce II. Murat, peşinden Fatih, Bizans'ın düşkünlük çağında kaybettiği eski topraklarını kazanmak...",
+          "metadata": {
+            "title": "Yavuz neden kötü",
+            "date": "Jan 07, 2026",
+            "source": "https://nisanyan.substack.com/p/yavuz-neden-kotu",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.4598433873767451,
+          "sparse_score": 4.537440776824951,
+          "dense_rank": 15,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "a65fa8729033#1",
+          "score": 0.02821869488536155,
+          "content": "Osmanlı’nın kavramları ve kurumları bu iki imparatorluktan mirastır. Abbasilerin kaderinden ders alır; yerel askeri şeflerin palazlanmasını önlemek için, merkezi hazineden beslenen bir köle ordusu kur...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5141155175961962,
+          "sparse_score": 2.8165321350097656,
+          "dense_rank": 3,
+          "sparse_rank": 21
+        },
+        {
+          "chunk_id": "068e72c32a30#1",
+          "score": 0.027272727272727275,
+          "content": "Konstans zamanında (641-668) şekillenir. *Thema* esasen “üs” veya “mevzi” demektir. Sahayı değil karargahı tanımlar. Mesela Ermenistan’dan çekilen orduların thema’sı (*Armeniakón théma*) Amasya kentid...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4747243301693011,
+          "sparse_score": 2.909879684448242,
+          "dense_rank": 10,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "a2e0df9e025c#1",
+          "score": 0.027222222222222224,
+          "content": "Bizans bitti. Bu olayın sebeplerini, ayrıntılı analizini hiçbir yerde doğru dürüst görmedim. Din tabii işin görünen tarafıdır. Bunun altında mutlaka ekonomik ve siyasi nedenler vardır. Bizans yönetici...",
+          "metadata": {
+            "title": "Anadolu’nun Türkleşmesinde Lyon Konsili’nin rolü nedir",
+            "date": "13 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/anadolunun-turklesmesinde-lyon-konsilinin-rolu-nedir-76325",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4651961721834863,
+          "sparse_score": 2.9619457721710205,
+          "dense_rank": 12,
+          "sparse_rank": 15
+        },
+        {
+          "chunk_id": "826ff84ab6ab#1",
+          "score": 0.027119252873563218,
+          "content": "Haritada her eyaleti ayrı bir renkle gösterdik. Aşağıdaki listeler batıdan doğuya ve kuzeyden güneye sıralıdır. Kalın mavi çizgi MÖ 1. ila MS 3. /4. yüzyıllarda Roma İmparatorluğu’na bağlı olan Armeni...",
+          "metadata": {
+            "title": "Altıncı Yüzyılda Ermeni illeri",
+            "date": "Aug 24, 2024",
+            "source": "https://nisanyan.substack.com/p/altnc-yuzylda-ermeni-illeri",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 9
+          },
+          "dense_score": 0.4401517733994914,
+          "sparse_score": 4.263524055480957,
+          "dense_rank": 27,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "068e72c32a30#4",
+          "score": 0.026709401709401708,
+          "content": "Beyler üzerine süper-bey gelmiştir. Beylerbeyinin payitahtı önce Ankara’dır. Sonra (en geç 1451’de, belki 1402’den önce) Kütahya’ya taşınır. Anadoli Eyaletinin lağvedildiği 1841 yılına dek Kütahya’da ...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4578884698697416,
+          "sparse_score": 3.2177891731262207,
+          "dense_rank": 18,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "3679eaa13a8c#1",
+          "score": 0.02664576802507837,
+          "content": "Bizans imparatoru 7. Konstantin Porphyrogenetos’un çağdaş olayları anlatan siyasetnamesinden[[1]](https://www.blogger.com/blogger.g?blogID=1302467060357060984#_ftn1) çıkarabildiğimiz kadarıyla emir is...",
+          "metadata": {
+            "title": "Malazgirt, öncesi ve sonrası",
+            "date": "Aug 31, 2018",
+            "source": "https://nisanyan.substack.com/p/malazgirt-oncesi-ve-sonras-18-08-31",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.48847023331179834,
+          "sparse_score": 2.7033891677856445,
+          "dense_rank": 6,
+          "sparse_rank": 27
+        }
+      ],
+      "performance": {
+        "total_time_ms": 358.3559989929199,
+        "dense_time_ms": 357.7420711517334,
+        "sparse_time_ms": 0.5130767822265625,
+        "fusion_time_ms": 0.10085105895996094
+      },
+      "total_candidates": 100
+    }
+  },
+  "overlap_analysis": {
+    "total_unique_chunks": 80,
+    "pairwise_overlap": {
+      "dense_vs_sparse": {
+        "intersection": 20,
+        "union": 80,
+        "jaccard": 0.25,
+        "only_in_first": 30,
+        "only_in_second": 30
+      },
+      "dense_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      },
+      "sparse_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      }
+    }
+  }
+}

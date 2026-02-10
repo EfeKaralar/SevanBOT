@@ -1,0 +1,1858 @@
+{
+  "query": "modernleşme",
+  "strategies": {
+    "dense": {
+      "query": "modernleşme",
+      "strategy": "dense",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "f799365040fc#6",
+          "score": 0.44362986998158194,
+          "content": "Fakirleşme erdem sayıldı. Antika mobilyalar atılıp yerine formika masa alır gibi, bin yıllık köyler ve konaklar yıkılıp yerine apartman yapar gibi, dilde “modernleşme” ve tekdüzeleşme tercih edildi. Y...",
+          "metadata": {
+            "title": "Dile ve dillere dair bir söyleşi",
+            "date": "Aug 04, 2018",
+            "source": "https://nisanyan.substack.com/p/dile-ve-dillere-dair-bir-soylesi-18-08-04",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 7
+          },
+          "dense_score": 0.44362986998158194,
+          "sparse_score": null,
+          "dense_rank": 1,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "67a6439f69f8#2",
+          "score": 0.436110941653313,
+          "content": "Dolayısıyla bu deyimler, herhangi bir tekil sözcük kadar Türkçe leksikonun parçasıdır. Öte yandan, aynı kavramlar şayet son otuz yılda değil 1930 veya 1960’larda Türkçeye gelmiş olsa bunlara monolekse...",
+          "metadata": {
+            "title": "Öztürkçenin sonu",
+            "date": "May 10, 2019",
+            "source": "https://nisanyan.substack.com/p/ozturkcenin-sonu-19-05-10",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.436110941653313,
+          "sparse_score": null,
+          "dense_rank": 2,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6cf396f4cc41#2",
+          "score": 0.4268968096249946,
+          "content": "Bu anlamda bugünün İslamı — bugünün alt tabaka İslamı — son derece modern bir fenomendir. Tamamen çağdaş bir fenomendir. İslam tarihiyle alakası olmayan yeni bir hadisedir. Modernleşmenin ikinci perde...",
+          "metadata": {
+            "title": "İslam ülkeleri modernleşir mi",
+            "date": "28 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/islam-ulkeleri-modernlesir-mi-85915",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4268968096249946,
+          "sparse_score": null,
+          "dense_rank": 3,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "71ddfe8871fd#13",
+          "score": 0.42458670353428096,
+          "content": "Türk modernleşmesinin ilk versiyonu ile ikincisi (Yeni Osmanlıca ile Yeni Türkçe) arasındaki temel yapısal fark, ilkinin eski Osmanlı yazı dili ile prensipte bağını korumuş olmasıdır. Eski Osmanlıca k...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": "",
+            "chunk_index": 13,
+            "total_chunks": 17
+          },
+          "dense_score": 0.42458670353428096,
+          "sparse_score": null,
+          "dense_rank": 4,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "bcca4a95950b#2",
+          "score": 0.40932051357880306,
+          "content": "Civilisation karşılığı Osmanlıca önce **temeddün**, hemen ardından **medeniyyet**’tir. Yoğun bir düşünsel/siyasi kaynaşma dönemi olan 1830’larda dile girmiş olmalı. İlk kaynağı, aynı yıllarda Mısır’da...",
+          "metadata": {
+            "title": "Medeniyet ve uygurluk",
+            "date": "Mar 12, 2019",
+            "source": "https://nisanyan.substack.com/p/medeniyet-ve-uygurluk-19-03-12",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 5
+          },
+          "dense_score": 0.40932051357880306,
+          "sparse_score": null,
+          "dense_rank": 5,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "006c86ff2a95#3",
+          "score": 0.4090321465675985,
+          "content": "Bizim buralarda “Batılılaşma” (yahut daha kibar dilde: “modernleşme”) denen nesnenin Batı’yla, Batı uygarlığıyla, Batı’yı ilginç ve güzel ve, evet, ÜSTÜN kılan müthiş orijinallikle uzak yakın bir ilgi...",
+          "metadata": {
+            "title": "Batı dediğin tek dişi kalmış canavar mı?",
+            "date": "Oct 05, 2008",
+            "source": "https://nisanyan.substack.com/p/bat-dedigin-tek-disi-kalms-canavar-08-10-05",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4090321465675985,
+          "sparse_score": null,
+          "dense_rank": 6,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3bd8743c1107#10",
+          "score": 0.4077262270375034,
+          "content": "madde eklendi “mekanik bilet okuyucu”, etimoloji ve metin ör. eklendi\n\n“rafting sporunda çağlayan” ve “bir tür kalem” anlamları örneklendi\n\n1929’dan itibaren anlam evrimi gösterildi\n\n1929 metin örn. e...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": "",
+            "chunk_index": 10,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4077262270375034,
+          "sparse_score": null,
+          "dense_rank": 7,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6cd4b815f40c#2",
+          "score": 0.4075561951271264,
+          "content": "Bazen Dante veya Luther gibi ya da Muhammed gibi bir tane olağanüstü edip bütün toplumu peşinden sürükleyebilir. Değişimden yana olanların önünde ise bir dizi klasik ikilem vardır. Yeniliğin kaynaklar...",
+          "metadata": {
+            "title": "Türkçeye dair bir söyleşi",
+            "date": "12 March 2023",
+            "source": "https://www.sevannisanyan.com/metin/turkceye-dair-bir-soylesi-65599",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 13
+          },
+          "dense_score": 0.4075561951271264,
+          "sparse_score": null,
+          "dense_rank": 8,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "aa4a143969dd#1",
+          "score": 0.4066655354588583,
+          "content": "Selman oğlu Muhammed bambaşka bir olay. Devrimci bir lider. Büyük bir dönüşümü gerçekleştiriyor. Beş altı yıl önce ilk başa geçtiğinde bunu söyleyenler vardı, ama birçoklarımız hadisenin farkına bunda...",
+          "metadata": {
+            "title": "Geleceğin lideri Suudi Prensi Selman mı",
+            "date": "21 May 2023",
+            "source": "https://www.sevannisanyan.com/metin/gelecegin-lideri-suudi-prensi-selman-mi-79739",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4066655354588583,
+          "sparse_score": null,
+          "dense_rank": 9,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ba76c99f81f1#3",
+          "score": 0.4061783699763051,
+          "content": "Erdoğan’ın geleneksel Türk devlet üslubuna ve söylemine teslim oluş süreci o günlerde başladı.*\n\n*“Ölüm uçuşu” dedim çünkü attığı her adımla biraz daha yalnızlaşıyor, kazandığı her başarıyla felakete ...",
+          "metadata": {
+            "title": "Samos'tan görünen Türkiye",
+            "date": "Dec 13, 2017",
+            "source": "https://nisanyan.substack.com/p/samostan-gorunen-turkiye-17-12-13",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 8
+          },
+          "dense_score": 0.4061783699763051,
+          "sparse_score": null,
+          "dense_rank": 10,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cf016ce22ef3#1",
+          "score": 0.40502466711380847,
+          "content": "Bazen başarırlar, bazen başaramazlar. Başaramazlarsa nüfusları azalır. İnsan topluluklarını bundan farklı bir ölçütle değerlendirmek için bir sebep göremiyorum. İnsanlar kolektif varlıklarına değer ve...",
+          "metadata": {
+            "title": "Sağlıklı toplum kime denir",
+            "date": "Mar 16, 2025",
+            "source": "https://nisanyan.substack.com/p/saglkl-toplum-kime-denir",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.40502466711380847,
+          "sparse_score": null,
+          "dense_rank": 11,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5029fba41755#3",
+          "score": 0.4035752611073695,
+          "content": "Yeniliğin kaynakları dilin mevcut dağarcığından mı derlenecek, zamanın ruhuna uygun başka kaynaklar mı bulunacak? Leksikal üretim mi öncelenecek, sentaks mı esnetilecek? Avamın tercihleri mi yönlendir...",
+          "metadata": {
+            "title": "Dile ve Türkçeye dair bir söyleşi",
+            "date": "Mar 12, 2023",
+            "source": "https://nisanyan.substack.com/p/dile-ve-turkceye-dair-bir-soylesi",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 13
+          },
+          "dense_score": 0.4035752611073695,
+          "sparse_score": null,
+          "dense_rank": 12,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "372cd5fd3cef#2",
+          "score": 0.402738733088095,
+          "content": "Nitekim şimdi sermaye akımı zayıflayınca aynen öyle oluyor. Sonuç: Batı battı. Bir tek Almanya, Doğu Avrupa’yı sömürgeleştirerek kendine nefes payı açabildi. Fransa, İngiltere tükendi. ABD, nüfusunun ...",
+          "metadata": {
+            "title": "Liboşlar çeşit çeşit",
+            "date": "Sep 12, 2018",
+            "source": "https://nisanyan.substack.com/p/liboslar-cesit-cesit-18-09-12",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.402738733088095,
+          "sparse_score": null,
+          "dense_rank": 13,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "216e4472a69d#1",
+          "score": 0.40107894844637604,
+          "content": "Kibar insanlar olurlar. Dolayısıyla kurucu dedenin birtakım hasletlerinden, meziyetlerinden yoksun kalırlar. Yumuşarlar. Bu trend fazla ileri giderse toplum bir dizi hastalığa maruz kalır, hiç olmadığ...",
+          "metadata": {
+            "title": "Aristokrasi mi meritokrasi mi",
+            "date": "05 July 2020",
+            "source": "https://www.sevannisanyan.com/metin/aristokrasi-mi-meritokrasi-mi-70607",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.40107894844637604,
+          "sparse_score": null,
+          "dense_rank": 14,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0542ac4f1644#18",
+          "score": 0.40075196018250053,
+          "content": "ifrazat, iğtişaş, ihracat, itiras, ihtisas, iktisat, ilahiyat, illiyet, imalat, indifa, infilak, infisah, inhisar (monopol anlamında), insiyak, intaniye, intiba (impression anlamında), intişar (yayınl...",
+          "metadata": {
+            "title": "Hapiste boş oturma çalış",
+            "date": "Nov 05, 2014",
+            "source": "https://nisanyan.substack.com/p/hapiste-bos-oturma-cals-14-11-05",
+            "keywords": "",
+            "chunk_index": 18,
+            "total_chunks": 34
+          },
+          "dense_score": 0.40075196018250053,
+          "sparse_score": null,
+          "dense_rank": 15,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a4d589a6da69#12",
+          "score": 0.3981063660174074,
+          "content": "Her mahallede bir Galileo, her sanayi sitesinde bir Edison yahut Steve Jobs türedi mi? Yozgat’ta Mars kaşifleri sıraya girdi mi? Soruyu doğru sorarsan cevabı yarı yarıya vermiş olursun. Batı’yı ilginç...",
+          "metadata": {
+            "title": "Cumhuriyetin Batılı olması değil mesele, olamaması - Bölüm 1",
+            "date": "Oct 12, 2014",
+            "source": "https://nisanyan.substack.com/p/cumhuriyetin-batl-olmas-degil-mesele-14-10-12",
+            "keywords": "",
+            "chunk_index": 12,
+            "total_chunks": 17
+          },
+          "dense_score": 0.3981063660174074,
+          "sparse_score": null,
+          "dense_rank": 16,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "71ddfe8871fd#12",
+          "score": 0.39639507649782113,
+          "content": "Öte yandan Yeni Türkçenin mesela Tevfik Fikret veya Namık Kemal Osmanlıcasından daha elitist bir dil olduğu da söylenemez. Sınıfsal tabanları aşağı yukarı aynıdır; sınıfsal “tavır” da çok değişmemişti...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": "",
+            "chunk_index": 12,
+            "total_chunks": 17
+          },
+          "dense_score": 0.39639507649782113,
+          "sparse_score": null,
+          "dense_rank": 17,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "950fe9dd4a4f#2",
+          "score": 0.3961205982592515,
+          "content": "Bunları sunuyor şu anda dünyaya. Başka bir marifeti yok. Bu koşullardada, aman illallah, İslam kültüründen kurtulalım, ‘evrensel’ kültürü benimseyelim diyen geleneksel Tanzimat ve Cumhuriyet ideolojis...",
+          "metadata": {
+            "title": "Siyasal İslam aşıldı mı",
+            "date": "25 December 2022",
+            "source": "https://www.sevannisanyan.com/metin/siyasal-islam-asildi-mi-75175",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.3961205982592515,
+          "sparse_score": null,
+          "dense_rank": 18,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6cf396f4cc41#0",
+          "score": 0.3942740774368558,
+          "content": "**Müslüman ülkelerin modernleşmesi mümkün mü? Mümkün ise nasıl olur?**\n\nModernleşmeden ne kastettiğinize bağlı. Müslüman ülkeler 20. yüzyılın ilk yarısında veya çeyreğinde modernleşme yönünde çok cidd...",
+          "metadata": {
+            "title": "İslam ülkeleri modernleşir mi",
+            "date": "28 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/islam-ulkeleri-modernlesir-mi-85915",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.3942740774368558,
+          "sparse_score": null,
+          "dense_rank": 19,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "23160e7e3ebb#1",
+          "score": 0.39409866132040283,
+          "content": "Ayrıca 5- şehre hem yakın hem uzak olmalı, 6- içinde saklanacak ormanları olmalı, 7- mimarisi tutarsız olmalı. Bir kere, güzel. Üniversitinin asıl işlevi insanın ruhunu yüksek bir yerlere çekmek olmal...",
+          "metadata": {
+            "title": "Akademi inşa edeceklere öğütler",
+            "date": "May 04, 2014",
+            "source": "https://nisanyan.substack.com/p/akademi-insa-edeceklere-ogutler-14-05-04",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.39409866132040283,
+          "sparse_score": null,
+          "dense_rank": 20,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cf04a50b2f74#6",
+          "score": 0.39349213057220145,
+          "content": "Her mahallede bir Galileo, her sanayi sitesinde bir Edison yahut Steve Jobs türedi mi? Yozgat'ta Mars kaşifleri sıraya girdi mi? Soruyu doğru sorarsan cevabı yarı yarıya vermiş olursun. Batı'yı ilginç...",
+          "metadata": {
+            "title": "Cumhuriyetin Batılı olması değil mesele, olamaması - Bölüm 2",
+            "date": "Oct 13, 2014",
+            "source": "https://nisanyan.substack.com/p/cumhuriyetin-batl-olmas-degil-mesele-14-10-13",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 8
+          },
+          "dense_score": 0.39349213057220145,
+          "sparse_score": null,
+          "dense_rank": 21,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "30ae3adda35e#2",
+          "score": 0.3924761897185718,
+          "content": "Bir çeşit dil modası diyelim. Bunun teknik analizi üstüne tonlarca literatür vardır. Ses üretme aygıtımız, dört veya beş boyutta ikili kontrastlar üzerine kuruludur. Dil önde mi, arkada mı? Dudak kapa...",
+          "metadata": {
+            "title": "Ben neden men olur",
+            "date": "09 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/ben-neden-men-olur-10752",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.3924761897185718,
+          "sparse_score": null,
+          "dense_rank": 22,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3bd8743c1107#7",
+          "score": 0.3920388390499958,
+          "content": "İkincisinin hatalı Fr. etimolojisi düzeltildi. kort maddesine yönlendirildi. İng ve EFr tanımlar toparlandı\n\nnumara eklendi\n\nkur1’e yönlendirildi\n\nkur1’e yönlendirildi\n\nkur1’e yönlendirildi\n\nkur1’e yö...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 11
+          },
+          "dense_score": 0.3920388390499958,
+          "sparse_score": null,
+          "dense_rank": 23,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cd0cd3f252a8#0",
+          "score": 0.3920186382732711,
+          "content": "**19. yüzyıl sonlarına gelindiğinde tüm dünyada artık bir norm halini almış Batı’nın, Aydınlanma çağının, parlak ideallerini çökmeye götüren süreci anlatır mısınız? Şayet bunu başlatan faşizm ve içe k...",
+          "metadata": {
+            "title": "Avrupa ne zaman battı",
+            "date": "20 October 2022",
+            "source": "https://www.sevannisanyan.com/metin/avrupa-ne-zaman-batti-32444",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.3920186382732711,
+          "sparse_score": null,
+          "dense_rank": 24,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "32bfb91b211d#4",
+          "score": 0.3900172101284365,
+          "content": "Türk elitinin kültürel modeli ve sosyal dayanağı olan, ona modacı, eğitmen, garson, banker, editör, mimar, matbaacı, tarım danışmanı ve piyano hocası olarak hizmet eden yerli gayrimüslimler gidince, s...",
+          "metadata": {
+            "title": "Kısaca, modern Türkiye tarihi: Sekülarizm",
+            "date": "Jun 24, 2021",
+            "source": "https://nisanyan.substack.com/p/ksaca-modern-turkiye-tarihi-sekularizm-21-06-24",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 8
+          },
+          "dense_score": 0.3900172101284365,
+          "sparse_score": null,
+          "dense_rank": 25,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "a65fa8729033#4",
+          "score": 0.38974560810107617,
+          "content": "Dünya Harbinden sonra Batı’dan da hayal kırıklığına uğradı, “laiklik” ve milliyetçilik karışımı yeni bir dili kendine rehber edindi. İkinci İslam, kasaba ve çarşı muhalefetinin ideolojisidir. Miri rej...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 7
+          },
+          "dense_score": 0.38974560810107617,
+          "sparse_score": null,
+          "dense_rank": 26,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6b50eb9fa333#2",
+          "score": 0.3892163837900279,
+          "content": "Dolayısıyla bu deyimler, herhangi bir sözcük kadar Türkçe leksikonun parçasıdır. Öte yandan, aynı kavramlar şayet 2000’lerde değil 1930 veya 1960’larda Türkçeye gelmiş olsa bunlara monoleksemik karşıl...",
+          "metadata": {
+            "title": "Türkçe tarihi 2: Öztürkçenin sonu",
+            "date": "Nov 15, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-2-ozturkcenin-sonu-17-11-15",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.3892163837900279,
+          "sparse_score": null,
+          "dense_rank": 27,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6cf396f4cc41#1",
+          "score": 0.38772746808782055,
+          "content": "Diğer daha marjinal ülkelerden Afganistan 1920’lerde, 30’larda büyük bir modernizasyon hamlesine girişti. İngiliz yönetimi altında olan diğer büyük İslam diyarı, Hint ülkesi büyük bir dönüşüm geçirdi....",
+          "metadata": {
+            "title": "İslam ülkeleri modernleşir mi",
+            "date": "28 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/islam-ulkeleri-modernlesir-mi-85915",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.38772746808782055,
+          "sparse_score": null,
+          "dense_rank": 28,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0542ac4f1644#4",
+          "score": 0.3868763055199874,
+          "content": "Ama tarihi açıdan fantastik, değil mi?Komple yeni olanlar 147 tane: > adana (kebap adı), agronomi, akar2 (minik sinek), amniyosentez, badya, behram, beybi, bıcır, bık bık, bonibon, break (boks terimi,...",
+          "metadata": {
+            "title": "Hapiste boş oturma çalış",
+            "date": "Nov 05, 2014",
+            "source": "https://nisanyan.substack.com/p/hapiste-bos-oturma-cals-14-11-05",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 34
+          },
+          "dense_score": 0.3868763055199874,
+          "sparse_score": null,
+          "dense_rank": 29,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b0e492b1821c#3",
+          "score": 0.38620836028130073,
+          "content": "Büsbütün haksız sayılamazlar kanımca. Başka yol yok Globalleşmenin sonu geldi diyenler hayal aleminde yaşıyor, ondan yana endişen olmasın. İletişim desen, internetin daha emekleme çağındayız, yarın o ...",
+          "metadata": {
+            "title": "Liberalizm, devam",
+            "date": "Mar 20, 2017",
+            "source": "https://nisanyan.substack.com/p/liberalizm-devam-17-03-20",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.38620836028130073,
+          "sparse_score": null,
+          "dense_rank": 30,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3bd8743c1107#9",
+          "score": 0.3859254565767483,
+          "content": "Lat ala ile bağlantısı gösterildi\n\nLehçe-i Osmani metin örneği eklendi\n\nmuannit’ten ayrı madde açıldı, etimoloji ve metin örnekleri verildi\n\ntanım düzeltildi, muhanetle ilgili örnekler ayrıldı\n\nLehçe-...",
+          "metadata": {
+            "title": "Nişanyan Sözlük'ten son haberler",
+            "date": "Mar 04, 2019",
+            "source": "https://nisanyan.substack.com/p/nisanyan-sozlukten-son-haberler-19-03-04",
+            "keywords": "",
+            "chunk_index": 9,
+            "total_chunks": 11
+          },
+          "dense_score": 0.3859254565767483,
+          "sparse_score": null,
+          "dense_rank": 31,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "bcca4a95950b#0",
+          "score": 0.3843521576901654,
+          "content": "*‘Medeniyet’ nedir, ‘uygarlık’tan farkı nedir diye soran bir arkadaşa cevap.*\n\nHer ikisi Fr. *civilisation* tercümesidir. Osmanlı/Türk modernleşmesinin temel kavramları arasındadır.\n\nFr. *civiliser* f...",
+          "metadata": {
+            "title": "Medeniyet ve uygurluk",
+            "date": "Mar 12, 2019",
+            "source": "https://nisanyan.substack.com/p/medeniyet-ve-uygurluk-19-03-12",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 5
+          },
+          "dense_score": 0.3843521576901654,
+          "sparse_score": null,
+          "dense_rank": 32,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b0e492b1821c#2",
+          "score": 0.38373997857106223,
+          "content": "Özgürlük düşüncesi, merak etme, ölmez. Ama dikkat etmez isek, iki hastalığın birbiriyle çakışan krizinde, on yıllarca kendine gelmeyecek kadar hasar görebilir. Sonuçları ağır olur.\n\nÖldü diyelim\n\nÖldü...",
+          "metadata": {
+            "title": "Liberalizm, devam",
+            "date": "Mar 20, 2017",
+            "source": "https://nisanyan.substack.com/p/liberalizm-devam-17-03-20",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.38373997857106223,
+          "sparse_score": null,
+          "dense_rank": 33,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b9ebbfc2a372#2",
+          "score": 0.38249125020184227,
+          "content": "İnsanlık tarihinin en çarpıcı, en üretken, en devrimci fikir ve sanat açılımlarından biridir. Önceki çağa bir tepkidir. Temel hareket noktası, Avrupa’yı iki yüz yıl meşgul eden din ve mezhep kavgaları...",
+          "metadata": {
+            "title": "'Aydınlanma' nedir?",
+            "date": "Mar 09, 2020",
+            "source": "https://nisanyan.substack.com/p/aydnlanma-nedir-20-03-09",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.38249125020184227,
+          "sparse_score": null,
+          "dense_rank": 34,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "585eefa74af0#1",
+          "score": 0.38192863788640835,
+          "content": "5) Aynı yy sonunda sosyal yapıda biçimsel Batılılaşma hareketleri gelir - 3.Selim ve 2.Mahmud - kılık kıyafet değişikliği, Anadolu Rum'unun \"fes\"ini benimseme, batılı gibi giyinme (Fransız Devriminin ...",
+          "metadata": {
+            "title": "Marx'ta hayat yok",
+            "date": "Nov 03, 2014",
+            "source": "https://nisanyan.substack.com/p/marxta-hayat-yok-14-11-03",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.38192863788640835,
+          "sparse_score": null,
+          "dense_rank": 35,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "71ddfe8871fd#11",
+          "score": 0.3795130715023508,
+          "content": "Metot farklıdır, yapılan işin amacı ve mantığı baki kalır. Bunu daha önce yazdım sanırım, yeni dilin tanımlayıcı özelliği “çeviri tadıdır”. Yeni Türkçe sözcüklerin Fransızca ve/veya Osmanlıca karşılığ...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": "",
+            "chunk_index": 11,
+            "total_chunks": 17
+          },
+          "dense_score": 0.3795130715023508,
+          "sparse_score": null,
+          "dense_rank": 36,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "589942a340e1#3",
+          "score": 0.3791358362533144,
+          "content": "Sonuçta toplumun yarısı, memur olmak dışında hiçbir işe yarar becerisi olmayan insanlarla dolar. Onlara masa başı işi ayarlamaya uğraşırken gene bütçen patlar. Özetle devleti küçülteceğiz dediler, büy...",
+          "metadata": {
+            "title": "Neden anti kapitalist olunur",
+            "date": "11 April 2020",
+            "source": "https://www.sevannisanyan.com/metin/neden-anti-kapitalist-olunur-20879",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 7
+          },
+          "dense_score": 0.3791358362533144,
+          "sparse_score": null,
+          "dense_rank": 37,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "372cd5fd3cef#3",
+          "score": 0.378378576110056,
+          "content": "Dünya yaşanmaz bir yer haline geldi. İç dengeleri iyi kurulmamış toplumlarda dehşet verici adaletsizlikler ortaya çıktı. Dün köyünde aç ve onurlu olan insanlar, dün tamah ettikleri ücretlerle şimdi el...",
+          "metadata": {
+            "title": "Liboşlar çeşit çeşit",
+            "date": "Sep 12, 2018",
+            "source": "https://nisanyan.substack.com/p/liboslar-cesit-cesit-18-09-12",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.378378576110056,
+          "sparse_score": null,
+          "dense_rank": 38,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3af1e9e6dc6e#7",
+          "score": 0.3780725904678805,
+          "content": "Bahçeye dikilecek ağaçların dizilişinde ne kadar katı bir geometri uygulanmalı? Taşd uvarı yamarken Beylikiçi’nin sarı taşı mı yoksa vadinin beji mi daha uyumlu olur? Günde bunun gibi yirmi, otuz, kır...",
+          "metadata": {
+            "title": "Şirince: Bir muhasebe",
+            "date": "Jul 25, 2016",
+            "source": "https://nisanyan.substack.com/p/sirince-bir-muhasebe-16-07-25",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 11
+          },
+          "dense_score": 0.3780725904678805,
+          "sparse_score": null,
+          "dense_rank": 39,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "e03bcf6f0da5#1",
+          "score": 0.37712645748579243,
+          "content": "Çünkü insanoğlunun en temel ihtiyacı, en temel ve vazgeçilmez psikolojik itkisi, dürtüsü, itibardır. “Ooo Sevan Bey çok iyisin, maşallah.” Bunu dedirtmektir. Komşun bunu dediği zaman mutlu olursun. Ça...",
+          "metadata": {
+            "title": "Komşunun iPhone’u neden önemli",
+            "date": "30 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/komsunun-iphoneu-neden-onemli-30858",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.37712645748579243,
+          "sparse_score": null,
+          "dense_rank": 40,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6cf396f4cc41#3",
+          "score": 0.37682970376496194,
+          "content": "Bir inkar psikozu içindeler. Toplumda faydalı bir işlev görmeleri ihtimali pek kalmadı. Batı’nın moral üstünlüğü, kültürel üstünlüğü, ahlaki üstünlüğü, ideolojik önderliği tarihe karışmıştır. Ekonomik...",
+          "metadata": {
+            "title": "İslam ülkeleri modernleşir mi",
+            "date": "28 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/islam-ulkeleri-modernlesir-mi-85915",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.37682970376496194,
+          "sparse_score": null,
+          "dense_rank": 41,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "641bf25da464#3",
+          "score": 0.3768171518138681,
+          "content": "Nitekim demokrasi tarihi bu yönelimin feci örnekleriyle doludur. Yeni yeni şöyle bir ayrım yapılmaya başlandı. Bir demokrasi var, bir de popülizm var. Demokrasi demek, halk yönetimi demek; popülizm de...",
+          "metadata": {
+            "title": "Demokrasinin geleceği var mı",
+            "date": "16 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/demokrasinin-gelecegi-var-mi-24123",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 10
+          },
+          "dense_score": 0.3768171518138681,
+          "sparse_score": null,
+          "dense_rank": 42,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6488ebc7ff57#0",
+          "score": 0.3757999518483311,
+          "content": "**Bugünkü seküler şehirliler, dindar köylüler ve taşralılar ikiliği, geçmişte tersi miydi? Osmanlı üst zümresi, halkı dinsiz cahiller, kendilerini ise gerçek dindar olarak mı görüyordu?**\n\nKesinlikle....",
+          "metadata": {
+            "title": "İslamcılık nasıl tersine döndü",
+            "date": "09 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/islamcilik-nasil-tersine-dondu-03820",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.3757999518483311,
+          "sparse_score": null,
+          "dense_rank": 43,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "23160e7e3ebb#2",
+          "score": 0.375153004675751,
+          "content": "Deha yepyeni bir şeyden de Güzellik çıkarabilir. Deha yoksa, klasiğe sadık kalmak daha kolay. İkincisi, sevimli. Akademi insani ve davetkar olmalı. \"Burası benim evim, hayatımı burada geçirebilirim” d...",
+          "metadata": {
+            "title": "Akademi inşa edeceklere öğütler",
+            "date": "May 04, 2014",
+            "source": "https://nisanyan.substack.com/p/akademi-insa-edeceklere-ogutler-14-05-04",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.375153004675751,
+          "sparse_score": null,
+          "dense_rank": 44,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3899a2419c53#0",
+          "score": 0.3745048256993062,
+          "content": "Çağdaş yaşamı tabii ki destekleriz. Çağdaş yaşamı kim desteklemez? Ben illa retro takılacağım, kafama fes giyeceğim diyen mi var?Bunların anlamadığı veya anlamazlıktan geldiği şu: Çağdaş yaşamın simge...",
+          "metadata": {
+            "title": "Retro takılmak",
+            "date": "May 18, 2009",
+            "source": "https://nisanyan.substack.com/p/retro-taklmak-09-05-18",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.3745048256993062,
+          "sparse_score": null,
+          "dense_rank": 45,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "67a6439f69f8#1",
+          "score": 0.3736717307668189,
+          "content": "Aşağıda 24 Kasım 2014 tarihli bir gazetenin sadece ilk beş sayfasında tesadüf ettiğim deyimlerden birkaçını görüyoruz. Tümü bildiğim kadarıyla 1980 veya 1990’lı yıllardan sonrasına aittir. *atölye çal...",
+          "metadata": {
+            "title": "Öztürkçenin sonu",
+            "date": "May 10, 2019",
+            "source": "https://nisanyan.substack.com/p/ozturkcenin-sonu-19-05-10",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.3736717307668189,
+          "sparse_score": null,
+          "dense_rank": 46,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b6c87ed72216#3",
+          "score": 0.37248174899926345,
+          "content": "Askeri vesayetten sıtkı sıyrılmış herkes yine de iktidarın icraatlerine destek vermeye devam etti. Ama kafalardaki \"LAN ACABA?\" sorusu giderek güçlenmeye başladı.*\n\n*Mesela sizce, Dsip falan gibi bir ...",
+          "metadata": {
+            "title": "Bıktık mı artık bu memleketten?",
+            "date": "Apr 29, 2014",
+            "source": "https://nisanyan.substack.com/p/bktk-m-artk-bu-memleketten-14-04-29",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 14
+          },
+          "dense_score": 0.37248174899926345,
+          "sparse_score": null,
+          "dense_rank": 47,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "97e0cdd49c5f#2",
+          "score": 0.3724693206508273,
+          "content": "Çünkü, kurumsal skleroza uğramış medrese ilmi. Kurumsal bağlarla kendini bağlamış. Aşabilmek için topyekün bazı şeyleri reddetmeniz gerekmiş. Aradaki en önemli fark bu, dogma meselesi. Batı ve Doğunun...",
+          "metadata": {
+            "title": "Medrese ile çağdaş bilimin farkı ne",
+            "date": "17 December 2023",
+            "source": "https://www.sevannisanyan.com/metin/medrese-ile-cagdas-bilimin-farki-ne-25080",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.3724693206508273,
+          "sparse_score": null,
+          "dense_rank": 48,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "67c58c5e2e95#0",
+          "score": 0.3717422615159045,
+          "content": "**Hocam anladığım kadarıyla mütevazı ev mimarisi ve dekorasyonunu lükse tercih ediyorsunuz. Açıklar mısınız?**\n\nVersay Sarayını önerseler bana yahut Blenheim Şatosunu önerseler kesinlikle hayır demem....",
+          "metadata": {
+            "title": "Mikelanj tavanımı boyasa hayır der miyim",
+            "date": "02 April 2023",
+            "source": "https://www.sevannisanyan.com/metin/mikelanj-tavanimi-boyasa-hayir-der-miyim-38177",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.3717422615159045,
+          "sparse_score": null,
+          "dense_rank": 49,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "358a7cc3d8e5#1",
+          "score": 0.36933705601532973,
+          "content": "Soru şu: Neden yeni bir kelime – pardon iki kelime? Nereden çıktı bu ihtiyaç? 1750’ye gelindiğinde şunları görüyoruz. Fransa ve İngiltere’de Yeni Monarşi 200 küsur yıldan beri pekişmiş, sağlam görünen...",
+          "metadata": {
+            "title": "Kapitalist, kapitalizm - I",
+            "date": "Sep 03, 2021",
+            "source": "https://nisanyan.substack.com/p/kapitalist-kapitalizm-i",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 5
+          },
+          "dense_score": 0.36933705601532973,
+          "sparse_score": null,
+          "dense_rank": 50,
+          "sparse_rank": null
+        }
+      ],
+      "performance": {
+        "total_time_ms": 217.57793426513672,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "sparse": {
+      "query": "modernleşme",
+      "strategy": "sparse",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "6cf396f4cc41#2",
+          "score": 3.365229368209839,
+          "content": "Bu anlamda bugünün İslamı — bugünün alt tabaka İslamı — son derece modern bir fenomendir. Tamamen çağdaş bir fenomendir. İslam tarihiyle alakası olmayan yeni bir hadisedir. Modernleşmenin ikinci perde...",
+          "metadata": {
+            "title": "İslam ülkeleri modernleşir mi",
+            "date": "28 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/islam-ulkeleri-modernlesir-mi-85915",
+            "keywords": "Batının çöküşü, İslamda modernleşme, modernleşme"
+          },
+          "dense_score": null,
+          "sparse_score": 3.365229368209839,
+          "dense_rank": null,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "6cf396f4cc41#0",
+          "score": 3.163335084915161,
+          "content": "**Müslüman ülkelerin modernleşmesi mümkün mü? Mümkün ise nasıl olur?**\n\nModernleşmeden ne kastettiğinize bağlı. Müslüman ülkeler 20. yüzyılın ilk yarısında veya çeyreğinde modernleşme yönünde çok cidd...",
+          "metadata": {
+            "title": "İslam ülkeleri modernleşir mi",
+            "date": "28 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/islam-ulkeleri-modernlesir-mi-85915",
+            "keywords": "Batının çöküşü, İslamda modernleşme, modernleşme"
+          },
+          "dense_score": null,
+          "sparse_score": 3.163335084915161,
+          "dense_rank": null,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "6ae455cb6c50#3",
+          "score": 3.117882013320923,
+          "content": "Ermeniler teorik olarak 1856’dan itibaren orduya kabul edilmişlerse de fiiliyatta ancak 1910’dan itibaren askere alınmışlar ve ilk kez 1912 Balkan Harbinde Osmanlı saflarında muharebeye katılmışlardır...",
+          "metadata": {
+            "title": "Bakan bile olmuş nankörler",
+            "date": "Jan 14, 2013",
+            "source": "https://nisanyan.substack.com/p/bakan-bile-olmus-nankorler-13-01-14",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.117882013320923,
+          "dense_rank": null,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "6cf396f4cc41#1",
+          "score": 2.9564566612243652,
+          "content": "Diğer daha marjinal ülkelerden Afganistan 1920’lerde, 30’larda büyük bir modernizasyon hamlesine girişti. İngiliz yönetimi altında olan diğer büyük İslam diyarı, Hint ülkesi büyük bir dönüşüm geçirdi....",
+          "metadata": {
+            "title": "İslam ülkeleri modernleşir mi",
+            "date": "28 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/islam-ulkeleri-modernlesir-mi-85915",
+            "keywords": "Batının çöküşü, İslamda modernleşme, modernleşme"
+          },
+          "dense_score": null,
+          "sparse_score": 2.9564566612243652,
+          "dense_rank": null,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "52b154855a8a#4",
+          "score": 2.952298641204834,
+          "content": "“The Islamic Enlightenment”, İslam’da Aydınlanma diyelim. Özellikle üç ülkede, Türkiye, Mısır ve İran'da batıyla yüzleşme, batılılaşma, modernleşme, batı kültürünün üstünlüğünü benimseme ve buna bir t...",
+          "metadata": {
+            "title": "Kitap ve film tavsiyeleri",
+            "date": "16 February 2020",
+            "source": "https://www.sevannisanyan.com/metin/kitap-ve-film-tavsiyeleri-17958",
+            "keywords": "film tavsiyeleri, roman tavsiyeleri"
+          },
+          "dense_score": null,
+          "sparse_score": 2.952298641204834,
+          "dense_rank": null,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "a4d589a6da69#1",
+          "score": 2.9275152683258057,
+          "content": "Protestan yahut Katolik olmadan Batılı olunabilir mi? Osmanlı modernleşmesinde de Tevfik Fikret ve Dr. Abdullah Cevdet’in sekülarist çizgisi egemen değildir, ikinci kanaldır. Sonuçta gerçi çıkış yolu ...",
+          "metadata": {
+            "title": "Cumhuriyetin Batılı olması değil mesele, olamaması - Bölüm 1",
+            "date": "Oct 12, 2014",
+            "source": "https://nisanyan.substack.com/p/cumhuriyetin-batl-olmas-degil-mesele-14-10-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.9275152683258057,
+          "dense_rank": null,
+          "sparse_rank": 6
+        },
+        {
+          "chunk_id": "530da102cc5b#6",
+          "score": 2.836270809173584,
+          "content": "Başka zaman \"din elden gidiyor\" moda olabilir, ya da \"kahraman Türk milleti\" moda olabilir, öyle derler. Yeter ki baş kaldıranın başı ezilsin. Dersim katliamının, gerek mantık, gerek teşkilatlanma, ge...",
+          "metadata": {
+            "title": "Cumhuriyetin Batılı olması değil mesele, olamaması - Bölüm 3",
+            "date": "Oct 14, 2014",
+            "source": "https://nisanyan.substack.com/p/cumhuriyetin-batl-olmas-degil-mesele-14-10-14",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.836270809173584,
+          "dense_rank": null,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "006c86ff2a95#3",
+          "score": 2.778169870376587,
+          "content": "Bizim buralarda “Batılılaşma” (yahut daha kibar dilde: “modernleşme”) denen nesnenin Batı’yla, Batı uygarlığıyla, Batı’yı ilginç ve güzel ve, evet, ÜSTÜN kılan müthiş orijinallikle uzak yakın bir ilgi...",
+          "metadata": {
+            "title": "Batı dediğin tek dişi kalmış canavar mı?",
+            "date": "Oct 05, 2008",
+            "source": "https://nisanyan.substack.com/p/bat-dedigin-tek-disi-kalms-canavar-08-10-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.778169870376587,
+          "dense_rank": null,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "71ddfe8871fd#12",
+          "score": 2.7088074684143066,
+          "content": "Öte yandan Yeni Türkçenin mesela Tevfik Fikret veya Namık Kemal Osmanlıcasından daha elitist bir dil olduğu da söylenemez. Sınıfsal tabanları aşağı yukarı aynıdır; sınıfsal “tavır” da çok değişmemişti...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.7088074684143066,
+          "dense_rank": null,
+          "sparse_rank": 9
+        },
+        {
+          "chunk_id": "67848f12d1c7#2",
+          "score": 2.6953487396240234,
+          "content": "Sekiz **Muradiye**’nin kaçı Sultan Murat-ı Hamis’in üç aylık saltanatının anısıdır bilmiyorum. **Reşadiye**’ler 25 tane, buna karşılık Afyon Emridağ’daki **Vahdetiye** en talihsiz padişahın adını mı s...",
+          "metadata": {
+            "title": "Anadolu'da gezintiler: Yeni Osmanlıca",
+            "date": "May 30, 2018",
+            "source": "https://nisanyan.substack.com/p/anadoluda-gezintiler-yeni-osmanlca-18-05-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.6953487396240234,
+          "dense_rank": null,
+          "sparse_rank": 10
+        },
+        {
+          "chunk_id": "a4d589a6da69#0",
+          "score": 2.6953487396240234,
+          "content": "*Değer verdiğim ve yazılarını çoğu zaman beğenerek okuduğum bir yazar olan Ümit Kardaş’ın Taraf’ta çıkan “Cumhuriyetin Oryantalizmi” başlıklı yazısına ilişkin notlar.*\n\n**“Osmanlı aydını, Batılılaşmay...",
+          "metadata": {
+            "title": "Cumhuriyetin Batılı olması değil mesele, olamaması - Bölüm 1",
+            "date": "Oct 12, 2014",
+            "source": "https://nisanyan.substack.com/p/cumhuriyetin-batl-olmas-degil-mesele-14-10-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.6953487396240234,
+          "dense_rank": null,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "3d3eeea17802#0",
+          "score": 2.6451895236968994,
+          "content": "**19. yüzyıldaki Kahire-İstanbul rekabeti hakkında ne dersiniz? Özellikle modernleşme bağlamında bana literatürde yeterince işlenmemiş gibi geliyor.**\n\nTürkiye’de özellikle 19. yüzyılın son çeyreğinde...",
+          "metadata": {
+            "title": "Mısır neden Osmanlı’dan önce modernleşti",
+            "date": "16 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/misir-neden-osmanlidan-once-modernlesti-46921",
+            "keywords": "İslamda modernleşme, Mısır, Osmanlı"
+          },
+          "dense_score": null,
+          "sparse_score": 2.6451895236968994,
+          "dense_rank": null,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "a5d382a25e6b#1",
+          "score": 2.6131198406219482,
+          "content": "1913-23 yılları arasındaki on yıllık kriz döneminde bu süreç kırıldı. Mustafa Kemal Paşa’nın mensubu ve aktif görevlisi olduğu siyasi hareketin eylemleriyle kırıldı süreç. İttihat ve Terakki yönetimi ...",
+          "metadata": {
+            "title": "Atatürk olmasa Türkiye Taliban mı olurdu",
+            "date": "15 August 2021",
+            "source": "https://www.sevannisanyan.com/metin/ataturk-olmasa-turkiye-taliban-mi-olurdu-70280",
+            "keywords": "Afganistan, Atatürk, Batının çöküşü, İttihat ve Terakki, Talibancılık"
+          },
+          "dense_score": null,
+          "sparse_score": 2.6131198406219482,
+          "dense_rank": null,
+          "sparse_rank": 13
+        },
+        {
+          "chunk_id": "71ddfe8871fd#4",
+          "score": 2.4554169178009033,
+          "content": "Birinci kriz Batı ile tanışmadır. Birden fark edilir ki duvarın öbür yanında önceden hiç haberdar olunmayan devasa bir Kaf Dağı vardır. Osmanlı dili bu dağı kavramaktan, ifade etmekten, yorumlamaktan ...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.4554169178009033,
+          "dense_rank": null,
+          "sparse_rank": 14
+        },
+        {
+          "chunk_id": "129faaf67da3#2",
+          "score": 2.4153311252593994,
+          "content": "Cervantes’in Don Kişot’u da Arap harfleriyle çıkmadan birkaç yıl önce Ermeni harfleriyle çıkmıştır. Neden önce onlar diye soralım isterseniz. Buradaki püf noktasını yakalarsanız pek çok şeyi anlıyorsu...",
+          "metadata": {
+            "title": "İlk Türkçe roman hangisi",
+            "date": "05 December 2021",
+            "source": "https://www.sevannisanyan.com/metin/ilk-turkce-roman-hangisi-37805",
+            "keywords": "Osmanlı gayrimüslimleri, Türkçe roman, Vartan Paşa"
+          },
+          "dense_score": null,
+          "sparse_score": 2.4153311252593994,
+          "dense_rank": null,
+          "sparse_rank": 15
+        },
+        {
+          "chunk_id": "d284a2f9e703#0",
+          "score": 2.4046247005462646,
+          "content": "**Kanal İstanbul ranttan başka bir anlam ifade ediyor mu?**\n\nDiyelim ki öyle, rantın zararı ne onu anlamadım. Bir şekilde insanlar para kazanacak. Eğer memleket de para kazanacaksa niye kazanmasınlar?...",
+          "metadata": {
+            "title": "Kanal İstanbul’u neden tasvip etmiyoruz",
+            "date": "15 December 2019",
+            "source": "https://www.sevannisanyan.com/metin/kanal-istanbulu-neden-tasvip-etmiyoruz-60027",
+            "keywords": "İstanbul, Kanal İstan bul, Tayyip Erdoğan, TMMOB"
+          },
+          "dense_score": null,
+          "sparse_score": 2.4046247005462646,
+          "dense_rank": null,
+          "sparse_rank": 16
+        },
+        {
+          "chunk_id": "0b9e1d8fdb4a#1",
+          "score": 2.373067855834961,
+          "content": "Tatarlar da vardı aralarında, Ermeniler de vardı, Almanlar ve Lehler de vardı. Fakat onlar da Rus kimliğiyle ve Rus milli takımının bir oyuncusu olarak hareket ettiler. Osmanlı Devleti içinde ise, çok...",
+          "metadata": {
+            "title": "Rus neden başardı da Osmanlı başaramadı",
+            "date": "21 May 2023",
+            "source": "https://www.sevannisanyan.com/metin/rus-neden-basardi-da-osmanli-basaramadi-35641",
+            "keywords": "Deli Petro, Osmanlı modernleşmesi, Rusya tarihi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.373067855834961,
+          "dense_rank": null,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "9ae6783a0a41#2",
+          "score": 2.369612455368042,
+          "content": "Merkez servete doysun. Yerelde aracı sınıflarla onların çevresi zenginlik ve şaşaaya kavuşsun, Küçük Amerika hayalleri kursun, gerisi çürüse de kimin umurunda. Rusya’nınki Model C, ikisine de pek benz...",
+          "metadata": {
+            "title": "Aferin Ruslara",
+            "date": "Dec 20, 2019",
+            "source": "https://nisanyan.substack.com/p/aferin-ruslara-19-12-20",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.369612455368042,
+          "dense_rank": null,
+          "sparse_rank": 18
+        },
+        {
+          "chunk_id": "f799365040fc#6",
+          "score": 2.3322579860687256,
+          "content": "Fakirleşme erdem sayıldı. Antika mobilyalar atılıp yerine formika masa alır gibi, bin yıllık köyler ve konaklar yıkılıp yerine apartman yapar gibi, dilde “modernleşme” ve tekdüzeleşme tercih edildi. Y...",
+          "metadata": {
+            "title": "Dile ve dillere dair bir söyleşi",
+            "date": "Aug 04, 2018",
+            "source": "https://nisanyan.substack.com/p/dile-ve-dillere-dair-bir-soylesi-18-08-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.3322579860687256,
+          "dense_rank": null,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "7ae6a2f7cc15#2",
+          "score": 2.242283344268799,
+          "content": "Bu toplumda da, bu konuda makul fikirler ileri sürebilecek insanların çok olduğunu düşünüyorum. Bugün bu imkanımız yok çünkü inkar ediliyor. Aynı anda, ahlaken soykırımın doğru bir şey olduğu savunulu...",
+          "metadata": {
+            "title": "Azerbaycan Danışığı-2",
+            "date": "30 August 2022",
+            "source": "https://www.sevannisanyan.com/metin/azerbaycan-danisigi-2-12830",
+            "keywords": "Azerrbaycan, dillerin evrimi, Ermenilik, Ermenistan, Rusya, Ukrayna"
+          },
+          "dense_score": null,
+          "sparse_score": 2.242283344268799,
+          "dense_rank": null,
+          "sparse_rank": 20
+        },
+        {
+          "chunk_id": "fbfedc18ca47#10",
+          "score": 2.211808919906616,
+          "content": "Daha önemlisi, aile dayanışmalarının, dini cemaat dayanışmalarının daha kuvvetli olduğu bir toplumda, merkezi bir ideolojinin her yere nüfuz etme şansı yoktur. Türkiye’de modernleşmenin getirdiği en b...",
+          "metadata": {
+            "title": "On Kasım neden anılır",
+            "date": "13 November 2020",
+            "source": "https://www.sevannisanyan.com/metin/on-kasim-neden-anilir-85728",
+            "keywords": "Atatürk, Kemal kültü, on kasım"
+          },
+          "dense_score": null,
+          "sparse_score": 2.211808919906616,
+          "dense_rank": null,
+          "sparse_rank": 21
+        },
+        {
+          "chunk_id": "bcca4a95950b#2",
+          "score": 2.030625104904175,
+          "content": "Civilisation karşılığı Osmanlıca önce **temeddün**, hemen ardından **medeniyyet**’tir. Yoğun bir düşünsel/siyasi kaynaşma dönemi olan 1830’larda dile girmiş olmalı. İlk kaynağı, aynı yıllarda Mısır’da...",
+          "metadata": {
+            "title": "Medeniyet ve uygurluk",
+            "date": "Mar 12, 2019",
+            "source": "https://nisanyan.substack.com/p/medeniyet-ve-uygurluk-19-03-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.030625104904175,
+          "dense_rank": null,
+          "sparse_rank": 22
+        },
+        {
+          "chunk_id": "7f209dbaa08b#0",
+          "score": 2.000669240951538,
+          "content": "Aleksandros Karatheodori aslen Edirne Bosnaköy’lü bir Rum ailede doğdu. Babası **Stephanos K.** Ayvalık Akademisi’nden sonra Pisa ve Floransa’da tıp ve felsefe okumuş, II. Mahmut’un şahsi doktoru olmu...",
+          "metadata": {
+            "title": "Paşanızın öyküsü",
+            "date": "Aug 27, 2021",
+            "source": "https://nisanyan.substack.com/p/pasanzn-oykusu-21-08-27",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.000669240951538,
+          "dense_rank": null,
+          "sparse_rank": 23
+        },
+        {
+          "chunk_id": "a96850d364cb#2",
+          "score": 1.9295086860656738,
+          "content": "Ancak Sovyet ihtilalinden sonra, 1920’lerden itibaren duyulmaya başlayacaktır proleter sınıfının ve yoksulların, daha sonra da köylünün hakları meselesi. Buna karşılık kadın hakları yakıcı bir konudur...",
+          "metadata": {
+            "title": "Batı ahlaken üstün müydü",
+            "date": "19 November 2023",
+            "source": "https://www.sevannisanyan.com/metin/bati-ahlaken-ustun-muydu-22345",
+            "keywords": "ahlak, Batı, kadın hakları"
+          },
+          "dense_score": null,
+          "sparse_score": 1.9295086860656738,
+          "dense_rank": null,
+          "sparse_rank": 24
+        },
+        {
+          "chunk_id": "a5d382a25e6b#0",
+          "score": 1.9113794565200806,
+          "content": "**Kemalistlerin bugün Twitter’da sıkça dillendirdiği gibi, Atatürk olmasaydı ülke Taliban olurdu görüşüne cevabınız nedir?**\n\nBu kadar cahil insanların konuşması bir toplumun sağlığı için zararlıdır d...",
+          "metadata": {
+            "title": "Atatürk olmasa Türkiye Taliban mı olurdu",
+            "date": "15 August 2021",
+            "source": "https://www.sevannisanyan.com/metin/ataturk-olmasa-turkiye-taliban-mi-olurdu-70280",
+            "keywords": "Afganistan, Atatürk, Batının çöküşü, İttihat ve Terakki, Talibancılık"
+          },
+          "dense_score": null,
+          "sparse_score": 1.9113794565200806,
+          "dense_rank": null,
+          "sparse_rank": 25
+        },
+        {
+          "chunk_id": "aa226bc115c4#2",
+          "score": 1.863236427307129,
+          "content": "Üniversite gençliğinin yürüyüşe katılmasını teşvik ve organize edenlerin başı Ali Kemal’dir. Daha sonra İttihat ve Terakki yönetimi tarafından yeniden sürgüne gönderilir. Birinci Dünya Savaşı’nın sonu...",
+          "metadata": {
+            "title": "Ali Kemal kimdi",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/ali-kemal-kimdi-67640",
+            "keywords": "Ali Kemal, İttihat ve Terakki"
+          },
+          "dense_score": null,
+          "sparse_score": 1.863236427307129,
+          "dense_rank": null,
+          "sparse_rank": 26
+        },
+        {
+          "chunk_id": "bcca4a95950b#3",
+          "score": 1.8589798212051392,
+          "content": "Teatro ve opera gibi kamusal gösteri kurumları olmadan gerçek anlamda şehirli yaşam mümkün müdür? Uygurlar 8. yy’ın sonunda ilk Türk devletini yıktıktan sonra İpek Yolu’nun doğu ucunda hayli incelikli...",
+          "metadata": {
+            "title": "Medeniyet ve uygurluk",
+            "date": "Mar 12, 2019",
+            "source": "https://nisanyan.substack.com/p/medeniyet-ve-uygurluk-19-03-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8589798212051392,
+          "dense_rank": null,
+          "sparse_rank": 27
+        },
+        {
+          "chunk_id": "12a9de880cfe#1",
+          "score": 1.8505245447158813,
+          "content": "Mıkhitar’ın tam olarak ne zaman Katolik mezhebini benimsediği karmaşık bir konudur. Cemaatin resmi tarihçesi pederin daha Halep’teyken Katolik olduğunu savunur. Daha gerçekçi bir yaklaşım belki kesin ...",
+          "metadata": {
+            "title": "Sivaslı Mıkhitar Venedik'te",
+            "date": "Aug 20, 2022",
+            "source": "https://nisanyan.substack.com/p/sivasl-mkhitar-venedikte",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8505245447158813,
+          "dense_rank": null,
+          "sparse_rank": 28
+        },
+        {
+          "chunk_id": "b4781ecb3108#10",
+          "score": 1.8421459197998047,
+          "content": "22 kelimeyi yukarıdaki tasnifin içine sığdıramadım. Bu grupta dikkat çekici olanlar *demet* ve *sıra*’dır. Geniş kullanımlı iki soyut kavramın Yunancadan alıntı olması, Türkçedeki Yunanca alıntıların ...",
+          "metadata": {
+            "title": "Türkçedeki Yunanca kökenli kelimeler",
+            "date": "Aug 03, 2022",
+            "source": "https://nisanyan.substack.com/p/turkcedeki-yunanca-kokenli-kelimeler",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8421459197998047,
+          "dense_rank": null,
+          "sparse_rank": 29
+        },
+        {
+          "chunk_id": "4446295bd223#3",
+          "score": 1.8379849195480347,
+          "content": "Bu anlamda, sosyalistler Kemalizmi kolay kolay eleştiremezler dedim. Ve diyorum. Ya da sosyalizm kavramı ben duymayalı o kadar esnedi ki haberim yok... Kitabın rejim/devlet/demokrasi konularına ilişki...",
+          "metadata": {
+            "title": "Yanlış Cumhuriyet'e dair eski bir mektup",
+            "date": "Apr 12, 2019",
+            "source": "https://nisanyan.substack.com/p/yanls-cumhuriyete-dair-eski-bir-mektup-19-04-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8379849195480347,
+          "dense_rank": null,
+          "sparse_rank": 30
+        },
+        {
+          "chunk_id": "bcca4a95950b#0",
+          "score": 1.8053621053695679,
+          "content": "*‘Medeniyet’ nedir, ‘uygarlık’tan farkı nedir diye soran bir arkadaşa cevap.*\n\nHer ikisi Fr. *civilisation* tercümesidir. Osmanlı/Türk modernleşmesinin temel kavramları arasındadır.\n\nFr. *civiliser* f...",
+          "metadata": {
+            "title": "Medeniyet ve uygurluk",
+            "date": "Mar 12, 2019",
+            "source": "https://nisanyan.substack.com/p/medeniyet-ve-uygurluk-19-03-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.8053621053695679,
+          "dense_rank": null,
+          "sparse_rank": 31
+        },
+        {
+          "chunk_id": "a3b881d32972#0",
+          "score": 1.7973865270614624,
+          "content": "*Geçenlerde biri sormuş: “Mustafa Kemal ne kadar İttihatçıydı? İttihatçılar ile bağı neydi? Büyük fikir ayrılıkları olduğu hep söylenen bir şey, doğru mudur?”*\n\n*Cevap yazdım.*\n\n1878 harbinden sonra O...",
+          "metadata": {
+            "title": "Atanız İttihatçı mıydı?",
+            "date": "Mar 30, 2023",
+            "source": "https://nisanyan.substack.com/p/atanz-ittihatc-myd",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7973865270614624,
+          "dense_rank": null,
+          "sparse_rank": 32
+        },
+        {
+          "chunk_id": "4446295bd223#2",
+          "score": 1.7934250831604004,
+          "content": "\"Sömürgeci batı\", \"tek dişi kalmış canavar\" vb söyleminin cumhuriyet düşüncesinde hangi amaçlara hizmet ettiği üzerinde durulmuş, 4. Kapitülasyon adı verilen imtiyazların, zamanla dejenere olsa da, es...",
+          "metadata": {
+            "title": "Yanlış Cumhuriyet'e dair eski bir mektup",
+            "date": "Apr 12, 2019",
+            "source": "https://nisanyan.substack.com/p/yanls-cumhuriyete-dair-eski-bir-mektup-19-04-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7934250831604004,
+          "dense_rank": null,
+          "sparse_rank": 33
+        },
+        {
+          "chunk_id": "a3b881d32972#2",
+          "score": 1.7894811630249023,
+          "content": "Özetle MK'in kurduğu rejim İ-T vizyonunun, fikriyatının, teşkilatının ve kadrolarının kemal halidir. Tepedeki sınırlı bir ekip, 1913-1918 (veya 1925) arası suçlarından ötürü yılan kabuğu gibi atılmış ...",
+          "metadata": {
+            "title": "Atanız İttihatçı mıydı?",
+            "date": "Mar 30, 2023",
+            "source": "https://nisanyan.substack.com/p/atanz-ittihatc-myd",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7894811630249023,
+          "dense_rank": null,
+          "sparse_rank": 34
+        },
+        {
+          "chunk_id": "3a96093aaad4#1",
+          "score": 1.7777525186538696,
+          "content": "İtalyanca büyütme ekiyle *ballone* “koca top”, **balon**. İspanyolca *bollo* “top”, yine Almancadan alıntı. 15. yy’dan bu yana /boyo/okunur, çoğulu *bollos* /boyoz/ olur. İzmir ağzında **boyoz** bir t...",
+          "metadata": {
+            "title": "Tomurmak, tomurcuklanmak",
+            "date": "Apr 20, 2013",
+            "source": "https://nisanyan.substack.com/p/tomurmak-tomurcuklanmak-13-04-20",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7777525186538696,
+          "dense_rank": null,
+          "sparse_rank": 35
+        },
+        {
+          "chunk_id": "fe0a3adc244a#1",
+          "score": 1.7623515129089355,
+          "content": "Cevdet Paşa seçildi. Sekiz on yıllık bir süreçte Paşa geleneksel İslam hukuku bazında rasyonel, tutarlı ve mümkün mertebe modern bir hukuk sistemi kurmaya girişti. Osmanlı modernleşmesinin en cesur, e...",
+          "metadata": {
+            "title": "Mecelle neden terk edildi",
+            "date": "09 April 2023",
+            "source": "https://www.sevannisanyan.com/metin/mecelle-neden-terk-edildi-58545",
+            "keywords": "Cevdet Paşa, Mecelle, medeni kanun"
+          },
+          "dense_score": null,
+          "sparse_score": 1.7623515129089355,
+          "dense_rank": null,
+          "sparse_rank": 36
+        },
+        {
+          "chunk_id": "54b6b753021f#0",
+          "score": 1.7249916791915894,
+          "content": "**Son zamanlarda Balkanlar ve Kafkaslarda birçok ülkeyi ziyaret ettiniz. İzlenimleriniz neler?**\n\nSon bir buçuk yılda Türkiye’nin yakın coğrafyasındaki ufak boy ülkelerden altısını ziyaret etme imkanı...",
+          "metadata": {
+            "title": "Küçük devletlere ne olacak",
+            "date": "17 October 2021",
+            "source": "https://www.sevannisanyan.com/metin/kucuk-devletlere-ne-olacak-50286",
+            "keywords": "Balkanlar, Kafkasya, küçük devletler, modernleşme"
+          },
+          "dense_score": null,
+          "sparse_score": 1.7249916791915894,
+          "dense_rank": null,
+          "sparse_rank": 37
+        },
+        {
+          "chunk_id": "cf016ce22ef3#1",
+          "score": 1.7140905857086182,
+          "content": "Bazen başarırlar, bazen başaramazlar. Başaramazlarsa nüfusları azalır. İnsan topluluklarını bundan farklı bir ölçütle değerlendirmek için bir sebep göremiyorum. İnsanlar kolektif varlıklarına değer ve...",
+          "metadata": {
+            "title": "Sağlıklı toplum kime denir",
+            "date": "Mar 16, 2025",
+            "source": "https://nisanyan.substack.com/p/saglkl-toplum-kime-denir",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7140905857086182,
+          "dense_rank": null,
+          "sparse_rank": 38
+        },
+        {
+          "chunk_id": "0b9e1d8fdb4a#0",
+          "score": 1.7068995237350464,
+          "content": "**Petro’nun Rusya’da gerçekleştirdiği, çağ atlatan ve en önemlisi kalıcı olan reformları, neden Atatürk ya da II. Mahmud bu coğrafyada yapamadı?**\n\nÇok esaslı bir sorudur. Cevabı nedir biliyor musunuz...",
+          "metadata": {
+            "title": "Rus neden başardı da Osmanlı başaramadı",
+            "date": "21 May 2023",
+            "source": "https://www.sevannisanyan.com/metin/rus-neden-basardi-da-osmanli-basaramadi-35641",
+            "keywords": "Deli Petro, Osmanlı modernleşmesi, Rusya tarihi"
+          },
+          "dense_score": null,
+          "sparse_score": 1.7068995237350464,
+          "dense_rank": null,
+          "sparse_rank": 39
+        },
+        {
+          "chunk_id": "12a9de880cfe#0",
+          "score": 1.7033264636993408,
+          "content": "Peder Mıkhitar (\"teselli edici\") adıyla tanınan muhterem kişi 1676'da Sivas'ta doğdu. Oradaki Surp Nişan manastırında eğitim gördü. Ermeni kilisesinin muhafazakarlığını, eğitim düzeyinin düşüklüğünü, ...",
+          "metadata": {
+            "title": "Sivaslı Mıkhitar Venedik'te",
+            "date": "Aug 20, 2022",
+            "source": "https://nisanyan.substack.com/p/sivasl-mkhitar-venedikte",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.7033264636993408,
+          "dense_rank": null,
+          "sparse_rank": 40
+        },
+        {
+          "chunk_id": "a65fa8729033#6",
+          "score": 1.6752722263336182,
+          "content": "Haklı olarak denebilir ki Tanzimat'ın ‘batılı’ kadroları küçük bir azınlık idi. Kaç kişi? Diyelim ki – imparatorluğun gayrimüslim tebaası hariç – on bin kişi olsun. Cumhuriyet’in başarısı, çok dar bir...",
+          "metadata": {
+            "title": "Osmanlı'yı nasıl özetlesek",
+            "date": "Jun 17, 2019",
+            "source": "https://nisanyan.substack.com/p/osmanly-nasl-ozetlesek-19-06-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.6752722263336182,
+          "dense_rank": null,
+          "sparse_rank": 41
+        },
+        {
+          "chunk_id": "6401b546bed5#1",
+          "score": 1.6718302965164185,
+          "content": "Yunancası **ethos**. Yirminci yüzyılda sapıtmadan önce tüm kültürlerde kavim, biyolojik ırk veya soyla değil, mensup olunan töre ile tanımlanırdı. Çünkü kavim, bir kültür varlığıdır. DNA değildir. 187...",
+          "metadata": {
+            "title": "Millet ne demek",
+            "date": "Mar 25, 2024",
+            "source": "https://nisanyan.substack.com/p/millet-ne-demek",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.6718302965164185,
+          "dense_rank": null,
+          "sparse_rank": 42
+        },
+        {
+          "chunk_id": "f50a9c2424ef#1",
+          "score": 1.6684025526046753,
+          "content": "Olmadı. Rusya, Marx’ın zamanında, 1850’lerde, 60’larda, 70’lerde gericiliğiyle ve geriliğiyle meşhur olan bir ülkeydi. Avrupa’da “ilerici” denilen liberal ve Aydınlanmacı akımların çok güçlendiği bir ...",
+          "metadata": {
+            "title": "Despotizm Rusya’nın kaderi mi",
+            "date": "15 October 2023",
+            "source": "https://www.sevannisanyan.com/metin/despotizm-rusyanin-kaderi-mi-98157",
+            "keywords": "Dekabristler, despotizm, Rusya, tarih felsefesi"
+          },
+          "dense_score": null,
+          "sparse_score": 1.6684025526046753,
+          "dense_rank": null,
+          "sparse_rank": 43
+        },
+        {
+          "chunk_id": "0de6d3bdc9bf#4",
+          "score": 1.6414777040481567,
+          "content": "Mezarlıkta bizden başka bir Allahın kulu yok, ama gene de benim orada dolanıp fotoğraf çekmemden huzursuz oluyor. İhbar olsa, polis gelse ne yaparız? Ermenistan ile Gürcistan’ın korona istatistikleri ...",
+          "metadata": {
+            "title": "Korona Günlerinde Yolculuk",
+            "date": "Jul 10, 2021",
+            "source": "https://nisanyan.substack.com/p/korona-gunlerinde-yolculuk-21-07-10",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.6414777040481567,
+          "dense_rank": null,
+          "sparse_rank": 44
+        },
+        {
+          "chunk_id": "f163f6c93215#0",
+          "score": 1.6381731033325195,
+          "content": "“Mustafa Kemal'in yerinde olsaydınız, o tarihlerde siz nasıl bir politika izlerdiniz?” diye sordu bir arkadaş, kibarca, onyüzmilyonuncu kez.\n\nOtuz beş seneden beri bu soruyu cevaplamaktan dilimde bite...",
+          "metadata": {
+            "title": "Mustafa Kemal'e neden karşısın söyle",
+            "date": "May 19, 2018",
+            "source": "https://nisanyan.substack.com/p/mustafa-kemale-neden-karssn-soyle-18-05-19",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.6381731033325195,
+          "dense_rank": null,
+          "sparse_rank": 45
+        },
+        {
+          "chunk_id": "71ddfe8871fd#13",
+          "score": 1.6381731033325195,
+          "content": "Türk modernleşmesinin ilk versiyonu ile ikincisi (Yeni Osmanlıca ile Yeni Türkçe) arasındaki temel yapısal fark, ilkinin eski Osmanlı yazı dili ile prensipte bağını korumuş olmasıdır. Eski Osmanlıca k...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.6381731033325195,
+          "dense_rank": null,
+          "sparse_rank": 46
+        },
+        {
+          "chunk_id": "bcca4a95950b#4",
+          "score": 1.618621587753296,
+          "content": "Olsa da zaten uymak değil *udmak* olurdu. “Medeniyet” anlamında **uygurluk** sözcüğüne ilk olarak Dil Devrimi hareketinin aniden hız kazandığı 1934 yılı sonlarında, Cumhuriyet Gazetesinde Yunus Nadi’n...",
+          "metadata": {
+            "title": "Medeniyet ve uygurluk",
+            "date": "Mar 12, 2019",
+            "source": "https://nisanyan.substack.com/p/medeniyet-ve-uygurluk-19-03-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.618621587753296,
+          "dense_rank": null,
+          "sparse_rank": 47
+        },
+        {
+          "chunk_id": "30e027c18013#8",
+          "score": 1.6154083013534546,
+          "content": "Kullanmadılar. İslamı kullandılar.\\*Pragmatisttiler, öyle gerekmiş, öyle yapmışlar demekle iş bitmiyor. Bunlar geçmişin hikâyeleri değil, bugünün Türkiye’sini şekillendiren olaylardır. Bugünkü Tayyip ...",
+          "metadata": {
+            "title": "Milli Mücadele neyin mücadelesi",
+            "date": "Nov 08, 2013",
+            "source": "https://nisanyan.substack.com/p/milli-mucadele-neyin-mucadelesi-13-11-08",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.6154083013534546,
+          "dense_rank": null,
+          "sparse_rank": 48
+        },
+        {
+          "chunk_id": "f799365040fc#5",
+          "score": 1.6154083013534546,
+          "content": "S. Nişanyan:** Hissetmezsin belki, ya da eğitiminle orantılı olarak çok belirsiz bir biçimde hissedersin. Ama tıpkı içinde yaşadığın coğrafya gibi, içinde dolandığın dilde de binlerce yıllık bir uygar...",
+          "metadata": {
+            "title": "Dile ve dillere dair bir söyleşi",
+            "date": "Aug 04, 2018",
+            "source": "https://nisanyan.substack.com/p/dile-ve-dillere-dair-bir-soylesi-18-08-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.6154083013534546,
+          "dense_rank": null,
+          "sparse_rank": 49
+        },
+        {
+          "chunk_id": "f3b142cfc0a0#3",
+          "score": 1.6058443784713745,
+          "content": "Ancak fırınlanmış dolgulu patates anlamında **kumpir** yanılmıyorsam 1990 yılında aniden memleketi sardı. İmparatorluğun merkezinde patates ekimini II. Mahmut’un emri veya teşvikiyle Alibeyköy Çiftliğ...",
+          "metadata": {
+            "title": "Patates nasıl patates oldu",
+            "date": "Oct 05, 2023",
+            "source": "https://nisanyan.substack.com/p/patates-nasl-patates-oldu",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 1.6058443784713745,
+          "dense_rank": null,
+          "sparse_rank": 50
+        }
+      ],
+      "performance": {
+        "total_time_ms": 3.863096237182617,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "hybrid": {
+      "query": "modernleşme",
+      "strategy": "hybrid",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "6cf396f4cc41#2",
+          "score": 0.032266458495966696,
+          "content": "Bu anlamda bugünün İslamı — bugünün alt tabaka İslamı — son derece modern bir fenomendir. Tamamen çağdaş bir fenomendir. İslam tarihiyle alakası olmayan yeni bir hadisedir. Modernleşmenin ikinci perde...",
+          "metadata": {
+            "title": "İslam ülkeleri modernleşir mi",
+            "date": "28 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/islam-ulkeleri-modernlesir-mi-85915",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4268968096249946,
+          "sparse_score": 3.365229368209839,
+          "dense_rank": 3,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "006c86ff2a95#3",
+          "score": 0.029857397504456328,
+          "content": "Bizim buralarda “Batılılaşma” (yahut daha kibar dilde: “modernleşme”) denen nesnenin Batı’yla, Batı uygarlığıyla, Batı’yı ilginç ve güzel ve, evet, ÜSTÜN kılan müthiş orijinallikle uzak yakın bir ilgi...",
+          "metadata": {
+            "title": "Batı dediğin tek dişi kalmış canavar mı?",
+            "date": "Oct 05, 2008",
+            "source": "https://nisanyan.substack.com/p/bat-dedigin-tek-disi-kalms-canavar-08-10-05",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4090321465675985,
+          "sparse_score": 2.778169870376587,
+          "dense_rank": 6,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "f799365040fc#6",
+          "score": 0.029051670471052088,
+          "content": "Fakirleşme erdem sayıldı. Antika mobilyalar atılıp yerine formika masa alır gibi, bin yıllık köyler ve konaklar yıkılıp yerine apartman yapar gibi, dilde “modernleşme” ve tekdüzeleşme tercih edildi. Y...",
+          "metadata": {
+            "title": "Dile ve dillere dair bir söyleşi",
+            "date": "Aug 04, 2018",
+            "source": "https://nisanyan.substack.com/p/dile-ve-dillere-dair-bir-soylesi-18-08-04",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 7
+          },
+          "dense_score": 0.44362986998158194,
+          "sparse_score": 2.3322579860687256,
+          "dense_rank": 1,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "6cf396f4cc41#0",
+          "score": 0.02878726010616578,
+          "content": "**Müslüman ülkelerin modernleşmesi mümkün mü? Mümkün ise nasıl olur?**\n\nModernleşmeden ne kastettiğinize bağlı. Müslüman ülkeler 20. yüzyılın ilk yarısında veya çeyreğinde modernleşme yönünde çok cidd...",
+          "metadata": {
+            "title": "İslam ülkeleri modernleşir mi",
+            "date": "28 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/islam-ulkeleri-modernlesir-mi-85915",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.3942740774368558,
+          "sparse_score": 3.163335084915161,
+          "dense_rank": 19,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "bcca4a95950b#2",
+          "score": 0.027579737335834898,
+          "content": "Civilisation karşılığı Osmanlıca önce **temeddün**, hemen ardından **medeniyyet**’tir. Yoğun bir düşünsel/siyasi kaynaşma dönemi olan 1830’larda dile girmiş olmalı. İlk kaynağı, aynı yıllarda Mısır’da...",
+          "metadata": {
+            "title": "Medeniyet ve uygurluk",
+            "date": "Mar 12, 2019",
+            "source": "https://nisanyan.substack.com/p/medeniyet-ve-uygurluk-19-03-12",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 5
+          },
+          "dense_score": 0.40932051357880306,
+          "sparse_score": 2.030625104904175,
+          "dense_rank": 5,
+          "sparse_rank": 22
+        },
+        {
+          "chunk_id": "71ddfe8871fd#12",
+          "score": 0.027479766610201392,
+          "content": "Öte yandan Yeni Türkçenin mesela Tevfik Fikret veya Namık Kemal Osmanlıcasından daha elitist bir dil olduğu da söylenemez. Sınıfsal tabanları aşağı yukarı aynıdır; sınıfsal “tavır” da çok değişmemişti...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": "",
+            "chunk_index": 12,
+            "total_chunks": 17
+          },
+          "dense_score": 0.39639507649782113,
+          "sparse_score": 2.7088074684143066,
+          "dense_rank": 17,
+          "sparse_rank": 9
+        },
+        {
+          "chunk_id": "6cf396f4cc41#1",
+          "score": 0.026988636363636364,
+          "content": "Diğer daha marjinal ülkelerden Afganistan 1920’lerde, 30’larda büyük bir modernizasyon hamlesine girişti. İngiliz yönetimi altında olan diğer büyük İslam diyarı, Hint ülkesi büyük bir dönüşüm geçirdi....",
+          "metadata": {
+            "title": "İslam ülkeleri modernleşir mi",
+            "date": "28 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/islam-ulkeleri-modernlesir-mi-85915",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.38772746808782055,
+          "sparse_score": 2.9564566612243652,
+          "dense_rank": 28,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "71ddfe8871fd#13",
+          "score": 0.02505896226415094,
+          "content": "Türk modernleşmesinin ilk versiyonu ile ikincisi (Yeni Osmanlıca ile Yeni Türkçe) arasındaki temel yapısal fark, ilkinin eski Osmanlı yazı dili ile prensipte bağını korumuş olmasıdır. Eski Osmanlıca k...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": "",
+            "chunk_index": 13,
+            "total_chunks": 17
+          },
+          "dense_score": 0.42458670353428096,
+          "sparse_score": 1.6381731033325195,
+          "dense_rank": 4,
+          "sparse_rank": 46
+        },
+        {
+          "chunk_id": "cf016ce22ef3#1",
+          "score": 0.024288588674906582,
+          "content": "Bazen başarırlar, bazen başaramazlar. Başaramazlarsa nüfusları azalır. İnsan topluluklarını bundan farklı bir ölçütle değerlendirmek için bir sebep göremiyorum. İnsanlar kolektif varlıklarına değer ve...",
+          "metadata": {
+            "title": "Sağlıklı toplum kime denir",
+            "date": "Mar 16, 2025",
+            "source": "https://nisanyan.substack.com/p/saglkl-toplum-kime-denir",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.40502466711380847,
+          "sparse_score": 1.7140905857086182,
+          "dense_rank": 11,
+          "sparse_rank": 38
+        },
+        {
+          "chunk_id": "bcca4a95950b#0",
+          "score": 0.021858576206402296,
+          "content": "*‘Medeniyet’ nedir, ‘uygarlık’tan farkı nedir diye soran bir arkadaşa cevap.*\n\nHer ikisi Fr. *civilisation* tercümesidir. Osmanlı/Türk modernleşmesinin temel kavramları arasındadır.\n\nFr. *civiliser* f...",
+          "metadata": {
+            "title": "Medeniyet ve uygurluk",
+            "date": "Mar 12, 2019",
+            "source": "https://nisanyan.substack.com/p/medeniyet-ve-uygurluk-19-03-12",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 5
+          },
+          "dense_score": 0.3843521576901654,
+          "sparse_score": 1.8053621053695679,
+          "dense_rank": 32,
+          "sparse_rank": 31
+        }
+      ],
+      "performance": {
+        "total_time_ms": 202.36825942993164,
+        "dense_time_ms": 200.80327987670898,
+        "sparse_time_ms": 1.027822494506836,
+        "fusion_time_ms": 0.5371570587158203
+      },
+      "total_candidates": 100
+    }
+  },
+  "overlap_analysis": {
+    "total_unique_chunks": 90,
+    "pairwise_overlap": {
+      "dense_vs_sparse": {
+        "intersection": 10,
+        "union": 90,
+        "jaccard": 0.1111111111111111,
+        "only_in_first": 40,
+        "only_in_second": 40
+      },
+      "dense_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      },
+      "sparse_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      }
+    }
+  }
+}

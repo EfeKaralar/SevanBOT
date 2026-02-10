@@ -1,0 +1,1858 @@
+{
+  "query": "Türk dili tarihi",
+  "strategies": {
+    "dense": {
+      "query": "Türk dili tarihi",
+      "strategy": "dense",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "4b6eeec541db#0",
+          "score": 0.6417158974633048,
+          "content": "**Türkçenin tarihi gelişimi hakkında kitap yazacaktınız, sonra rafa kaldırdığınızı söylediniz. Etimolojiyi bu memur kılıklılara bırakmadığınız gibi buna da el atmalısınız.**\n\nCezaevindeyken bir ara ço...",
+          "metadata": {
+            "title": "Türkçenin tarihi nasıl yazılmalı",
+            "date": "07 May 2023",
+            "source": "https://www.sevannisanyan.com/metin/turkcenin-tarihi-nasil-yazilmali-16208",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.6417158974633048,
+          "sparse_score": null,
+          "dense_rank": 1,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "058501980559#2",
+          "score": 0.5958305062912603,
+          "content": "Arapça bilenin kahvesi bilmeyenden önce takdim edilecek, misafirse bir değil iki kere temenna edilecek. Dil nasıl evrilir? Buyurun, kahve protokolüne göre evrilir. Türkçenin Farsçayla ilişkisi daha ka...",
+          "metadata": {
+            "title": "Elalemin diline neden öykünürler?",
+            "date": "May 17, 2019",
+            "source": "https://nisanyan.substack.com/p/elalemin-diline-neden-oykunurler-19-05-17",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 8
+          },
+          "dense_score": 0.5958305062912603,
+          "sparse_score": null,
+          "dense_rank": 2,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "4b6eeec541db#1",
+          "score": 0.5919963712395242,
+          "content": "Bu dil nasıl şekillendi, nasıl evrelerden geçti, bugünkü durumuna nasıl geldi konusu, Türkçü fanatiklere bırakılmayacak kadar değerli bir konu. 20. yüzyıl başından beri Türkçe’yi bir kavim diline indi...",
+          "metadata": {
+            "title": "Türkçenin tarihi nasıl yazılmalı",
+            "date": "07 May 2023",
+            "source": "https://www.sevannisanyan.com/metin/turkcenin-tarihi-nasil-yazilmali-16208",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5919963712395242,
+          "sparse_score": null,
+          "dense_rank": 3,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7c24119ff1e5#2",
+          "score": 0.5728029498070564,
+          "content": "Ama bu çağ ve devirde halâ bir işe yarar mı diye sormadan edemezsin. Hayatında köyünden ve mahallesinden çıkmamış insanlar bu mevzulara Fransız kalabilir. Ama biraz dünya görmüş, mesela gidip bir sene...",
+          "metadata": {
+            "title": "Türk güzellemesi",
+            "date": "Sep 24, 2017",
+            "source": "https://nisanyan.substack.com/p/turk-guzellemesi-17-09-24",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.5728029498070564,
+          "sparse_score": null,
+          "dense_rank": 4,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3d66146f2135#0",
+          "score": 0.5622146696166297,
+          "content": "Türkçede “Türkçe kökenli” sayılan kelimeleri dört kronolojik grupta mütalaa edebiliriz.\n\n**ETü**: Orta Asya Türkçesinden miras olanlar. Yani 1070’li yıllara dek yazılı kaydı bulunanlar.\n\n**OTü**: Türk...",
+          "metadata": {
+            "title": "Türkiye Türkçesi",
+            "date": "May 02, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiye-turkcesi-19-05-02",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 11
+          },
+          "dense_score": 0.5622146696166297,
+          "sparse_score": null,
+          "dense_rank": 5,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "844482c38c63#2",
+          "score": 0.5544085104958457,
+          "content": "Devamen, hangi kültürel katmandan geçmiş, yani edebi dilden mi gelmiş, lokantacı argosundan mı gelmiş, bu bilgiyi araştırıp bulmanız lazım. Türkçede başka dillerle ortak olan kelimelerin çok büyük bir...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 9
+          },
+          "dense_score": 0.5544085104958457,
+          "sparse_score": null,
+          "dense_rank": 6,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "71ddfe8871fd#8",
+          "score": 0.5515463821643167,
+          "content": "Yönetici elitin aslında bihaber olduğu köylü ve kasabalı Türkçesinden yeni bir kültür dili üretilebileceği fantezisine bel bağlanmıştır. Üçüncü sebep ‘komşuda var bizde niye yok’ sendromudur. Sırasıyl...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": "",
+            "chunk_index": 8,
+            "total_chunks": 17
+          },
+          "dense_score": 0.5515463821643167,
+          "sparse_score": null,
+          "dense_rank": 7,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "d5ee70b739ca#0",
+          "score": 0.5507922966677099,
+          "content": "1720 yılında sadrazam Damat İbrahim Paşa yeniden imar ettiği kente Nevşehir adını verdi. Adı oluşturan birimlerin her ikisi de aslen Farsçadır. Nev “yeni”, şehr “beylik, belde”.\n\nFakat bu ismi Farsça ...",
+          "metadata": {
+            "title": "\"Türkçe\" nedir?",
+            "date": "Aug 08, 2019",
+            "source": "https://nisanyan.substack.com/p/turkce-nedir-19-08-08",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.5507922966677099,
+          "sparse_score": null,
+          "dense_rank": 8,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "66ff97ec5c9a#0",
+          "score": 0.549827751480946,
+          "content": "***Türkçe'nin Tarihine İlişkin Notlar** önce sözlüğe önsöz olarak düşünüldü, daha sonra şişip bağımsız bir kitap projesine evrildi. 2014 sonu ile 2015'in ilk aylarında Yenipazar'da, 2015 sonu ile 2016...",
+          "metadata": {
+            "title": "Türkçe tarihi 1: İngilizce sözcüklerin yazımı",
+            "date": "Nov 14, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-1-ingilizce-sozcuklerin-17-11-14",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.549827751480946,
+          "sparse_score": null,
+          "dense_rank": 9,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6cd4b815f40c#7",
+          "score": 0.5492255469855339,
+          "content": "Ve üzülerek belirteyim, tıpkı Dil Devrimcilerinin Öztürkçesi gibi yapay bir elit dilidir. Kalsaydı bence daha yoğrulur, gelişir, çağın ihtiyaçlarına daha uygun hâle gelirdi. Çeşitli nedenlerle sürdürü...",
+          "metadata": {
+            "title": "Türkçeye dair bir söyleşi",
+            "date": "12 March 2023",
+            "source": "https://www.sevannisanyan.com/metin/turkceye-dair-bir-soylesi-65599",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 13
+          },
+          "dense_score": 0.5492255469855339,
+          "sparse_score": null,
+          "dense_rank": 10,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7c24119ff1e5#0",
+          "score": 0.5482393276515936,
+          "content": "“Tarihte Türk milleti diye bir şey yok” diye buyurmuş gene bir sevgili arkadaşımız. Bizim Türkiye gayrimüslimlerinin sevdiği temalardandır. Son zamanlarda Kürt kardeşlerimiz de keşfettiler, pek sevdil...",
+          "metadata": {
+            "title": "Türk güzellemesi",
+            "date": "Sep 24, 2017",
+            "source": "https://nisanyan.substack.com/p/turk-guzellemesi-17-09-24",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.5482393276515936,
+          "sparse_score": null,
+          "dense_rank": 11,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "058501980559#3",
+          "score": 0.5444772377597746,
+          "content": "Dil değişti, evrildi, zenginleşti.\n\n**Türkçe ne kadar aldı** Modern Türkçe yazı dilinin kelime hazinesinin yüzde 76 kadarı bu saydığım dört dilden – Arapça, Farsça, Fransızca ve İngilizce – alıntıdır....",
+          "metadata": {
+            "title": "Elalemin diline neden öykünürler?",
+            "date": "May 17, 2019",
+            "source": "https://nisanyan.substack.com/p/elalemin-diline-neden-oykunurler-19-05-17",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 8
+          },
+          "dense_score": 0.5444772377597746,
+          "sparse_score": null,
+          "dense_rank": 12,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "058501980559#7",
+          "score": 0.5417463301496739,
+          "content": "İrani dillerde özellikle 11. yy’dan eski alıntılar ilginç bir araştırma alanı olduğu halde henüz yeterince analiz edilememiştir. 4) Yunanca, Bulgarca, Sırpça ve Arnavutça gibi uzun zaman Osmanlı siyas...",
+          "metadata": {
+            "title": "Elalemin diline neden öykünürler?",
+            "date": "May 17, 2019",
+            "source": "https://nisanyan.substack.com/p/elalemin-diline-neden-oykunurler-19-05-17",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 8
+          },
+          "dense_score": 0.5417463301496739,
+          "sparse_score": null,
+          "dense_rank": 13,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "844482c38c63#7",
+          "score": 0.5377472268130087,
+          "content": "Fakat bunların hepsini toplasan ancak bir incir çekirdeğini dolduran çorak sahalar. Özetle, Türkçenin yazılı dönem öncesi kelime hazinesinin kaynakları konusunda çok büyük ölçüde karanlıkta olduğumuzu...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 9
+          },
+          "dense_score": 0.5377472268130087,
+          "sparse_score": null,
+          "dense_rank": 14,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "309bc810eb5e#3",
+          "score": 0.5363972529042417,
+          "content": "Türkçe sahiden biliyorlar mıydı? Ne malum? Günlük hayatta dil Rumca, edebi sohbette Farsça neden olmasın? Tarih okudukça fark ediyorsun ki geçmiş hakkında bildiğin ya da bildiğini zannettiğin her şey ...",
+          "metadata": {
+            "title": "Türkler Nece Konuşurdu yazısına ek notlar",
+            "date": "Nov 22, 2017",
+            "source": "https://nisanyan.substack.com/p/turkler-nece-konusurdu-yazsna-ek-17-11-22",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5363972529042417,
+          "sparse_score": null,
+          "dense_rank": 15,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "844482c38c63#6",
+          "score": 0.5361752042487401,
+          "content": "Annemarie von Gabain ve Marcel Erdal bu konuda iki önemli kaynaktır. Radlof ve Clauson gibi sözlükçüleri de onlara ekleyelim. İkinci araç ise, tarihi diller biliminin son iki yüz yılda muazzam bir eme...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 9
+          },
+          "dense_score": 0.5361752042487401,
+          "sparse_score": null,
+          "dense_rank": 16,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9df337c8dbed#7",
+          "score": 0.5355206917588429,
+          "content": "Günümüzde Sahra-altı Afrika ile Güney ve Güneydoğu Asya halklarının ezici çoğunluğu, iki ya da daha çok dilli sistemlerde yaşamaktadır. Çin halkının yarıdan fazlası ulusal dille karşılıklı anlaşmaya i...",
+          "metadata": {
+            "title": "Türkçe tarihi 7: \"Türkler\" nece konuşurdu",
+            "date": "Nov 20, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-7-turkler-nece-konusurdu-17-11-20",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 8
+          },
+          "dense_score": 0.5355206917588429,
+          "sparse_score": null,
+          "dense_rank": 17,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "1427c5fbcdb1#1",
+          "score": 0.5322894785562899,
+          "content": "Yalnız bu çöplükte benden iyisini bulabiliyorsanız onu bana bir gösterin hele derim. Yani Tuncay Gülensoy mu? Geçiniz, taşra üniversitelerinde onun bunun çantasını taşıyarak profesör olan insanlar, ce...",
+          "metadata": {
+            "title": "Nişanyan iyi bir dilbilimci mi",
+            "date": "20 June 2021",
+            "source": "https://www.sevannisanyan.com/metin/nisanyan-iyi-bir-dilbilimci-mi-24012",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5322894785562899,
+          "sparse_score": null,
+          "dense_rank": 18,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "71ddfe8871fd#2",
+          "score": 0.5322860590702014,
+          "content": "Selçuklular gibi kimbilir nece, belki Türkçe konuşur ama Farsça yazarsın. 14. yüzyılda Türkçeden yazı dili üretmek için BİLİNÇLİ ve SİSTEMLİ bir çaba harcandı. Bir şekilde bu yürümedi. 1420’lere doğru...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 17
+          },
+          "dense_score": 0.5322860590702014,
+          "sparse_score": null,
+          "dense_rank": 19,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eb9cea86bc#1",
+          "score": 0.5309926469714887,
+          "content": "İlahiyat ve ilahe 19. yy sonlarında uydurulmuş, Fransızca *théologie* ve *déesse* çevirisi. İslam geleneğinde böyle kavramlar yok. Mekke’deki dişi tanrılar ilahe değil, sanem diye geçer. *Çıtı pıtı* m...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 11
+          },
+          "dense_score": 0.5309926469714887,
+          "sparse_score": null,
+          "dense_rank": 20,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "acbf2920a03f#1",
+          "score": 0.5299462226540697,
+          "content": "Bitti. Demek ki Aztekler Türktür. Peki arkadaşım bunun bir anlam ifade etmesi için bu dille Türkçe arasındaki ortaklıkları sistemleştir, ses değişim kurallarını çalış, yaz. Ama onlar yok. Pekala mümkü...",
+          "metadata": {
+            "title": "Aztekler ve Eskimolar Türk mü",
+            "date": "27 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/aztekler-ve-eskimolar-turk-mu-15802",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5299462226540697,
+          "sparse_score": null,
+          "dense_rank": 21,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ad1f4e8705ea#0",
+          "score": 0.5284518101897815,
+          "content": "**Kemalcilerdeki ve Türk milliyetçilerindeki Araplaştık söylemini değerlendirir misiniz? Türk halkının kültürü Araplarla aynı mı?**\n\nAraplaştık, Araplaşıyoruz diye şikayetçi olanlara şu basit gerçekle...",
+          "metadata": {
+            "title": "Türkler Araplaşıyor mu",
+            "date": "23 October 2022",
+            "source": "https://www.sevannisanyan.com/metin/turkler-araplasiyor-mu-65476",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5284518101897815,
+          "sparse_score": null,
+          "dense_rank": 22,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "71ddfe8871fd#13",
+          "score": 0.527360002330066,
+          "content": "Türk modernleşmesinin ilk versiyonu ile ikincisi (Yeni Osmanlıca ile Yeni Türkçe) arasındaki temel yapısal fark, ilkinin eski Osmanlı yazı dili ile prensipte bağını korumuş olmasıdır. Eski Osmanlıca k...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": "",
+            "chunk_index": 13,
+            "total_chunks": 17
+          },
+          "dense_score": 0.527360002330066,
+          "sparse_score": null,
+          "dense_rank": 23,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cc0f239dd893#0",
+          "score": 0.5261107505059416,
+          "content": "Evliya Çelebi’nin **ceddi** Türk’tür. Bundan gurur duyar ve her vesileyle vurgulamaktan yorulmaz. “Türk-i Türkân, pir-i Türkistan Hoca Ahmed Yesevi Hazretleri” soyundan geldiğini sadece birinci ciltte...",
+          "metadata": {
+            "title": "Evliya Çelebi'nin Türkleri",
+            "date": "Apr 04, 2019",
+            "source": "https://nisanyan.substack.com/p/evliya-celebinin-turkleri-19-04-04",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5261107505059416,
+          "sparse_score": null,
+          "dense_rank": 24,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "844482c38c63#0",
+          "score": 0.5243529164684456,
+          "content": "**Kelimelerin etimolojik kökeni nasıl bulunur? Bu mesleği nasıl öğrendiniz? Bizi anlatır mısınız detaylarıyla?**\n\nBen bu işe nasıl başladım, onu anlatayım size. Benim dil bilim eğitimim yok. Fakat bir...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 9
+          },
+          "dense_score": 0.5243529164684456,
+          "sparse_score": null,
+          "dense_rank": 25,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "937823f0a9c0#4",
+          "score": 0.5243200784861558,
+          "content": "Benim bildiğim bu nesneyi 16. yüzyılda Avrupalılar icat etmiştir. Osmanlı ülkesine 1570’lerde filan gelmiş olmalı. Dûr-bîn tabiri bundan kısa bir süre sonra zuhur ediyor, Frenkçe télé-scope (uzak-göre...",
+          "metadata": {
+            "title": "Kürtçe dersleri: kirve, tırsmak, şıh, isot, dürbün",
+            "date": "Apr 10, 2013",
+            "source": "https://nisanyan.substack.com/p/kurtce-dersleri-kirve-trsmak-sh-isot-13-04-10",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 5
+          },
+          "dense_score": 0.5243200784861558,
+          "sparse_score": null,
+          "dense_rank": 26,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7490e3d9dc4f#0",
+          "score": 0.5235773823272859,
+          "content": "(Cumhuriyet öncesi) Türkçe yer adları dağılımıBu haritada 20. yüzyıl başı itibariyle Türkiye’de Türkçe yer adlarının dağılımını görüyoruz. Açık renk olan illerde Türkçe yer adı oranı %90 ve üzeridir. ...",
+          "metadata": {
+            "title": "Türkçe yer adları neden orada değil burada",
+            "date": "Mar 27, 2018",
+            "source": "https://nisanyan.substack.com/p/turkce-yer-adlar-neden-orada-degil-18-03-27",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5235773823272859,
+          "sparse_score": null,
+          "dense_rank": 27,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2ff6c02627f1#4",
+          "score": 0.5211759365151521,
+          "content": "Zahmetli bir iş, iğneyle kuyu kazmak gibi bir iş. Fakat teorik açıdan ahım şahım bir zorluğu yok. Elimizde Türkçe’nin her dönemine ilişkin sözlükler var. 1070’li yıllarda Divan-ı Lugat-ı Türk var. 130...",
+          "metadata": {
+            "title": "Nişanyan Sözlük nasıl yazıldı",
+            "date": "29 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/nisanyan-sozluk-nasil-yazildi-57381",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5211759365151521,
+          "sparse_score": null,
+          "dense_rank": 28,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9794a006fa37#1",
+          "score": 0.5203347342327946,
+          "content": "Bu ve buna benzer biçimsel özelliklerden, bazı sözcüklerin Türkçeye aktarılma tarihi yaklaşık olarak kestirilebilir. Mesela dişil sözcüklere +a ekleme alışkanlığının en geç 1860 dolayında sona erdiği ...",
+          "metadata": {
+            "title": "Türkçe tarihi 10: Osmanlı Fransızcası",
+            "date": "Nov 23, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-10-osmanl-franszcas-17-11-23",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.5203347342327946,
+          "sparse_score": null,
+          "dense_rank": 29,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5029fba41755#12",
+          "score": 0.5196531409454277,
+          "content": "Unutmayın ki dil tek taraflı bir eylem değildir. İnsanoğlu muhatabına göre kişner. Tercih ettiğiniz muhatabın zihninde bu yeni kullanımlar norm olmuşsa, eliniz mahkûm, ona göre konuşacak ve yazacaksın...",
+          "metadata": {
+            "title": "Dile ve Türkçeye dair bir söyleşi",
+            "date": "Mar 12, 2023",
+            "source": "https://nisanyan.substack.com/p/dile-ve-turkceye-dair-bir-soylesi",
+            "keywords": "",
+            "chunk_index": 12,
+            "total_chunks": 13
+          },
+          "dense_score": 0.5196531409454277,
+          "sparse_score": null,
+          "dense_rank": 30,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "309bc810eb5e#0",
+          "score": 0.5191803520409809,
+          "content": "*Dil tarihi dizisinin yedinci yazısı \"[Türkler Nece Konuşur](https://nisanyan1.blogspot.gr/2017/11/turkce-tarihi-7-turkler-nece-konusurdu.html)\" epey ilgi doğurdu. Birkaç not ekleyeyim.*\n\n“Ender olara...",
+          "metadata": {
+            "title": "Türkler Nece Konuşurdu yazısına ek notlar",
+            "date": "Nov 22, 2017",
+            "source": "https://nisanyan.substack.com/p/turkler-nece-konusurdu-yazsna-ek-17-11-22",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5191803520409809,
+          "sparse_score": null,
+          "dense_rank": 31,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6cd4b815f40c#0",
+          "score": 0.5191329281100887,
+          "content": "**Türkçe nedir? Bugün Türkçe konuştuğunu söyleyen herkesin kullandığı kelimeler, gramer, sentaks, telaffuz mu, başka bir şey mi ya da misal öztürkçeci Ataç’ın kullandığı mı?**\n\nTürkçe bugünün Türkiye’...",
+          "metadata": {
+            "title": "Türkçeye dair bir söyleşi",
+            "date": "12 March 2023",
+            "source": "https://www.sevannisanyan.com/metin/turkceye-dair-bir-soylesi-65599",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 13
+          },
+          "dense_score": 0.5191329281100887,
+          "sparse_score": null,
+          "dense_rank": 32,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "17ee038edfb3#2",
+          "score": 0.5191173140969685,
+          "content": "Millar şarkiyatçı değil, Süryaniceyi ve bağlantılı dilleri bilmiyor. Dolayısıyla o dillerin yazılı hafızasında korunmuş olan kültürel süreklilik unsurlarına – mesela dinî ve mitolojik kalıntılara, kav...",
+          "metadata": {
+            "title": "En Şarkî Roma",
+            "date": "Apr 03, 2017",
+            "source": "https://nisanyan.substack.com/p/en-sarki-roma-17-04-03",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5191173140969685,
+          "sparse_score": null,
+          "dense_rank": 33,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "acbf2920a03f#0",
+          "score": 0.5181164300915595,
+          "content": "**Kızılderililer ve Eskimolar Türk mü?**\n\nPeki bu sorunun tersini niye sormuyorsunuz? Yani Türkler acaba Eskimo mu? Sümerler Türkmüş. Yoo, Sümerler Türklerin zuhurundan dört bin sene önce yaşadı. Sakı...",
+          "metadata": {
+            "title": "Aztekler ve Eskimolar Türk mü",
+            "date": "27 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/aztekler-ve-eskimolar-turk-mu-15802",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5181164300915595,
+          "sparse_score": null,
+          "dense_rank": 34,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6c4a7e459914#1",
+          "score": 0.5169782184648475,
+          "content": "O potada bir elit dili şekillenir. İstanbul Türkçesi yüzyıllar içinde oluştu. Fakat özellikle Lale Devrinde, yani 18. yüzyıl başlarında birdenbire kendinin bilincine vardı. Yani bizim Türkçemiz çok kı...",
+          "metadata": {
+            "title": "İstanbul Türkçesi nasıl oluştu",
+            "date": "03 January 2021",
+            "source": "https://www.sevannisanyan.com/metin/istanbul-turkcesi-nasil-olustu-83442",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5169782184648475,
+          "sparse_score": null,
+          "dense_rank": 35,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "fc8be0ac5940#2",
+          "score": 0.5164460314825187,
+          "content": "Gazali, Nasırüddin Tusi vb. Dönemin mimarisinden ve plastik sanatlarından arta kalan örnekler da, ‘ilkel’ ya da ‘göçebe’ sayılacak bir kültüre işaret etmez. Etnik kökeni Türk olan kişilerin bu kültüre...",
+          "metadata": {
+            "title": "Türkçe tarihi 8: 13. yy'da Türkçe yazıldı mı?",
+            "date": "Nov 21, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-8-13-yyda-turkce-yazld-17-11-21",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5164460314825187,
+          "sparse_score": null,
+          "dense_rank": 36,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "951e8584b0dd#3",
+          "score": 0.5149136178724832,
+          "content": "Alman üniversitelerinde Zazaca üzerine ciddi sayılacak çalışmalar yapılmakta ise de bunların sonuçları henüz Türkçeye yansımamıştır. j) Midyat ve Nusyabin yöresinde konuşulan Turoyo dili (“Süryanice”)...",
+          "metadata": {
+            "title": "Ölmüş Diller Enstitüsü",
+            "date": "Jan 17, 2011",
+            "source": "https://nisanyan.substack.com/p/olmus-diller-enstitusu-11-01-17",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 5
+          },
+          "dense_score": 0.5149136178724832,
+          "sparse_score": null,
+          "dense_rank": 37,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eef620d22d#1",
+          "score": 0.5146182764157579,
+          "content": "Dolaysız kaynak Farsça ve Arapça olduğu için ‘yüksek kültüre’ ait sayılırlar. Doğrudan Yunanca alıntıların aksine, edebi dilde serbestçe kullanılırlar. abanoz, afyon, badya, balgam, baytar, beled/beld...",
+          "metadata": {
+            "title": "Türkçe tarihi 6: Yunancadan gelen",
+            "date": "Nov 19, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-6-yunancadan-gelen-17-11-19",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 8
+          },
+          "dense_score": 0.5146182764157579,
+          "sparse_score": null,
+          "dense_rank": 38,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "1dbabf602e80#1",
+          "score": 0.5145333070776898,
+          "content": "Ama Türk devleti onlara ihanet ederse, Türk devleti onları düşman bellerse, Türk devleti onları aşağılamaya, dillerini ve kimliklerini yasaklamaya kalkarsa, o zaman iş değişir. Türk devleti derdine ya...",
+          "metadata": {
+            "title": "Türk mü Türkiyeli mi",
+            "date": "09 March 2023",
+            "source": "https://www.sevannisanyan.com/metin/turk-mu-turkiyeli-mi-32594",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5145333070776898,
+          "sparse_score": null,
+          "dense_rank": 39,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "844482c38c63#5",
+          "score": 0.5144871086146243,
+          "content": "Pek nadiren mevcut akademik konsensusa katılmadığımız oluyor, ama normal koşullarda akıntıyla beraber kürek çekmemek için bir sebep göremiyoruz. Asıl dertli kısım bundan sonra başlıyor. Yazılı dönemde...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 9
+          },
+          "dense_score": 0.5144871086146243,
+          "sparse_score": null,
+          "dense_rank": 40,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "c09957cb93d0#0",
+          "score": 0.513768417653726,
+          "content": "**Turgay**\n\nTurgay Timurlenk’in babasının adı. Türkiye’de duyulmamış bir isim iken 1933’te ‘Yeni Türk adları’ seferberliğinde önerilmiş, 1935’ten itibaren doğanlarda kişi adı olarak kullanılmış, 1960’...",
+          "metadata": {
+            "title": "Turgay kim?",
+            "date": "Dec 30, 2020",
+            "source": "https://nisanyan.substack.com/p/turgay-kim-20-12-30",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.513768417653726,
+          "sparse_score": null,
+          "dense_rank": 41,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9b3debfec55c#5",
+          "score": 0.5135153439897876,
+          "content": "Daha ilginci, Şemseddin Sami Bey'in kendi eseri olan ilk modern Türkçe ansiklopedi, 1889-1891 tarihli Kamusü’l-Alam’da kullandığı yabancı kaynaklı sözcüklerin bazılarına (*balsam, boraks, iskorbüt, mi...",
+          "metadata": {
+            "title": "Türkçe tarihi 4: Batı ile karşılaşma",
+            "date": "Nov 17, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-4-bat-ile-karslasma-17-11-17",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5135153439897876,
+          "sparse_score": null,
+          "dense_rank": 42,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0542ac4f1644#15",
+          "score": 0.5132102771409418,
+          "content": "Türkçede ayrışmış, ilki zarf İkincisi sıfat olmuş. Ne zaman olmuş, takip et.\n\n**Saçak** eski Türkçede çatı saçağı. Kumaş saçağı ilk hangi tarihte görülmüş? Aslı rüzalet iken **rezalet** ne zaman çıkmı...",
+          "metadata": {
+            "title": "Hapiste boş oturma çalış",
+            "date": "Nov 05, 2014",
+            "source": "https://nisanyan.substack.com/p/hapiste-bos-oturma-cals-14-11-05",
+            "keywords": "",
+            "chunk_index": 15,
+            "total_chunks": 34
+          },
+          "dense_score": 0.5132102771409418,
+          "sparse_score": null,
+          "dense_rank": 43,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "844482c38c63#1",
+          "score": 0.5131817414048201,
+          "content": "Öbür türlü açıklanamaz ortak kelimelerin olması. Bu sorunun doğru cevabını verebilmek için bir dizi testten geçirmen gerekiyor. Testler çok kolay olabilir, içinden çıkılamayacak kadar zor olabilir. Fa...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 9
+          },
+          "dense_score": 0.5131817414048201,
+          "sparse_score": null,
+          "dense_rank": 44,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5029fba41755#1",
+          "score": 0.512041171203867,
+          "content": "> **Türkçe nedir? Bugün Türkçe konuştuğunu söyleyen herkesin kullandığı kelimeler, gramer, sentaks, telaffuz mu, başka bir şey mi ya da misal öztürkçeci Ataç’ın kullandığı mı?**\n>\n> Türkçe bugünün Tür...",
+          "metadata": {
+            "title": "Dile ve Türkçeye dair bir söyleşi",
+            "date": "Mar 12, 2023",
+            "source": "https://nisanyan.substack.com/p/dile-ve-turkceye-dair-bir-soylesi",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 13
+          },
+          "dense_score": 0.512041171203867,
+          "sparse_score": null,
+          "dense_rank": 45,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cc0f239dd893#1",
+          "score": 0.5119695138196507,
+          "content": "Fakat Kırım ve Besarabya Tatarlarının tuhaf lehçesi Evliya’yı eğlendirir. Onlarla temaslarını anlatırken muzipçe onların dilini ve deyimlerini taklit eder. Kelâm-ı ekâbirde “el-Arabî fesâhatün ve'l-Ac...",
+          "metadata": {
+            "title": "Evliya Çelebi'nin Türkleri",
+            "date": "Apr 04, 2019",
+            "source": "https://nisanyan.substack.com/p/evliya-celebinin-turkleri-19-04-04",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5119695138196507,
+          "sparse_score": null,
+          "dense_rank": 46,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "fc8be0ac5940#3",
+          "score": 0.5118780602843713,
+          "content": "Örneğin yazı Türkçesinin 1930 ile 1980 arasındaki evrim hızını kıstas olarak alırsak, lineer mantıkla, Atatürk’ün 1927 tarihli *Nutuk*’unun bu tarihten birkaç yüz yıl önce yazılmış olduğu sonucuna var...",
+          "metadata": {
+            "title": "Türkçe tarihi 8: 13. yy'da Türkçe yazıldı mı?",
+            "date": "Nov 21, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-8-13-yyda-turkce-yazld-17-11-21",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5118780602843713,
+          "sparse_score": null,
+          "dense_rank": 47,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03eb9cea86bc#8",
+          "score": 0.5116942746821544,
+          "content": "TDK 1945 basımı “ağırbaşlı” demiş. Bugünkü egemen anlamı ise “risk almama”. Evrime bakınız: “kudretli” > “ağır abi” > “ağırdan alır” > “korkak”. Gerçek dünyada da öyle değil midir? İktidar korkaklaştı...",
+          "metadata": {
+            "title": "Sözlük çalışmasına devam",
+            "date": "Dec 12, 2014",
+            "source": "https://nisanyan.substack.com/p/sozluk-calsmasna-devam-14-12-12",
+            "keywords": "",
+            "chunk_index": 8,
+            "total_chunks": 11
+          },
+          "dense_score": 0.5116942746821544,
+          "sparse_score": null,
+          "dense_rank": 48,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "778760b2819f#1",
+          "score": 0.5107933266714615,
+          "content": "Yüz yıldan ne kadar daha eskidir? Kesin bir şey söylemek güç, çünkü yazılı kaynak yok veya yokumsu. Osmanlı idaresi sistemli olarak kayda geçirdiği yerlere mutlaka Türkçe adlar vermiş. (Dolayısıyla me...",
+          "metadata": {
+            "title": "Kürtçe yer adları",
+            "date": "Nov 30, 2018",
+            "source": "https://nisanyan.substack.com/p/kurtce-yer-adlar-18-11-30",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.5107933266714615,
+          "sparse_score": null,
+          "dense_rank": 49,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3907ae5b9c7a#0",
+          "score": 0.5094765767610694,
+          "content": "*Üç dört gün sürecek bir dizinin ilki.*\n\nTürkiye’de 1453’ten önce Yunanca adı kayıtlı olup bugün yerini az çok kesinlikle tespit edebildiğimiz yerleşim birimi 900 kadar. Ben 886 saydım. Hemen hepsi Fı...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 1",
+            "date": "Jan 12, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-1-19-01-12",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5094765767610694,
+          "sparse_score": null,
+          "dense_rank": 50,
+          "sparse_rank": null
+        }
+      ],
+      "performance": {
+        "total_time_ms": 615.5550479888916,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "sparse": {
+      "query": "Türk dili tarihi",
+      "strategy": "sparse",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "7c24119ff1e5#0",
+          "score": 3.363205671310425,
+          "content": "“Tarihte Türk milleti diye bir şey yok” diye buyurmuş gene bir sevgili arkadaşımız. Bizim Türkiye gayrimüslimlerinin sevdiği temalardandır. Son zamanlarda Kürt kardeşlerimiz de keşfettiler, pek sevdil...",
+          "metadata": {
+            "title": "Türk güzellemesi",
+            "date": "Sep 24, 2017",
+            "source": "https://nisanyan.substack.com/p/turk-guzellemesi-17-09-24",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.363205671310425,
+          "dense_rank": null,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "acbf2920a03f#1",
+          "score": 3.302250862121582,
+          "content": "Bitti. Demek ki Aztekler Türktür. Peki arkadaşım bunun bir anlam ifade etmesi için bu dille Türkçe arasındaki ortaklıkları sistemleştir, ses değişim kurallarını çalış, yaz. Ama onlar yok. Pekala mümkü...",
+          "metadata": {
+            "title": "Aztekler ve Eskimolar Türk mü",
+            "date": "27 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/aztekler-ve-eskimolar-turk-mu-15802",
+            "keywords": "Amerika yerli dilleri, Aztekler, Eskimolar, Türkçülük"
+          },
+          "dense_score": null,
+          "sparse_score": 3.302250862121582,
+          "dense_rank": null,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "0a2f31042136#1",
+          "score": 3.249950647354126,
+          "content": "ABD’de yine 1933’te başlayan New Deal rejiminin başarıları Türk basınında hararetle tartışılmaktadır. Dönemin ruhunu kavramanıza izin veren en tipik hadise isim devrimidir. Soyadı Kanunu ile başlar 19...",
+          "metadata": {
+            "title": "Kadro Hareketi neydi",
+            "date": "23 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/kadro-hareketi-neydi-44093",
+            "keywords": "Atatürk devrimleri, Kadro Harekeri"
+          },
+          "dense_score": null,
+          "sparse_score": 3.249950647354126,
+          "dense_rank": null,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "71ddfe8871fd#16",
+          "score": 3.125664710998535,
+          "content": "Bu sözcüklerin Türkçe olmadığı, buna karşılık Eski Uygurcada keşfedilen acun, kip ve astın gibi birtakım sözcüklerin Türkçe olduğu kanısını taşırlar. Bu kanının makul sayılabilecek bir tek tek dayanağ...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.125664710998535,
+          "dense_rank": null,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "504f330973cc#0",
+          "score": 3.0742433071136475,
+          "content": "**Anadolu Türklüğünün temeli Türk dilidir. Türkiye bu kültürel Türklük temeli üzerine kurulmuştur. O yüzden Türk Devrimi başarılı olmuştur.**\n\nYüz yıldır sürekli tekrarlanan bir tez bu, yeni bir şey s...",
+          "metadata": {
+            "title": "Cumhuriyet’in dil politikası başarılı mıdır",
+            "date": "04 October 2020",
+            "source": "https://www.sevannisanyan.com/metin/cumhuriyetin-dil-politikasi-basarili-midir-90925",
+            "keywords": "Kürtler, ulusal dil politikası"
+          },
+          "dense_score": null,
+          "sparse_score": 3.0742433071136475,
+          "dense_rank": null,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "71ddfe8871fd#0",
+          "score": 3.0331921577453613,
+          "content": "“Dil Devrimi” denilen şey gerekliydi ve hatta kaçınılmazdı. Aksini hiç savunmadım. Dil Devrimini ideolojik saplantılarına kılıf edenleri yerdim, hatta bazen hırpaladım. Dil Devriminin teorik temelleri...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.0331921577453613,
+          "dense_rank": null,
+          "sparse_rank": 6
+        },
+        {
+          "chunk_id": "0d7ac7479b72#6",
+          "score": 3.023317813873291,
+          "content": "Kıssadan hisse? Bu seferlik olmasın. *Daha sonra eklenen*Peki kıssadan hisse ekleyelim.1. “İlkel”i yakalamak zannettiğinden zordur. En “ilkel” görünen toplumun dahi senin ve benim kadar tarihi vardır....",
+          "metadata": {
+            "title": "Şaman",
+            "date": "Apr 27, 2019",
+            "source": "https://nisanyan.substack.com/p/saman-19-04-27",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 3.023317813873291,
+          "dense_rank": null,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "db5468ced725#4",
+          "score": 2.988778829574585,
+          "content": "Osmanlı ülkesinde de eskiden Müslüman diye anılan halkın kendini ‘Türk’ olarak yeniden tanımlaması sürecinde rol oynamış bir faktördür. Rusya’daki 1905 ihtilalinden sonra Rusya’nın o zamanlar Tatar di...",
+          "metadata": {
+            "title": "Türkler eskiden Osmanlı mıydı",
+            "date": "28 November 2021",
+            "source": "https://www.sevannisanyan.com/metin/turkler-eskiden-osmanli-miydi-81340",
+            "keywords": "Azeri, Osmanlı, Türkler"
+          },
+          "dense_score": null,
+          "sparse_score": 2.988778829574585,
+          "dense_rank": null,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "2773389a8a1e#1",
+          "score": 2.9431934356689453,
+          "content": "Ne yazık ki mutlak iktidarın kaçınılmaz olarak getirdiği mutlak cinnetten, en azından selefi Abdülhamit kadar, ve en azından halefi olan bugünkü örnekler kadar, nasibini almıştır. 1920’lerin sonlarınd...",
+          "metadata": {
+            "title": "On Kasım tezleri",
+            "date": "Nov 10, 2017",
+            "source": "https://nisanyan.substack.com/p/on-kasm-tezleri-17-11-10",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.9431934356689453,
+          "dense_rank": null,
+          "sparse_rank": 9
+        },
+        {
+          "chunk_id": "1dbabf602e80#2",
+          "score": 2.892772912979126,
+          "content": "Demek ki daha ziyade siyasetle, mezheple ve bir ölçüde dille tanımlanmış bir kimlikti. Bulgaristan’daki bir Türk’le, Sivas’taki bir Türk’ü bir araya getiren, onları ‘biz’ diye tanımlayan şeydi. Kürtle...",
+          "metadata": {
+            "title": "Türk mü Türkiyeli mi",
+            "date": "09 March 2023",
+            "source": "https://www.sevannisanyan.com/metin/turk-mu-turkiyeli-mi-32594",
+            "keywords": "Kürtler, Türk, Türkiyeli"
+          },
+          "dense_score": null,
+          "sparse_score": 2.892772912979126,
+          "dense_rank": null,
+          "sparse_rank": 10
+        },
+        {
+          "chunk_id": "4b6eeec541db#1",
+          "score": 2.8917036056518555,
+          "content": "Bu dil nasıl şekillendi, nasıl evrelerden geçti, bugünkü durumuna nasıl geldi konusu, Türkçü fanatiklere bırakılmayacak kadar değerli bir konu. 20. yüzyıl başından beri Türkçe’yi bir kavim diline indi...",
+          "metadata": {
+            "title": "Türkçenin tarihi nasıl yazılmalı",
+            "date": "07 May 2023",
+            "source": "https://www.sevannisanyan.com/metin/turkcenin-tarihi-nasil-yazilmali-16208",
+            "keywords": "emperyal diller, Türkçenin tarihi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.8917036056518555,
+          "dense_rank": null,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "309bc810eb5e#0",
+          "score": 2.868521213531494,
+          "content": "*Dil tarihi dizisinin yedinci yazısı \"[Türkler Nece Konuşur](https://nisanyan1.blogspot.gr/2017/11/turkce-tarihi-7-turkler-nece-konusurdu.html)\" epey ilgi doğurdu. Birkaç not ekleyeyim.*\n\n“Ender olara...",
+          "metadata": {
+            "title": "Türkler Nece Konuşurdu yazısına ek notlar",
+            "date": "Nov 22, 2017",
+            "source": "https://nisanyan.substack.com/p/turkler-nece-konusurdu-yazsna-ek-17-11-22",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.868521213531494,
+          "dense_rank": null,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "71ddfe8871fd#8",
+          "score": 2.8608222007751465,
+          "content": "Yönetici elitin aslında bihaber olduğu köylü ve kasabalı Türkçesinden yeni bir kültür dili üretilebileceği fantezisine bel bağlanmıştır. Üçüncü sebep ‘komşuda var bizde niye yok’ sendromudur. Sırasıyl...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8608222007751465,
+          "dense_rank": null,
+          "sparse_rank": 13
+        },
+        {
+          "chunk_id": "cc0f239dd893#1",
+          "score": 2.8184261322021484,
+          "content": "Fakat Kırım ve Besarabya Tatarlarının tuhaf lehçesi Evliya’yı eğlendirir. Onlarla temaslarını anlatırken muzipçe onların dilini ve deyimlerini taklit eder. Kelâm-ı ekâbirde “el-Arabî fesâhatün ve'l-Ac...",
+          "metadata": {
+            "title": "Evliya Çelebi'nin Türkleri",
+            "date": "Apr 04, 2019",
+            "source": "https://nisanyan.substack.com/p/evliya-celebinin-turkleri-19-04-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.8184261322021484,
+          "dense_rank": null,
+          "sparse_rank": 14
+        },
+        {
+          "chunk_id": "8e2749d9e6a4#3",
+          "score": 2.809635639190674,
+          "content": "Burada sözünü ettiği Apas, 984’ten 1020’lere dek Kars’ta ayrı bir krallık kuran Apas Pakraduni’dir. Demek ki Ani’deki Ermeni krallığından ayrılıp Kars’ta yerel bir hükümet kuran bu Apas zamanında Kars...",
+          "metadata": {
+            "title": "Kars’ı kimler kurdu",
+            "date": "23 July 2023",
+            "source": "https://www.sevannisanyan.com/metin/karsi-kimler-kurdu-63057",
+            "keywords": "Ermeni tarihi, Kars, Xorenli Movses"
+          },
+          "dense_score": null,
+          "sparse_score": 2.809635639190674,
+          "dense_rank": null,
+          "sparse_rank": 15
+        },
+        {
+          "chunk_id": "82cce5db0a22#0",
+          "score": 2.8051486015319824,
+          "content": "**Türkler Hint Avrupa kökenli midir?**\n\nFalanca millet Hintavrupa kökenlidir saçmalığından kendinizi kurtarın diye kaç kere söyledim, dilimde tüy bitti. Yok öyle bir şey. Şayet altı bin sene önce bir ...",
+          "metadata": {
+            "title": "Hintavrupa nasıl anlaşılır",
+            "date": "16 May 2021",
+            "source": "https://www.sevannisanyan.com/metin/hintavrupa-nasil-anlasilir-38623",
+            "keywords": "Hintavrupa dilleri, Türkçe"
+          },
+          "dense_score": null,
+          "sparse_score": 2.8051486015319824,
+          "dense_rank": null,
+          "sparse_rank": 16
+        },
+        {
+          "chunk_id": "d6919803ba75#1",
+          "score": 2.787869691848755,
+          "content": "Yukarıdaki haritanın hemen batısında bulunan Şavşat’ın, Posoflulara benzer bir lehçe konuşan ve kültürce onlara benzeyen Türk dilli halkı da bazen “Ahıska Türklerine” dahil edilir. “Ahıska Türkü” tabi...",
+          "metadata": {
+            "title": "\"Ahıska Türkleri\"",
+            "date": "Sep 30, 2025",
+            "source": "https://nisanyan.substack.com/p/ahska-turkleri",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.787869691848755,
+          "dense_rank": null,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "1dbabf602e80#0",
+          "score": 2.734614849090576,
+          "content": "**Alman vatandaşına Alman, Azerbaycan vatandaşına Azeri, Ermenistan vatandaşına Ermeni deriz. Peki, Türkiye vatandaşına da Türk denmesinin neden bazı kesimler sıkıntı duyar?**\n\nBunun müsebbibi “bazı k...",
+          "metadata": {
+            "title": "Türk mü Türkiyeli mi",
+            "date": "09 March 2023",
+            "source": "https://www.sevannisanyan.com/metin/turk-mu-turkiyeli-mi-32594",
+            "keywords": "Kürtler, Türk, Türkiyeli"
+          },
+          "dense_score": null,
+          "sparse_score": 2.734614849090576,
+          "dense_rank": null,
+          "sparse_rank": 18
+        },
+        {
+          "chunk_id": "844482c38c63#5",
+          "score": 2.7074053287506104,
+          "content": "Pek nadiren mevcut akademik konsensusa katılmadığımız oluyor, ama normal koşullarda akıntıyla beraber kürek çekmemek için bir sebep göremiyoruz. Asıl dertli kısım bundan sonra başlıyor. Yazılı dönemde...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "dilbilim, etimoloji, Hintavrupa, Türkoloji"
+          },
+          "dense_score": null,
+          "sparse_score": 2.7074053287506104,
+          "dense_rank": null,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "844482c38c63#1",
+          "score": 2.699686288833618,
+          "content": "Öbür türlü açıklanamaz ortak kelimelerin olması. Bu sorunun doğru cevabını verebilmek için bir dizi testten geçirmen gerekiyor. Testler çok kolay olabilir, içinden çıkılamayacak kadar zor olabilir. Fa...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "dilbilim, etimoloji, Hintavrupa, Türkoloji"
+          },
+          "dense_score": null,
+          "sparse_score": 2.699686288833618,
+          "dense_rank": null,
+          "sparse_rank": 20
+        },
+        {
+          "chunk_id": "d8b83fb257b0#0",
+          "score": 2.676441192626953,
+          "content": "**Türkiye Cumhuriyeti size değer vermezken, niçin bu kadar önemli bir sözlük çalışmasını Türklere adadınız?**\n\nTürklere bir şey adamadım, bu bir. Türkiye Cumhuriyeti ve Türkler iki ayrı kavramdır, bir...",
+          "metadata": {
+            "title": "Nişanyan Sözlük Türk varlığına armağan mıdır",
+            "date": "21 December 2020",
+            "source": "https://www.sevannisanyan.com/metin/nisanyan-sozluk-turk-varligina-armagan-midir-24840",
+            "keywords": "Nişanyan Sözlük, Türkçe, Türkiye Cumhuriyeti"
+          },
+          "dense_score": null,
+          "sparse_score": 2.676441192626953,
+          "dense_rank": null,
+          "sparse_rank": 21
+        },
+        {
+          "chunk_id": "6a84fdd567d3#0",
+          "score": 2.665696620941162,
+          "content": "Dünkü yazıya başlarken niyetim Türk, Ermeni ve Kürt kolektif kimliklerinin ilk ortaya çıkış öykülerini kıyaslamaktı. Başlık da kafamda hazırdı, “Kim daha uzağa işer”. Sonra Kürt maddesi çok uzadı, öbü...",
+          "metadata": {
+            "title": "Hassas konulara neden değinir insan",
+            "date": "Jan 15, 2018",
+            "source": "https://nisanyan.substack.com/p/hassas-konulara-neden-deginir-insan-18-01-15",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.665696620941162,
+          "dense_rank": null,
+          "sparse_rank": 22
+        },
+        {
+          "chunk_id": "309bc810eb5e#3",
+          "score": 2.661919116973877,
+          "content": "Türkçe sahiden biliyorlar mıydı? Ne malum? Günlük hayatta dil Rumca, edebi sohbette Farsça neden olmasın? Tarih okudukça fark ediyorsun ki geçmiş hakkında bildiğin ya da bildiğini zannettiğin her şey ...",
+          "metadata": {
+            "title": "Türkler Nece Konuşurdu yazısına ek notlar",
+            "date": "Nov 22, 2017",
+            "source": "https://nisanyan.substack.com/p/turkler-nece-konusurdu-yazsna-ek-17-11-22",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.661919116973877,
+          "dense_rank": null,
+          "sparse_rank": 23
+        },
+        {
+          "chunk_id": "acbf2920a03f#0",
+          "score": 2.6484944820404053,
+          "content": "**Kızılderililer ve Eskimolar Türk mü?**\n\nPeki bu sorunun tersini niye sormuyorsunuz? Yani Türkler acaba Eskimo mu? Sümerler Türkmüş. Yoo, Sümerler Türklerin zuhurundan dört bin sene önce yaşadı. Sakı...",
+          "metadata": {
+            "title": "Aztekler ve Eskimolar Türk mü",
+            "date": "27 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/aztekler-ve-eskimolar-turk-mu-15802",
+            "keywords": "Amerika yerli dilleri, Aztekler, Eskimolar, Türkçülük"
+          },
+          "dense_score": null,
+          "sparse_score": 2.6484944820404053,
+          "dense_rank": null,
+          "sparse_rank": 24
+        },
+        {
+          "chunk_id": "db6a817dede6#1",
+          "score": 2.6370949745178223,
+          "content": "Ünlü bir Yahudi hekimin oğludur. Otuz yaşından sonra İslam dinine geçip, art arda üç İlhanlı hükümdarının kudretli başveziri olmuştur. İktidarı dönemi, Türk ve İslam tarihinin kritik bir dönüm noktası...",
+          "metadata": {
+            "title": "Oğuzların 24 boyunu nereden biliyoruz?",
+            "date": "Nov 04, 2018",
+            "source": "https://nisanyan.substack.com/p/oguzlarn-24-boyunu-nereden-biliyoruz-18-11-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.6370949745178223,
+          "dense_rank": null,
+          "sparse_rank": 25
+        },
+        {
+          "chunk_id": "7eb5e35d2982#1",
+          "score": 2.618486166000366,
+          "content": "Bohemya kralı, 1348'i izleyen 450 yıl boyunca Almanya imparatorunu seçen yedi kişilik heyetin başıydı. Dilde diglossia denilen hadise hüküm sürdü. Daha önce bir iki yazıda değinmiştim. Yerel dil ev di...",
+          "metadata": {
+            "title": "Çek defteri",
+            "date": "Mar 31, 2017",
+            "source": "https://nisanyan.substack.com/p/cek-defteri-17-03-31",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.618486166000366,
+          "dense_rank": null,
+          "sparse_rank": 26
+        },
+        {
+          "chunk_id": "08a747b0c1cb#13",
+          "score": 2.6177256107330322,
+          "content": "Umumiyetle bu dillerden aktarılmış olan yer adlarında görülür. Türkçe “yeni yerleşim, koloni” anlamında ‘Şenlik’ daha geç döneme aittir.\n\n**Tabaklar:** Daima debbağlar (“deri sepiciler”) anlamında. **...",
+          "metadata": {
+            "title": "Türkçe yer adlarının tipik bileşenleri",
+            "date": "Aug 05, 2019",
+            "source": "https://nisanyan.substack.com/p/turkce-yer-adlarnn-tipik-bilesenleri-19-08-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.6177256107330322,
+          "dense_rank": null,
+          "sparse_rank": 27
+        },
+        {
+          "chunk_id": "db5468ced725#1",
+          "score": 2.5858516693115234,
+          "content": "Demek ki endonim Müslüman, eksonim Türk. Kendine Deutsch diyenlere nasıl biz ‘Alman’ diye bir ad veriyorsak, yahut geçmişte Nemçe demişsek, aşağı yukarı öyle bir şey. Bu topluluğun ortak dili Türkçe i...",
+          "metadata": {
+            "title": "Türkler eskiden Osmanlı mıydı",
+            "date": "28 November 2021",
+            "source": "https://www.sevannisanyan.com/metin/turkler-eskiden-osmanli-miydi-81340",
+            "keywords": "Azeri, Osmanlı, Türkler"
+          },
+          "dense_score": null,
+          "sparse_score": 2.5858516693115234,
+          "dense_rank": null,
+          "sparse_rank": 28
+        },
+        {
+          "chunk_id": "fc8be0ac5940#2",
+          "score": 2.570960283279419,
+          "content": "Gazali, Nasırüddin Tusi vb. Dönemin mimarisinden ve plastik sanatlarından arta kalan örnekler da, ‘ilkel’ ya da ‘göçebe’ sayılacak bir kültüre işaret etmez. Etnik kökeni Türk olan kişilerin bu kültüre...",
+          "metadata": {
+            "title": "Türkçe tarihi 8: 13. yy'da Türkçe yazıldı mı?",
+            "date": "Nov 21, 2017",
+            "source": "https://nisanyan.substack.com/p/turkce-tarihi-8-13-yyda-turkce-yazld-17-11-21",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.570960283279419,
+          "dense_rank": null,
+          "sparse_rank": 29
+        },
+        {
+          "chunk_id": "15bb4a337a3f#15",
+          "score": 2.561589241027832,
+          "content": "Onun Türkçe Soyadları bölümünü ben yazdım. Kısa bir yazı, üç sayfalık bir şey. Türk adları ve soyadları konusuna genel bir bakış. Clarendon, “The History of the Rebellion and Civil Wars in England”. M...",
+          "metadata": {
+            "title": "Kitap tanıtımları-2",
+            "date": "16 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/kitap-tanitimlari-2-08829",
+            "keywords": "Clarendon, İpek Yolu, Paul Auster, Peter Frankopan, postmodernizm, Richard Dawkins, Ruchir Sharma, Yannis Varoufakis"
+          },
+          "dense_score": null,
+          "sparse_score": 2.561589241027832,
+          "dense_rank": null,
+          "sparse_rank": 30
+        },
+        {
+          "chunk_id": "5029fba41755#4",
+          "score": 2.546929359436035,
+          "content": "Matbaanın icadına rahmet okutacak büyük bir devrimin ilk basamaklarındayız sanırım. Kamuya – yani tanımadığı, yüzünü görmediği insanlara – yazı yazan kişi sayısında beş on sene içinde inanılmaz bir pa...",
+          "metadata": {
+            "title": "Dile ve Türkçeye dair bir söyleşi",
+            "date": "Mar 12, 2023",
+            "source": "https://nisanyan.substack.com/p/dile-ve-turkceye-dair-bir-soylesi",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.546929359436035,
+          "dense_rank": null,
+          "sparse_rank": 31
+        },
+        {
+          "chunk_id": "694b0d366738#14",
+          "score": 2.5465691089630127,
+          "content": "Akşar, Alaşar, Şarköyü vb.**Şen:** Ermenice ve Gürcücede ortak olan kelime “yerleşim, köy” anlamına gelir. Umumiyetle bu dillerden aktarılmış olan yer adlarında görülür. Türkçede “yeni yerleşim, kolon...",
+          "metadata": {
+            "title": "Türkçe yer adları sözlüğü",
+            "date": "Sep 16, 2018",
+            "source": "https://nisanyan.substack.com/p/turkce-yer-adlar-sozlugu-18-09-16",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.5465691089630127,
+          "dense_rank": null,
+          "sparse_rank": 32
+        },
+        {
+          "chunk_id": "8c2727f6c297#6",
+          "score": 2.540466785430908,
+          "content": "Reklamlara bak, ağzın açık kalır. Ne mutlu insanlar! Ne kibar bankalar! Özgürlüğün güvencesi, esnek ve emici pedler! Türkiye’nin bu derece ezici bir kültürel/ekonomik üstünlük kazandığı bir dünyada, y...",
+          "metadata": {
+            "title": "İran notları",
+            "date": "Jun 04, 2012",
+            "source": "https://nisanyan.substack.com/p/iran-notlar-12-06-04",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.540466785430908,
+          "dense_rank": null,
+          "sparse_rank": 33
+        },
+        {
+          "chunk_id": "1dbabf602e80#1",
+          "score": 2.5399856567382812,
+          "content": "Ama Türk devleti onlara ihanet ederse, Türk devleti onları düşman bellerse, Türk devleti onları aşağılamaya, dillerini ve kimliklerini yasaklamaya kalkarsa, o zaman iş değişir. Türk devleti derdine ya...",
+          "metadata": {
+            "title": "Türk mü Türkiyeli mi",
+            "date": "09 March 2023",
+            "source": "https://www.sevannisanyan.com/metin/turk-mu-turkiyeli-mi-32594",
+            "keywords": "Kürtler, Türk, Türkiyeli"
+          },
+          "dense_score": null,
+          "sparse_score": 2.5399856567382812,
+          "dense_rank": null,
+          "sparse_rank": 34
+        },
+        {
+          "chunk_id": "47c4a262ed95#2",
+          "score": 2.5378057956695557,
+          "content": "Modern Türkçe kullanımda Kıbrıs Elenleri de Rum’dur, fakat Kıbrıslı Elenler bu sıfatı kabul etmez.Bilgi 5: Balkan Yarımadasında Latinceye benzer bir dil konuşan Ortodoks halk modern dönemde kendine **...",
+          "metadata": {
+            "title": "Kavim isimleri kaygandır, yakaladım sanırsın kaçar",
+            "date": "Jan 16, 2018",
+            "source": "https://nisanyan.substack.com/p/kavim-isimleri-kaygandr-yakaladm-18-01-16",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.5378057956695557,
+          "dense_rank": null,
+          "sparse_rank": 35
+        },
+        {
+          "chunk_id": "6cd4b815f40c#3",
+          "score": 2.5347659587860107,
+          "content": "Eflatun’dan beri her yaşlı kuşak dilin elden gittiği korkusuna kapılmıştır. 2500 senenin sonunda o korkunun pek gerçekçi olmadığı açıkça ortada.\n\n**Bilgisayar ve teknolojik dönüşümün dil üzerindeki et...",
+          "metadata": {
+            "title": "Türkçeye dair bir söyleşi",
+            "date": "12 March 2023",
+            "source": "https://www.sevannisanyan.com/metin/turkceye-dair-bir-soylesi-65599",
+            "keywords": "Dil Devrimi, harf devrimi, Türkçe"
+          },
+          "dense_score": null,
+          "sparse_score": 2.5347659587860107,
+          "dense_rank": null,
+          "sparse_rank": 36
+        },
+        {
+          "chunk_id": "cdaf7c324e66#1",
+          "score": 2.525707244873047,
+          "content": "Son yıllarda özellikle Anglo-Sakson dünyasında yayınlanan tarih kitaplarına baktığı zaman, tarihçiliğin ne olduğu konusunda fikir sahibi olan bir insan ancak ağlayabilir. Çok acıklı bir halde bugün Ba...",
+          "metadata": {
+            "title": "Tarihi kim yazar",
+            "date": "19 December 2021",
+            "source": "https://www.sevannisanyan.com/metin/tarihi-kim-yazar-28603",
+            "keywords": "tarih yazımı"
+          },
+          "dense_score": null,
+          "sparse_score": 2.525707244873047,
+          "dense_rank": null,
+          "sparse_rank": 37
+        },
+        {
+          "chunk_id": "c38ec7106018#0",
+          "score": 2.5224757194519043,
+          "content": "**Anadolu’da bulunan Göktürk yazıtları hakkında ne düşünüyorsunuz? Malazgirt’ten yüzyıllar önce Türkiye’deki Türk varlığı kanıtlandı mı sizce?**\n\nSahtekarlık ve cahillik diyorum. İdeolojik saplantılar...",
+          "metadata": {
+            "title": "Göktürkler Anadolu’ya geldi mi",
+            "date": "21 June 2020",
+            "source": "https://www.sevannisanyan.com/metin/gokturkler-anadoluya-geldi-mi-15337",
+            "keywords": "Eski Türk yazısı, Göktürkler, Türkçüler"
+          },
+          "dense_score": null,
+          "sparse_score": 2.5224757194519043,
+          "dense_rank": null,
+          "sparse_rank": 38
+        },
+        {
+          "chunk_id": "0d7ac7479b72#3",
+          "score": 2.521160840988159,
+          "content": "Aynı Sayce 50 küsur yıl sonra I. Türk Tarih Kongresinde Hititlerin ‘Turani bir kavim’ olduğu tezini ortaya atarak vatanperver Türk tarihçilerinin takdirini kazanacaktır. Şaman kavramının gerçek kaynak...",
+          "metadata": {
+            "title": "Şaman",
+            "date": "Apr 27, 2019",
+            "source": "https://nisanyan.substack.com/p/saman-19-04-27",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.521160840988159,
+          "dense_rank": null,
+          "sparse_rank": 39
+        },
+        {
+          "chunk_id": "3a2a06d513af#2",
+          "score": 2.5209710597991943,
+          "content": "Buraya kadar beni takip ettiysen ne ala. Şimdi biraz daha karmaşık fakat önemli bir şey söyleyeceğim. Ortaasya Türk toplumu farzedelim ki medeniydi, hatta trigonometrinin kanunlarını ve şeftali ırklar...",
+          "metadata": {
+            "title": "Atalarımız çapulcu muydu?",
+            "date": "Jul 21, 2020",
+            "source": "https://nisanyan.substack.com/p/atalarmz-capulcu-muydu-20-07-21",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.5209710597991943,
+          "dense_rank": null,
+          "sparse_rank": 40
+        },
+        {
+          "chunk_id": "44b4a84a8419#1",
+          "score": 2.5123043060302734,
+          "content": "Yani Ermenice DEĞİLDİR. Ama bundan Urartu devletini kurup yöneten vatandaşların Ermeni olmadığı sonucu ÇIKMAZ. Zira Ermeniler başka dilde yazı yazmaz diye bir kural yoktur. Urartuca yazıyorsa anadan d...",
+          "metadata": {
+            "title": "Bizim ecdadımız hem savaşır hem sevişirdi",
+            "date": "Jan 13, 2013",
+            "source": "https://nisanyan.substack.com/p/bizim-ecdadmz-hem-savasr-hem-sevisirdi-13-01-13",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.5123043060302734,
+          "dense_rank": null,
+          "sparse_rank": 41
+        },
+        {
+          "chunk_id": "f1628b5b8e56#7",
+          "score": 2.5113365650177,
+          "content": "Ancak Med dili ve kültürünün bu sahada yaşamaya devam ettiğine dair elimizde bir veri yoktur. Birçok örnekte Ermeni dilini ve siyasi kültürünü benimsemiş oldukları anlaşılıyor.\n>\n> Urartu krallığı MÖ ...",
+          "metadata": {
+            "title": "Sıfır Yılında Anadolu'nun Etnik ve Dilsel Haritası",
+            "date": "Jun 20, 2024",
+            "source": "https://nisanyan.substack.com/p/sfr-ylnda-anadolunun-etnik-ve-dilsel",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.5113365650177,
+          "dense_rank": null,
+          "sparse_rank": 42
+        },
+        {
+          "chunk_id": "951e8584b0dd#4",
+          "score": 2.504091739654541,
+          "content": "Amerika ve Avustralya yerli dilleri, Hint dilleri, Afrika dilleri vb. üzerinde bu nitelikte çok geniş bir literatür mevcuttur. Yukarıda sayılan dil ve lehçelerin her birinin sistematik tasviri, bir ve...",
+          "metadata": {
+            "title": "Ölmüş Diller Enstitüsü",
+            "date": "Jan 17, 2011",
+            "source": "https://nisanyan.substack.com/p/olmus-diller-enstitusu-11-01-17",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.504091739654541,
+          "dense_rank": null,
+          "sparse_rank": 43
+        },
+        {
+          "chunk_id": "ad1f4e8705ea#1",
+          "score": 2.476931095123291,
+          "content": "Eğitimli kişi olmak, Arapça ve biraz Farsça bilmekle eş anlamlı sayılmış. Daha ne kadar Araplaşacaksın ki? İki yüzyıla yakın zamandır, Tanzimat’tan beri bu ülkenin seçkinleri, elitleri, yönetici sınıf...",
+          "metadata": {
+            "title": "Türkler Araplaşıyor mu",
+            "date": "23 October 2022",
+            "source": "https://www.sevannisanyan.com/metin/turkler-araplasiyor-mu-65476",
+            "keywords": "Araplaşmak, Türk kişi adları, Türk kültürü"
+          },
+          "dense_score": null,
+          "sparse_score": 2.476931095123291,
+          "dense_rank": null,
+          "sparse_rank": 44
+        },
+        {
+          "chunk_id": "b2f50fe52fab#0",
+          "score": 2.466907501220703,
+          "content": "**Konstantinopolis ismi neden değişti, ne zaman değişti?**\n\nDeğişmedi ki? Sadece dünyada diplomatik teamüller değişti, şehrin sahibi olan Türklerin tercih ettiği isim dünyanın öbür devletlerince de re...",
+          "metadata": {
+            "title": "İstanbul’un adı ne zaman değişti",
+            "date": "06 December 2020",
+            "source": "https://www.sevannisanyan.com/metin/istanbulun-adi-ne-zaman-degisti-19852",
+            "keywords": "İstanbul, Konstantinopolis"
+          },
+          "dense_score": null,
+          "sparse_score": 2.466907501220703,
+          "dense_rank": null,
+          "sparse_rank": 45
+        },
+        {
+          "chunk_id": "987827d1d518#1",
+          "score": 2.461780071258545,
+          "content": "Ciddi kaynak araştırması üzerine kurulu, güvenilir bilgi veren bir çalışma. Bunu okuyun. Girit’e dair ilginiz sıfır da olsa ufkunuzu açacak kitaplardandır. Steven Levitsky ve Daniel Ziblatt, “How Demo...",
+          "metadata": {
+            "title": "Kitap tanıtımları-9",
+            "date": "17 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/kitap-tanitimlari-9-96866",
+            "keywords": "Girit, Herkül Millas, Murat Menteş, Orhan Pamuk, postmodernizm"
+          },
+          "dense_score": null,
+          "sparse_score": 2.461780071258545,
+          "dense_rank": null,
+          "sparse_rank": 46
+        },
+        {
+          "chunk_id": "a22b8acfac66#0",
+          "score": 2.457632541656494,
+          "content": "**Eski Türkçeye en yakın Türk dili hangisidir?**\n\nEski Türkçe derken 8. yüzyıldan başlayıp 11. yüzyıl sonlarına kadar yazılı belge bırakmış olan bir yazı dilinden söz ediyoruz. Bu dil 1070 yılından so...",
+          "metadata": {
+            "title": "Eski Türkçeye ne oldu",
+            "date": "17 July 2022",
+            "source": "https://www.sevannisanyan.com/metin/eski-turkceye-ne-oldu-92206",
+            "keywords": "Eski Türkçe, Türkçe tarihi, Uygurca"
+          },
+          "dense_score": null,
+          "sparse_score": 2.457632541656494,
+          "dense_rank": null,
+          "sparse_rank": 47
+        },
+        {
+          "chunk_id": "7c24119ff1e5#2",
+          "score": 2.4545321464538574,
+          "content": "Ama bu çağ ve devirde halâ bir işe yarar mı diye sormadan edemezsin. Hayatında köyünden ve mahallesinden çıkmamış insanlar bu mevzulara Fransız kalabilir. Ama biraz dünya görmüş, mesela gidip bir sene...",
+          "metadata": {
+            "title": "Türk güzellemesi",
+            "date": "Sep 24, 2017",
+            "source": "https://nisanyan.substack.com/p/turk-guzellemesi-17-09-24",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.4545321464538574,
+          "dense_rank": null,
+          "sparse_rank": 48
+        },
+        {
+          "chunk_id": "ae735e995aab#0",
+          "score": 2.4487950801849365,
+          "content": "Görüldüğü gibi Tunceli iki ayrı memleket. Kuzeyi asıl Dersim (Merkez, Ovacık, Pülümür, Nazımiye, Hozat ve Mazgirt'in kuzey ucu). Güneyi Çarsancak (Pertek ve Mazgirt) ve Çemişgezek.\n\nSünni ve son derec...",
+          "metadata": {
+            "title": "Tunceli'de etnik yapı",
+            "date": "Aug 24, 2024",
+            "source": "https://nisanyan.substack.com/p/tuncelide-etnik-yap",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.4487950801849365,
+          "dense_rank": null,
+          "sparse_rank": 49
+        },
+        {
+          "chunk_id": "0d7ac7479b72#2",
+          "score": 2.4425711631774902,
+          "content": "Fakat ‘şamanizm’ esas olarak Rus imparatorluğunun önceleri ‘Tatar’, sonra ‘Turani’ adı verilen kavimlerine özgü bir kategori olarak kalır. Avrupalılar için düne dek Kara Afrika kadar yabancı ve esrarl...",
+          "metadata": {
+            "title": "Şaman",
+            "date": "Apr 27, 2019",
+            "source": "https://nisanyan.substack.com/p/saman-19-04-27",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.4425711631774902,
+          "dense_rank": null,
+          "sparse_rank": 50
+        }
+      ],
+      "performance": {
+        "total_time_ms": 1.8849372863769531,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "hybrid": {
+      "query": "Türk dili tarihi",
+      "strategy": "hybrid",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "7c24119ff1e5#0",
+          "score": 0.03047794966520434,
+          "content": "“Tarihte Türk milleti diye bir şey yok” diye buyurmuş gene bir sevgili arkadaşımız. Bizim Türkiye gayrimüslimlerinin sevdiği temalardandır. Son zamanlarda Kürt kardeşlerimiz de keşfettiler, pek sevdil...",
+          "metadata": {
+            "title": "Türk güzellemesi",
+            "date": "Sep 24, 2017",
+            "source": "https://nisanyan.substack.com/p/turk-guzellemesi-17-09-24",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.5482393276515936,
+          "sparse_score": 3.363205671310425,
+          "dense_rank": 11,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "4b6eeec541db#1",
+          "score": 0.029957522915269395,
+          "content": "Bu dil nasıl şekillendi, nasıl evrelerden geçti, bugünkü durumuna nasıl geldi konusu, Türkçü fanatiklere bırakılmayacak kadar değerli bir konu. 20. yüzyıl başından beri Türkçe’yi bir kavim diline indi...",
+          "metadata": {
+            "title": "Türkçenin tarihi nasıl yazılmalı",
+            "date": "07 May 2023",
+            "source": "https://www.sevannisanyan.com/metin/turkcenin-tarihi-nasil-yazilmali-16208",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5919963712395242,
+          "sparse_score": 2.8917036056518555,
+          "dense_rank": 3,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "71ddfe8871fd#8",
+          "score": 0.02862400327131466,
+          "content": "Yönetici elitin aslında bihaber olduğu köylü ve kasabalı Türkçesinden yeni bir kültür dili üretilebileceği fantezisine bel bağlanmıştır. Üçüncü sebep ‘komşuda var bizde niye yok’ sendromudur. Sırasıyl...",
+          "metadata": {
+            "title": "Dil Devrimi elbette gerekliydi",
+            "date": "Jan 27, 2019",
+            "source": "https://nisanyan.substack.com/p/dil-devrimi-elbette-gerekliydi-19-01-27",
+            "keywords": "",
+            "chunk_index": 8,
+            "total_chunks": 17
+          },
+          "dense_score": 0.5515463821643167,
+          "sparse_score": 2.8608222007751465,
+          "dense_rank": 7,
+          "sparse_rank": 13
+        },
+        {
+          "chunk_id": "acbf2920a03f#1",
+          "score": 0.028474711270410194,
+          "content": "Bitti. Demek ki Aztekler Türktür. Peki arkadaşım bunun bir anlam ifade etmesi için bu dille Türkçe arasındaki ortaklıkları sistemleştir, ses değişim kurallarını çalış, yaz. Ama onlar yok. Pekala mümkü...",
+          "metadata": {
+            "title": "Aztekler ve Eskimolar Türk mü",
+            "date": "27 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/aztekler-ve-eskimolar-turk-mu-15802",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5299462226540697,
+          "sparse_score": 3.302250862121582,
+          "dense_rank": 21,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "309bc810eb5e#3",
+          "score": 0.02538152610441767,
+          "content": "Türkçe sahiden biliyorlar mıydı? Ne malum? Günlük hayatta dil Rumca, edebi sohbette Farsça neden olmasın? Tarih okudukça fark ediyorsun ki geçmiş hakkında bildiğin ya da bildiğini zannettiğin her şey ...",
+          "metadata": {
+            "title": "Türkler Nece Konuşurdu yazısına ek notlar",
+            "date": "Nov 22, 2017",
+            "source": "https://nisanyan.substack.com/p/turkler-nece-konusurdu-yazsna-ek-17-11-22",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5363972529042417,
+          "sparse_score": 2.661919116973877,
+          "dense_rank": 15,
+          "sparse_rank": 23
+        },
+        {
+          "chunk_id": "7c24119ff1e5#2",
+          "score": 0.02488425925925926,
+          "content": "Ama bu çağ ve devirde halâ bir işe yarar mı diye sormadan edemezsin. Hayatında köyünden ve mahallesinden çıkmamış insanlar bu mevzulara Fransız kalabilir. Ama biraz dünya görmüş, mesela gidip bir sene...",
+          "metadata": {
+            "title": "Türk güzellemesi",
+            "date": "Sep 24, 2017",
+            "source": "https://nisanyan.substack.com/p/turk-guzellemesi-17-09-24",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.5728029498070564,
+          "sparse_score": 2.4545321464538574,
+          "dense_rank": 4,
+          "sparse_rank": 48
+        },
+        {
+          "chunk_id": "309bc810eb5e#0",
+          "score": 0.02487789987789988,
+          "content": "*Dil tarihi dizisinin yedinci yazısı \"[Türkler Nece Konuşur](https://nisanyan1.blogspot.gr/2017/11/turkce-tarihi-7-turkler-nece-konusurdu.html)\" epey ilgi doğurdu. Birkaç not ekleyeyim.*\n\n“Ender olara...",
+          "metadata": {
+            "title": "Türkler Nece Konuşurdu yazısına ek notlar",
+            "date": "Nov 22, 2017",
+            "source": "https://nisanyan.substack.com/p/turkler-nece-konusurdu-yazsna-ek-17-11-22",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.5191803520409809,
+          "sparse_score": 2.868521213531494,
+          "dense_rank": 31,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "cc0f239dd893#1",
+          "score": 0.022947475777664456,
+          "content": "Fakat Kırım ve Besarabya Tatarlarının tuhaf lehçesi Evliya’yı eğlendirir. Onlarla temaslarını anlatırken muzipçe onların dilini ve deyimlerini taklit eder. Kelâm-ı ekâbirde “el-Arabî fesâhatün ve'l-Ac...",
+          "metadata": {
+            "title": "Evliya Çelebi'nin Türkleri",
+            "date": "Apr 04, 2019",
+            "source": "https://nisanyan.substack.com/p/evliya-celebinin-turkleri-19-04-04",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 7
+          },
+          "dense_score": 0.5119695138196507,
+          "sparse_score": 2.8184261322021484,
+          "dense_rank": 46,
+          "sparse_rank": 14
+        },
+        {
+          "chunk_id": "844482c38c63#5",
+          "score": 0.022658227848101266,
+          "content": "Pek nadiren mevcut akademik konsensusa katılmadığımız oluyor, ama normal koşullarda akıntıyla beraber kürek çekmemek için bir sebep göremiyoruz. Asıl dertli kısım bundan sonra başlıyor. Yazılı dönemde...",
+          "metadata": {
+            "title": "Etimoloji nasıl yapılır",
+            "date": "06 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/etimoloji-nasil-yapilir-83408",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 9
+          },
+          "dense_score": 0.5144871086146243,
+          "sparse_score": 2.7074053287506104,
+          "dense_rank": 40,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "acbf2920a03f#0",
+          "score": 0.02254305977710233,
+          "content": "**Kızılderililer ve Eskimolar Türk mü?**\n\nPeki bu sorunun tersini niye sormuyorsunuz? Yani Türkler acaba Eskimo mu? Sümerler Türkmüş. Yoo, Sümerler Türklerin zuhurundan dört bin sene önce yaşadı. Sakı...",
+          "metadata": {
+            "title": "Aztekler ve Eskimolar Türk mü",
+            "date": "27 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/aztekler-ve-eskimolar-turk-mu-15802",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5181164300915596,
+          "sparse_score": 2.6484944820404053,
+          "dense_rank": 34,
+          "sparse_rank": 24
+        }
+      ],
+      "performance": {
+        "total_time_ms": 435.7597827911377,
+        "dense_time_ms": 434.6051216125488,
+        "sparse_time_ms": 0.9768009185791016,
+        "fusion_time_ms": 0.17786026000976562
+      },
+      "total_candidates": 100
+    }
+  },
+  "overlap_analysis": {
+    "total_unique_chunks": 87,
+    "pairwise_overlap": {
+      "dense_vs_sparse": {
+        "intersection": 13,
+        "union": 87,
+        "jaccard": 0.14942528735632185,
+        "only_in_first": 37,
+        "only_in_second": 37
+      },
+      "dense_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      },
+      "sparse_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+# RAG test queries - full-sentence Turkish questions
+# Used with: python3 src/answer_rag.py --queries rag_queries.txt
+# Lines starting with # are ignored
+
+# Language and linguistics
+Sevan Nisanyan Türk dilinin tarihini nasıl değerlendiriyor?
+Türkçe'nin Arapça ve Farsça'dan etkilenme süreci hakkında ne yazıyor?
+Dil devrimi ve Latin alfabesine geçişin sonuçları nelerdir?
+Türkçe'deki yabancı kökenli kelimelere nasıl yaklaşıyor?
+Etimoloji çalışmaları hakkındaki görüşleri nelerdir?
+
+# Ottoman Empire and history
+Osmanlı İmparatorluğu'nun yükseliş ve çöküşünü nasıl açıklıyor?
+Osmanlı dönemi Ermeni nüfusu hakkında neler yazıyor?
+Osmanlı'nın yönetim anlayışı ve merkeziyetçi yapısı nasıl değerlendiriliyor?
+Bizans İmparatorluğu ile Osmanlı arasındaki ilişki nasıl ele alınıyor?
+
+# Secularism and religion
+Türkiye'de laiklik anlayışı ve uygulaması hakkında ne yazıyor?
+İslam ve Batı modernleşmesi arasındaki gerilimi nasıl değerlendiriyor?
+Atatürk'ün din politikalarına ilişkin görüşleri nelerdir?
+
+# Politics and society
+Türk milliyetçiliğinin tarihsel kökleri nelerdir?
+Kürt meselesi ve kimlik politikaları hakkında ne yazıyor?
+Türkiye'nin Batı ile ilişkilerini nasıl ele alıyor?

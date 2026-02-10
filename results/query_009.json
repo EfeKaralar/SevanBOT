@@ -1,0 +1,1858 @@
+{
+  "query": "İstanbul tarihi",
+  "strategies": {
+    "dense": {
+      "query": "İstanbul tarihi",
+      "strategy": "dense",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "b2f50fe52fab#2",
+          "score": 0.5299055594068025,
+          "content": "Bolsahay İstanbul Ermenisi demek. Bolis, Konstantinopolis’ten kırpılmış bir isim, Rumca şehir demek, fakat Ermenicede sadece şehrin adı olarak kullanılır. Gelelim İstanbul adına. İstanbul adı yaygın k...",
+          "metadata": {
+            "title": "İstanbul’un adı ne zaman değişti",
+            "date": "06 December 2020",
+            "source": "https://www.sevannisanyan.com/metin/istanbulun-adi-ne-zaman-degisti-19852",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.5299055594068025,
+          "sparse_score": null,
+          "dense_rank": 1,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6c4a7e459914#1",
+          "score": 0.5011473013236398,
+          "content": "O potada bir elit dili şekillenir. İstanbul Türkçesi yüzyıllar içinde oluştu. Fakat özellikle Lale Devrinde, yani 18. yüzyıl başlarında birdenbire kendinin bilincine vardı. Yani bizim Türkçemiz çok kı...",
+          "metadata": {
+            "title": "İstanbul Türkçesi nasıl oluştu",
+            "date": "03 January 2021",
+            "source": "https://www.sevannisanyan.com/metin/istanbul-turkcesi-nasil-olustu-83442",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5011473013236398,
+          "sparse_score": null,
+          "dense_rank": 2,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "aec35fee6de7#3",
+          "score": 0.49603115630966277,
+          "content": "Osmanlı da büyük ve görkemli camiler yapmış. Ama İstanbul’da yapmış, Edirne’de yapmış, hadi Bursa’da da yapmış diyelim. Başka yerde yapmamış. Yanına bile yaklaşmamış.\n\n12. ve 13. yüzyılda Avrupa henüz...",
+          "metadata": {
+            "title": "Avrupa dünyaya ne zaman hakim oldu",
+            "date": "27 November 2022",
+            "source": "https://www.sevannisanyan.com/metin/avrupa-dunyaya-ne-zaman-hakim-oldu-00844",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.49603115630966277,
+          "sparse_score": null,
+          "dense_rank": 3,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2bd80913c1a6#6",
+          "score": 0.49541582103182913,
+          "content": "İstanbul’da herkes çıldırmış halde, bugün yarın İngilizler geliyor korkusunda. Belki tesadüf, 13 Ocaktaki resepsiyona Türklerin birçoğu fessiz geliyor. M. böyle bir şeye ilk kez tanık oluyor. Bence si...",
+          "metadata": {
+            "title": "Büyükelçi Morgenthau’nun güncesi",
+            "date": "Jun 19, 2017",
+            "source": "https://nisanyan.substack.com/p/buyukelci-morgenthaunun-guncesi-17-06-19",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 10
+          },
+          "dense_score": 0.49541582103182913,
+          "sparse_score": null,
+          "dense_rank": 4,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "18b9a1e79d97#3",
+          "score": 0.4940316852281408,
+          "content": "Bunlardan Tr sınırları içinde 70 kadarı bizim için yenidir. Stephanos antikçidir, yani kendi çağında çıkmış yeni yer adlarıyla ilgilenmez. Ancak Miletli Hekataios ve Atinalı Apollodoros gibi bugün kay...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 2",
+            "date": "Jan 14, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-2-19-01-14",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4940316852281408,
+          "sparse_score": null,
+          "dense_rank": 5,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "f36063b2b743#0",
+          "score": 0.4936896720670917,
+          "content": "**Ankara neden başkent seçildi? Milli Mücadele’den sonra başkentin İstanbul’a geri dönmesi daha mantıklı değil miydi?**\n\nBir dizi sebep vardı. Birincisi, Balkan Harbinde bütün Osmanlı’nın Avrupa yakas...",
+          "metadata": {
+            "title": "Ankara neden başkent oldu",
+            "date": "15 January 2023",
+            "source": "https://www.sevannisanyan.com/metin/ankara-neden-baskent-oldu-89292",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4936896720670917,
+          "sparse_score": null,
+          "dense_rank": 6,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "218a14b35b4a#1",
+          "score": 0.49366110472894115,
+          "content": "634 gibi İslam istilası başlar. Anatoli süper-vilayeti on yıldan kısa sürede elden çıkar. Roma ordularından arta kalanlar apar topar ricat ederler. Yenilmiş ordular tehlikelidir, nereye sataşacakları ...",
+          "metadata": {
+            "title": "Anadoli",
+            "date": "Feb 03, 2019",
+            "source": "https://nisanyan.substack.com/p/anadoli-19-02-03",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.49366110472894115,
+          "sparse_score": null,
+          "dense_rank": 7,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "99c8b31dd2ff#0",
+          "score": 0.4922055897875178,
+          "content": "1913-öncesi Rum yerleşimleri\n\nBu gördüğünüz Yirminci Yüzyıl başı itibariyle Türkiye'deki Rum yerleşimleri. Tabii İstanbul, İzmir gibi Rum nüfusun mutlak sayı olarak çok olduğu, ama oransal olarak azın...",
+          "metadata": {
+            "title": "Anadolu Rumları",
+            "date": "Mar 28, 2018",
+            "source": "https://nisanyan.substack.com/p/anadolu-rumlar-18-03-28",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 1
+          },
+          "dense_score": 0.4922055897875178,
+          "sparse_score": null,
+          "dense_rank": 8,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b2f50fe52fab#1",
+          "score": 0.49073803140808286,
+          "content": "Türkçede ve Arapçada da Kostantiniye diye kullanılır. Bu isim Türkçede 18. yüzyıla dek hayli yaygındır. Problemsiz ve komplekssiz kullanılır. Şehrin asıl adının bu olduğu bilinir. Türkler ne zaman bu ...",
+          "metadata": {
+            "title": "İstanbul’un adı ne zaman değişti",
+            "date": "06 December 2020",
+            "source": "https://www.sevannisanyan.com/metin/istanbulun-adi-ne-zaman-degisti-19852",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.49073803140808286,
+          "sparse_score": null,
+          "dense_rank": 9,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "026aa7db3ae8#0",
+          "score": 0.48987985496773473,
+          "content": "İkon kırıcıların en ünlüsü “İsauryalı” lakabıyla anılan Rum kayseri 3. Leon’dur. 717 yılında İstanbul’da tahta geçtiğinde Anadolu’nun tamamına yakını otuz yıldan beri Arap/İslam istilası altındaydı. Ö...",
+          "metadata": {
+            "title": "Anadolu'da gezintiler: İkon kırıcılar, İsaurya",
+            "date": "May 25, 2018",
+            "source": "https://nisanyan.substack.com/p/anadoluda-gezintiler-ikon-krclar-18-05-25",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.48987985496773473,
+          "sparse_score": null,
+          "dense_rank": 10,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "8faff013b1c2#0",
+          "score": 0.48758183175379755,
+          "content": "İstanbul Ermeni Patrikhanesinin Ağustos 1914’te tamamlanan envanter çalışmasına göre bugünkü TC sınırları içinde o tarihte aktif olarak kullanılan 2.529 Ermeni kilisesi ve 451 Ermeni manastırı bulunma...",
+          "metadata": {
+            "title": "Türk Talibanının yıktıkları",
+            "date": "Sep 14, 2021",
+            "source": "https://nisanyan.substack.com/p/turk-talibannn-yktklar",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 7
+          },
+          "dense_score": 0.48758183175379755,
+          "sparse_score": null,
+          "dense_rank": 11,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "03c99c996b85#5",
+          "score": 0.4843074466420967,
+          "content": "**Adapazarı, Adıyaman** (“kötü namlı” anlamında, eski adı Hısnımansur Arapçadır), **Aksaray**, **Aydın** (hükümdar adı), **Batman** (esasen nehir adı, üstündeki Malabadi köprüsünün adından; il merkezi...",
+          "metadata": {
+            "title": "Şehir adları nereden gelir",
+            "date": "Nov 30, 2021",
+            "source": "https://nisanyan.substack.com/p/sehir-adlar-nereden-gelir",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 8
+          },
+          "dense_score": 0.4843074466420967,
+          "sparse_score": null,
+          "dense_rank": 12,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "237ff310782b#0",
+          "score": 0.4800421407099409,
+          "content": "Antik Çağın şafağında, on iki İyonya şehir devletinden Efes ile Samos epey didişmişler. Samos’un denizlerdeki hakimiyeti, Efes’in (komşu Miletos’un aksine) Akdeniz’e serbestçe açılmasını önlemiş muhte...",
+          "metadata": {
+            "title": "Tanrılar yok ama tanrıçalar olabilir",
+            "date": "Oct 17, 2017",
+            "source": "https://nisanyan.substack.com/p/tanrlar-yok-ama-tanrcalar-olabilir-17-10-17",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4800421407099409,
+          "sparse_score": null,
+          "dense_rank": 13,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "6f383f58bc67#3",
+          "score": 0.47874859391697094,
+          "content": "Bundan doğal ne olabilir? Alpaslan’ın sol kol kumandanının adı da Hüseyin değil miydi? Hüseyingiller Müslüman olup ağa safına katıldıktan sonra ilk iş eskiden beri nefret ettikleri Margos’la Mateos’un...",
+          "metadata": {
+            "title": "Anadolu nasıl Türkleşti",
+            "date": "Jul 10, 2011",
+            "source": "https://nisanyan.substack.com/p/anadolu-nasl-turklesti-11-07-10",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.47874859391697094,
+          "sparse_score": null,
+          "dense_rank": 14,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "664d189662ff#3",
+          "score": 0.47859072777343925,
+          "content": "Neden yıkıldı? Yıkılması mukadder miydi? İslam medeniyetinin 1450-1500’den sonra yıkılması, en azından Roma medeniyetinin yıkılması kadar muamma bir konudur. Bin kişi bu konuda fikir beyan etmişse, bi...",
+          "metadata": {
+            "title": "İslam medeniyeti neydi, neden çöktü, şimdi ne durumda",
+            "date": "Mar 17, 2020",
+            "source": "https://nisanyan.substack.com/p/islam-medeniyeti-neydi-neden-coktu-20-03-17",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 5
+          },
+          "dense_score": 0.47859072777343925,
+          "sparse_score": null,
+          "dense_rank": 15,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9efab887adf6#2",
+          "score": 0.4782797881278596,
+          "content": "Türkçe isim oradan.\n>\n> **İzmir:** Smyrna, doğru. Türkçe isim oradan geliyor.\n>\n> **Aydın:** Trálleis doğru.\n>\n> **Muğla:** Karia bölge adıdır. MÖ 2. yy’da Mobolla adlı bir Dionysos kutsal yeri, 10. y...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4782797881278596,
+          "sparse_score": null,
+          "dense_rank": 16,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "cb40adf8def0#1",
+          "score": 0.47658745127673324,
+          "content": "Evlilikle gelenlerin asimile olup Türkleşme eğilimi çok yüksek. Ve hepsinden daha önemlisi Ortodoks kilisesinin Türkiye’de ruhban kadroları yetiştirecek okulu yok, dolayısıyla kurumun kendini yeniden ...",
+          "metadata": {
+            "title": "İstanbul Rum Patrikhanesinin geleceği var mı",
+            "date": "17 October 2021",
+            "source": "https://www.sevannisanyan.com/metin/istanbul-rum-patrikhanesinin-gelecegi-var-mi-38352",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.47658745127673324,
+          "sparse_score": null,
+          "dense_rank": 17,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9efab887adf6#1",
+          "score": 0.4754399808971582,
+          "content": "> **Edirne:** Hadrianopolis veya Hadrianupolis, doğru. İmparator Hadrian onuruna adlandırıldığı söylenir. Türkçe isim oradan.\n>\n> **Kırklareli:** Rumca Saranda Eklisies (“kırk kilise”) adı 19. yy’dan ...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4754399808971582,
+          "sparse_score": null,
+          "dense_rank": 18,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7490e3d9dc4f#0",
+          "score": 0.4743510655810167,
+          "content": "(Cumhuriyet öncesi) Türkçe yer adları dağılımıBu haritada 20. yüzyıl başı itibariyle Türkiye’de Türkçe yer adlarının dağılımını görüyoruz. Açık renk olan illerde Türkçe yer adı oranı %90 ve üzeridir. ...",
+          "metadata": {
+            "title": "Türkçe yer adları neden orada değil burada",
+            "date": "Mar 27, 2018",
+            "source": "https://nisanyan.substack.com/p/turkce-yer-adlar-neden-orada-degil-18-03-27",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4743510655810167,
+          "sparse_score": null,
+          "dense_rank": 19,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "785c70e317d0#1",
+          "score": 0.4725933105562696,
+          "content": "Ondan sonra o şehre gidip turist gözüyle, yani dışarılı birisi gözüyle bakman lazım, orada ilk üç günde ve ilk bir haftada neler görürsün, neler yaşarsın, hangi noktaları nirengi alırsan o şehir hakkı...",
+          "metadata": {
+            "title": "Bir şehir hakkında ne okumalı",
+            "date": "13 June 2021",
+            "source": "https://www.sevannisanyan.com/metin/bir-sehir-hakkinda-ne-okumali-26767",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4725933105562696,
+          "sparse_score": null,
+          "dense_rank": 20,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "058205c232a5#3",
+          "score": 0.4725778451697997,
+          "content": "Bugünkü Anadolu kentlerinin çoğunluğu (Güneydoğu hariç) böyle doğmuştur, Kastamonu'dan Denizli'ye, Divriği'den Çemişkezek'e kadar. Yeni düzen, kurumsal yapılar içinde yetişmemiş, hariçten gelen macera...",
+          "metadata": {
+            "title": "Askeri tarih",
+            "date": "Mar 18, 2017",
+            "source": "https://nisanyan.substack.com/p/askeri-tarih-17-03-18",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4725778451697997,
+          "sparse_score": null,
+          "dense_rank": 21,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3aa2e42f1c6e#0",
+          "score": 0.4702237673877101,
+          "content": "**Fatih Sultan Mehmet neden Ermenileri İstanbul’a getirip patrikhane kurdurdu?**\n\nİlk akla gelen cevap basittir. Çağlar boyunca her imparatorluğun temel yönetim ilkesidir, böl ve yönet. Sen İstanbul’u...",
+          "metadata": {
+            "title": "Fatih neden Patrikhane kurdu",
+            "date": "11 September 2022",
+            "source": "https://www.sevannisanyan.com/metin/fatih-neden-patrikhane-kurdu-73396",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4702237673877101,
+          "sparse_score": null,
+          "dense_rank": 22,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5136c6d36936#11",
+          "score": 0.47000656180896344,
+          "content": "**Türbe Yaptırmak ve Onarmak:** Muharrem Dede, Pir Mehmet Halife, Şeremet Dede, Tez Murat Dede, Pürçekli Dede, Tez Mehmet Dede, Garip Tekke(Yunus Emre II), Aldan Efendi.\n\n**Üç İhlâs, Bir Fatiha:** Sağ...",
+          "metadata": {
+            "title": "Türklerin dini neymiş",
+            "date": "Apr 23, 2020",
+            "source": "https://nisanyan.substack.com/p/turklerin-dini-neymis-20-04-23",
+            "keywords": "",
+            "chunk_index": 11,
+            "total_chunks": 19
+          },
+          "dense_score": 0.47000656180896344,
+          "sparse_score": null,
+          "dense_rank": 23,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "987827d1d518#5",
+          "score": 0.4699812886960404,
+          "content": "O kartondan İstiklal Caddesi’nin önünde gerçekleşiyor her şey. Devamlı aynı cadde, aynı fasat. Kartondan kesme, ama çok ucuza yapılmış, ilkokul müsamelesi seviyesinde yapılmış. Bu da biraz onu hatırla...",
+          "metadata": {
+            "title": "Kitap tanıtımları-9",
+            "date": "17 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/kitap-tanitimlari-9-96866",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 6
+          },
+          "dense_score": 0.4699812886960404,
+          "sparse_score": null,
+          "dense_rank": 24,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9918007cf516#0",
+          "score": 0.4663147956080492,
+          "content": "“Asıl Anadolu” ya da eski deyimle “Rum diyarı” derken Küçük Asya yarımadasının Fırat’ın batısında kalan kısmını kastediyorum. Bu makale kapsamında isterseniz Sivas, Malatya, Maraş, Antep’i de dışarıda...",
+          "metadata": {
+            "title": "Anadolu yer adları kaç çeşit? - I",
+            "date": "Oct 21, 2018",
+            "source": "https://nisanyan.substack.com/p/anadolu-yer-adlar-kac-cesit-i-18-10-21",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 5
+          },
+          "dense_score": 0.4663147956080492,
+          "sparse_score": null,
+          "dense_rank": 25,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "068e72c32a30#5",
+          "score": 0.4636942578732624,
+          "content": "Bir başka deyimle, Fatih ve Kanuni çağında iki Marmara boğazının Asya kıyıları da Anadolu’ya tabidir.\n\n1610 dolayında Anadoli Beylerbeyiliği Evliya Çelebi’de Anadoli veya Anatoli kelimesi 264 defa geç...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4636942578732624,
+          "sparse_score": null,
+          "dense_rank": 26,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "67848f12d1c7#5",
+          "score": 0.4633874045534094,
+          "content": "Hemen hepsi, imparatorluğun çöküş sürecinde elden giden ülkelerden ser ü sefil Anadolu’ya gelen mültecilerin iskanı için yeni kurulan, ya da eski sahiplerinden zaptedilen yerler. Çoğunluğu Fırat’ın ba...",
+          "metadata": {
+            "title": "Anadolu'da gezintiler: Yeni Osmanlıca",
+            "date": "May 30, 2018",
+            "source": "https://nisanyan.substack.com/p/anadoluda-gezintiler-yeni-osmanlca-18-05-30",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4633874045534094,
+          "sparse_score": null,
+          "dense_rank": 27,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "db1d4e475520#2",
+          "score": 0.46268360274741804,
+          "content": "Burada da pekâlâ öyle olabilirdi; olmadı. Ülkenin ana gövdesi kimlik değiştirdi, fatihlerin milliyetini benimsedi, tabir caizse ''Normanlaştı''. Nasıl?\n\n**2. İslam göçü ve şehirleşme** Demografik hare...",
+          "metadata": {
+            "title": "Türkiye nasıl Türkleşti?",
+            "date": "Apr 05, 2017",
+            "source": "https://nisanyan.substack.com/p/turkiye-nasl-turklesti-17-04-05",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 7
+          },
+          "dense_score": 0.46268360274741804,
+          "sparse_score": null,
+          "dense_rank": 28,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ca2b68fb9d5f#1",
+          "score": 0.46247506814501127,
+          "content": "Artık bir ay sonra mı olur, bir sene sonra mı, şansın bilir. İskenderiye Kütüphanesi’nin tam olarak hangi tarihte ortadan kalktığını bilmiyoruz. Tarihin meşhur muammalarından biridir. M.S. 4. yüzyılda...",
+          "metadata": {
+            "title": "Kütüphaneleri kim yaktı",
+            "date": "23 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/kutuphaneleri-kim-yakti-56959",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.46247506814501127,
+          "sparse_score": null,
+          "dense_rank": 29,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9efab887adf6#3",
+          "score": 0.4614583921414262,
+          "content": "Ousakeion diye bir yer yok.\n>\n> **Denizli:** Laodikaia şimdiki Denizli’nin 7 km kuzeyinde ören yeridir. Osmanlı kaynaklarında Lazkiye diye geçer. Domuzlu > Denizli Türk beylikleri döneminde beliren ye...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 11
+          },
+          "dense_score": 0.4614583921414262,
+          "sparse_score": null,
+          "dense_rank": 30,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3907ae5b9c7a#4",
+          "score": 0.46123914205662464,
+          "content": "Vurguyu ikinci heceye koyup Mıtróbolı deyin hak verirsiniz. Hem “torba” ne demek? 350 kadar yer adı o kadar şanslı olmamış. 20. yy’a dek kullanımda kalmışlar, cumhuriyet devrinde tarihe karışmışlar. G...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 1",
+            "date": "Jan 12, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-1-19-01-12",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 7
+          },
+          "dense_score": 0.46123914205662464,
+          "sparse_score": null,
+          "dense_rank": 31,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9efab887adf6#7",
+          "score": 0.46123156649122177,
+          "content": "Akilisene’dir. Aziris diye bir yer yoktur.\n>\n> **Dersim:** İlin güney kısmının antik adı Yunanca Sophene = Ermenice Dzopk idi. Antik çağda Karkathiokerta (Pertek kalesi), 950 dolayında yeniden Bizans ...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": "",
+            "chunk_index": 7,
+            "total_chunks": 11
+          },
+          "dense_score": 0.46123156649122177,
+          "sparse_score": null,
+          "dense_rank": 32,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7490e3d9dc4f#1",
+          "score": 0.46077368898882576,
+          "content": "O halde neden Erzurum’da Türkçe yer adları %40 dolayında iken Bursa’da %97 ve İzmir’de %91? Üstelik Erzurum’un fethedildiği devirde memlekete Asya’dan az veya çok bir Türk göçünden söz edilir; oysa Bu...",
+          "metadata": {
+            "title": "Türkçe yer adları neden orada değil burada",
+            "date": "Mar 27, 2018",
+            "source": "https://nisanyan.substack.com/p/turkce-yer-adlar-neden-orada-degil-18-03-27",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.46077368898882576,
+          "sparse_score": null,
+          "dense_rank": 33,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3aa2e42f1c6e#1",
+          "score": 0.4578268730183719,
+          "content": "Onu düşman olarak görüyor. Onları da çağırıp, koltuğunun altına alıp, pohpohlayıp, bak onların patriği var, alın size de bir tane patrik verdim demesi normal değil mi? İşin ayrıntısına baktığınızda ba...",
+          "metadata": {
+            "title": "Fatih neden Patrikhane kurdu",
+            "date": "11 September 2022",
+            "source": "https://www.sevannisanyan.com/metin/fatih-neden-patrikhane-kurdu-73396",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4578268730183719,
+          "sparse_score": null,
+          "dense_rank": 34,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "b2f50fe52fab#0",
+          "score": 0.4567916498061865,
+          "content": "**Konstantinopolis ismi neden değişti, ne zaman değişti?**\n\nDeğişmedi ki? Sadece dünyada diplomatik teamüller değişti, şehrin sahibi olan Türklerin tercih ettiği isim dünyanın öbür devletlerince de re...",
+          "metadata": {
+            "title": "İstanbul’un adı ne zaman değişti",
+            "date": "06 December 2020",
+            "source": "https://www.sevannisanyan.com/metin/istanbulun-adi-ne-zaman-degisti-19852",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4567916498061865,
+          "sparse_score": null,
+          "dense_rank": 35,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "0b5d419214fc#1",
+          "score": 0.4555976264052643,
+          "content": "Belki de İstanbul Belediyesinin şöyle bir şey yapması gerekirdi. Makam odasına tablo konulacaksa, bir tane Bizas, bir tane Konstantin, bir tane de Fatih Sultan Mehmet koysaydı mesela, bu çok ilginç bi...",
+          "metadata": {
+            "title": "Hz. Kostantin halka nasıl satılır",
+            "date": "28 June 2020",
+            "source": "https://www.sevannisanyan.com/metin/hz-kostantin-halka-nasil-satilir-13427",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4555976264052643,
+          "sparse_score": null,
+          "dense_rank": 36,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "171c44e48ba6#0",
+          "score": 0.4554722909769041,
+          "content": "## 13 Ocak 2013 Pazar\n\n### Türkiye haritalarından bir demet\n\n**Harita 1: 1960 itibariyle Türkiye'de Ermenice yer adları.** *(Tam boy için haritanın üstüne tıklayın.)*\n\nHarita [Index Anatolicus](http:/...",
+          "metadata": {
+            "title": "Türkiye haritalarından bir demet",
+            "date": "Jan 13, 2013",
+            "source": "https://nisanyan.substack.com/p/turkiye-haritalarndan-bir-demet-13-01-13",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4554722909769041,
+          "sparse_score": null,
+          "dense_rank": 37,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "2bead4dce0d8#0",
+          "score": 0.45527268744442295,
+          "content": "*Dünkü yazıda “asıl Anadolu” adını verdiğimiz, Giresun’dan başlayıp Tokat, Yozgat, Kayseri ve Adana-Osmaniye’yi içeren kavisin batısında kalan bölgenin yer adlarından söz ettik. Bunların beş tarihi ka...",
+          "metadata": {
+            "title": "Anadolu yer adları kaç çeşit? - II",
+            "date": "Oct 22, 2018",
+            "source": "https://nisanyan.substack.com/p/anadolu-yer-adlar-kac-cesit-ii-18-10-22",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 5
+          },
+          "dense_score": 0.45527268744442295,
+          "sparse_score": null,
+          "dense_rank": 38,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "ada847bc3bac#1",
+          "score": 0.4546074665444824,
+          "content": "Manyak bir yer, ama yapıdan çok atmosfer akılda kalan. Ya da Tercan’ın Mercan köyüne yakın **Vank** dedikleri Surp Tavit Ermeni manastırı. Sıfır ziyaretçi.Antik ören yerlerinde ilk üçüm herhalde Kütah...",
+          "metadata": {
+            "title": "Gezelim görelim",
+            "date": "Feb 17, 2017",
+            "source": "https://nisanyan.substack.com/p/gezelim-gorelim-17-02-17",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4546074665444824,
+          "sparse_score": null,
+          "dense_rank": 39,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "18b9a1e79d97#1",
+          "score": 0.45444610938647545,
+          "content": "Bugünkü Tr sahasına ait olan 11. ila 14. ciltlerinde daha önce kayda geçmemiş (daha doğrusu kayda geçmişse günümüze gelmemiş) toplam 240 kadar yer adı buluyoruz. Daha eski veriler destancı **Homeros**...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 2",
+            "date": "Jan 14, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-2-19-01-14",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 7
+          },
+          "dense_score": 0.45444610938647545,
+          "sparse_score": null,
+          "dense_rank": 40,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9efab887adf6#5",
+          "score": 0.453702421319477,
+          "content": "Bugünkü yerleşim 19. yy’da doğmuştur.\n>\n> **Sinop:** Sinope, doğru. Türkçe isim oradan.\n>\n> **Samsun:** Samsun kenti en eski zamandan Türk fethine dek daima Amissós/Amisúnda’dır. Pompeiopolis zayıf ol...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": "",
+            "chunk_index": 5,
+            "total_chunks": 11
+          },
+          "dense_score": 0.453702421319477,
+          "sparse_score": null,
+          "dense_rank": 41,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "8e7f5305315d#1",
+          "score": 0.45346725652580344,
+          "content": "Şimdi bu isimden vurgusuz ilk heceyi düş, standart kural gereği /p/yi yumuşat, Türkçe ses uyumuna uydur, Yunanca çekim takısını kes, ne kalıyor? Trobalı kalıyor. Torbalı adı erken devir tahrir defterl...",
+          "metadata": {
+            "title": "Torbalı adı nereden gelir",
+            "date": "15 March 2020",
+            "source": "https://www.sevannisanyan.com/metin/torbali-adi-nereden-gelir-35818",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.45346725652580344,
+          "sparse_score": null,
+          "dense_rank": 42,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "472803346a3a#14",
+          "score": 0.453385454166425,
+          "content": "Buna karşılık Rusya’nın politikası sistemli olarak Ermenileri Rusya’yı dost ve kurtarıcı olarak görecekleri bir noktaya çekmektir. İstanbul Ermenileri arasında o dönemde Rusçu parti vardır, İngilterec...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": "",
+            "chunk_index": 14,
+            "total_chunks": 47
+          },
+          "dense_score": 0.453385454166425,
+          "sparse_score": null,
+          "dense_rank": 43,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "068e72c32a30#4",
+          "score": 0.45291305816469496,
+          "content": "Beyler üzerine süper-bey gelmiştir. Beylerbeyinin payitahtı önce Ankara’dır. Sonra (en geç 1451’de, belki 1402’den önce) Kütahya’ya taşınır. Anadoli Eyaletinin lağvedildiği 1841 yılına dek Kütahya’da ...",
+          "metadata": {
+            "title": "Anadolu neresi",
+            "date": "Mar 15, 2024",
+            "source": "https://nisanyan.substack.com/p/anadolu-neresi",
+            "keywords": "",
+            "chunk_index": 4,
+            "total_chunks": 7
+          },
+          "dense_score": 0.45291305816469496,
+          "sparse_score": null,
+          "dense_rank": 44,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5ce22c5438ef#0",
+          "score": 0.4523705470686843,
+          "content": "**Bizans bir dönemin Roma İmparatorluğu gibi süper güç olmuş mudur? Yoksa dönem itibariyle kıyıda kalmış bir devlet miydi? Bilimden mi uzaklaştı ya da bürokrasi nedeniyle mi çöküşe doğru gitti acaba?*...",
+          "metadata": {
+            "title": "Bizans süper güç müydü",
+            "date": "09 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/bizans-super-guc-muydu-33757",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4523705470686843,
+          "sparse_score": null,
+          "dense_rank": 45,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "3907ae5b9c7a#3",
+          "score": 0.4518245430597528,
+          "content": "Kalanların bir kısmı besbelli yeni adlandırma olsa gerek. Belki 100 kadarı fetih öncesinden kalmış olabilir. Bunun da belgesi yok. Belki kilise arşivlerinin derin yerinde bir şeyler vardır, ama kim uğ...",
+          "metadata": {
+            "title": "Türkiye'de Yunanca yer adları - 1",
+            "date": "Jan 12, 2019",
+            "source": "https://nisanyan.substack.com/p/turkiyede-yunanca-yer-adlar-1-19-01-12",
+            "keywords": "",
+            "chunk_index": 3,
+            "total_chunks": 7
+          },
+          "dense_score": 0.4518245430597528,
+          "sparse_score": null,
+          "dense_rank": 46,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "433e2f5cf866#2",
+          "score": 0.4514554077281886,
+          "content": "Kadınlar Boccaccio’nun karakterlerine taş çıkartacak derecede hırslı, entrikacı ve seks düşkünüdür. Köylüler yoktur, ya da komedi unsuru olarak marjdadır. (Buna karşılık köleler çokça vardır, talihin ...",
+          "metadata": {
+            "title": "Göçebelik değildir mesele, devlettir",
+            "date": "Oct 18, 2017",
+            "source": "https://nisanyan.substack.com/p/gocebelik-degildir-mesele-devlettir-17-10-18",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 4
+          },
+          "dense_score": 0.4514554077281886,
+          "sparse_score": null,
+          "dense_rank": 47,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "7316e8ddfce8#1",
+          "score": 0.450740854010866,
+          "content": "Venedik’te konuşlu Katoliklerle Ermeni kilisesi arasında kıyasıya bir propaganda savaşının izleri seziliyor. 1800’de basılan ilk sivil kitap Tanburi Harutin, *Taxmas Kulu Xanın Tevarixi* [İran Şahı Ta...",
+          "metadata": {
+            "title": "Ermenice harfli Türkçe yayınlar",
+            "date": "Feb 12, 2018",
+            "source": "https://nisanyan.substack.com/p/ermenice-harfli-turkce-yaynlar-18-02-12",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 5
+          },
+          "dense_score": 0.450740854010866,
+          "sparse_score": null,
+          "dense_rank": 48,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "9efab887adf6#6",
+          "score": 0.45041197725962034,
+          "content": "Adanus/Adanos değil.\n>\n> **Antakya:** Antiokh(e)ia. Türkçe isim oradan geliyor.\n>\n> **Antep:** Roma çağında yörenin başlıca kenti 9 km kuzeydeki Dolikhe idi. Antep Arap egemenliğinin tasfiyesinden son...",
+          "metadata": {
+            "title": "Romalıların Türkiye'si",
+            "date": "Jun 21, 2023",
+            "source": "https://nisanyan.substack.com/p/romallarn-turkiyesi",
+            "keywords": "",
+            "chunk_index": 6,
+            "total_chunks": 11
+          },
+          "dense_score": 0.45041197725962034,
+          "sparse_score": null,
+          "dense_rank": 49,
+          "sparse_rank": null
+        },
+        {
+          "chunk_id": "5d7077202e96#1",
+          "score": 0.4500013851761583,
+          "content": "Bunlar çok değerli deneyimler, güzel şeyler. Elleme, bırak. Hep o hayalim olmuştur, tam restorasyon. Yani antik bir eseri veya köyü, kasabayı, anıtı, tapınağı tamamıyla sıfırdan inşa etmek; bire bir o...",
+          "metadata": {
+            "title": "Restorasyon nereye kadar",
+            "date": "28 January 2024",
+            "source": "https://www.sevannisanyan.com/metin/restorasyon-nereye-kadar-26451",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 3
+          },
+          "dense_score": 0.4500013851761583,
+          "sparse_score": null,
+          "dense_rank": 50,
+          "sparse_rank": null
+        }
+      ],
+      "performance": {
+        "total_time_ms": 142.9769992828369,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "sparse": {
+      "query": "İstanbul tarihi",
+      "strategy": "sparse",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "d7ce9cc090b2#0",
+          "score": 3.121730327606201,
+          "content": "**Hristiyanlığın mezheplere ayrılma sürecinde Ermenilerin mezhep oluşumu nasıl gerçekleşti?**\n\nSiyasi bir olaydır, fakat siyasetin boyutlarını çok aşan sonuçları olmuştur.\n\n451 yılında İstanbul yöneti...",
+          "metadata": {
+            "title": "Ermeniler nasıl Hristiyan oldu",
+            "date": "12 July 2020",
+            "source": "https://www.sevannisanyan.com/metin/ermeniler-nasil-hristiyan-oldu-01837",
+            "keywords": "Bizans, Ermeni Kilisesi, Kadıköycülük, teokrasi"
+          },
+          "dense_score": null,
+          "sparse_score": 3.121730327606201,
+          "dense_rank": null,
+          "sparse_rank": 1
+        },
+        {
+          "chunk_id": "06e4ea989eac#2",
+          "score": 3.002565383911133,
+          "content": "Peçenin reddedilmesi ve seçkin sınıftan Müslüman Türk kadınlarının peçesiz olarak sokağa çıkmaya başlaması da 1919 yılının olayıdır. Müttefik işgali altındaki İstanbul’da ve Yunan işgali altındaki İzm...",
+          "metadata": {
+            "title": "Kadınlara seçme ve seçilme hakkı neden verildi",
+            "date": "05 September 2021",
+            "source": "https://www.sevannisanyan.com/metin/kadinlara-secme-ve-secilme-hakki-neden-verildi-56490",
+            "keywords": "Batılılaşma, kadınlara siyasi haklar, Türkiye Cumhuriyeti"
+          },
+          "dense_score": null,
+          "sparse_score": 3.002565383911133,
+          "dense_rank": null,
+          "sparse_rank": 2
+        },
+        {
+          "chunk_id": "6c4a7e459914#1",
+          "score": 2.942044734954834,
+          "content": "O potada bir elit dili şekillenir. İstanbul Türkçesi yüzyıllar içinde oluştu. Fakat özellikle Lale Devrinde, yani 18. yüzyıl başlarında birdenbire kendinin bilincine vardı. Yani bizim Türkçemiz çok kı...",
+          "metadata": {
+            "title": "İstanbul Türkçesi nasıl oluştu",
+            "date": "03 January 2021",
+            "source": "https://www.sevannisanyan.com/metin/istanbul-turkcesi-nasil-olustu-83442",
+            "keywords": "İstanbul Türkçesi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.942044734954834,
+          "dense_rank": null,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "668786c29452#3",
+          "score": 2.9101247787475586,
+          "content": "Üst katı müze yaparsın, alt katı cami yaparsın, al sana çözüm.\n\n**İstanbul’a Ayasofya için geliyor milyonlarca turist.** Ne pazarlarsan ona gelir turist. Dünya nüfusunun yüzde kaçının Ayasofya’dan hab...",
+          "metadata": {
+            "title": "Ayasofya ne olsun",
+            "date": "14 June 2020",
+            "source": "https://www.sevannisanyan.com/metin/ayasofya-ne-olsun-54601",
+            "keywords": "Ayasofya"
+          },
+          "dense_score": null,
+          "sparse_score": 2.9101247787475586,
+          "dense_rank": null,
+          "sparse_rank": 4
+        },
+        {
+          "chunk_id": "fde1390f1546#2",
+          "score": 2.854159355163574,
+          "content": "Fakat fiilen seçim yapılması mümkün değildi. O yüzden uzunca süre kararsız kalındı ve iki ay daha üçüncü meclis varlığını sürdürdü. Başta Mustafa Kemal Paşa olmak üzere askeri şeflerin çoğu yeni seçim...",
+          "metadata": {
+            "title": "Türkiye ne zaman meclise kavuştu",
+            "date": "23 April 2023",
+            "source": "https://www.sevannisanyan.com/metin/turkiye-ne-zaman-meclise-kavustu-37525",
+            "keywords": "İttihat ve Terakki, Milli Mücadele, TBMM, Türkiyede demokratlık"
+          },
+          "dense_score": null,
+          "sparse_score": 2.854159355163574,
+          "dense_rank": null,
+          "sparse_rank": 5
+        },
+        {
+          "chunk_id": "3aa2e42f1c6e#1",
+          "score": 2.83140230178833,
+          "content": "Onu düşman olarak görüyor. Onları da çağırıp, koltuğunun altına alıp, pohpohlayıp, bak onların patriği var, alın size de bir tane patrik verdim demesi normal değil mi? İşin ayrıntısına baktığınızda ba...",
+          "metadata": {
+            "title": "Fatih neden Patrikhane kurdu",
+            "date": "11 September 2022",
+            "source": "https://www.sevannisanyan.com/metin/fatih-neden-patrikhane-kurdu-73396",
+            "keywords": "Akkoyunlu, Ermeni Patrikhanesi, Fatih Sultan Mehmet, Osmanlı gayrimüslimleri"
+          },
+          "dense_score": null,
+          "sparse_score": 2.83140230178833,
+          "dense_rank": null,
+          "sparse_rank": 6
+        },
+        {
+          "chunk_id": "2ef79a2e7aea#0",
+          "score": 2.7866737842559814,
+          "content": "**İstanbul’un fethinden bu yana 569 yıl geçti. Bunun böyle büyük törenlerle kutlanması hakkında ne düşünüyorsunuz?**\n\nTarihteki fetihleri her toplum bir şekilde hatırlar ve önemser, değer verir. Her t...",
+          "metadata": {
+            "title": "İstanbul’un fethi kutlanmalı mı",
+            "date": "29 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/istanbulun-fethi-kutlanmali-mi-80039",
+            "keywords": "İstanbulun fethi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.7866737842559814,
+          "dense_rank": null,
+          "sparse_rank": 7
+        },
+        {
+          "chunk_id": "cb40adf8def0#1",
+          "score": 2.6937923431396484,
+          "content": "Evlilikle gelenlerin asimile olup Türkleşme eğilimi çok yüksek. Ve hepsinden daha önemlisi Ortodoks kilisesinin Türkiye’de ruhban kadroları yetiştirecek okulu yok, dolayısıyla kurumun kendini yeniden ...",
+          "metadata": {
+            "title": "İstanbul Rum Patrikhanesinin geleceği var mı",
+            "date": "17 October 2021",
+            "source": "https://www.sevannisanyan.com/metin/istanbul-rum-patrikhanesinin-gelecegi-var-mi-38352",
+            "keywords": "ortodoksluk, Rum Patrikhanesi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.6937923431396484,
+          "dense_rank": null,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "8faff013b1c2#0",
+          "score": 2.6520912647247314,
+          "content": "İstanbul Ermeni Patrikhanesinin Ağustos 1914’te tamamlanan envanter çalışmasına göre bugünkü TC sınırları içinde o tarihte aktif olarak kullanılan 2.529 Ermeni kilisesi ve 451 Ermeni manastırı bulunma...",
+          "metadata": {
+            "title": "Türk Talibanının yıktıkları",
+            "date": "Sep 14, 2021",
+            "source": "https://nisanyan.substack.com/p/turk-talibannn-yktklar",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.6520912647247314,
+          "dense_rank": null,
+          "sparse_rank": 9
+        },
+        {
+          "chunk_id": "472803346a3a#35",
+          "score": 2.6371240615844727,
+          "content": "Bitirilebilirdi yani. Türkiye bunu yapmadı, yapamadı, yapması da kolay değildi. Çünkü soykırım hala devam ediyordu o sırada. Soykırımı sadece öldürmek olarak görmemek lazım, soykırım Türkiye’deki gayr...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.6371240615844727,
+          "dense_rank": null,
+          "sparse_rank": 10
+        },
+        {
+          "chunk_id": "9eb51853e031#1",
+          "score": 2.5957889556884766,
+          "content": "Bulgaristan’daki müttefik kuvvetlerinin isterlerse birkaç gün içinde İstanbul’u alacaklarına kesin gözüyle bakılır. Başkentte panik başlar, hükümet Anadolu’ya çekilme hazırlığı yapar. [Batı Trakya o t...",
+          "metadata": {
+            "title": "Cihan Harbinin son günleri",
+            "date": "Nov 06, 2021",
+            "source": "https://nisanyan.substack.com/p/cihan-harbinin-son-gunleri",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.5957889556884766,
+          "dense_rank": null,
+          "sparse_rank": 11
+        },
+        {
+          "chunk_id": "f36063b2b743#0",
+          "score": 2.5940451622009277,
+          "content": "**Ankara neden başkent seçildi? Milli Mücadele’den sonra başkentin İstanbul’a geri dönmesi daha mantıklı değil miydi?**\n\nBir dizi sebep vardı. Birincisi, Balkan Harbinde bütün Osmanlı’nın Avrupa yakas...",
+          "metadata": {
+            "title": "Ankara neden başkent oldu",
+            "date": "15 January 2023",
+            "source": "https://www.sevannisanyan.com/metin/ankara-neden-baskent-oldu-89292",
+            "keywords": "Ankara, Milli Mücadele, Türkiye Cumhuriyeti"
+          },
+          "dense_score": null,
+          "sparse_score": 2.5940451622009277,
+          "dense_rank": null,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "7dc96f4ba11a#1",
+          "score": 2.5896472930908203,
+          "content": "Bu dilde, İngilizce vesaireyle kıyaslanabilecek bir düzeyde değil tabii, kendince değerli şeyler yazılmış, değerli bir kültürel geçmişi olan bir dil. Üç gündür çok hoş bir kitap okuyorum. Sağ olsun Pa...",
+          "metadata": {
+            "title": "Anadilde eğitim neye yarar",
+            "date": "21 February 2021",
+            "source": "https://www.sevannisanyan.com/metin/anadilde-egitim-neye-yarar-87947",
+            "keywords": "anadilde eğitim, Batı Ermenicesi, Kemahlı Krikor, Kürtçe eğitim"
+          },
+          "dense_score": null,
+          "sparse_score": 2.5896472930908203,
+          "dense_rank": null,
+          "sparse_rank": 13
+        },
+        {
+          "chunk_id": "fde1390f1546#3",
+          "score": 2.5450797080993652,
+          "content": "Sonunda İstanbul hükümeti seçim yapmayı kabul etti. Aralık 1919’da seçim yapıldı ve bu seçimde Müdafaa-yı Hukuk hareketi fileto çıkardı. Yani meclisin tüm üyeleri Ankara rejimi yandaşlarından oluştu. ...",
+          "metadata": {
+            "title": "Türkiye ne zaman meclise kavuştu",
+            "date": "23 April 2023",
+            "source": "https://www.sevannisanyan.com/metin/turkiye-ne-zaman-meclise-kavustu-37525",
+            "keywords": "İttihat ve Terakki, Milli Mücadele, TBMM, Türkiyede demokratlık"
+          },
+          "dense_score": null,
+          "sparse_score": 2.5450797080993652,
+          "dense_rank": null,
+          "sparse_rank": 14
+        },
+        {
+          "chunk_id": "7316e8ddfce8#1",
+          "score": 2.512620687484741,
+          "content": "Venedik’te konuşlu Katoliklerle Ermeni kilisesi arasında kıyasıya bir propaganda savaşının izleri seziliyor. 1800’de basılan ilk sivil kitap Tanburi Harutin, *Taxmas Kulu Xanın Tevarixi* [İran Şahı Ta...",
+          "metadata": {
+            "title": "Ermenice harfli Türkçe yayınlar",
+            "date": "Feb 12, 2018",
+            "source": "https://nisanyan.substack.com/p/ermenice-harfli-turkce-yaynlar-18-02-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.512620687484741,
+          "dense_rank": null,
+          "sparse_rank": 15
+        },
+        {
+          "chunk_id": "9b294b89218b#2",
+          "score": 2.5039308071136475,
+          "content": "Muhtemelen Tevrat’taki Hz. İlyas efsaneleriyle birleşmiş; İslam mitolojisindeki Hızır (“yeşil”) ile de şaşırtıcı benzerlikleri var. Yanlış hatırlamıyorsam Birinci Haçlı Seferi sırasında, 1098’deki Ant...",
+          "metadata": {
+            "title": "Ey nazlı jack",
+            "date": "Apr 13, 2017",
+            "source": "https://nisanyan.substack.com/p/ey-nazl-jack-17-04-13",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.5039308071136475,
+          "dense_rank": null,
+          "sparse_rank": 16
+        },
+        {
+          "chunk_id": "4a3c2a85b6df#3",
+          "score": 2.5023446083068848,
+          "content": "Köy kurmakla yetinmemiş, bir de okul kurmuş ve bayağı kaliteli insan yetiştirmişler. Oralara yolunuz düştüyse bilirsiniz, acıklı derecede yoksul yerlerdir bunlar. Şimdilerde kaçaxçilikten başka gelir ...",
+          "metadata": {
+            "title": "Varak Manastırı’nda neler oldu",
+            "date": "18 September 2023",
+            "source": "https://www.sevannisanyan.com/metin/varak-manastirinda-neler-oldu-15384",
+            "keywords": "Fatih Altaylı, Hakiki Haç, Varak Manastırı, Yedikilise"
+          },
+          "dense_score": null,
+          "sparse_score": 2.5023446083068848,
+          "dense_rank": null,
+          "sparse_rank": 17
+        },
+        {
+          "chunk_id": "d284a2f9e703#1",
+          "score": 2.4723153114318848,
+          "content": "Yeni olan her şeye, cesur olan her fikre, modernleşme yönündeki her adıma karşı çıkarlar. Güvenilir bir göstergedir. TMMOB bir şeye karşı çıkıyorsa o şeyin desteklenmesi muhtemelen en doğrusudur. **Bu...",
+          "metadata": {
+            "title": "Kanal İstanbul’u neden tasvip etmiyoruz",
+            "date": "15 December 2019",
+            "source": "https://www.sevannisanyan.com/metin/kanal-istanbulu-neden-tasvip-etmiyoruz-60027",
+            "keywords": "İstanbul, Kanal İstan bul, Tayyip Erdoğan, TMMOB"
+          },
+          "dense_score": null,
+          "sparse_score": 2.4723153114318848,
+          "dense_rank": null,
+          "sparse_rank": 18
+        },
+        {
+          "chunk_id": "db5468ced725#4",
+          "score": 2.4180517196655273,
+          "content": "Osmanlı ülkesinde de eskiden Müslüman diye anılan halkın kendini ‘Türk’ olarak yeniden tanımlaması sürecinde rol oynamış bir faktördür. Rusya’daki 1905 ihtilalinden sonra Rusya’nın o zamanlar Tatar di...",
+          "metadata": {
+            "title": "Türkler eskiden Osmanlı mıydı",
+            "date": "28 November 2021",
+            "source": "https://www.sevannisanyan.com/metin/turkler-eskiden-osmanli-miydi-81340",
+            "keywords": "Azeri, Osmanlı, Türkler"
+          },
+          "dense_score": null,
+          "sparse_score": 2.4180517196655273,
+          "dense_rank": null,
+          "sparse_rank": 19
+        },
+        {
+          "chunk_id": "7dc96f4ba11a#2",
+          "score": 2.403611421585083,
+          "content": "Sonra İstanbul’a gelmiş. Celali isyanları sırasında Anadolu’dan Batı’ya büyük bir Ermeni göçü oldu, İstanbul ve Marmara Bölgesi Ermenilerinin büyük çoğunluğunun kaynağı o tarihlerdedir, 1605 civarında...",
+          "metadata": {
+            "title": "Anadilde eğitim neye yarar",
+            "date": "21 February 2021",
+            "source": "https://www.sevannisanyan.com/metin/anadilde-egitim-neye-yarar-87947",
+            "keywords": "anadilde eğitim, Batı Ermenicesi, Kemahlı Krikor, Kürtçe eğitim"
+          },
+          "dense_score": null,
+          "sparse_score": 2.403611421585083,
+          "dense_rank": null,
+          "sparse_rank": 20
+        },
+        {
+          "chunk_id": "12a9de880cfe#0",
+          "score": 2.3865134716033936,
+          "content": "Peder Mıkhitar (\"teselli edici\") adıyla tanınan muhterem kişi 1676'da Sivas'ta doğdu. Oradaki Surp Nişan manastırında eğitim gördü. Ermeni kilisesinin muhafazakarlığını, eğitim düzeyinin düşüklüğünü, ...",
+          "metadata": {
+            "title": "Sivaslı Mıkhitar Venedik'te",
+            "date": "Aug 20, 2022",
+            "source": "https://nisanyan.substack.com/p/sivasl-mkhitar-venedikte",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.3865134716033936,
+          "dense_rank": null,
+          "sparse_rank": 21
+        },
+        {
+          "chunk_id": "3aa2e42f1c6e#0",
+          "score": 2.3861753940582275,
+          "content": "**Fatih Sultan Mehmet neden Ermenileri İstanbul’a getirip patrikhane kurdurdu?**\n\nİlk akla gelen cevap basittir. Çağlar boyunca her imparatorluğun temel yönetim ilkesidir, böl ve yönet. Sen İstanbul’u...",
+          "metadata": {
+            "title": "Fatih neden Patrikhane kurdu",
+            "date": "11 September 2022",
+            "source": "https://www.sevannisanyan.com/metin/fatih-neden-patrikhane-kurdu-73396",
+            "keywords": "Akkoyunlu, Ermeni Patrikhanesi, Fatih Sultan Mehmet, Osmanlı gayrimüslimleri"
+          },
+          "dense_score": null,
+          "sparse_score": 2.3861753940582275,
+          "dense_rank": null,
+          "sparse_rank": 22
+        },
+        {
+          "chunk_id": "b4ec43a19093#0",
+          "score": 2.367973804473877,
+          "content": "Muş Bulanık’ın Türkçe kaynaklarda **Leter**, Ermenicede **Latar** diye geçen büyük köyü, şimdi Elmakaya kasabası. 1882 yılında İstanbul’da münteşir *Masis* gazetesinde şöyle bir haber çıkmış:\n\n> “Bula...",
+          "metadata": {
+            "title": "Mikro-tarihten sayfalar: Bulanık, Kulp, Banoki beyliği",
+            "date": "Mar 02, 2023",
+            "source": "https://nisanyan.substack.com/p/mikro-tarihten-sayfalar-bulank-kulp",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.367973804473877,
+          "dense_rank": null,
+          "sparse_rank": 23
+        },
+        {
+          "chunk_id": "f36063b2b743#1",
+          "score": 2.365144968032837,
+          "content": "Fakat İstanbul halkı yeni rejimden hiç fazla memnun değildi. İstanbul’un elit kadrolarının çoğu bu rejimi en kısa zamanda nasıl gönderiririz de yerine bildiğimiz düzeni kurarız beklentisi içindeydi. M...",
+          "metadata": {
+            "title": "Ankara neden başkent oldu",
+            "date": "15 January 2023",
+            "source": "https://www.sevannisanyan.com/metin/ankara-neden-baskent-oldu-89292",
+            "keywords": "Ankara, Milli Mücadele, Türkiye Cumhuriyeti"
+          },
+          "dense_score": null,
+          "sparse_score": 2.365144968032837,
+          "dense_rank": null,
+          "sparse_rank": 24
+        },
+        {
+          "chunk_id": "372a0fa67a72#0",
+          "score": 2.3571248054504395,
+          "content": "Muş Bulanık’ın Türkçe kaynaklarda Leter, Ermenicede Latar diye geçen büyük köyü, şimdi Elmakaya kasabası. 1882 yılında İstanbul’da münteşir Masis gazetesinde şöyle bir haber çıkmış:\n\n“Bulanıx’ın Latar...",
+          "metadata": {
+            "title": "Bulanık, Kulp, Banoki beyliği",
+            "date": "02 March 2023",
+            "source": "https://www.sevannisanyan.com/metin/bulanik-kulp-banoki-beyligi-15206",
+            "keywords": "Banoki, Bulanık, İskan Sancağı, Kulp"
+          },
+          "dense_score": null,
+          "sparse_score": 2.3571248054504395,
+          "dense_rank": null,
+          "sparse_rank": 25
+        },
+        {
+          "chunk_id": "472803346a3a#10",
+          "score": 2.3555495738983154,
+          "content": "Garip ezik bir millet dediniz, peki nasıl milleti-sadık olup Osmanlı’da var oldular?** Millet-i Sadıka işi II. Mahmut zamanının olayıdır, yoksa tarih boyunca Ermeniler için hayat güllük gülistanlıktı,...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.3555495738983154,
+          "dense_rank": null,
+          "sparse_rank": 26
+        },
+        {
+          "chunk_id": "d7ce9cc090b2#1",
+          "score": 2.345125436782837,
+          "content": "Bir ucu o tarihte Atlantik’e, öbür ucu Kızıldeniz’e dayanan Roma imparatorluğundaki Hristiyan cemaatlerinin özgürlüğü ciddi bir şekilde kısıldı ve merkezi bürokratik güç arttırıldı. Roma’daki Papa kon...",
+          "metadata": {
+            "title": "Ermeniler nasıl Hristiyan oldu",
+            "date": "12 July 2020",
+            "source": "https://www.sevannisanyan.com/metin/ermeniler-nasil-hristiyan-oldu-01837",
+            "keywords": "Bizans, Ermeni Kilisesi, Kadıköycülük, teokrasi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.345125436782837,
+          "dense_rank": null,
+          "sparse_rank": 27
+        },
+        {
+          "chunk_id": "4a3c2a85b6df#0",
+          "score": 2.2938246726989746,
+          "content": "Dün Ermeni geleneğinde önemli bir dini bayramdı, Surp Haç bayramı. Anneannemler zamanında en az Paskalya ve Noel kadar önemserlerdi bunu. Zannediyorum hasat bayramı kavramından türemiş çok eski, köklü...",
+          "metadata": {
+            "title": "Varak Manastırı’nda neler oldu",
+            "date": "18 September 2023",
+            "source": "https://www.sevannisanyan.com/metin/varak-manastirinda-neler-oldu-15384",
+            "keywords": "Fatih Altaylı, Hakiki Haç, Varak Manastırı, Yedikilise"
+          },
+          "dense_score": null,
+          "sparse_score": 2.2938246726989746,
+          "dense_rank": null,
+          "sparse_rank": 28
+        },
+        {
+          "chunk_id": "a2e0df9e025c#1",
+          "score": 2.275527000427246,
+          "content": "Bizans bitti. Bu olayın sebeplerini, ayrıntılı analizini hiçbir yerde doğru dürüst görmedim. Din tabii işin görünen tarafıdır. Bunun altında mutlaka ekonomik ve siyasi nedenler vardır. Bizans yönetici...",
+          "metadata": {
+            "title": "Anadolu’nun Türkleşmesinde Lyon Konsili’nin rolü nedir",
+            "date": "13 September 2020",
+            "source": "https://www.sevannisanyan.com/metin/anadolunun-turklesmesinde-lyon-konsilinin-rolu-nedir-76325",
+            "keywords": "Anadolunun Türkleşmesi, Bizans, Lyon konsili"
+          },
+          "dense_score": null,
+          "sparse_score": 2.275527000427246,
+          "dense_rank": null,
+          "sparse_rank": 29
+        },
+        {
+          "chunk_id": "3a4dc8d94f46#1",
+          "score": 2.26566219329834,
+          "content": "Agn/Eğin ve Arapgir adlı iki yerin adı ilk kez bu vesileyle duyuluyor. Tarihî Ermeni ülkesinin dışında kaldıkları halde yer adları Ermenice olan yegâne iki yer bunlardır. Demek ki, 1020’lerde sıfırdan...",
+          "metadata": {
+            "title": "Eğin, Arapgir",
+            "date": "Mar 29, 2017",
+            "source": "https://nisanyan.substack.com/p/egin-arapgir-17-03-29",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.26566219329834,
+          "dense_rank": null,
+          "sparse_rank": 30
+        },
+        {
+          "chunk_id": "4c90ae4b74a4#10",
+          "score": 2.255164623260498,
+          "content": "Açık farkla, Yirminci yüzyılda yazılmış en iyi Türkçe kitaptır. Beş defa baştan okumaya değer. Son devir Osmanlı tarihi hakkında başka kitaba gerek yok. 52. Mete Tunçay, **Türkiye’de Tek Parti Rejimin...",
+          "metadata": {
+            "title": "Oku!",
+            "date": "Jan 02, 2013",
+            "source": "https://nisanyan.substack.com/p/oku-13-01-02",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.255164623260498,
+          "dense_rank": null,
+          "sparse_rank": 31
+        },
+        {
+          "chunk_id": "fa8baa50f59e#2",
+          "score": 2.2489471435546875,
+          "content": "Diyor ki, Ruslar propaganda yapıyor ama propaganda değil diyorlar, biz ise gerçeği söylüyoruz ama propaganda yapmıyoruz. Yersen tabii. Çok sinirlenerek okudum. Giray Fidan, “Chinese Witness of the You...",
+          "metadata": {
+            "title": "Kitap tanıtımları-6",
+            "date": "17 January 2022",
+            "source": "https://www.sevannisanyan.com/metin/kitap-tanitimlari-6-17721",
+            "keywords": "Gurdjieff, Kahneman, Nodar Dumbadze, Tversky"
+          },
+          "dense_score": null,
+          "sparse_score": 2.2489471435546875,
+          "dense_rank": null,
+          "sparse_rank": 32
+        },
+        {
+          "chunk_id": "472803346a3a#0",
+          "score": 2.2472167015075684,
+          "content": "***Ekopolitik**adlı düşünce kuruluşunda, çoğu milliyetçi sağ kesimden gelen kalabalık bir dinleyici grubuna verdiğim konferansın transkripti. Başı yarım sayfa kadar eksik. Dinleyiciler arasında İstanb...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.2472167015075684,
+          "dense_rank": null,
+          "sparse_rank": 33
+        },
+        {
+          "chunk_id": "736e91f57b75#0",
+          "score": 2.2435693740844727,
+          "content": "**İstanbul Sözleşmesi’nin kaldırılması hakkında ne düşünüyorsunuz? Sizce bu bizi feci bir geleceğe mi sürükleyecek?**\n\nBulgaristan’da Anayasa Mahkemesi İstanbul Sözleşmesi’ni temel insan haklarına, ak...",
+          "metadata": {
+            "title": "İstanbul Sözleşmesi neden kaldırılır",
+            "date": "21 March 2021",
+            "source": "https://www.sevannisanyan.com/metin/istanbul-sozlesmesi-neden-kaldirilir-42357",
+            "keywords": "hukuka saygı, İstanbul Sözleşmesi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.2435693740844727,
+          "dense_rank": null,
+          "sparse_rank": 34
+        },
+        {
+          "chunk_id": "6c4a7e459914#0",
+          "score": 2.2329719066619873,
+          "content": "**İstanbul Türkçesinin kaynağı Rumlar mıdır?**\n\nHayır, katiyen. Hiç öyle bir şey yok.\n\nİstanbul Türkçesi emperyal yönetici sınıfın dilidir. Yönetici sınıf dünyanın her yerinde, özellikle imparatorlukl...",
+          "metadata": {
+            "title": "İstanbul Türkçesi nasıl oluştu",
+            "date": "03 January 2021",
+            "source": "https://www.sevannisanyan.com/metin/istanbul-turkcesi-nasil-olustu-83442",
+            "keywords": "İstanbul Türkçesi"
+          },
+          "dense_score": null,
+          "sparse_score": 2.2329719066619873,
+          "dense_rank": null,
+          "sparse_rank": 35
+        },
+        {
+          "chunk_id": "3d21e3450b6c#1",
+          "score": 2.230678081512451,
+          "content": "Özellikle Orta Asya’nın batı kısmındaki Türkler topyekün Müslüman oldular. Bu hadiseyle hemen hemen aynı tarihlerde Doğu Avrupa uluslarının benzer bir süreçten geçtiğini görüyoruz. 9. yüzyılda Çekler,...",
+          "metadata": {
+            "title": "Türkler nasıl Müslüman oldu",
+            "date": "08 March 2020",
+            "source": "https://www.sevannisanyan.com/metin/turkler-nasil-musluman-oldu-71470",
+            "keywords": "din piyasası, İslam, Rusya, Türkler"
+          },
+          "dense_score": null,
+          "sparse_score": 2.230678081512451,
+          "dense_rank": null,
+          "sparse_rank": 36
+        },
+        {
+          "chunk_id": "06e4ea989eac#3",
+          "score": 2.226982355117798,
+          "content": "Ne sonuç çıkarıyoruz? Kadınların sosyal ve siyasi haklara kavuşması çağın akımıydı. Gayet güçlü toplumsal nedenleri vardı. Bu akım Türkiye’yi de etkiledi, en azından İstanbul ve İzmir’in kalburüstü sı...",
+          "metadata": {
+            "title": "Kadınlara seçme ve seçilme hakkı neden verildi",
+            "date": "05 September 2021",
+            "source": "https://www.sevannisanyan.com/metin/kadinlara-secme-ve-secilme-hakki-neden-verildi-56490",
+            "keywords": "Batılılaşma, kadınlara siyasi haklar, Türkiye Cumhuriyeti"
+          },
+          "dense_score": null,
+          "sparse_score": 2.226982355117798,
+          "dense_rank": null,
+          "sparse_rank": 37
+        },
+        {
+          "chunk_id": "0ff642746e41#2",
+          "score": 2.223950147628784,
+          "content": "Başka daha ağır bir suç işledikleri takdirde çok ağır şekilde cezalandırılıyor, idam ediliyor. Yani bu konuda hakikaten ABD’deki 19. yüzyılın kölelik düzenini anımsatan bir yapı var. Evliya Çelebi bun...",
+          "metadata": {
+            "title": "Evliya Çelebi kölelerine nasıl muamele etti",
+            "date": "28 June 2020",
+            "source": "https://www.sevannisanyan.com/metin/evliya-celebi-kolelerine-nasil-muamele-etti-97401",
+            "keywords": "Evliya Çelebi, kapitalizm, kölelik, Osmanlıda kölelik"
+          },
+          "dense_score": null,
+          "sparse_score": 2.223950147628784,
+          "dense_rank": null,
+          "sparse_rank": 38
+        },
+        {
+          "chunk_id": "750c2ed4fb25#0",
+          "score": 2.2233030796051025,
+          "content": "**Yunanistan’dan sınır dışı edildikten sonra üç hafta Belgrad’da kaldık. Belgrad notları.**\n\nBelgrad’da aylak aylak dolaşırken Çukur Çeşme’ye denk geldim. Sırpçası, hiç tahmin etmezsiniz, Čukur Češma ...",
+          "metadata": {
+            "title": "Bağımsız olmak ne demek",
+            "date": "31 October 2021",
+            "source": "https://www.sevannisanyan.com/metin/bagimsiz-olmak-ne-demek-99487",
+            "keywords": "bağımsızlık, Belgrad, Çukur Çeşme, Namık Kemal"
+          },
+          "dense_score": null,
+          "sparse_score": 2.2233030796051025,
+          "dense_rank": null,
+          "sparse_rank": 39
+        },
+        {
+          "chunk_id": "22e9f493ade4#2",
+          "score": 2.218233823776245,
+          "content": "Meclis konuşmasının yapıldığı günün akşamı reisicumhur ile başbakan Ankara’dan birlikte trenle İstanbul’a giderler. Yolda Atatürk İnönü’ye “sağlık gerekçesiyle” görevden ayrılmasını önerir. Sabahleyin...",
+          "metadata": {
+            "title": "Ağan kudursa ne yaparsın?",
+            "date": "Jan 15, 2012",
+            "source": "https://nisanyan.substack.com/p/agan-kudursa-ne-yaparsn-12-01-15",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.218233823776245,
+          "dense_rank": null,
+          "sparse_rank": 40
+        },
+        {
+          "chunk_id": "111b2e849cc6#2",
+          "score": 2.2116358280181885,
+          "content": "1922’de Türkiye, Ulusal Kurtuluş Savaşı’nı başarıyla tamamlayıp İstanbul’u geri almaya hazırlandığında yeni bir büyük göç dalgası ortaya çıkar. İstanbul Ermenileri tehcirden doğrudan doğruya etkilenme...",
+          "metadata": {
+            "title": "Fransa’nın Ermenilerle ilgisi ne zaman başlar",
+            "date": "22 May 2022",
+            "source": "https://www.sevannisanyan.com/metin/fransanin-ermenilerle-ilgisi-ne-zaman-baslar-42269",
+            "keywords": "asimilasyon, Ermeniler, Fransa"
+          },
+          "dense_score": null,
+          "sparse_score": 2.2116358280181885,
+          "dense_rank": null,
+          "sparse_rank": 41
+        },
+        {
+          "chunk_id": "b2f50fe52fab#2",
+          "score": 2.2058985233306885,
+          "content": "Bolsahay İstanbul Ermenisi demek. Bolis, Konstantinopolis’ten kırpılmış bir isim, Rumca şehir demek, fakat Ermenicede sadece şehrin adı olarak kullanılır. Gelelim İstanbul adına. İstanbul adı yaygın k...",
+          "metadata": {
+            "title": "İstanbul’un adı ne zaman değişti",
+            "date": "06 December 2020",
+            "source": "https://www.sevannisanyan.com/metin/istanbulun-adi-ne-zaman-degisti-19852",
+            "keywords": "İstanbul, Konstantinopolis"
+          },
+          "dense_score": null,
+          "sparse_score": 2.2058985233306885,
+          "dense_rank": null,
+          "sparse_rank": 42
+        },
+        {
+          "chunk_id": "67f36374bed0#3",
+          "score": 2.164518356323242,
+          "content": "Karabekir, Refet, Mersinli Cemal, Cafer Tayyar ve Nureddin Paşalar ve Celaleddin Arif Bey gibi Milli Mücadele önderlerine, diğer yanda Ahmet İzzet, Ali Rıza Paşalar gibi İstanbul hükümetlerinde Milli ...",
+          "metadata": {
+            "title": "Bir de Tayyip’e laf ediyorlar....",
+            "date": "Mar 31, 2009",
+            "source": "https://nisanyan.substack.com/p/bir-de-tayyipe-laf-ediyorlar-09-03-31",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.164518356323242,
+          "dense_rank": null,
+          "sparse_rank": 43
+        },
+        {
+          "chunk_id": "4ffd9c3bbb63#1",
+          "score": 2.161905527114868,
+          "content": "Yüksek Almancada sözcük başındaki /t/ daima /ts/ sesine dönüşür, z ile yazılır. O yüzden **Ziegel**, “kiremit”. Latinceden Bizans Yunancasına da geçmiş. Besbelli bu kiremit hadisesini Romalılar keşfet...",
+          "metadata": {
+            "title": "Sabah gazete okurken aklıma düşenler",
+            "date": "May 30, 2013",
+            "source": "https://nisanyan.substack.com/p/sabah-gazete-okurken-aklma-dusenler-13-05-30",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.161905527114868,
+          "dense_rank": null,
+          "sparse_rank": 44
+        },
+        {
+          "chunk_id": "2fdd08a8bb94#2",
+          "score": 2.1590182781219482,
+          "content": "Ermeni harfleriyle basılı Türkçe, günlük, haftalık, aylık birkaç gazete çıkıyor. Dolayısıyla Ermeni olmayan birçok Türk de Ermeni harflerini öğrendi o dönemde. Literatürü takip etmek, roman okumak içi...",
+          "metadata": {
+            "title": "Ermeni harfleriyle Türkçe olsa mıydı",
+            "date": "01 November 2020",
+            "source": "https://www.sevannisanyan.com/metin/ermeni-harfleriyle-turkce-olsa-miydi-39354",
+            "keywords": "Ermeni harfleri, Namık Kemal, Osmanlıda gayrimüslimler"
+          },
+          "dense_score": null,
+          "sparse_score": 2.1590182781219482,
+          "dense_rank": null,
+          "sparse_rank": 45
+        },
+        {
+          "chunk_id": "1cec607c4a06#3",
+          "score": 2.153136730194092,
+          "content": "1918 Eylül’ünde Filistin’de bulunan üç adet Osmanlı ordusundan ikisi tüm mevcuduyla İngilizlere esir düştü, üçüncüsü çil yavrusu gibi dağıldı. Kırk günde bütün Suriye, Lübnan ve Ürdün kaybedildi. Aynı...",
+          "metadata": {
+            "title": "Kahraman ırkıma bir gül",
+            "date": "May 23, 2014",
+            "source": "https://nisanyan.substack.com/p/kahraman-rkma-bir-gul-14-05-23",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.153136730194092,
+          "dense_rank": null,
+          "sparse_rank": 46
+        },
+        {
+          "chunk_id": "785c70e317d0#1",
+          "score": 2.1528632640838623,
+          "content": "Ondan sonra o şehre gidip turist gözüyle, yani dışarılı birisi gözüyle bakman lazım, orada ilk üç günde ve ilk bir haftada neler görürsün, neler yaşarsın, hangi noktaları nirengi alırsan o şehir hakkı...",
+          "metadata": {
+            "title": "Bir şehir hakkında ne okumalı",
+            "date": "13 June 2021",
+            "source": "https://www.sevannisanyan.com/metin/bir-sehir-hakkinda-ne-okumali-26767",
+            "keywords": "gezi rehberi, İstanbul, Tinder"
+          },
+          "dense_score": null,
+          "sparse_score": 2.1528632640838623,
+          "dense_rank": null,
+          "sparse_rank": 47
+        },
+        {
+          "chunk_id": "a4d589a6da69#9",
+          "score": 2.122438430786133,
+          "content": "Her iki seferinde değişim spontane olarak başladı. Bir süre sonra devlet işe el koydu, reformu zaptu rapt altına aldı, kıyafet nizamnamesi ve şapka kanunu çıkardı. Israrla gözden kaçırılan bir detaydı...",
+          "metadata": {
+            "title": "Cumhuriyetin Batılı olması değil mesele, olamaması - Bölüm 1",
+            "date": "Oct 12, 2014",
+            "source": "https://nisanyan.substack.com/p/cumhuriyetin-batl-olmas-degil-mesele-14-10-12",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.122438430786133,
+          "dense_rank": null,
+          "sparse_rank": 48
+        },
+        {
+          "chunk_id": "472803346a3a#14",
+          "score": 2.122352361679077,
+          "content": "Buna karşılık Rusya’nın politikası sistemli olarak Ermenileri Rusya’yı dost ve kurtarıcı olarak görecekleri bir noktaya çekmektir. İstanbul Ermenileri arasında o dönemde Rusçu parti vardır, İngilterec...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": null
+          },
+          "dense_score": null,
+          "sparse_score": 2.122352361679077,
+          "dense_rank": null,
+          "sparse_rank": 49
+        },
+        {
+          "chunk_id": "7ca94a409992#1",
+          "score": 2.1210479736328125,
+          "content": "Sırf istatistik bazında, sırf modelleme bazında. Oysa ki aynı argümanı şu şekilde de yapabilirsin. Yani evet, trilyonlarca dünya var, sonsuza yakın planet var. İhtimal olarak belki bir tanesinde, on t...",
+          "metadata": {
+            "title": "Evrende kaç Yozgat var",
+            "date": "19 September 2021",
+            "source": "https://www.sevannisanyan.com/metin/evrende-kac-yozgat-var-51001",
+            "keywords": "Fermi, uzayda yaşam, Yozgat"
+          },
+          "dense_score": null,
+          "sparse_score": 2.1210479736328125,
+          "dense_rank": null,
+          "sparse_rank": 50
+        }
+      ],
+      "performance": {
+        "total_time_ms": 1.9991397857666016,
+        "dense_time_ms": 0.0,
+        "sparse_time_ms": 0.0,
+        "fusion_time_ms": 0.0
+      },
+      "total_candidates": 50
+    },
+    "hybrid": {
+      "query": "İstanbul tarihi",
+      "strategy": "hybrid",
+      "config": {
+        "top_k": 10,
+        "dense_weight": 0.5,
+        "sparse_weight": 0.5,
+        "rrf_k": 60
+      },
+      "results": [
+        {
+          "chunk_id": "6c4a7e459914#1",
+          "score": 0.03200204813108039,
+          "content": "O potada bir elit dili şekillenir. İstanbul Türkçesi yüzyıllar içinde oluştu. Fakat özellikle Lale Devrinde, yani 18. yüzyıl başlarında birdenbire kendinin bilincine vardı. Yani bizim Türkçemiz çok kı...",
+          "metadata": {
+            "title": "İstanbul Türkçesi nasıl oluştu",
+            "date": "03 January 2021",
+            "source": "https://www.sevannisanyan.com/metin/istanbul-turkcesi-nasil-olustu-83442",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.5011473013236398,
+          "sparse_score": 2.942044734954834,
+          "dense_rank": 2,
+          "sparse_rank": 3
+        },
+        {
+          "chunk_id": "f36063b2b743#0",
+          "score": 0.02904040404040404,
+          "content": "**Ankara neden başkent seçildi? Milli Mücadele’den sonra başkentin İstanbul’a geri dönmesi daha mantıklı değil miydi?**\n\nBir dizi sebep vardı. Birincisi, Balkan Harbinde bütün Osmanlı’nın Avrupa yakas...",
+          "metadata": {
+            "title": "Ankara neden başkent oldu",
+            "date": "15 January 2023",
+            "source": "https://www.sevannisanyan.com/metin/ankara-neden-baskent-oldu-89292",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4936896720670917,
+          "sparse_score": 2.5940451622009277,
+          "dense_rank": 6,
+          "sparse_rank": 12
+        },
+        {
+          "chunk_id": "8faff013b1c2#0",
+          "score": 0.028577260665441927,
+          "content": "İstanbul Ermeni Patrikhanesinin Ağustos 1914’te tamamlanan envanter çalışmasına göre bugünkü TC sınırları içinde o tarihte aktif olarak kullanılan 2.529 Ermeni kilisesi ve 451 Ermeni manastırı bulunma...",
+          "metadata": {
+            "title": "Türk Talibanının yıktıkları",
+            "date": "Sep 14, 2021",
+            "source": "https://nisanyan.substack.com/p/turk-talibannn-yktklar",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 7
+          },
+          "dense_score": 0.48758183175379755,
+          "sparse_score": 2.6520912647247314,
+          "dense_rank": 11,
+          "sparse_rank": 9
+        },
+        {
+          "chunk_id": "cb40adf8def0#1",
+          "score": 0.027692895339954164,
+          "content": "Evlilikle gelenlerin asimile olup Türkleşme eğilimi çok yüksek. Ve hepsinden daha önemlisi Ortodoks kilisesinin Türkiye’de ruhban kadroları yetiştirecek okulu yok, dolayısıyla kurumun kendini yeniden ...",
+          "metadata": {
+            "title": "İstanbul Rum Patrikhanesinin geleceği var mı",
+            "date": "17 October 2021",
+            "source": "https://www.sevannisanyan.com/metin/istanbul-rum-patrikhanesinin-gelecegi-var-mi-38352",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.47658745127673324,
+          "sparse_score": 2.6937923431396484,
+          "dense_rank": 17,
+          "sparse_rank": 8
+        },
+        {
+          "chunk_id": "b2f50fe52fab#2",
+          "score": 0.02619736419157827,
+          "content": "Bolsahay İstanbul Ermenisi demek. Bolis, Konstantinopolis’ten kırpılmış bir isim, Rumca şehir demek, fakat Ermenicede sadece şehrin adı olarak kullanılır. Gelelim İstanbul adına. İstanbul adı yaygın k...",
+          "metadata": {
+            "title": "İstanbul’un adı ne zaman değişti",
+            "date": "06 December 2020",
+            "source": "https://www.sevannisanyan.com/metin/istanbulun-adi-ne-zaman-degisti-19852",
+            "keywords": "",
+            "chunk_index": 2,
+            "total_chunks": 3
+          },
+          "dense_score": 0.5299055594068025,
+          "sparse_score": 2.2058985233306885,
+          "dense_rank": 1,
+          "sparse_rank": 42
+        },
+        {
+          "chunk_id": "3aa2e42f1c6e#1",
+          "score": 0.02578981302385558,
+          "content": "Onu düşman olarak görüyor. Onları da çağırıp, koltuğunun altına alıp, pohpohlayıp, bak onların patriği var, alın size de bir tane patrik verdim demesi normal değil mi? İşin ayrıntısına baktığınızda ba...",
+          "metadata": {
+            "title": "Fatih neden Patrikhane kurdu",
+            "date": "11 September 2022",
+            "source": "https://www.sevannisanyan.com/metin/fatih-neden-patrikhane-kurdu-73396",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4578268730183719,
+          "sparse_score": 2.83140230178833,
+          "dense_rank": 34,
+          "sparse_rank": 6
+        },
+        {
+          "chunk_id": "3aa2e42f1c6e#0",
+          "score": 0.024390243902439025,
+          "content": "**Fatih Sultan Mehmet neden Ermenileri İstanbul’a getirip patrikhane kurdurdu?**\n\nİlk akla gelen cevap basittir. Çağlar boyunca her imparatorluğun temel yönetim ilkesidir, böl ve yönet. Sen İstanbul’u...",
+          "metadata": {
+            "title": "Fatih neden Patrikhane kurdu",
+            "date": "11 September 2022",
+            "source": "https://www.sevannisanyan.com/metin/fatih-neden-patrikhane-kurdu-73396",
+            "keywords": "",
+            "chunk_index": 0,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4702237673877101,
+          "sparse_score": 2.3861753940582275,
+          "dense_rank": 22,
+          "sparse_rank": 22
+        },
+        {
+          "chunk_id": "7316e8ddfce8#1",
+          "score": 0.022592592592592595,
+          "content": "Venedik’te konuşlu Katoliklerle Ermeni kilisesi arasında kıyasıya bir propaganda savaşının izleri seziliyor. 1800’de basılan ilk sivil kitap Tanburi Harutin, *Taxmas Kulu Xanın Tevarixi* [İran Şahı Ta...",
+          "metadata": {
+            "title": "Ermenice harfli Türkçe yayınlar",
+            "date": "Feb 12, 2018",
+            "source": "https://nisanyan.substack.com/p/ermenice-harfli-turkce-yaynlar-18-02-12",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 5
+          },
+          "dense_score": 0.450740854010866,
+          "sparse_score": 2.512620687484741,
+          "dense_rank": 48,
+          "sparse_rank": 15
+        },
+        {
+          "chunk_id": "785c70e317d0#1",
+          "score": 0.021845794392523363,
+          "content": "Ondan sonra o şehre gidip turist gözüyle, yani dışarılı birisi gözüyle bakman lazım, orada ilk üç günde ve ilk bir haftada neler görürsün, neler yaşarsın, hangi noktaları nirengi alırsan o şehir hakkı...",
+          "metadata": {
+            "title": "Bir şehir hakkında ne okumalı",
+            "date": "13 June 2021",
+            "source": "https://www.sevannisanyan.com/metin/bir-sehir-hakkinda-ne-okumali-26767",
+            "keywords": "",
+            "chunk_index": 1,
+            "total_chunks": 2
+          },
+          "dense_score": 0.4725933105562696,
+          "sparse_score": 2.1528632640838623,
+          "dense_rank": 20,
+          "sparse_rank": 47
+        },
+        {
+          "chunk_id": "472803346a3a#14",
+          "score": 0.018883049790683174,
+          "content": "Buna karşılık Rusya’nın politikası sistemli olarak Ermenileri Rusya’yı dost ve kurtarıcı olarak görecekleri bir noktaya çekmektir. İstanbul Ermenileri arasında o dönemde Rusçu parti vardır, İngilterec...",
+          "metadata": {
+            "title": "Ermeni tarihi dersi",
+            "date": "May 05, 2011",
+            "source": "https://nisanyan.substack.com/p/ermeni-tarihi-dersi-11-05-05",
+            "keywords": "",
+            "chunk_index": 14,
+            "total_chunks": 47
+          },
+          "dense_score": 0.453385454166425,
+          "sparse_score": 2.122352361679077,
+          "dense_rank": 43,
+          "sparse_rank": 49
+        }
+      ],
+      "performance": {
+        "total_time_ms": 231.9340705871582,
+        "dense_time_ms": 230.64398765563965,
+        "sparse_time_ms": 1.1551380157470703,
+        "fusion_time_ms": 0.13494491577148438
+      },
+      "total_candidates": 100
+    }
+  },
+  "overlap_analysis": {
+    "total_unique_chunks": 90,
+    "pairwise_overlap": {
+      "dense_vs_sparse": {
+        "intersection": 10,
+        "union": 90,
+        "jaccard": 0.1111111111111111,
+        "only_in_first": 40,
+        "only_in_second": 40
+      },
+      "dense_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      },
+      "sparse_vs_hybrid": {
+        "intersection": 10,
+        "union": 50,
+        "jaccard": 0.2,
+        "only_in_first": 40,
+        "only_in_second": 0
+      }
+    }
+  }
+}

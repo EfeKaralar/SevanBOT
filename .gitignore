@@ -5,6 +5,8 @@ sources/*
 
 # Generated output files
 chunks.jsonl
+results/
+example.json
 
 # Embeddings and vector database
 embeddings/
