@@ -332,3 +332,193 @@ cohere           # Alternative: embed-v4 + Rerank 3.5
 - Reverse HyDE (not suited for essay content)
 - ColBERT (overkill unless scaling to millions of docs)
 - Query decomposition (start simple, add later if needed)
+
+---
+
+## RAG Answer Generation (PLANNED)
+
+A production-ready answer generation system that combines retrieval with Claude LLMs to generate factual, source-attributed answers.
+
+### Architecture
+
+```
+Query → Retrieval (dense/sparse/hybrid) → Context Formatting →
+Claude API (with caching) → Answer + Citations
+```
+
+**Module Structure:**
+```
+src/rag/
+├── __init__.py              # Public exports
+├── config.py                # GenerationConfig dataclass
+├── response.py              # RAGResponse, SourceCitation, RAGUsageStats
+├── prompt_templates.py      # Turkish prompt templates
+├── base.py                  # BaseAnswerGenerator abstract class
+└── claude_generator.py      # ClaudeAnswerGenerator implementation
+```
+
+### Quick Start
+
+```bash
+# Answer single question
+python3 src/answer_rag.py --query "Türk dili tarihi hakkında ne yazıyor?"
+
+# Use specific retrieval strategy
+python3 src/answer_rag.py --query "Osmanlı İmparatorluğu" --strategy dense
+
+# Batch processing
+python3 src/answer_rag.py --queries example_queries.txt --output results/
+
+# Streaming mode
+python3 src/answer_rag.py --query "modernleşme" --stream
+
+# Custom configuration
+python3 src/answer_rag.py --query "test" --model claude-3-5-sonnet-20241022 --max-chunks 15
+```
+
+### Features
+
+- **Hybrid retrieval integration:** Works seamlessly with dense/sparse/hybrid strategies
+- **Turkish-optimized prompts:** Native Turkish throughout for better comprehension
+- **Source attribution:** Automatic citation of relevant articles with scores
+- **Cost tracking:** Per-query usage monitoring (~$0.002/query with Haiku)
+- **Prompt caching:** 10x cost reduction for follow-up queries on same topic
+- **Streaming support:** Real-time token generation for interactive use
+- **Anti-hallucination:** Strict instructions to only use provided sources
+
+### Configuration Options
+
+```bash
+# Model selection
+--model claude-3-5-haiku-20241022   # Fast, cheap (default) - $0.002/query
+--model claude-3-5-sonnet-20241022  # Higher quality - $0.020/query
+
+# Context configuration
+--max-chunks 10     # How many retrieved chunks to include (default: 10)
+--top-k 15          # How many chunks to retrieve (default: 10)
+
+# Retrieval strategy
+--strategy hybrid   # Use hybrid retrieval (default)
+--strategy dense    # Use dense retrieval only
+--strategy sparse   # Use sparse retrieval only
+
+# Output format
+--citation-format markdown   # **Title** (2024) (default)
+--citation-format numbered   # [1] Title
+--stream                     # Enable streaming mode
+--output results/            # Export JSON results
+```
+
+### Cost Estimation
+
+| Usage Pattern | Queries | Cost (Haiku) | Cost (Sonnet) |
+|---------------|---------|--------------|---------------|
+| Testing | 50 | $0.10 | $1.00 |
+| Production (1K/month) | 1,000 | $2.00 | $20.00 |
+| Heavy use (10K/month) | 10,000 | $20.00 | $200.00 |
+
+**With prompt caching:** Costs reduced by ~60% for follow-up queries on same topic.
+
+**Per-query breakdown (Haiku):**
+- Context: ~4000 tokens input = $0.001
+- Answer: ~500 tokens output = $0.000625
+- **Total: ~$0.002 per query**
+
+### Example Output
+
+```
+[QUERY] Türk dili tarihi hakkında ne yazıyor?
+[RETRIEVAL] Using hybrid strategy...
+[RETRIEVAL] Found 10 chunks in 125ms
+[GENERATION] Using claude-3-5-haiku-20241022...
+
+================================================================================
+SORU: Türk dili tarihi hakkında ne yazıyor?
+
+CEVAP:
+Sevan Nisanyan, Türk dilinin tarihini incelerken özellikle Osmanlı dönemi ve
+dil devriminin etkilerini analiz ediyor. Yazılarında Türkçe'nin Arapça ve
+Farsça'dan aldığı kelimelerin tarihsel süreçteki rolünü vurguluyor...
+
+KAYNAKLAR:
+- **Türk Dili Devrimi** (May 15, 2013) (score: 0.874)
+- **Dil ve Tarih** (June 3, 2014) (score: 0.812)
+- **Osmanlı Türkçesi'nin Evrimi** (August 22, 2015) (score: 0.789)
+
+---
+*Süre: 1250ms | Maliyet: $0.000324 | Model: claude-3-5-haiku-20241022*
+================================================================================
+```
+
+### Turkish Language Prompts
+
+**System Prompt:**
+- Entirely in Turkish for better comprehension
+- Specialized for Sevan Nisanyan's essay style (historical/linguistic/political)
+- Anti-hallucination: "YALNIZCA sağlanan kaynaklarda yer alan bilgileri kullan"
+- Clear source attribution requirements
+
+**Context Format:**
+```
+<kaynaklar>
+--- Kaynak 1 ---
+Makale: Kahraman ırkıma bir gül
+Tarih: May 23, 2014
+
+[chunk content with contextual enrichment]
+
+--- Kaynak 2 ---
+...
+</kaynaklar>
+
+Soru: [user query]
+```
+
+### Implementation Status
+
+**Phase 1: Core Functionality (MVP)** - 4-6 hours
+- [ ] Create `src/rag/` module structure
+- [ ] Implement data classes (config, response, citations)
+- [ ] Implement Turkish prompt templates
+- [ ] Implement Claude generator with retry logic
+- [ ] Create CLI tool following `test_retrieval.py` patterns
+- [ ] Test with example queries
+
+**Phase 2: Batch Processing** - 2-3 hours
+- [ ] Add batch query support
+- [ ] Add JSON export
+- [ ] Test all retrieval strategies
+
+**Phase 3: Streaming & Advanced** - 3-4 hours
+- [ ] Implement streaming generation
+- [ ] Add cost warnings
+- [ ] Add multiple citation formats
+
+**Phase 4: Documentation & Polish** - 2-3 hours
+- [ ] Update documentation
+- [ ] Add comprehensive error handling
+- [ ] Optimize prompts based on testing
+
+**Total Estimated Time:** 11-16 hours
+
+### Key Design Patterns
+
+**Reuses existing patterns:**
+- Claude API integration from `contextual_utils.py` (retry logic, prompt caching, cost tracking)
+- CLI structure from `test_retrieval.py` (argparse, batch processing, JSON export)
+- Abstract base classes from `retrieval/base.py` (BaseAnswerGenerator mirrors BaseRetriever)
+- Modular design from `retrieval/` module (single responsibility, composition)
+
+**Critical files for reference:**
+- `src/contextual_utils.py` - Claude API patterns, retry logic, usage stats
+- `src/test_retrieval.py` - CLI patterns, batch processing, output formatting
+- `src/retrieval/base.py` - Abstract classes, config dataclasses, response objects
+- `src/retrieval/hybrid.py` - Timing tracking, component composition
+
+### Future Enhancements
+
+1. **Cross-encoder reranking** - Improve answer quality by reranking chunks before generation
+2. **Query decomposition** - Break complex questions into sub-queries
+3. **Conversational context** - Track history for follow-up questions
+4. **Answer verification** - Fact-check claims against sources
+5. **Evaluation metrics** - Measure answer quality (factuality, completeness, relevance)
