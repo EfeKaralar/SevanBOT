@@ -1,4 +1,7 @@
 annotated-types==0.7.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
 anthropic==0.78.0
 bm25s==0.2.14
 pystemmer==3.0.0
