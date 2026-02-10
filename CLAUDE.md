@@ -335,7 +335,7 @@ cohere           # Alternative: embed-v4 + Rerank 3.5
 
 ---
 
-## RAG Answer Generation (PLANNED)
+## RAG Answer Generation (IMPLEMENTED ✓)
 
 A production-ready answer generation system that combines retrieval with Claude LLMs to generate factual, source-attributed answers.
 
@@ -360,14 +360,20 @@ src/rag/
 ### Quick Start
 
 ```bash
-# Answer single question
+# Answer single question with hybrid retrieval (default)
 python3 src/answer_rag.py --query "Türk dili tarihi hakkında ne yazıyor?"
 
 # Use specific retrieval strategy
 python3 src/answer_rag.py --query "Osmanlı İmparatorluğu" --strategy dense
 
-# Batch processing
-python3 src/answer_rag.py --queries example_queries.txt --output results/
+# Compare all three strategies side-by-side
+python3 src/answer_rag.py --query "dil devrimi" --compare-strategies
+
+# Batch processing (single strategy)
+python3 src/answer_rag.py --queries rag_queries.txt --output results/
+
+# Batch comparison across all strategies
+python3 src/answer_rag.py --queries rag_queries.txt --compare-strategies --output results/
 
 # Streaming mode
 python3 src/answer_rag.py --query "modernleşme" --stream
@@ -379,6 +385,7 @@ python3 src/answer_rag.py --query "test" --model claude-3-5-sonnet-20241022 --ma
 ### Features
 
 - **Hybrid retrieval integration:** Works seamlessly with dense/sparse/hybrid strategies
+- **Strategy comparison:** `--compare-strategies` runs all three and shows answers side-by-side
 - **Turkish-optimized prompts:** Native Turkish throughout for better comprehension
 - **Source attribution:** Automatic citation of relevant articles with scores
 - **Cost tracking:** Per-query usage monitoring (~$0.002/query with Haiku)
@@ -398,9 +405,10 @@ python3 src/answer_rag.py --query "test" --model claude-3-5-sonnet-20241022 --ma
 --top-k 15          # How many chunks to retrieve (default: 10)
 
 # Retrieval strategy
---strategy hybrid   # Use hybrid retrieval (default)
---strategy dense    # Use dense retrieval only
---strategy sparse   # Use sparse retrieval only
+--strategy hybrid           # Use hybrid retrieval (default)
+--strategy dense            # Use dense retrieval only
+--strategy sparse           # Use sparse retrieval only
+--compare-strategies        # Run all three and compare side-by-side
 
 # Output format
 --citation-format markdown   # **Title** (2024) (default)
@@ -476,30 +484,30 @@ Soru: [user query]
 
 ### Implementation Status
 
-**Phase 1: Core Functionality (MVP)** - 4-6 hours
-- [ ] Create `src/rag/` module structure
-- [ ] Implement data classes (config, response, citations)
-- [ ] Implement Turkish prompt templates
-- [ ] Implement Claude generator with retry logic
-- [ ] Create CLI tool following `test_retrieval.py` patterns
-- [ ] Test with example queries
+**Phase 1: Core Functionality (MVP)** ✓
+- [x] Create `src/rag/` module structure
+- [x] Implement data classes (config, response, citations)
+- [x] Implement Turkish prompt templates
+- [x] Implement Claude generator with retry logic
+- [x] Create CLI tool following `test_retrieval.py` patterns
+- [x] Test with example queries
 
-**Phase 2: Batch Processing** - 2-3 hours
-- [ ] Add batch query support
-- [ ] Add JSON export
-- [ ] Test all retrieval strategies
+**Phase 2: Batch Processing** ✓
+- [x] Add batch query support (`--queries`)
+- [x] Add JSON export (`--output`)
+- [x] Test all retrieval strategies (dense/sparse/hybrid verified)
+- [x] Add `--compare-strategies` for side-by-side strategy comparison
+- [x] Create `rag_queries.txt` with full-sentence Turkish test questions
 
-**Phase 3: Streaming & Advanced** - 3-4 hours
-- [ ] Implement streaming generation
+**Phase 3: Streaming & Advanced** - planned
+- [ ] Implement streaming generation (`--stream` flag scaffolded)
 - [ ] Add cost warnings
 - [ ] Add multiple citation formats
 
-**Phase 4: Documentation & Polish** - 2-3 hours
+**Phase 4: Documentation & Polish** - planned
 - [ ] Update documentation
 - [ ] Add comprehensive error handling
 - [ ] Optimize prompts based on testing
-
-**Total Estimated Time:** 11-16 hours
 
 ### Key Design Patterns
 

@@ -3,7 +3,8 @@
 RAG answer generation CLI.
 
 Retrieves relevant chunks and generates factual, source-attributed answers
-using Claude. Supports single queries, batch processing, and streaming.
+using Claude. Supports single queries, batch processing, streaming, and
+side-by-side strategy comparison.
 
 Usage:
     # Single query with hybrid retrieval (default)
@@ -12,8 +13,14 @@ Usage:
     # Use dense retrieval only
     python3 src/answer_rag.py --query "Osmanlı İmparatorluğu" --strategy dense
 
-    # Batch queries from a file
-    python3 src/answer_rag.py --queries example_queries.txt --output results/
+    # Compare all three strategies side-by-side
+    python3 src/answer_rag.py --query "dil devrimi" --compare-strategies
+
+    # Batch queries from a file (single strategy)
+    python3 src/answer_rag.py --queries rag_queries.txt --output results/
+
+    # Batch comparison across all strategies
+    python3 src/answer_rag.py --queries rag_queries.txt --compare-strategies --output results/
 
     # Streaming mode
     python3 src/answer_rag.py --query "modernleşme" --stream
@@ -99,6 +106,35 @@ def create_retriever(args):
 
     else:
         raise ValueError(f"Unknown strategy: {args.strategy}")
+
+
+def create_all_retrievers(args) -> dict:
+    """Create all three retrievers for strategy comparison."""
+    print("[INIT] Creating dense retriever...")
+    dense = DenseRetriever(
+        collection_name=args.collection,
+        qdrant_url=args.qdrant_url,
+        qdrant_path=args.qdrant_path,
+        embedding_model=args.embedding_model,
+    )
+    print(f"[INIT] Dense retriever ready: {dense.get_collection_info()}")
+
+    print("[INIT] Creating sparse retriever...")
+    sparse = SparseRetriever(
+        chunks_file=args.chunks_file,
+        use_stemming=not args.no_stemming,
+    )
+    print(f"[INIT] Sparse retriever ready: {sparse.get_index_stats()}")
+
+    print("[INIT] Creating hybrid retriever (RRF fusion)...")
+    hybrid = HybridRetriever(
+        dense_retriever=dense,
+        sparse_retriever=sparse,
+        fusion_strategy=RRFFusion(),
+    )
+    print("[INIT] Hybrid retriever ready")
+
+    return {"dense": dense, "sparse": sparse, "hybrid": hybrid}
 
 
 def retrieval_results_to_chunks(retrieval_response) -> list:
@@ -249,6 +285,153 @@ def run_batch_queries(queries_file: str, retriever, generator, args):
 
 
 # ---------------------------------------------------------------------------
+# Strategy comparison runners
+# ---------------------------------------------------------------------------
+
+def run_strategy_comparison(query: str, retrievers: dict, generator, args):
+    """
+    Generate answers for the same query using all three retrieval strategies.
+
+    Displays results side-by-side and optionally exports a comparison JSON.
+    """
+    print(f"\n[COMPARE] Query: {query}")
+
+    search_config = SearchConfig(
+        top_k=args.top_k,
+        rrf_k=args.rrf_k,
+        dense_top_k=args.dense_top_k,
+        sparse_top_k=args.sparse_top_k,
+    )
+    gen_config = GenerationConfig(
+        model=args.model,
+        max_context_chunks=args.max_chunks,
+        citation_format=args.citation_format,
+    )
+
+    strategy_responses = {}
+
+    for strategy_name, retriever in retrievers.items():
+        print(f"[COMPARE] Running {strategy_name} strategy...")
+
+        retrieval_response = retriever.search_with_timing(query, search_config)
+        chunks = retrieval_results_to_chunks(retrieval_response)
+
+        if not chunks:
+            print(f"  [WARNING] No chunks for {strategy_name}, skipping.")
+            continue
+
+        rag_response = generator.generate(query, chunks, gen_config)
+        rag_response.retrieval_strategy = strategy_name
+        rag_response.retrieval_time_ms = retrieval_response.total_time_ms
+        rag_response.total_time_ms = (
+            retrieval_response.total_time_ms + rag_response.generation_time_ms
+        )
+
+        strategy_responses[strategy_name] = rag_response
+
+        cost = rag_response.usage.calculate_cost()
+        print(
+            f"  {strategy_name}: {len(chunks)} chunks | "
+            f"{rag_response.total_time_ms:.0f}ms | ${cost:.6f}"
+        )
+
+    # Display all answers
+    print(f"\n{'='*80}")
+    print(f"SORU: {query}")
+    print(f"{'='*80}")
+
+    for strategy_name, response in strategy_responses.items():
+        print(f"\n--- [{strategy_name.upper()}] ---")
+        print(response.answer)
+        if response.sources:
+            print("\nKaynaklar:")
+            for s in response.sources[:3]:  # Show top 3 sources per strategy
+                print(f"  {s.to_markdown()}")
+
+    # Summary line
+    print(f"\n{'='*80}")
+    print("ÖZET:")
+    for strategy_name, response in strategy_responses.items():
+        cost = response.usage.calculate_cost()
+        print(
+            f"  {strategy_name:8s} | {response.total_time_ms:6.0f}ms | "
+            f"${cost:.6f} | {len(response.sources)} kaynak"
+        )
+    print(f"{'='*80}\n")
+
+    # Export
+    if args.output:
+        comparison = {
+            "query": query,
+            "strategies": {
+                name: resp.to_dict()
+                for name, resp in strategy_responses.items()
+            },
+            "summary": {
+                name: {
+                    "total_ms": resp.total_time_ms,
+                    "cost_usd": resp.usage.calculate_cost(),
+                    "sources_count": len(resp.sources),
+                }
+                for name, resp in strategy_responses.items()
+            },
+        }
+        _export_json(
+            comparison,
+            Path(args.output),
+            f"comparison_{abs(hash(query)) % 100000}",
+        )
+
+    return strategy_responses
+
+
+def run_batch_comparison(queries_file: str, retrievers: dict, generator, args):
+    """
+    Run strategy comparison for every query in a file.
+
+    Exports one summary JSON with all comparisons.
+    """
+    queries = _load_queries(queries_file)
+    print(f"[BATCH] Comparing {len(queries)} queries across {len(retrievers)} strategies...")
+
+    all_comparisons = []
+    total_cost = 0.0
+
+    for i, query in enumerate(queries, 1):
+        print(f"\n[{i}/{len(queries)}] {query}")
+
+        strategy_responses = run_strategy_comparison(query, retrievers, generator, args)
+
+        for resp in strategy_responses.values():
+            total_cost += resp.usage.calculate_cost()
+
+        all_comparisons.append(
+            {
+                "query": query,
+                "strategies": {
+                    name: resp.to_dict()
+                    for name, resp in strategy_responses.items()
+                },
+            }
+        )
+
+    print(f"\n[BATCH] Complete. {len(all_comparisons)} comparisons done.")
+    print(f"[BATCH] Total cost: ${total_cost:.4f}")
+
+    if args.output:
+        _export_json(
+            {
+                "total_queries": len(queries),
+                "strategies_compared": list(retrievers.keys()),
+                "total_cost_usd": round(total_cost, 6),
+                "comparisons": all_comparisons,
+            },
+            Path(args.output),
+            "batch_comparison",
+        )
+
+
+# ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
 
@@ -265,10 +448,15 @@ def _load_queries(path: str) -> list:
 
 def _export_response(response, output_dir: Path, filename: str):
     """Export a single RAGResponse to JSON."""
+    _export_json(response.to_dict(), output_dir, filename)
+
+
+def _export_json(data: dict, output_dir: Path, filename: str):
+    """Write any dict to a JSON file in output_dir."""
     output_dir.mkdir(parents=True, exist_ok=True)
     output_path = output_dir / f"{filename}.json"
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(response.to_dict(), f, indent=2, ensure_ascii=False)
+        json.dump(data, f, indent=2, ensure_ascii=False)
     print(f"[EXPORT] Saved to {output_path}")
 
 
@@ -296,6 +484,11 @@ def main():
         choices=["dense", "sparse", "hybrid"],
         default="hybrid",
         help="Retrieval strategy (default: hybrid)",
+    )
+    parser.add_argument(
+        "--compare-strategies",
+        action="store_true",
+        help="Run all three strategies and compare answers side-by-side",
     )
     parser.add_argument(
         "--top-k", type=int, default=10, help="Chunks to retrieve (default: 10)"
@@ -378,28 +571,41 @@ def main():
 
     args = parser.parse_args()
 
-    # Streaming only works with single queries
+    # Streaming is not supported with batch or comparison modes
     if args.stream and args.queries:
         print("[WARNING] --stream is not supported with --queries. Ignoring --stream.")
         args.stream = False
+    if args.stream and args.compare_strategies:
+        print("[WARNING] --stream is not supported with --compare-strategies. Ignoring --stream.")
+        args.stream = False
 
-    # Initialize retriever
-    retriever = create_retriever(args)
-
-    # Initialize generator
+    # Initialize generator (shared across all modes)
     print("[INIT] Creating answer generator...")
     generator = ClaudeAnswerGenerator()
     print(f"[INIT] Generator ready (model: {args.model})\n")
 
-    # Print config summary
-    print(f"[CONFIG] top_k={args.top_k} | max_chunks={args.max_chunks} | "
-          f"model={args.model} | strategy={args.strategy}")
+    if args.compare_strategies:
+        # Create all three retrievers for comparison
+        retrievers = create_all_retrievers(args)
 
-    # Run
-    if args.query:
-        run_single_query(args.query, retriever, generator, args)
-    elif args.queries:
-        run_batch_queries(args.queries, retriever, generator, args)
+        print(f"\n[CONFIG] top_k={args.top_k} | max_chunks={args.max_chunks} | "
+              f"model={args.model} | mode=compare-strategies")
+
+        if args.query:
+            run_strategy_comparison(args.query, retrievers, generator, args)
+        elif args.queries:
+            run_batch_comparison(args.queries, retrievers, generator, args)
+    else:
+        # Single strategy mode
+        retriever = create_retriever(args)
+
+        print(f"[CONFIG] top_k={args.top_k} | max_chunks={args.max_chunks} | "
+              f"model={args.model} | strategy={args.strategy}")
+
+        if args.query:
+            run_single_query(args.query, retriever, generator, args)
+        elif args.queries:
+            run_batch_queries(args.queries, retriever, generator, args)
 
 
 if __name__ == "__main__":
