@@ -49,11 +49,13 @@ from src.rag.conversation import ConversationManager  # noqa: E402
 # Configuration
 # ---------------------------------------------------------------------------
 APP_PASSWORD = os.getenv("APP_PASSWORD", "")
-CONVERSATIONS_DIR = PROJECT_ROOT / "conversations"
+CONVERSATIONS_DIR = Path(os.getenv("CONVERSATIONS_DIR", str(PROJECT_ROOT / "conversations")))
 STATIC_DIR = PROJECT_ROOT / "static"
-COLLECTION_NAME = "sevanbot_openai-small"
-CHUNKS_FILE = str(PROJECT_ROOT / "chunks_contextual.jsonl")
-QDRANT_PATH = str(PROJECT_ROOT / ".qdrant")
+COLLECTION_NAME = os.getenv("COLLECTION_NAME", "sevanbot_openai-small")
+CHUNKS_FILE = os.getenv("CHUNKS_FILE", str(PROJECT_ROOT / "chunks_contextual.jsonl"))
+QDRANT_PATH = os.getenv("QDRANT_PATH", str(PROJECT_ROOT / ".qdrant"))
+QDRANT_URL = os.getenv("QDRANT_URL") or None
+QDRANT_API_KEY = os.getenv("QDRANT_API_KEY") or None
 
 # ---------------------------------------------------------------------------
 # Global retriever / generator (initialized at startup)
@@ -111,7 +113,9 @@ async def startup_event():
     print("[STARTUP] Loading dense retriever...")
     _dense_retriever = DenseRetriever(
         collection_name=COLLECTION_NAME,
+        qdrant_url=QDRANT_URL,
         qdrant_path=QDRANT_PATH,
+        qdrant_api_key=QDRANT_API_KEY,
         embedding_model="text-embedding-3-small",
     )
 

@@ -26,7 +26,8 @@ class DenseRetriever(BaseRetriever):
         qdrant_url: Optional[str] = None,
         qdrant_path: str = ".qdrant",
         embedding_model: str = "text-embedding-3-small",
-        openai_api_key: Optional[str] = None
+        openai_api_key: Optional[str] = None,
+        qdrant_api_key: Optional[str] = None,
     ):
         """
         Initialize dense retriever.
@@ -42,9 +43,10 @@ class DenseRetriever(BaseRetriever):
         self.embedding_model = embedding_model
 
         # Initialize Qdrant client (local or remote)
+        qdrant_api_key = qdrant_api_key or os.getenv("QDRANT_API_KEY")
         if qdrant_url:
             print(f"[DENSE] Connecting to Qdrant at {qdrant_url}")
-            self.qdrant_client = QdrantClient(url=qdrant_url)
+            self.qdrant_client = QdrantClient(url=qdrant_url, api_key=qdrant_api_key)
         else:
             print(f"[DENSE] Using local Qdrant storage: {qdrant_path}")
             self.qdrant_client = QdrantClient(path=qdrant_path)
