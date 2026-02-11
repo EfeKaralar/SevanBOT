@@ -1,5 +1,8 @@
 # .gitignore for SevanBot
 
+# Conversation history
+conversations/*
+
 # Ignore Article Source files
 sources/*
 
