@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Article scraper, converter, and RAG pipeline. Downloads articles from Substack (via sitemap) or SevanNisanyan.com (via API), converts HTML to clean Markdown, and provides retrieval-augmented generation capabilities.
+Article scraper, converter, RAG pipeline, and chat web app. Downloads articles from Substack (via sitemap) or SevanNisanyan.com (via API), converts HTML to clean Markdown, provides retrieval-augmented generation capabilities, and serves a simple chat interface at `http://localhost:8000`.
 
 ## Commands
 
@@ -530,3 +530,83 @@ Soru: [user query]
 3. **Conversational context** - Track history for follow-up questions
 4. **Answer verification** - Fact-check claims against sources
 5. **Evaluation metrics** - Measure answer quality (factuality, completeness, relevance)
+
+---
+
+## Chat Web App (IMPLEMENTED ✓)
+
+A simple prototype chat interface that wraps the RAG system in a web app.
+
+### Architecture
+
+```
+Browser (static/index.html)
+    ↕  HTTP/SSE
+FastAPI server (src/api.py)
+    ↕  Python imports
+src/rag/ + src/retrieval/  (existing RAG system)
+    ↕  JSON files
+conversations/  (one .json file per conversation)
+```
+
+### Quick Start
+
+```bash
+# 1. Add password to .env (if not set already)
+echo "APP_PASSWORD=yourpassword" >> .env
+
+# 2. Install web dependencies
+uv pip install fastapi "uvicorn[standard]" python-multipart
+
+# 3. Start the server (from project root)
+python3 src/api.py
+# → http://localhost:8000
+```
+
+### Features
+
+- **Streaming responses:** Answers appear token by token as Claude generates them
+- **Conversation history:** All conversations persisted as JSON files in `conversations/`
+- **Sidebar navigation:** Browse and reopen past conversations; delete individual ones
+- **Source citations:** Each answer shows a collapsible list of source articles
+- **Password protection:** Single `APP_PASSWORD` set in `.env`
+- **No build step:** Frontend is a single `static/index.html` file
+
+### File Structure
+
+```
+src/api.py          # FastAPI backend (5 endpoints + SSE streaming)
+static/index.html   # Single-file frontend (HTML + CSS + JS)
+conversations/      # Auto-created; one .json per conversation
+```
+
+### API Endpoints
+
+| Method   | Path                      | Description                       |
+|----------|---------------------------|-----------------------------------|
+| GET      | /                         | Serve frontend HTML               |
+| GET      | /api/conversations        | List conversations                |
+| GET      | /api/conversations/{id}   | Get full conversation             |
+| DELETE   | /api/conversations/{id}   | Delete conversation               |
+| POST     | /api/chat                 | Send message (SSE streaming)      |
+
+### Conversation Storage Schema
+
+```json
+{
+  "id": "uuid4",
+  "title": "First 60 chars of first message",
+  "created_at": "ISO-8601",
+  "updated_at": "ISO-8601",
+  "messages": [
+    {"role": "user", "content": "...", "timestamp": "ISO"},
+    {
+      "role": "assistant",
+      "content": "...",
+      "sources": [{"title": "...", "date": "...", "score": 0.87, "excerpt": "..."}],
+      "cost_usd": null,
+      "timestamp": "ISO"
+    }
+  ]
+}
+```

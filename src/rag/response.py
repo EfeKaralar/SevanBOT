@@ -5,7 +5,7 @@ Mirrors the RetrievalResponse pattern from retrieval/base.py.
 """
 
 from dataclasses import dataclass, field
-from typing import List, Dict, Any, Optional, TYPE_CHECKING
+from typing import ClassVar, List, Dict, Any, Optional, TYPE_CHECKING
 from datetime import datetime, timezone
 
 if TYPE_CHECKING:
@@ -38,19 +38,40 @@ class RAGUsageStats:
     """
     Token usage and cost tracking for a single RAG generation call.
 
-    Pricing constants match contextual_utils.py (Claude Haiku, Jan 2025).
+    Pricing is model-aware: pass the model ID used for generation so that
+    costs are computed with the correct per-token rates.
     """
 
     input_tokens: int = 0
     output_tokens: int = 0
     cache_creation_tokens: int = 0
     cache_read_tokens: int = 0
+    model: str = "claude-3-5-haiku-20241022"
 
-    # Pricing per 1M tokens (Claude Haiku)
-    INPUT_PRICE: float = field(default=0.25, init=False, repr=False)
-    OUTPUT_PRICE: float = field(default=1.25, init=False, repr=False)
-    CACHE_WRITE_PRICE: float = field(default=0.30, init=False, repr=False)
-    CACHE_READ_PRICE: float = field(default=0.03, init=False, repr=False)
+    # Pricing per 1M tokens keyed by model ID (input, output, cache_write, cache_read)
+    _MODEL_PRICING: ClassVar[Dict[str, Dict[str, float]]] = {
+        "claude-3-haiku-20240307":     {"input": 0.25,  "output": 1.25,  "cache_write": 0.30,  "cache_read": 0.03},
+        "claude-3-5-haiku-20241022":   {"input": 0.80,  "output": 4.00,  "cache_write": 1.00,  "cache_read": 0.08},
+        "claude-3-5-sonnet-20241022":  {"input": 3.00,  "output": 15.00, "cache_write": 3.75,  "cache_read": 0.30},
+        "claude-3-opus-20240229":      {"input": 15.00, "output": 75.00, "cache_write": 18.75, "cache_read": 1.50},
+    }
+    # Fallback for unknown models (haiku rates)
+    _DEFAULT_PRICING: ClassVar[Dict[str, float]] = {
+        "input": 0.80, "output": 4.00, "cache_write": 1.00, "cache_read": 0.08
+    }
+
+    # Set in __post_init__ based on model
+    INPUT_PRICE: float = field(default=0.0, init=False, repr=False)
+    OUTPUT_PRICE: float = field(default=0.0, init=False, repr=False)
+    CACHE_WRITE_PRICE: float = field(default=0.0, init=False, repr=False)
+    CACHE_READ_PRICE: float = field(default=0.0, init=False, repr=False)
+
+    def __post_init__(self):
+        pricing = self._MODEL_PRICING.get(self.model, self._DEFAULT_PRICING)
+        self.INPUT_PRICE = pricing["input"]
+        self.OUTPUT_PRICE = pricing["output"]
+        self.CACHE_WRITE_PRICE = pricing["cache_write"]
+        self.CACHE_READ_PRICE = pricing["cache_read"]
 
     def calculate_cost(self) -> float:
         """Calculate total cost in USD."""
