@@ -27,6 +27,9 @@ class BaseAnswerGenerator(ABC):
         query: str,
         chunks: List[Dict[str, Any]],
         config: GenerationConfig,
+        conversation_summary: str | None = None,
+        recent_messages: List[Dict[str, str]] | None = None,
+        allow_no_sources: bool = False,
     ) -> RAGResponse:
         """
         Generate an answer from a query and retrieved chunks.
@@ -48,6 +51,9 @@ class BaseAnswerGenerator(ABC):
         query: str,
         chunks: List[Dict[str, Any]],
         config: GenerationConfig,
+        conversation_summary: str | None = None,
+        recent_messages: List[Dict[str, str]] | None = None,
+        allow_no_sources: bool = False,
     ) -> Iterator[str]:
         """
         Generate an answer with streaming (yields tokens as they arrive).

@@ -8,7 +8,7 @@ Design philosophy:
 - Source attribution: cite specific passages when making claims
 """
 
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 
 
 SYSTEM_PROMPT_TR = """Sen Sevan Nisanyan'ın yazılarını derinlemesine bilen uzman bir asistansın.
@@ -28,6 +28,17 @@ Yanıt formatı:
 - Paragraf şeklinde, okumayı kolaylaştıran bir yapıda yaz
 - Gerektiğinde madde işaretleri kullan
 - Önemli terimleri **kalın** yap"""
+
+
+SYSTEM_PROMPT_TR_NO_SOURCES = """Sen Sevan Nisanyan'ın yazılarını bilen bir asistansın.
+
+Görevin, kullanıcı sorularını yalnızca sohbet bağlamına dayanarak yanıtlamaktır.
+
+Kurallar:
+1. Kaynak metin verilmediyse yalnızca sohbet bağlamını kullan
+2. Bilgi yoksa açıkça "Bu konuda sohbet bağlamında yeterli bilgi yok" de
+3. Cevaplarını Türkçe, net ve anlaşılır bir dille yaz
+4. Gerektiğinde kullanıcıdan netleştirme iste"""
 
 
 def build_context_block(chunks: List[Dict[str, Any]]) -> str:
@@ -59,10 +70,32 @@ def build_context_block(chunks: List[Dict[str, Any]]) -> str:
     return "\n".join(parts)
 
 
+def build_conversation_block(
+    summary: Optional[str],
+    recent_messages: Optional[List[Dict[str, str]]],
+) -> str:
+    parts = []
+    if summary:
+        parts.append("<sohbet_ozeti>")
+        parts.append(summary)
+        parts.append("</sohbet_ozeti>")
+
+    if recent_messages:
+        parts.append("<son_mesajlar>")
+        for m in recent_messages:
+            role = "Kullanıcı" if m.get("role") == "user" else "Asistan"
+            parts.append(f"{role}: {m.get('content', '')}")
+        parts.append("</son_mesajlar>")
+
+    return "\n".join(parts)
+
+
 def build_messages(
     query: str,
     chunks: List[Dict[str, Any]],
-    use_caching: bool = True
+    use_caching: bool = True,
+    conversation_summary: Optional[str] = None,
+    recent_messages: Optional[List[Dict[str, str]]] = None,
 ) -> List[Dict]:
     """
     Build the messages list for the Claude API call.
@@ -74,14 +107,17 @@ def build_messages(
         query: User's question
         chunks: Retrieved chunks (already limited to max_context_chunks)
         use_caching: Whether to enable prompt caching on the context block
+        conversation_summary: Optional short Turkish conversation summary
+        recent_messages: Optional list of recent turns
 
     Returns:
         Messages list for anthropic.messages.create()
     """
-    context_text = build_context_block(chunks)
+    context_text = build_context_block(chunks) if chunks else ""
+    conversation_text = build_conversation_block(conversation_summary, recent_messages)
     query_text = f"Soru: {query}"
 
-    if use_caching:
+    if use_caching and context_text:
         return [
             {
                 "role": "user",
@@ -89,19 +125,15 @@ def build_messages(
                     {
                         "type": "text",
                         "text": context_text,
-                        "cache_control": {"type": "ephemeral"},  # Cache the context
+                        "cache_control": {"type": "ephemeral"},
                     },
                     {
                         "type": "text",
-                        "text": query_text,  # Not cached - varies per query
+                        "text": "\n\n".join([t for t in [conversation_text, query_text] if t]),
                     },
                 ],
             }
         ]
-    else:
-        return [
-            {
-                "role": "user",
-                "content": f"{context_text}\n\n{query_text}",
-            }
-        ]
+
+    combined = "\n\n".join([t for t in [context_text, conversation_text, query_text] if t])
+    return [{"role": "user", "content": combined}]

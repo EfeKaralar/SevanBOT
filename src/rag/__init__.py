@@ -11,6 +11,7 @@ from .config import GenerationConfig
 from .response import RAGResponse, RAGUsageStats, SourceCitation
 from .base import BaseAnswerGenerator
 from .claude_generator import ClaudeAnswerGenerator
+from .conversation import ConversationManager
 
 __all__ = [
     "GenerationConfig",
@@ -19,4 +20,5 @@ __all__ = [
     "SourceCitation",
     "BaseAnswerGenerator",
     "ClaudeAnswerGenerator",
+    "ConversationManager",
 ]
