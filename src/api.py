@@ -10,13 +10,15 @@ Usage (from project root):
     # → http://localhost:8000
 """
 
+import asyncio
 import json
 import os
 import sys
+import threading
 import uuid
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Optional
+from typing import AsyncIterator, Optional
 
 import dotenv
 import uvicorn
@@ -55,13 +57,23 @@ QDRANT_PATH = str(PROJECT_ROOT / ".qdrant")
 # ---------------------------------------------------------------------------
 # Global retriever / generator (initialized at startup)
 # ---------------------------------------------------------------------------
+_dense_retriever: Optional[DenseRetriever] = None
+_sparse_retriever: Optional[SparseRetriever] = None
 _retriever: Optional[HybridRetriever] = None
 _generator: Optional[ClaudeAnswerGenerator] = None
 
 
-def get_retriever() -> HybridRetriever:
+def get_retriever(strategy: str = "hybrid"):
+    if strategy == "dense":
+        if _dense_retriever is None:
+            raise RuntimeError("Dense retriever not initialized")
+        return _dense_retriever
+    if strategy == "sparse":
+        if _sparse_retriever is None:
+            raise RuntimeError("Sparse retriever not initialized")
+        return _sparse_retriever
     if _retriever is None:
-        raise RuntimeError("Retriever not initialized")
+        raise RuntimeError("Hybrid retriever not initialized")
     return _retriever
 
 
@@ -79,7 +91,7 @@ app = FastAPI(title="SevanBot", docs_url=None, redoc_url=None)
 
 @app.on_event("startup")
 async def startup_event():
-    global _retriever, _generator
+    global _dense_retriever, _sparse_retriever, _retriever, _generator
 
     print("[STARTUP] Initializing SevanBot...")
 
@@ -89,22 +101,22 @@ async def startup_event():
     CONVERSATIONS_DIR.mkdir(exist_ok=True)
 
     print("[STARTUP] Loading dense retriever...")
-    dense = DenseRetriever(
+    _dense_retriever = DenseRetriever(
         collection_name=COLLECTION_NAME,
         qdrant_path=QDRANT_PATH,
         embedding_model="text-embedding-3-small",
     )
 
     print("[STARTUP] Loading sparse retriever...")
-    sparse = SparseRetriever(
+    _sparse_retriever = SparseRetriever(
         chunks_file=CHUNKS_FILE,
         use_stemming=True,
     )
 
     print("[STARTUP] Creating hybrid retriever (RRF fusion)...")
     _retriever = HybridRetriever(
-        dense_retriever=dense,
-        sparse_retriever=sparse,
+        dense_retriever=_dense_retriever,
+        sparse_retriever=_sparse_retriever,
         fusion_strategy=RRFFusion(),
     )
 
@@ -199,6 +211,48 @@ def _touch_conversation(conv: dict) -> None:
 
 
 # ---------------------------------------------------------------------------
+# Async streaming helper
+# ---------------------------------------------------------------------------
+
+async def _stream_tokens(gen, query: str, chunks: list, config) -> AsyncIterator[str]:
+    """
+    Bridge between the synchronous Anthropic SDK streaming iterator and the
+    asyncio event loop.
+
+    The sync iterator blocks the OS thread between tokens (httpx I/O). Running
+    it directly inside an async generator would block the event loop, preventing
+    uvicorn from flushing SSE chunks to the client until generation completes.
+
+    Solution: run the sync iterator in a background thread and ferry each token
+    back to the event loop through an asyncio.Queue.  Each `await queue.get()`
+    yields control to the event loop so uvicorn can flush the preceding chunk
+    before waiting for the next token.
+    """
+    loop = asyncio.get_running_loop()
+    queue: asyncio.Queue = asyncio.Queue()
+
+    def _producer():
+        try:
+            for token in gen.generate_streaming(query, chunks, config):
+                loop.call_soon_threadsafe(queue.put_nowait, token)
+        except Exception as exc:
+            loop.call_soon_threadsafe(queue.put_nowait, exc)
+        finally:
+            loop.call_soon_threadsafe(queue.put_nowait, None)  # sentinel
+
+    thread = threading.Thread(target=_producer, daemon=True)
+    thread.start()
+
+    while True:
+        item = await queue.get()
+        if item is None:
+            break
+        if isinstance(item, BaseException):
+            raise item
+        yield item
+
+
+# ---------------------------------------------------------------------------
 # Request/response models
 # ---------------------------------------------------------------------------
 
@@ -250,7 +304,8 @@ async def chat(req: ChatRequest):
       done   — {"conversation_id": "...", "sources": [...], "cost_usd": 0.002}
       error  — {"message": "..."}
     """
-    retriever = get_retriever()
+    strategy = req.strategy if req.strategy in ("dense", "sparse", "hybrid") else "hybrid"
+    retriever = get_retriever(strategy)
     generator = get_generator()
 
     # Load or create conversation
@@ -295,7 +350,7 @@ async def chat(req: ChatRequest):
                 use_prompt_caching=True,
             )
 
-            for token in generator.generate_streaming(req.message, chunks, gen_config):
+            async for token in _stream_tokens(generator, req.message, chunks, gen_config):
                 full_answer.append(token)
                 yield "event: token\ndata: " + json.dumps({"text": token}) + "\n\n"
 

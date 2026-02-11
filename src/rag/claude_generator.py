@@ -197,6 +197,7 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
                     cache_read_tokens=getattr(
                         response.usage, "cache_read_input_tokens", 0
                     ),
+                    model=config.model,
                 )
 
                 return response, usage
