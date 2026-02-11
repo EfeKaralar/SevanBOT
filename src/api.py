@@ -299,6 +299,12 @@ async def serve_index():
     return FileResponse(index_path, media_type="text/html")
 
 
+@app.get("/health")
+async def healthcheck():
+    """Railway healthcheck endpoint."""
+    return {"ok": True}
+
+
 @app.get("/api/conversations", dependencies=[Depends(require_auth)])
 async def get_conversations():
     """List all conversations (summary only)."""
@@ -469,10 +475,11 @@ async def chat(req: ChatRequest):
 # Entry point
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
+    port = int(os.getenv("PORT", "8000"))
     uvicorn.run(
         "api:app",
         host="0.0.0.0",
-        port=8000,
+        port=port,
         reload=False,
         app_dir=str(Path(__file__).parent),
     )
