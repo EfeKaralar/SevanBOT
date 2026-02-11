@@ -15,7 +15,7 @@ from anthropic import RateLimitError, APIError
 from .base import BaseAnswerGenerator
 from .config import GenerationConfig
 from .response import RAGResponse, RAGUsageStats, SourceCitation
-from .prompt_templates import SYSTEM_PROMPT_TR, build_messages
+from .prompt_templates import SYSTEM_PROMPT_TR, SYSTEM_PROMPT_TR_NO_SOURCES, build_messages
 
 
 class ClaudeAnswerGenerator(BaseAnswerGenerator):
@@ -63,6 +63,9 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
         query: str,
         chunks: List[Dict[str, Any]],
         config: GenerationConfig,
+        conversation_summary: Optional[str] = None,
+        recent_messages: Optional[List[Dict[str, str]]] = None,
+        allow_no_sources: bool = False,
     ) -> RAGResponse:
         """
         Generate an answer synchronously.
@@ -77,17 +80,26 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
         """
         start = time.time()
 
-        chunks_to_use = chunks[: config.max_context_chunks]
+        chunks_to_use = chunks[: config.max_context_chunks] if chunks else []
+
+        if not chunks_to_use and not allow_no_sources:
+            raise ValueError("No sources provided and allow_no_sources is False.")
 
         # Build messages with or without prompt caching
         messages = build_messages(
             query=query,
             chunks=chunks_to_use,
             use_caching=config.use_prompt_caching,
+            conversation_summary=conversation_summary,
+            recent_messages=recent_messages,
         )
 
         # Call Claude with retry logic
-        response, usage = self._call_with_retry(messages, config)
+        response, usage = self._call_with_retry(
+            messages,
+            config,
+            use_sources=bool(chunks_to_use),
+        )
 
         generation_time_ms = (time.time() - start) * 1000
         answer = response.content[0].text
@@ -111,6 +123,9 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
         query: str,
         chunks: List[Dict[str, Any]],
         config: GenerationConfig,
+        conversation_summary: Optional[str] = None,
+        recent_messages: Optional[List[Dict[str, str]]] = None,
+        allow_no_sources: bool = False,
     ) -> Iterator[str]:
         """
         Generate an answer with token streaming.
@@ -126,12 +141,16 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
         Yields:
             str: Token text chunks
         """
-        chunks_to_use = chunks[: config.max_context_chunks]
+        chunks_to_use = chunks[: config.max_context_chunks] if chunks else []
+        if not chunks_to_use and not allow_no_sources:
+            raise ValueError("No sources provided and allow_no_sources is False.")
 
         messages = build_messages(
             query=query,
             chunks=chunks_to_use,
             use_caching=config.use_prompt_caching,
+            conversation_summary=conversation_summary,
+            recent_messages=recent_messages,
         )
 
         extra_headers = (
@@ -140,11 +159,13 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
             else {}
         )
 
+        system_prompt = SYSTEM_PROMPT_TR if chunks_to_use else SYSTEM_PROMPT_TR_NO_SOURCES
+
         with self.client.messages.stream(
             model=config.model,
             max_tokens=config.max_tokens,
             temperature=config.temperature,
-            system=SYSTEM_PROMPT_TR,
+            system=system_prompt,
             messages=messages,
             extra_headers=extra_headers,
         ) as stream:
@@ -159,6 +180,7 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
         self,
         messages: List[Dict],
         config: GenerationConfig,
+        use_sources: bool = True,
     ):
         """
         Call the Claude API with exponential backoff retry.
@@ -179,11 +201,13 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
 
         for attempt in range(self.max_retries):
             try:
+                system_prompt = SYSTEM_PROMPT_TR if use_sources else SYSTEM_PROMPT_TR_NO_SOURCES
+
                 response = self.client.messages.create(
                     model=config.model,
                     max_tokens=config.max_tokens,
                     temperature=config.temperature,
-                    system=SYSTEM_PROMPT_TR,
+                    system=system_prompt,
                     messages=messages,
                     extra_headers=extra_headers,
                 )

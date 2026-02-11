@@ -43,16 +43,19 @@ from src.retrieval import (  # noqa: E402
     SparseRetriever,
 )
 from src.rag import ClaudeAnswerGenerator, GenerationConfig  # noqa: E402
+from src.rag.conversation import ConversationManager  # noqa: E402
 
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
 APP_PASSWORD = os.getenv("APP_PASSWORD", "")
-CONVERSATIONS_DIR = PROJECT_ROOT / "conversations"
+CONVERSATIONS_DIR = Path(os.getenv("CONVERSATIONS_DIR", str(PROJECT_ROOT / "conversations")))
 STATIC_DIR = PROJECT_ROOT / "static"
-COLLECTION_NAME = "sevanbot_openai-small"
-CHUNKS_FILE = str(PROJECT_ROOT / "chunks_contextual.jsonl")
-QDRANT_PATH = str(PROJECT_ROOT / ".qdrant")
+COLLECTION_NAME = os.getenv("COLLECTION_NAME", "sevanbot_openai-small")
+CHUNKS_FILE = os.getenv("CHUNKS_FILE", str(PROJECT_ROOT / "chunks_contextual.jsonl"))
+QDRANT_PATH = os.getenv("QDRANT_PATH", str(PROJECT_ROOT / ".qdrant"))
+QDRANT_URL = os.getenv("QDRANT_URL") or None
+QDRANT_API_KEY = os.getenv("QDRANT_API_KEY") or None
 
 # ---------------------------------------------------------------------------
 # Global retriever / generator (initialized at startup)
@@ -61,6 +64,7 @@ _dense_retriever: Optional[DenseRetriever] = None
 _sparse_retriever: Optional[SparseRetriever] = None
 _retriever: Optional[HybridRetriever] = None
 _generator: Optional[ClaudeAnswerGenerator] = None
+_conversation_manager: Optional[ConversationManager] = None
 
 
 def get_retriever(strategy: str = "hybrid"):
@@ -83,6 +87,12 @@ def get_generator() -> ClaudeAnswerGenerator:
     return _generator
 
 
+def get_conversation_manager() -> ConversationManager:
+    if _conversation_manager is None:
+        raise RuntimeError("Conversation manager not initialized")
+    return _conversation_manager
+
+
 # ---------------------------------------------------------------------------
 # FastAPI app
 # ---------------------------------------------------------------------------
@@ -91,7 +101,7 @@ app = FastAPI(title="SevanBot", docs_url=None, redoc_url=None)
 
 @app.on_event("startup")
 async def startup_event():
-    global _dense_retriever, _sparse_retriever, _retriever, _generator
+    global _dense_retriever, _sparse_retriever, _retriever, _generator, _conversation_manager
 
     print("[STARTUP] Initializing SevanBot...")
 
@@ -103,7 +113,9 @@ async def startup_event():
     print("[STARTUP] Loading dense retriever...")
     _dense_retriever = DenseRetriever(
         collection_name=COLLECTION_NAME,
+        qdrant_url=QDRANT_URL,
         qdrant_path=QDRANT_PATH,
+        qdrant_api_key=QDRANT_API_KEY,
         embedding_model="text-embedding-3-small",
     )
 
@@ -122,6 +134,7 @@ async def startup_event():
 
     print("[STARTUP] Initializing Claude generator...")
     _generator = ClaudeAnswerGenerator()
+    _conversation_manager = ConversationManager()
 
     print("[STARTUP] SevanBot ready at http://localhost:8000")
 
@@ -214,7 +227,15 @@ def _touch_conversation(conv: dict) -> None:
 # Async streaming helper
 # ---------------------------------------------------------------------------
 
-async def _stream_tokens(gen, query: str, chunks: list, config) -> AsyncIterator[str]:
+async def _stream_tokens(
+    gen,
+    query: str,
+    chunks: list,
+    config,
+    conversation_summary: Optional[str] = None,
+    recent_messages: Optional[list] = None,
+    allow_no_sources: bool = False,
+) -> AsyncIterator[str]:
     """
     Bridge between the synchronous Anthropic SDK streaming iterator and the
     asyncio event loop.
@@ -233,8 +254,15 @@ async def _stream_tokens(gen, query: str, chunks: list, config) -> AsyncIterator
 
     def _producer():
         try:
-            for token in gen.generate_streaming(query, chunks, config):
-                loop.call_soon_threadsafe(queue.put_nowait, token)
+                for token in gen.generate_streaming(
+                    query,
+                    chunks,
+                    config,
+                    conversation_summary=conversation_summary,
+                    recent_messages=recent_messages,
+                    allow_no_sources=allow_no_sources,
+                ):
+                    loop.call_soon_threadsafe(queue.put_nowait, token)
         except Exception as exc:
             loop.call_soon_threadsafe(queue.put_nowait, exc)
         finally:
@@ -275,6 +303,12 @@ async def serve_index():
     return FileResponse(index_path, media_type="text/html")
 
 
+@app.get("/health")
+async def healthcheck():
+    """Railway healthcheck endpoint."""
+    return {"ok": True}
+
+
 @app.get("/api/conversations", dependencies=[Depends(require_auth)])
 async def get_conversations():
     """List all conversations (summary only)."""
@@ -307,12 +341,17 @@ async def chat(req: ChatRequest):
     strategy = req.strategy if req.strategy in ("dense", "sparse", "hybrid") else "hybrid"
     retriever = get_retriever(strategy)
     generator = get_generator()
+    conv_manager = get_conversation_manager()
 
     # Load or create conversation
     if req.conversation_id:
         conv = load_conversation(req.conversation_id)
     else:
         conv = _new_conversation(req.message)
+
+    # Ensure memory exists and collect recent context before adding new turn
+    memory = conv_manager.ensure_memory(conv)
+    recent_messages = conv_manager.get_recent_messages(conv, limit=6)
 
     # Append user message
     now = datetime.now(timezone.utc).isoformat()
@@ -324,24 +363,42 @@ async def chat(req: ChatRequest):
         full_answer = []
 
         try:
-            # Retrieve relevant chunks
-            search_config = SearchConfig(top_k=10, rrf_k=60, dense_top_k=50, sparse_top_k=50)
-            retrieval_response = retriever.search_with_timing(req.message, search_config)
+            # Decide whether to retrieve or reuse cached context
+            cached_chunks = conv_manager.get_cached_chunks(conv)
+            should_retrieve = conv_manager.should_retrieve(
+                message=req.message,
+                summary=memory.summary,
+                recent_messages=recent_messages,
+                has_cached_chunks=bool(cached_chunks),
+            )
 
-            chunks = [
-                {
-                    "chunk_id": r.chunk_id,
-                    "text": r.content,
-                    "title": r.metadata.get("title", ""),
-                    "date": r.metadata.get("date", ""),
-                    "score": r.score,
-                }
-                for r in retrieval_response.results
-            ]
-
-            if not chunks:
-                yield "event: error\ndata: " + json.dumps({"message": "Hiç ilgili kaynak bulunamadı."}) + "\n\n"
-                return
+            chunks = []
+            retrieval_query = req.message
+            if should_retrieve:
+                retrieval_query = conv_manager.rewrite_query(
+                    message=req.message,
+                    summary=memory.summary,
+                    recent_messages=recent_messages,
+                )
+                search_config = SearchConfig(top_k=10, rrf_k=60, dense_top_k=50, sparse_top_k=50)
+                retrieval_response = retriever.search_with_timing(retrieval_query, search_config)
+                chunks = [
+                    {
+                        "chunk_id": r.chunk_id,
+                        "text": r.content,
+                        "title": r.metadata.get("title", ""),
+                        "date": r.metadata.get("date", ""),
+                        "score": r.score,
+                    }
+                    for r in retrieval_response.results
+                ]
+                if chunks:
+                    conv_manager.cache_retrieval(conv, retrieval_query, chunks)
+                    save_conversation(conv)
+                elif cached_chunks:
+                    chunks = cached_chunks
+            else:
+                chunks = cached_chunks
 
             # Generate answer with streaming
             gen_config = GenerationConfig(
@@ -350,7 +407,15 @@ async def chat(req: ChatRequest):
                 use_prompt_caching=True,
             )
 
-            async for token in _stream_tokens(generator, req.message, chunks, gen_config):
+            async for token in _stream_tokens(
+                generator,
+                req.message,
+                chunks,
+                gen_config,
+                conversation_summary=memory.summary,
+                recent_messages=recent_messages,
+                allow_no_sources=True,
+            ):
                 full_answer.append(token)
                 yield "event: token\ndata: " + json.dumps({"text": token}) + "\n\n"
 
@@ -367,7 +432,7 @@ async def chat(req: ChatRequest):
                     "score": round(c["score"], 4),
                     "excerpt": c["text"][:200],
                 }
-                for c in chunks[:10]
+                for c in (chunks or [])[:10]
             ]
 
             # Save assistant message (without exact token cost since we streamed)
@@ -379,6 +444,14 @@ async def chat(req: ChatRequest):
                 "cost_usd": None,  # Cost not available in streaming mode
                 "timestamp": msg_timestamp,
             })
+            # Update conversation summary after assistant response
+            updated_messages = conv_manager.get_recent_messages(conv, limit=6)
+            updated_summary = conv_manager.update_summary(memory.summary, updated_messages)
+            conv["memory"] = {
+                "summary": updated_summary,
+                "last_retrieval_query": retrieval_query,
+                "last_retrieval_chunks": conv_manager.get_cached_chunks(conv),
+            }
             _touch_conversation(conv)
             save_conversation(conv)
 
@@ -406,10 +479,11 @@ async def chat(req: ChatRequest):
 # Entry point
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
+    port = int(os.getenv("PORT", "8000"))
     uvicorn.run(
         "api:app",
         host="0.0.0.0",
-        port=8000,
+        port=port,
         reload=False,
         app_dir=str(Path(__file__).parent),
     )

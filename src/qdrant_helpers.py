@@ -3,13 +3,16 @@ Qdrant helper functions for vector storage.
 """
 
 from typing import List, Dict, Any
+import os
 import numpy as np
 from qdrant_client import QdrantClient
 from qdrant_client.models import (
     Distance, VectorParams, PointStruct
 )
 
-QDRANT_PATH = ".qdrant"  # Local storage
+QDRANT_PATH = os.getenv("QDRANT_PATH", ".qdrant")  # Local storage
+QDRANT_URL = os.getenv("QDRANT_URL")
+QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 
 
 def get_qdrant_client(host: str = None) -> QdrantClient:
@@ -22,9 +25,10 @@ def get_qdrant_client(host: str = None) -> QdrantClient:
     Returns:
         QdrantClient instance
     """
+    host = host or QDRANT_URL
     if host:
         print(f"[QDRANT] Connecting to {host}")
-        return QdrantClient(url=host)
+        return QdrantClient(url=host, api_key=QDRANT_API_KEY)
     else:
         print(f"[QDRANT] Using local storage: {QDRANT_PATH}")
         return QdrantClient(path=QDRANT_PATH)
