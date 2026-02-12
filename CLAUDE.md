@@ -563,6 +563,16 @@ python3 src/api.py
 # → http://localhost:8000
 ```
 
+### Deployment Notes (Railway)
+
+- Local Qdrant on Railway requires a volume. Set `QDRANT_PATH` to a mounted path (example: `/data/qdrant`).
+- Managed Qdrant uses `QDRANT_URL` and optional `QDRANT_API_KEY`.
+- Persist conversations by setting `CONVERSATIONS_DIR` to a mounted path (example: `/data/conversations`).
+- One-time embed job (run on Railway or locally with the same env vars):
+  ```bash
+  python3 src/embed_documents.py --model openai-small
+  ```
+
 ### Features
 
 - **Streaming responses:** Answers appear token by token as Claude generates them
