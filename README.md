@@ -65,6 +65,40 @@ python3 src/main.py --delete-after
 python3 src/chunk_documents.py
 ```
 
+## Deployment (Railway)
+
+### Option 1: Local Qdrant on Railway (no extra service)
+
+This keeps Qdrant data in a Railway volume mounted into your app service.
+
+1. Add a Railway volume and mount it (example mount path: `/data`).
+2. Set environment variables:
+   - `QDRANT_PATH=/data/qdrant`
+   - `OPENAI_API_KEY=...`
+   - `ANTHROPIC_API_KEY=...`
+   - Optional: `APP_PASSWORD=...` (enables auth)
+   - Optional: `CONVERSATIONS_DIR=/data/conversations` (persist chat history)
+3. Run a one-time embedding job on Railway:
+   ```bash
+   python3 src/embed_documents.py --model openai-small
+   ```
+4. Deploy the web service (Railway uses `Procfile`):
+   ```bash
+   python3 src/api.py
+   ```
+
+### Option 2: Managed Qdrant (separate service)
+
+If you host Qdrant elsewhere, set:
+- `QDRANT_URL=https://your-qdrant-host`
+- `QDRANT_API_KEY=...` (if required)
+
+Then run the same embedding command once and deploy the API.
+
+### Notes
+- The collection name defaults to `sevanbot_openai-small`. Override with `COLLECTION_NAME`.
+- The chunks file defaults to `chunks_contextual.jsonl`. Override with `CHUNKS_FILE`.
+
 ## Project Structure
 
 ```
@@ -170,4 +204,3 @@ Implemented LLM-based context generation using Claude Haiku:
 - Prompt caching reduces cost by ~10x
 - Cost: ~$2-3 for full corpus
 - Fallback: Simple metadata prepending (free, instant)
-
