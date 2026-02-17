@@ -13,7 +13,7 @@
 - `python3 src/chunk_documents.py`: create chunk files (`chunks.jsonl` / `chunks_contextual.jsonl`).
 - `python3 src/embed_documents.py --model openai-small`: generate embeddings and load into Qdrant.
 - `python3 src/answer_rag.py --query "..."`: run a single RAG query from the CLI.
-- `python3 src/api.py`: start the FastAPI server at `http://localhost:8000`.
+- `python3 src/api.py`: start the FastAPI server at `http://localhost:9000`.
 
 ## Coding Style & Naming Conventions
 - Python code follows PEP 8: 4-space indentation, `snake_case` for functions/vars, `CapWords` for classes.

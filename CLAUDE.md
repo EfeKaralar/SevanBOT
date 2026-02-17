@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Article scraper, converter, RAG pipeline, and chat web app. Downloads articles from Substack (via sitemap) or SevanNisanyan.com (via API), converts HTML to clean Markdown, provides retrieval-augmented generation capabilities, and serves a simple chat interface at `http://localhost:8000`.
+Article scraper, converter, RAG pipeline, and chat web app. Downloads articles from Substack (via sitemap) or SevanNisanyan.com (via API), converts HTML to clean Markdown, provides retrieval-augmented generation capabilities, and serves a simple chat interface at `http://localhost:9000`.
 
 ## Commands
 
@@ -560,7 +560,7 @@ uv pip install fastapi "uvicorn[standard]" python-multipart
 
 # 3. Start the server (from project root)
 python3 src/api.py
-# → http://localhost:8000
+# → http://localhost:9000
 ```
 
 ### Deployment Notes (Railway)
