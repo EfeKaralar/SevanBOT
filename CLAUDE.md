@@ -41,6 +41,26 @@ python3 src/compare_contexts.py --source sevan --sample 3   # Compare 3 Sevan ar
 
 # Install dependencies
 uv pip install -r requirements.txt
+
+# Smoke test for chat/RAG functionality
+python3 src/smoke_impersonation.py              # Runs scenarios, saves conversations + report
+```
+
+## Testing Guidelines
+
+**IMPORTANT**: When running tests, ALWAYS save output files so results can be manually reviewed.
+
+- **Never use flags that skip saving results** (e.g., `--no-conversation-files`, `--dry-run`, etc.)
+- **Smoke tests**: Always save conversation files to `conversations/` and reports to `results/`
+- **Test reports**: JSON reports go to `results/` directory
+- **Manual review**: The user will want to inspect test outputs themselves
+
+```bash
+# CORRECT - saves conversations and report
+python3 src/smoke_impersonation.py
+
+# WRONG - skips saving conversations
+python3 src/smoke_impersonation.py --no-conversation-files  # DON'T DO THIS
 ```
 
 ## Architecture
