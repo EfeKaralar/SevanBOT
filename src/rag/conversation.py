@@ -52,13 +52,15 @@ class ConversationManager:
 
     def __init__(
         self,
-        model: str = "claude-sonnet-4-20250514",
+        model: str = "claude-3-5-haiku-20241022",
+        max_tokens: int = 384,
         max_retries: int = 2,
         initial_retry_delay: float = 0.5,
     ):
         api_key = os.getenv("ANTHROPIC_API_KEY")
         self.client = anthropic.Anthropic(api_key=api_key) if api_key else None
         self.model = model
+        self.max_tokens = max_tokens
         self.max_retries = max_retries
         self.initial_retry_delay = initial_retry_delay
 
@@ -193,7 +195,7 @@ class ConversationManager:
             try:
                 response = self.client.messages.create(
                     model=self.model,
-                    max_tokens=256,
+                    max_tokens=self.max_tokens,
                     temperature=0.0,
                     system=system_prompt,
                     messages=[{"role": "user", "content": user_prompt}],

@@ -46,6 +46,7 @@ from src.retrieval import (  # noqa: E402
 from src.rag import ClaudeAnswerGenerator, GenerationConfig  # noqa: E402
 from src.rag.conversation import ConversationManager  # noqa: E402
 from src.rag.retrieval_planner import RetrievalPlanner, TIER_CONFIG  # noqa: E402
+from src.rag.verbosity import derive_response_settings  # noqa: E402
 
 # ---------------------------------------------------------------------------
 # Configuration
@@ -59,6 +60,30 @@ QDRANT_PATH = os.getenv("QDRANT_PATH", str(PROJECT_ROOT / ".qdrant"))
 QDRANT_URL = os.getenv("QDRANT_URL") or None
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY") or None
 ANTHROPIC_MODEL = os.getenv("ANTHROPIC_MODEL", "claude-sonnet-4-20250514")
+
+
+def _env_float(name: str, default: float) -> float:
+    try:
+        return float(os.getenv(name, str(default)))
+    except ValueError:
+        return default
+
+
+def _env_int(name: str, default: int) -> int:
+    try:
+        return int(os.getenv(name, str(default)))
+    except ValueError:
+        return default
+
+
+GENERATION_MODEL = os.getenv("GENERATION_MODEL", ANTHROPIC_MODEL)
+GENERATION_TEMPERATURE = _env_float("GENERATION_TEMPERATURE", 0.1)
+GENERATION_MAX_CONTEXT_CHUNKS = _env_int("GENERATION_MAX_CONTEXT_CHUNKS", 10)
+CONVERSATION_HELPER_MODEL = os.getenv(
+    "CONVERSATION_HELPER_MODEL",
+    "claude-3-5-haiku-20241022",
+)
+CONVERSATION_HELPER_MAX_TOKENS = _env_int("CONVERSATION_HELPER_MAX_TOKENS", 384)
 
 # ---------------------------------------------------------------------------
 # Global retriever / generator (initialized at startup)
@@ -144,7 +169,10 @@ async def startup_event():
 
     print("[STARTUP] Initializing Claude generator...")
     _generator = ClaudeAnswerGenerator()
-    _conversation_manager = ConversationManager()
+    _conversation_manager = ConversationManager(
+        model=CONVERSATION_HELPER_MODEL,
+        max_tokens=CONVERSATION_HELPER_MAX_TOKENS,
+    )
 
     print("[STARTUP] Initializing retrieval planner...")
     # Enable adaptive retrieval (set ADAPTIVE_RETRIEVAL_ENABLED=false to disable)
@@ -450,12 +478,23 @@ async def chat(req: ChatRequest):
                 # No retrieval needed, use cached chunks
                 chunks = cached_chunks
 
-            # Generate answer with streaming using tier-specific max_chunks
+            response_settings = derive_response_settings(
+                query=req.message,
+                chunks=chunks,
+                recent_messages=recent_messages,
+            )
+
+            # Generate answer with streaming using tier + adaptive verbosity.
             tier_config = TIER_CONFIG[plan.tier]
-            max_chunks = tier_config["max_chunks"] if plan.should_retrieve else len(chunks)
+            tier_max_chunks = tier_config["max_chunks"] if plan.should_retrieve else len(chunks)
+            max_context_chunks = max(1, tier_max_chunks)
+            max_context_chunks = min(max_context_chunks, GENERATION_MAX_CONTEXT_CHUNKS)
             gen_config = GenerationConfig(
-                model=ANTHROPIC_MODEL,
-                max_context_chunks=max(max_chunks, 1),  # At least 1 to avoid edge cases
+                model=GENERATION_MODEL,
+                temperature=GENERATION_TEMPERATURE,
+                max_tokens=response_settings.max_tokens,
+                max_context_chunks=max_context_chunks,
+                response_instruction=response_settings.response_instruction,
                 use_prompt_caching=True,
                 persona_mode="impersonation",
                 humor_mode=humor_mode,

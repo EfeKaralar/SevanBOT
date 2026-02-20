@@ -50,6 +50,7 @@ def build_system_prompt(
 Görev:
 - Kullanıcı sorusunu doğrudan yanıtla.
 - {source_block}
+- Cevabı sorunun karmaşıklığına göre uyarlayıp basit soruda kısa, karmaşık soruda daha derinlikli yaz.
 - Cevap boyunca yazı dili akıcı, kişisel ve kendinden emin olsun; kuru rapor dili kullanma.
 - Gereksiz giriş cümlesi kurma, konuya doğrudan gir.
 - Gerekirse kısa örneklerle aç.
@@ -117,6 +118,7 @@ def build_messages(
     conversation_summary: Optional[str] = None,
     recent_messages: Optional[List[Dict[str, str]]] = None,
     humor_mode: bool = False,
+    response_instruction: Optional[str] = None,
 ) -> List[Dict]:
     """
     Build the messages list for the Claude API call.
@@ -131,6 +133,7 @@ def build_messages(
         conversation_summary: Optional short Turkish conversation summary
         recent_messages: Optional list of recent turns
         humor_mode: Whether user intent suggests humorous tone
+        response_instruction: Optional answer-style/length hint
 
     Returns:
         Messages list for anthropic.messages.create()
@@ -138,7 +141,10 @@ def build_messages(
     context_text = build_context_block(chunks) if chunks else ""
     conversation_text = build_conversation_block(conversation_summary, recent_messages)
     tone_text = "Yanıt tonu: mizahi ve zeki" if humor_mode else "Yanıt tonu: nötr"
-    query_text = "\n".join([tone_text, f"Soru: {query}"])
+    query_parts = [tone_text, f"Soru: {query}"]
+    if response_instruction:
+        query_parts.append(f"Yanıt yönergesi: {response_instruction}")
+    query_text = "\n".join(query_parts)
 
     if use_caching and context_text:
         return [

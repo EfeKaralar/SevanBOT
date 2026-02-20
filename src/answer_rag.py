@@ -511,8 +511,8 @@ def main():
     parser.add_argument(
         "--model",
         type=str,
-        default="claude-3-5-haiku-20241022",
-        help="Claude model (default: claude-3-5-haiku-20241022)",
+        default="claude-sonnet-4-20250514",
+        help="Claude model (default: claude-sonnet-4-20250514)",
     )
     parser.add_argument(
         "--max-chunks",

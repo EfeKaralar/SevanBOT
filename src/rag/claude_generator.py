@@ -93,6 +93,7 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
             conversation_summary=conversation_summary,
             recent_messages=recent_messages,
             humor_mode=config.humor_mode,
+            response_instruction=config.response_instruction,
         )
 
         # Call Claude with retry logic
@@ -154,6 +155,7 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
             conversation_summary=conversation_summary,
             recent_messages=recent_messages,
             humor_mode=config.humor_mode,
+            response_instruction=config.response_instruction,
         )
 
         extra_headers = (

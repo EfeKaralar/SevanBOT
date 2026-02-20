@@ -5,6 +5,7 @@ Mirrors the SearchConfig pattern from retrieval/base.py.
 """
 
 from dataclasses import dataclass
+from typing import Optional
 
 
 @dataclass
@@ -26,6 +27,7 @@ class GenerationConfig:
 
     # Response formatting
     citation_format: str = "markdown"  # "markdown" | "numbered"
+    response_instruction: Optional[str] = None
 
     # Streaming
     stream: bool = False
