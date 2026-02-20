@@ -24,6 +24,7 @@ dotenv.load_dotenv(PROJECT_ROOT / ".env")
 from src.retrieval import SearchConfig, SparseRetriever  # noqa: E402
 from src.rag import ClaudeAnswerGenerator, GenerationConfig  # noqa: E402
 from src.rag.conversation import ConversationManager  # noqa: E402
+from src.rag.retrieval_planner import RetrievalPlanner, TIER_CONFIG  # noqa: E402
 
 
 def is_humor_request(message: str) -> bool:
@@ -130,7 +131,7 @@ def run_smoke_tests(output_path: Path, conversations_dir: Path, save_conversatio
     retriever = SparseRetriever(chunks_file=chunks_file, use_stemming=True)
     generator = ClaudeAnswerGenerator()
     conv_manager = ConversationManager(model=model)
-    search_config = SearchConfig(top_k=10)
+    planner = RetrievalPlanner(enabled=True)
 
     scenario_reports = []
     for scenario in _scenario_definitions():
@@ -150,21 +151,21 @@ def run_smoke_tests(output_path: Path, conversations_dir: Path, save_conversatio
 
             humor_mode = is_humor_request(query)
             cached_chunks = conv_manager.get_cached_chunks(conv)
-            should_retrieve = conv_manager.should_retrieve(
-                message=query,
-                summary=memory.summary,
+
+            # Use LLM-based planner to decide retrieval tier
+            plan = planner.plan(
+                query=query,
+                conversation_summary=memory.summary,
+                cached_chunks=cached_chunks,
                 recent_messages=recent_messages,
-                has_cached_chunks=bool(cached_chunks),
             )
+            print(f"  [Planner] tier={plan.tier}, reasoning={plan.reasoning[:60]}...")
 
             chunks = []
-            retrieval_query = query
-            if should_retrieve:
-                retrieval_query = conv_manager.rewrite_query(
-                    message=query,
-                    summary=memory.summary,
-                    recent_messages=recent_messages,
-                )
+            retrieval_query = plan.rewritten_query or query
+            if plan.should_retrieve:
+                tier_config = TIER_CONFIG[plan.tier]
+                search_config = SearchConfig(top_k=tier_config["top_k"])
                 retrieval_response = retriever.search_with_timing(
                     retrieval_query, search_config
                 )
@@ -176,9 +177,12 @@ def run_smoke_tests(output_path: Path, conversations_dir: Path, save_conversatio
             else:
                 chunks = cached_chunks
 
+            # Use tier-specific max_chunks
+            tier_config = TIER_CONFIG[plan.tier]
+            max_chunks = tier_config["max_chunks"] if plan.should_retrieve else len(chunks)
             gen_config = GenerationConfig(
                 model=model,
-                max_context_chunks=10,
+                max_context_chunks=max(max_chunks, 1),
                 use_prompt_caching=True,
                 persona_mode="impersonation",
                 humor_mode=humor_mode,
@@ -227,6 +231,7 @@ def run_smoke_tests(output_path: Path, conversations_dir: Path, save_conversatio
                 {
                     "turn": turn_index,
                     "query": query,
+                    "retrieval_tier": plan.tier,
                     "retrieval_query": retrieval_query,
                     "humor_mode": humor_mode,
                     "answer": answer,

@@ -18,20 +18,6 @@ import anthropic
 from anthropic import APIError, RateLimitError
 
 
-FOLLOWUP_CUES_TR = [
-    "bunu", "buna", "bunlar", "bunun", "bunu aç", "açar mısın",
-    "detay", "detaylandır", "açıklayabilir", "peki", "devam",
-    "şunu", "şuna", "onu", "onun", "bu", "şu", "o",
-    "biraz daha", "örnek", "tam olarak", "ne demek",
-]
-
-FORCE_RETRIEVE_CUES_TR = [
-    "kaynak", "alıntı", "metin", "belge", "kanıt", "makale",
-    "nerede", "hangi yazı", "hangi makale", "ne zaman", "tarih",
-    "kim", "nerde", "link", "başlık",
-]
-
-
 @dataclass
 class ConversationMemory:
     summary: str = ""
@@ -121,32 +107,6 @@ class ConversationManager:
     # ------------------------------------------------------------------
     # Conversational logic
     # ------------------------------------------------------------------
-
-    def should_retrieve(
-        self,
-        message: str,
-        summary: str,
-        recent_messages: List[Dict[str, str]],
-        has_cached_chunks: bool,
-    ) -> bool:
-        text = (message or "").strip().lower()
-        word_count = len(text.split())
-
-        if any(cue in text for cue in FORCE_RETRIEVE_CUES_TR):
-            return True
-
-        if has_cached_chunks and any(cue in text for cue in FOLLOWUP_CUES_TR):
-            return False
-
-        if has_cached_chunks and word_count <= 6:
-            return False
-
-        # If there is no cached context and the question is short, prefer retrieval
-        if not has_cached_chunks and word_count <= 6:
-            return True
-
-        # Default: retrieve for substantive questions
-        return True
 
     def rewrite_query(
         self,

@@ -45,6 +45,7 @@ from src.retrieval import (  # noqa: E402
 )
 from src.rag import ClaudeAnswerGenerator, GenerationConfig  # noqa: E402
 from src.rag.conversation import ConversationManager  # noqa: E402
+from src.rag.retrieval_planner import RetrievalPlanner, TIER_CONFIG  # noqa: E402
 
 # ---------------------------------------------------------------------------
 # Configuration
@@ -67,6 +68,7 @@ _sparse_retriever: Optional[SparseRetriever] = None
 _retriever: Optional[HybridRetriever] = None
 _generator: Optional[ClaudeAnswerGenerator] = None
 _conversation_manager: Optional[ConversationManager] = None
+_retrieval_planner: Optional[RetrievalPlanner] = None
 
 
 def get_retriever(strategy: str = "hybrid"):
@@ -95,6 +97,12 @@ def get_conversation_manager() -> ConversationManager:
     return _conversation_manager
 
 
+def get_retrieval_planner() -> RetrievalPlanner:
+    if _retrieval_planner is None:
+        raise RuntimeError("Retrieval planner not initialized")
+    return _retrieval_planner
+
+
 # ---------------------------------------------------------------------------
 # FastAPI app
 # ---------------------------------------------------------------------------
@@ -103,7 +111,7 @@ app = FastAPI(title="SevanBot", docs_url=None, redoc_url=None)
 
 @app.on_event("startup")
 async def startup_event():
-    global _dense_retriever, _sparse_retriever, _retriever, _generator, _conversation_manager
+    global _dense_retriever, _sparse_retriever, _retriever, _generator, _conversation_manager, _retrieval_planner
 
     print("[STARTUP] Initializing SevanBot...")
 
@@ -137,6 +145,13 @@ async def startup_event():
     print("[STARTUP] Initializing Claude generator...")
     _generator = ClaudeAnswerGenerator()
     _conversation_manager = ConversationManager()
+
+    print("[STARTUP] Initializing retrieval planner...")
+    # Enable adaptive retrieval (set ADAPTIVE_RETRIEVAL_ENABLED=false to disable)
+    planner_enabled = os.getenv("ADAPTIVE_RETRIEVAL_ENABLED", "true").lower() != "false"
+    _retrieval_planner = RetrievalPlanner(enabled=planner_enabled)
+    if not planner_enabled:
+        print("[STARTUP] Adaptive retrieval disabled, using default tier")
 
     print("[STARTUP] SevanBot ready at http://localhost:8000")
 
@@ -370,6 +385,7 @@ async def chat(req: ChatRequest):
     retriever = get_retriever(strategy)
     generator = get_generator()
     conv_manager = get_conversation_manager()
+    planner = get_retrieval_planner()
 
     # Load or create conversation
     if req.conversation_id:
@@ -392,24 +408,27 @@ async def chat(req: ChatRequest):
         humor_mode = _is_humor_request(req.message)
 
         try:
-            # Decide whether to retrieve or reuse cached context
+            # Use LLM-based planner to decide retrieval tier
             cached_chunks = conv_manager.get_cached_chunks(conv)
-            should_retrieve = conv_manager.should_retrieve(
-                message=req.message,
-                summary=memory.summary,
+            plan = planner.plan(
+                query=req.message,
+                conversation_summary=memory.summary,
+                cached_chunks=cached_chunks,
                 recent_messages=recent_messages,
-                has_cached_chunks=bool(cached_chunks),
             )
+            print(f"[Planner] tier={plan.tier}, reasoning={plan.reasoning[:80]}...")
 
             chunks = []
-            retrieval_query = req.message
-            if should_retrieve:
-                retrieval_query = conv_manager.rewrite_query(
-                    message=req.message,
-                    summary=memory.summary,
-                    recent_messages=recent_messages,
+            retrieval_query = plan.rewritten_query or req.message
+            if plan.should_retrieve:
+                # Get tier-specific config
+                tier_config = TIER_CONFIG[plan.tier]
+                search_config = SearchConfig(
+                    top_k=tier_config["top_k"],
+                    rrf_k=60,
+                    dense_top_k=50,
+                    sparse_top_k=50,
                 )
-                search_config = SearchConfig(top_k=10, rrf_k=60, dense_top_k=50, sparse_top_k=50)
                 retrieval_response = retriever.search_with_timing(retrieval_query, search_config)
                 chunks = [
                     {
@@ -425,14 +444,18 @@ async def chat(req: ChatRequest):
                     conv_manager.cache_retrieval(conv, retrieval_query, chunks)
                     save_conversation(conv)
                 elif cached_chunks:
+                    # Fallback to cached if retrieval returned nothing
                     chunks = cached_chunks
             else:
+                # No retrieval needed, use cached chunks
                 chunks = cached_chunks
 
-            # Generate answer with streaming
+            # Generate answer with streaming using tier-specific max_chunks
+            tier_config = TIER_CONFIG[plan.tier]
+            max_chunks = tier_config["max_chunks"] if plan.should_retrieve else len(chunks)
             gen_config = GenerationConfig(
                 model=ANTHROPIC_MODEL,
-                max_context_chunks=10,
+                max_context_chunks=max(max_chunks, 1),  # At least 1 to avoid edge cases
                 use_prompt_caching=True,
                 persona_mode="impersonation",
                 humor_mode=humor_mode,
@@ -453,9 +476,7 @@ async def chat(req: ChatRequest):
             # Build final response data
             answer_text = "".join(full_answer)
 
-            # Get usage stats via non-streaming generate for cost + sources
-            # (We already have the answer, so use a quick generate just for metadata)
-            # Actually: we stream but still need sources. Build sources from chunks directly.
+            # Build sources from chunks used in generation
             sources = [
                 {
                     "title": c["title"],
@@ -463,7 +484,7 @@ async def chat(req: ChatRequest):
                     "score": round(c["score"], 4),
                     "excerpt": c["text"][:200],
                 }
-                for c in (chunks or [])[:10]
+                for c in (chunks or [])[:gen_config.max_context_chunks]
             ]
 
             # Save assistant message (without exact token cost since we streamed)
