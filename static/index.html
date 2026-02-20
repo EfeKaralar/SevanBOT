@@ -234,7 +234,7 @@
 <div id="auth-overlay">
   <div class="auth-box">
     <h1>SevanBot</h1>
-    <p>Sevan Nisanyan'ın yazılarına dayalı sohbet asistanı</p>
+    <p>Sevan Nisanyan'ın üslubunda konuşan AI replika</p>
     <input type="password" id="password-input" placeholder="Şifre" />
     <button onclick="authenticate()">Giriş</button>
     <div id="auth-error"></div>
@@ -255,7 +255,7 @@
   <div id="messages">
     <div id="welcome">
       <h2>SevanBot</h2>
-      <p>Sevan Nisanyan'ın makalelerinden yanıt almak için bir soru sorun.</p>
+      <p>Benimle konuş. Kaynakları da her yanıtta açıkça göstereceğim.</p>
     </div>
   </div>
   <div id="input-bar">
@@ -271,7 +271,9 @@
   let password = localStorage.getItem('sb_password') || '';
   let currentConvId = localStorage.getItem('sb_conv_id') || null;
   let isStreaming = false;
-  const API_BASE = '/sevanbot/api';
+  const API_BASE = window.location.pathname.startsWith('/sevanbot')
+    ? '/sevanbot/api'
+    : '/api';
 
   // -----------------------------------------------------------------------
   // Startup
@@ -419,7 +421,7 @@
     msgsEl.innerHTML = `
       <div id="welcome">
         <h2>SevanBot</h2>
-        <p>Sevan Nisanyan'ın makalelerinden yanıt almak için bir soru sorun.</p>
+        <p>Benimle konuş. Kaynakları da her yanıtta açıkça göstereceğim.</p>
       </div>`;
   }
 
