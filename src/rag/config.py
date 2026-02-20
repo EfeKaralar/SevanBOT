@@ -16,7 +16,7 @@ class GenerationConfig:
     """
 
     # Model selection
-    model: str = "claude-3-5-haiku-20241022"
+    model: str = "claude-sonnet-4-20250514"
     temperature: float = 0.0  # Deterministic for factual answers
     max_tokens: int = 2048
 
@@ -32,3 +32,7 @@ class GenerationConfig:
 
     # Cost control
     use_prompt_caching: bool = True  # Cache context (10x cheaper for follow-ups)
+
+    # Persona / style controls
+    persona_mode: str = "impersonation"  # "impersonation" | "assistant"
+    humor_mode: bool = False  # Enable topic-relevant humor when requested

@@ -13,6 +13,7 @@ Usage (from project root):
 import asyncio
 import json
 import os
+import re
 import sys
 import threading
 import uuid
@@ -56,6 +57,7 @@ CHUNKS_FILE = os.getenv("CHUNKS_FILE", str(PROJECT_ROOT / "chunks_contextual.jso
 QDRANT_PATH = os.getenv("QDRANT_PATH", str(PROJECT_ROOT / ".qdrant"))
 QDRANT_URL = os.getenv("QDRANT_URL") or None
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY") or None
+ANTHROPIC_MODEL = os.getenv("ANTHROPIC_MODEL", "claude-sonnet-4-20250514")
 
 # ---------------------------------------------------------------------------
 # Global retriever / generator (initialized at startup)
@@ -223,6 +225,32 @@ def _touch_conversation(conv: dict) -> None:
     conv["updated_at"] = datetime.now(timezone.utc).isoformat()
 
 
+def _is_humor_request(message: str) -> bool:
+    """Heuristic detector for joke-friendly user intent."""
+    text = (message or "").strip().lower()
+    if not text:
+        return False
+
+    humor_keywords = (
+        "şaka", "saka", "espri", "espiri", "mizah", "komik",
+        "dalga", "tiye", "gırgır", "latife", "fıkra", "caps",
+    )
+    if any(keyword in text for keyword in humor_keywords):
+        return True
+
+    laughter_markers = (
+        "haha", "hehe", "hahaha", "lol", "lmao", ":)", ":d", "xd",
+    )
+    if any(marker in text for marker in laughter_markers):
+        return True
+
+    # Lightweight punctuation cue for playful prompts.
+    if re.search(r"(!{2,}|\?{2,}|[😂🤣😄😅])", message):
+        return True
+
+    return False
+
+
 # ---------------------------------------------------------------------------
 # Async streaming helper
 # ---------------------------------------------------------------------------
@@ -361,6 +389,7 @@ async def chat(req: ChatRequest):
 
     async def event_stream():
         full_answer = []
+        humor_mode = _is_humor_request(req.message)
 
         try:
             # Decide whether to retrieve or reuse cached context
@@ -402,9 +431,11 @@ async def chat(req: ChatRequest):
 
             # Generate answer with streaming
             gen_config = GenerationConfig(
-                model="claude-3-5-haiku-20241022",
+                model=ANTHROPIC_MODEL,
                 max_context_chunks=10,
                 use_prompt_caching=True,
+                persona_mode="impersonation",
+                humor_mode=humor_mode,
             )
 
             async for token in _stream_tokens(

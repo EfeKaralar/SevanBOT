@@ -66,7 +66,7 @@ class ConversationManager:
 
     def __init__(
         self,
-        model: str = "claude-3-5-haiku-20241022",
+        model: str = "claude-sonnet-4-20250514",
         max_retries: int = 2,
         initial_retry_delay: float = 0.5,
     ):

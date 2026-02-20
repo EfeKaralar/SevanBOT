@@ -15,7 +15,7 @@ from anthropic import RateLimitError, APIError
 from .base import BaseAnswerGenerator
 from .config import GenerationConfig
 from .response import RAGResponse, RAGUsageStats, SourceCitation
-from .prompt_templates import SYSTEM_PROMPT_TR, SYSTEM_PROMPT_TR_NO_SOURCES, build_messages
+from .prompt_templates import build_messages, build_system_prompt
 
 
 class ClaudeAnswerGenerator(BaseAnswerGenerator):
@@ -92,6 +92,7 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
             use_caching=config.use_prompt_caching,
             conversation_summary=conversation_summary,
             recent_messages=recent_messages,
+            humor_mode=config.humor_mode,
         )
 
         # Call Claude with retry logic
@@ -99,6 +100,7 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
             messages,
             config,
             use_sources=bool(chunks_to_use),
+            humor_mode=config.humor_mode,
         )
 
         generation_time_ms = (time.time() - start) * 1000
@@ -151,6 +153,7 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
             use_caching=config.use_prompt_caching,
             conversation_summary=conversation_summary,
             recent_messages=recent_messages,
+            humor_mode=config.humor_mode,
         )
 
         extra_headers = (
@@ -159,7 +162,11 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
             else {}
         )
 
-        system_prompt = SYSTEM_PROMPT_TR if chunks_to_use else SYSTEM_PROMPT_TR_NO_SOURCES
+        system_prompt = build_system_prompt(
+            use_sources=bool(chunks_to_use),
+            humor_mode=config.humor_mode,
+            persona_mode=config.persona_mode,
+        )
 
         with self.client.messages.stream(
             model=config.model,
@@ -181,6 +188,7 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
         messages: List[Dict],
         config: GenerationConfig,
         use_sources: bool = True,
+        humor_mode: bool = False,
     ):
         """
         Call the Claude API with exponential backoff retry.
@@ -201,7 +209,11 @@ class ClaudeAnswerGenerator(BaseAnswerGenerator):
 
         for attempt in range(self.max_retries):
             try:
-                system_prompt = SYSTEM_PROMPT_TR if use_sources else SYSTEM_PROMPT_TR_NO_SOURCES
+                system_prompt = build_system_prompt(
+                    use_sources=use_sources,
+                    humor_mode=humor_mode,
+                    persona_mode=config.persona_mode,
+                )
 
                 response = self.client.messages.create(
                     model=config.model,

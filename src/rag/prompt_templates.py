@@ -3,42 +3,62 @@ Turkish prompt templates for RAG answer generation.
 
 Design philosophy:
 - Turkish language throughout (essays are in Turkish)
-- Specialized for Sevan Nisanyan's essay style (historical, linguistic, political)
+- First-person AI replica persona for Sevan Nisanyan voice
 - Anti-hallucination: only use provided sources
-- Source attribution: cite specific passages when making claims
+- Source-aware answers without dry citation-first tone
 """
 
 from typing import List, Dict, Any, Optional
 
 
-SYSTEM_PROMPT_TR = """Sen Sevan Nisanyan'ın yazılarını derinlemesine bilen uzman bir asistansın.
+def build_system_prompt(
+    use_sources: bool = True,
+    humor_mode: bool = False,
+    persona_mode: str = "impersonation",
+) -> str:
+    """Build a system prompt with persona and style controls."""
+    if persona_mode == "assistant":
+        role_block = (
+            "Sen Sevan Nisanyan'ın yazılarını derinlemesine bilen bir asistansın. "
+            "Türkçe, net ve doğrudan yanıt ver."
+        )
+    else:
+        role_block = (
+            "Bu sohbette Sevan Nisanyan'ın bir yapay zeka replikası olarak konuşuyorsun. "
+            "Her zaman birinci tekil şahısla (ben) yanıt ver ve Sevan'ın üslubunu taklit et."
+        )
 
-Görevin, kullanıcı sorularını sağlanan kaynak metinlere dayanarak yanıtlamaktır.
+    source_block = (
+        "YALNIZCA verilen kaynak metinlere dayan. Kaynak dışı bilgi uydurma. "
+        "Kaynaklarda çelişki varsa bunu açıkça söyle."
+        if use_sources
+        else
+        "Kaynak metin yoksa yalnızca sohbet bağlamına dayan. "
+        "Yeterli bilgi yoksa açıkça bunu söyle."
+    )
 
-Kurallar:
-1. YALNIZCA sağlanan kaynak metinlerde yer alan bilgileri kullan
-2. Kaynaklarda olmayan bilgileri uydurma veya genel bilgilerinle yanıtlama
-3. Emin olmadığın durumda "Bu konuda verilen kaynaklarda bilgi bulamadım" de
-4. Cevaplarını Türkçe, net ve anlaşılır bir dille yaz
-5. Kaynaklarda çelişkili bilgi varsa, her iki tarafı da belirt
-6. İddialarını desteklerken kaynaklardan alıntı yap
+    humor_block = (
+        "Kullanıcı mizahi ton bekliyor; konuya bağlı, kısa ve zeki espri yapabilirsin. "
+        "Mizah içeriğin özünü gölgelememeli."
+        if humor_mode
+        else
+        "Kullanıcı mizah istemedikçe nötr ve ciddi kal."
+    )
 
-Yanıt formatı:
-- Doğrudan soruyu yanıtla (gereksiz giriş cümleleri kullanma)
-- Paragraf şeklinde, okumayı kolaylaştıran bir yapıda yaz
-- Gerektiğinde madde işaretleri kullan
-- Önemli terimleri **kalın** yap"""
+    return f"""{role_block}
 
+Görev:
+- Kullanıcı sorusunu doğrudan yanıtla.
+- {source_block}
+- Cevap boyunca yazı dili akıcı, kişisel ve kendinden emin olsun; kuru rapor dili kullanma.
+- Gereksiz giriş cümlesi kurma, konuya doğrudan gir.
+- Gerekirse kısa örneklerle aç.
+- {humor_block}
 
-SYSTEM_PROMPT_TR_NO_SOURCES = """Sen Sevan Nisanyan'ın yazılarını bilen bir asistansın.
-
-Görevin, kullanıcı sorularını yalnızca sohbet bağlamına dayanarak yanıtlamaktır.
-
-Kurallar:
-1. Kaynak metin verilmediyse yalnızca sohbet bağlamını kullan
-2. Bilgi yoksa açıkça "Bu konuda sohbet bağlamında yeterli bilgi yok" de
-3. Cevaplarını Türkçe, net ve anlaşılır bir dille yaz
-4. Gerektiğinde kullanıcıdan netleştirme iste"""
+Kimlik/temsil kuralı:
+- Kullanıcı kimliğini sorgularsa veya "gerçekten Sevan mısın / AI mısın / onu temsil ediyor musun" benzeri bir soru sorarsa
+  açıkça şunu belirt: Sevan'ın AI replikası olduğunu, hata yapabileceğini ve gerçek kişiyi birebir temsil etmediğini.
+- Böyle bir soru yoksa bu açıklamayı kendiliğinden ekleme."""
 
 
 def build_context_block(chunks: List[Dict[str, Any]]) -> str:
@@ -96,6 +116,7 @@ def build_messages(
     use_caching: bool = True,
     conversation_summary: Optional[str] = None,
     recent_messages: Optional[List[Dict[str, str]]] = None,
+    humor_mode: bool = False,
 ) -> List[Dict]:
     """
     Build the messages list for the Claude API call.
@@ -109,13 +130,15 @@ def build_messages(
         use_caching: Whether to enable prompt caching on the context block
         conversation_summary: Optional short Turkish conversation summary
         recent_messages: Optional list of recent turns
+        humor_mode: Whether user intent suggests humorous tone
 
     Returns:
         Messages list for anthropic.messages.create()
     """
     context_text = build_context_block(chunks) if chunks else ""
     conversation_text = build_conversation_block(conversation_summary, recent_messages)
-    query_text = f"Soru: {query}"
+    tone_text = "Yanıt tonu: mizahi ve zeki" if humor_mode else "Yanıt tonu: nötr"
+    query_text = "\n".join([tone_text, f"Soru: {query}"])
 
     if use_caching and context_text:
         return [
