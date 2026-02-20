@@ -12,6 +12,7 @@ from .response import RAGResponse, RAGUsageStats, SourceCitation
 from .base import BaseAnswerGenerator
 from .claude_generator import ClaudeAnswerGenerator
 from .conversation import ConversationManager
+from .retrieval_planner import RetrievalPlanner, RetrievalPlan, TIER_CONFIG
 
 __all__ = [
     "GenerationConfig",
@@ -21,4 +22,7 @@ __all__ = [
     "BaseAnswerGenerator",
     "ClaudeAnswerGenerator",
     "ConversationManager",
+    "RetrievalPlanner",
+    "RetrievalPlan",
+    "TIER_CONFIG",
 ]
