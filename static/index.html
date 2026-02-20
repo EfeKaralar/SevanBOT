@@ -141,16 +141,71 @@
     .bubble {
       max-width: 72%; padding: 12px 16px;
       border-radius: 16px; font-size: 0.9rem; line-height: 1.6;
-      white-space: pre-wrap; word-break: break-word;
+      word-break: break-word;
     }
     .msg-row.user .bubble {
       background: var(--user-bubble);
       border-bottom-right-radius: 4px;
+      white-space: pre-wrap;
     }
     .msg-row.assistant .bubble {
       background: var(--bot-bubble);
       border: 1px solid var(--border);
       border-bottom-left-radius: 4px;
+      white-space: normal;
+    }
+
+    /* Assistant markdown typography */
+    .msg-row.assistant .bubble h1,
+    .msg-row.assistant .bubble h2,
+    .msg-row.assistant .bubble h3,
+    .msg-row.assistant .bubble h4 {
+      margin: 0.35em 0 0.45em;
+      line-height: 1.3;
+    }
+    .msg-row.assistant .bubble h1 { font-size: 1.2rem; }
+    .msg-row.assistant .bubble h2 { font-size: 1.1rem; }
+    .msg-row.assistant .bubble h3 { font-size: 1rem; }
+    .msg-row.assistant .bubble h4 { font-size: 0.95rem; }
+    .msg-row.assistant .bubble p { margin: 0.45em 0; }
+    .msg-row.assistant .bubble ul,
+    .msg-row.assistant .bubble ol {
+      margin: 0.45em 0 0.45em 1.2em;
+      padding-left: 0.6em;
+    }
+    .msg-row.assistant .bubble li { margin: 0.15em 0; }
+    .msg-row.assistant .bubble blockquote {
+      margin: 0.5em 0;
+      padding-left: 0.75em;
+      border-left: 3px solid var(--accent);
+      color: #d7d7d7;
+    }
+    .msg-row.assistant .bubble code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      background: #1f1f1f;
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      padding: 0.08em 0.3em;
+      font-size: 0.85em;
+    }
+    .msg-row.assistant .bubble pre {
+      margin: 0.55em 0;
+      padding: 0.7em 0.9em;
+      overflow-x: auto;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: #191919;
+    }
+    .msg-row.assistant .bubble pre code {
+      background: transparent;
+      border: none;
+      padding: 0;
+      font-size: 0.86em;
+    }
+    .msg-row.assistant .bubble a {
+      color: #9ecbff;
+      text-decoration: underline;
+      text-underline-offset: 2px;
     }
 
     /* Sources collapsible */
@@ -264,6 +319,8 @@
   </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.7/dist/purify.min.js"></script>
 <script>
   // -----------------------------------------------------------------------
   // State
@@ -274,6 +331,13 @@
   const API_BASE = window.location.pathname.startsWith('/sevanbot')
     ? '/sevanbot/api'
     : '/api';
+
+  if (window.marked) {
+    window.marked.setOptions({
+      gfm: true,
+      breaks: true,
+    });
+  }
 
   // -----------------------------------------------------------------------
   // Startup
@@ -548,33 +612,37 @@
     row.className = 'msg-row assistant';
     const bubble = document.createElement('div');
     bubble.className = 'bubble';
-
-    const textNode = document.createTextNode('');
-    const cursor = document.createElement('span');
-    cursor.className = 'stream-cursor';
-    cursor.textContent = '▌';
-
-    bubble.appendChild(textNode);
-    bubble.appendChild(cursor);
     row.appendChild(bubble);
     document.getElementById('messages').appendChild(row);
     scrollToBottom();
 
     let accumulated = '';
+    let renderScheduled = false;
+    let finalized = false;
+
+    function renderStreaming() {
+      renderScheduled = false;
+      if (finalized) return;
+      bubble.innerHTML = renderMarkdown(accumulated) + '<span class="stream-cursor">▌</span>';
+      scrollToBottom();
+    }
 
     return {
       bubble,
       appendToken(token) {
         accumulated += token;
-        textNode.nodeValue = accumulated; // O(1) — no DOM traversal
-        scrollToBottom();
+        if (!renderScheduled) {
+          renderScheduled = true;
+          requestAnimationFrame(renderStreaming);
+        }
       },
       finalize() {
-        cursor.remove();
+        finalized = true;
+        bubble.innerHTML = renderMarkdown(accumulated);
       },
       showError(msg) {
-        cursor.remove();
-        textNode.nodeValue = 'Hata: ' + msg;
+        finalized = true;
+        bubble.textContent = 'Hata: ' + msg;
       },
     };
   }
@@ -584,7 +652,11 @@
     row.className = 'msg-row ' + role;
     const bubble = document.createElement('div');
     bubble.className = 'bubble';
-    bubble.textContent = text;
+    if (role === 'assistant') {
+      bubble.innerHTML = renderMarkdown(text);
+    } else {
+      bubble.textContent = text;
+    }
     row.appendChild(bubble);
     document.getElementById('messages').appendChild(row);
     scrollToBottom();
@@ -637,6 +709,154 @@
       .replace(/</g, '&lt;')
       .replace(/>/g, '&gt;')
       .replace(/"/g, '&quot;');
+  }
+
+  function renderInlineMarkdown(text) {
+    let source = String(text || '');
+    const links = [];
+
+    source = source.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, (_, label, url) => {
+      const idx = links.length;
+      links.push({ label, url });
+      return `@@LINK_${idx}@@`;
+    });
+
+    let html = escHtml(source);
+
+    html = html.replace(/`([^`\n]+)`/g, '<code>$1</code>');
+    html = html.replace(/\*\*([^*\n]+)\*\*/g, '<strong>$1</strong>');
+    html = html.replace(/(^|[^*])\*([^*\n]+)\*/g, '$1<em>$2</em>');
+
+    html = html.replace(/@@LINK_(\d+)@@/g, (_, i) => {
+      const link = links[Number(i)];
+      if (!link) return '';
+      const safeLabel = escHtml(link.label);
+      const safeUrl = escHtml(link.url);
+      return `<a href="${safeUrl}" target="_blank" rel="noopener noreferrer">${safeLabel}</a>`;
+    });
+
+    return html;
+  }
+
+  function renderMarkdown(markdown) {
+    const text = String(markdown || '').replace(/\r\n?/g, '\n');
+    if (!text.trim()) return '';
+
+    // Preferred path: robust markdown parsing + sanitization.
+    if (window.marked && window.DOMPurify) {
+      const raw = window.marked.parse(text);
+      return window.DOMPurify.sanitize(raw, {
+        USE_PROFILES: { html: true },
+      });
+    }
+
+    const lines = text.split('\n');
+    const out = [];
+    let paragraph = [];
+    let inCodeBlock = false;
+    let codeLines = [];
+    let inUl = false;
+    let inOl = false;
+
+    function flushParagraph() {
+      if (!paragraph.length) return;
+      out.push(`<p>${paragraph.map(renderInlineMarkdown).join('<br>')}</p>`);
+      paragraph = [];
+    }
+
+    function closeLists() {
+      if (inUl) {
+        out.push('</ul>');
+        inUl = false;
+      }
+      if (inOl) {
+        out.push('</ol>');
+        inOl = false;
+      }
+    }
+
+    for (const line of lines) {
+      if (line.startsWith('```')) {
+        flushParagraph();
+        closeLists();
+        if (!inCodeBlock) {
+          inCodeBlock = true;
+          codeLines = [];
+        } else {
+          out.push(`<pre><code>${escHtml(codeLines.join('\n'))}</code></pre>`);
+          inCodeBlock = false;
+          codeLines = [];
+        }
+        continue;
+      }
+
+      if (inCodeBlock) {
+        codeLines.push(line);
+        continue;
+      }
+
+      if (!line.trim()) {
+        flushParagraph();
+        closeLists();
+        continue;
+      }
+
+      const headerMatch = line.match(/^(#{1,4})\s+(.*)$/);
+      if (headerMatch) {
+        flushParagraph();
+        closeLists();
+        const level = headerMatch[1].length;
+        out.push(`<h${level}>${renderInlineMarkdown(headerMatch[2])}</h${level}>`);
+        continue;
+      }
+
+      const quoteMatch = line.match(/^>\s?(.*)$/);
+      if (quoteMatch) {
+        flushParagraph();
+        closeLists();
+        out.push(`<blockquote>${renderInlineMarkdown(quoteMatch[1])}</blockquote>`);
+        continue;
+      }
+
+      const ulMatch = line.match(/^[-*+]\s+(.*)$/);
+      if (ulMatch) {
+        flushParagraph();
+        if (inOl) {
+          out.push('</ol>');
+          inOl = false;
+        }
+        if (!inUl) {
+          out.push('<ul>');
+          inUl = true;
+        }
+        out.push(`<li>${renderInlineMarkdown(ulMatch[1])}</li>`);
+        continue;
+      }
+
+      const olMatch = line.match(/^\d+\.\s+(.*)$/);
+      if (olMatch) {
+        flushParagraph();
+        if (inUl) {
+          out.push('</ul>');
+          inUl = false;
+        }
+        if (!inOl) {
+          out.push('<ol>');
+          inOl = true;
+        }
+        out.push(`<li>${renderInlineMarkdown(olMatch[1])}</li>`);
+        continue;
+      }
+
+      paragraph.push(line);
+    }
+
+    if (inCodeBlock) {
+      out.push(`<pre><code>${escHtml(codeLines.join('\n'))}</code></pre>`);
+    }
+    flushParagraph();
+    closeLists();
+    return out.join('');
   }
 
   // -----------------------------------------------------------------------
