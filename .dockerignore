@@ -1,0 +1,52 @@
+# Exclude large/sensitive files from the Docker build context
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local Qdrant storage (managed via Docker volume)
+.qdrant/
+
+# Embeddings (regenerated against production Qdrant)
+embeddings/
+
+# Dev data
+sources/
+formatted/
+processed_urls.txt
+sitemap.xml
+chunks.jsonl
+chunks_old.jsonl
+
+# Test/result outputs
+results/
+conversations/
+example*.json
+example_chunk*.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Dev tooling
+fix/
+feat/
+advanced-rag/
+*.code-workspace
+AGENTS.md
+RETRIEVAL_README.md
+
+# Git
+.git/
+.gitignore
+
+# macOS
+.DS_Store
