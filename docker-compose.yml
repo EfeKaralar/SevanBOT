@@ -2,8 +2,6 @@ services:
   app:
     build: .
     restart: unless-stopped
-    ports:
-      - "8000:8000"
     environment:
       APP_PASSWORD: ${APP_PASSWORD}
       ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY}
