@@ -11,6 +11,8 @@ services:
       # Optional overrides:
       # COLLECTION_NAME: sevanbot_openai-small
       # GENERATION_MODEL: claude-sonnet-4-20250514
+    expose:
+      - "8000"
     volumes:
       - conversations:/data/conversations
     depends_on:
