@@ -7,13 +7,16 @@
 - `static/` is the single-page web UI. `conversations/` stores persisted chat sessions as JSON.
 
 ## Build, Test, and Development Commands
-- `uv venv` and `source ./venv/bin/activate`: create/activate the virtualenv.
-- `uv pip install -r requirements.txt`: install dependencies.
+- `uv venv` and `source .venv/bin/activate`: create/activate the virtualenv.
+- `uv pip install -r requirements.txt`: install all dependencies (dev).
+- `uv pip install -r requirements-prod.txt`: install production dependencies only.
 - `python3 src/main.py`: run the scrape → convert pipeline (supports flags like `--source sevan`).
 - `python3 src/chunk_documents.py`: create chunk files (`chunks.jsonl` / `chunks_contextual.jsonl`).
 - `python3 src/embed_documents.py --model openai-small`: generate embeddings and load into Qdrant.
 - `python3 src/answer_rag.py --query "..."`: run a single RAG query from the CLI.
-- `python3 src/api.py`: start the FastAPI server at `http://localhost:9000`.
+- `python3 src/api.py`: start the FastAPI dev server at `http://localhost:8000`.
+- `python3 src/smoke_impersonation.py`: run smoke tests; saves conversations to `conversations/` and report to `results/`.
+- `docker compose up -d`: start the full stack (app + Qdrant) via Docker Compose.
 
 ## Coding Style & Naming Conventions
 - Python code follows PEP 8: 4-space indentation, `snake_case` for functions/vars, `CapWords` for classes.
@@ -21,8 +24,9 @@
 - No formatter or linter is enforced; keep diffs tidy and avoid unrelated reformatting.
 
 ## Testing Guidelines
-- There is no pytest suite yet. Use the retrieval harness for validation.
-- `python3 src/test_retrieval.py --query "..." --compare` runs side-by-side strategy comparisons.
+- There is no pytest suite. Use the CLI harnesses for validation.
+- `python3 src/test_retrieval.py --query "..." --compare` runs side-by-side retrieval strategy comparisons.
+- `python3 src/smoke_impersonation.py` runs end-to-end chat/RAG smoke tests; always let it save output files (no `--dry-run` flags).
 - When adding features, include a small CLI example in docs or comments that proves it works.
 
 ## Commit & Pull Request Guidelines

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Article scraper, converter, RAG pipeline, and chat web app. Downloads articles from Substack (via sitemap) or SevanNisanyan.com (via API), converts HTML to clean Markdown, provides retrieval-augmented generation capabilities, and serves a simple chat interface at `http://localhost:9000`.
+Article scraper, converter, RAG pipeline, and chat web app. Downloads articles from Substack (via sitemap) or SevanNisanyan.com (via API), converts HTML to clean Markdown, provides retrieval-augmented generation capabilities, and serves a simple chat interface at `http://localhost:8000`.
 
 ## Commands
 
@@ -519,15 +519,15 @@ Soru: [user query]
 - [x] Add `--compare-strategies` for side-by-side strategy comparison
 - [x] Create `rag_queries.txt` with full-sentence Turkish test questions
 
-**Phase 3: Streaming & Advanced** - planned
-- [ ] Implement streaming generation (`--stream` flag scaffolded)
-- [ ] Add cost warnings
+**Phase 3: Streaming & Advanced** ✓
+- [x] Implement streaming generation (SSE streaming in web app via `src/api.py`)
+- [ ] Add cost warnings (CLI only — not yet surfaced in web UI)
 - [ ] Add multiple citation formats
 
-**Phase 4: Documentation & Polish** - planned
-- [ ] Update documentation
+**Phase 4: Documentation & Polish** ✓
+- [x] Update documentation (README, CLAUDE.md, AGENTS.md)
+- [x] Optimize prompts based on testing (impersonation mode, adaptive retrieval)
 - [ ] Add comprehensive error handling
-- [ ] Optimize prompts based on testing
 
 ### Key Design Patterns
 
@@ -580,18 +580,30 @@ uv pip install fastapi "uvicorn[standard]" python-multipart
 
 # 3. Start the server (from project root)
 python3 src/api.py
-# → http://localhost:9000
+# → http://localhost:8000
 ```
 
-### Deployment Notes (Railway)
+### Deployment Notes (Docker Compose)
 
-- Local Qdrant on Railway requires a volume. Set `QDRANT_PATH` to a mounted path (example: `/data/qdrant`).
-- Managed Qdrant uses `QDRANT_URL` and optional `QDRANT_API_KEY`.
-- Persist conversations by setting `CONVERSATIONS_DIR` to a mounted path (example: `/data/conversations`).
-- One-time embed job (run on Railway or locally with the same env vars):
-  ```bash
-  python3 src/embed_documents.py --model openai-small
-  ```
+The app is deployed via `docker-compose.yml`, which runs two services:
+- **app** — FastAPI server (port `8000`, not publicly exposed; put a reverse proxy in front)
+- **qdrant** — Vector DB on `127.0.0.1:6333` (localhost only)
+
+Required environment variables (set in `.env`):
+- `ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, `APP_PASSWORD`
+- `QDRANT_URL=http://qdrant:6333` (set automatically by compose)
+- `CONVERSATIONS_DIR=/data/conversations` (persisted in a named Docker volume)
+
+One-time embedding job to populate Qdrant after first deploy:
+```bash
+docker compose exec app python3 src/embed_documents.py --model openai-small
+```
+
+For incremental updates after adding new articles:
+```bash
+python3 src/chunk_documents.py --context-mode llm
+docker compose exec app python3 src/embed_documents.py --model openai-small --incremental
+```
 
 ### Features
 
