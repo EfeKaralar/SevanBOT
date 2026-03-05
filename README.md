@@ -1,6 +1,6 @@
 # SevanBot
 
-RAG system for querying Sevan Nisanyan's writings. Scrapes articles from Substack and sevannisanyan.com, converts them to Markdown, and provides semantic search.
+RAG-powered chat app for querying Sevan Nisanyan's writings (~1,300 articles, ~1.1M words). Scrapes articles from Substack and sevannisanyan.com, converts them to Markdown, indexes them with hybrid search, and serves a streaming chat interface at `http://localhost:8000`.
 
 ## Architecture
 
@@ -9,9 +9,12 @@ Sources (Substack sitemap / SevanNisanyan.com API)
     |
     v
 HTML Downloads --> Markdown Conversion --> Chunking --> Qdrant (vector DB)
-                                              |            |
-                                              v            v
-                                    OpenAI Embeddings  REST API (FastAPI)
+                                              |              |
+                                      OpenAI Embeddings   BM25 Index
+                                                               |
+                                                        FastAPI + SSE
+                                                               |
+                                                      Chat UI (browser)
 ```
 
 ## Tech Stack
@@ -20,13 +23,17 @@ HTML Downloads --> Markdown Conversion --> Chunking --> Qdrant (vector DB)
 |-----------|--------|--------|
 | Scraping | Python (requests, BeautifulSoup) | Done |
 | Markdown conversion | Python (markdownify) | Done |
-| Vector database | Qdrant (local storage) | Done |
-| Chunking | Semantic/recursive | Done |
+| Vector database | Qdrant (local or managed) | Done |
+| Chunking | Semantic/recursive with overlap | Done |
 | Contextual retrieval | LLM-based (Claude Haiku) | Done |
 | Embedding model | OpenAI text-embedding-3-small/large | Done |
-| Query interface | FastAPI | Planned |
-| Hybrid search | BM25 + vector | Planned |
-| Reranking | - | Planned |
+| Hybrid search | BM25 + vector (RRF fusion) | Done |
+| Query interface | FastAPI + SSE streaming | Done |
+| Adaptive retrieval | LLM-based query planner | Done |
+| Impersonation mode | First-person responses as Sevan | Done |
+| Chat web app | Single-file frontend, conversation history | Done |
+| Reranking | Cross-encoder reranker | Planned |
+| Evaluation harness | Recall@K, MRR metrics | Planned |
 
 ## Dataset
 
@@ -35,15 +42,12 @@ HTML Downloads --> Markdown Conversion --> Chunking --> Qdrant (vector DB)
 - Sources: Substack newsletter, sevannisanyan.com blog
 - Language: Turkish
 
-## Usage
-Uvicorn is the recommended package manager for this project. You can use any other of your choosing
+## Development Setup
 
 ```bash
 # Create the environment
 uv venv
-
-# Set the environment
-source ./venv/bin/activate
+source .venv/bin/activate
 
 # Install dependencies
 uv pip install -r requirements.txt
@@ -54,153 +58,173 @@ python3 src/main.py
 # Download from sevannisanyan.com
 python3 src/main.py --source sevan
 
-# Download only / Convert only
-python3 src/main.py --skip-convert
-python3 src/main.py --skip-download
-
-# Delete HTML after conversion
-python3 src/main.py --delete-after
-
 # Chunk documents for embedding
-python3 src/chunk_documents.py
+python3 src/chunk_documents.py                      # Simple context (default)
+python3 src/chunk_documents.py --context-mode llm   # LLM-generated context
+
+# Generate embeddings
+export OPENAI_API_KEY=sk-...
+python3 src/embed_documents.py --model openai-small
+
+# Start the dev server
+python3 src/api.py
+# → http://localhost:8000
 ```
 
-## Deployment (Railway)
+## Deployment (Docker Compose)
 
-### Option 1: Local Qdrant on Railway (no extra service)
+The recommended way to run SevanBot on a local machine or VPS is with Docker Compose.
+It starts two services: the app and a Qdrant vector database.
 
-This keeps Qdrant data in a Railway volume mounted into your app service.
+### 1. Prerequisites
 
-1. Add a Railway volume and mount it (example mount path: `/data`).
-2. Set environment variables:
-   - `QDRANT_PATH=/data/qdrant`
-   - `OPENAI_API_KEY=...`
-   - `ANTHROPIC_API_KEY=...`
-   - Optional: `APP_PASSWORD=...` (enables auth)
-   - Optional: `CONVERSATIONS_DIR=/data/conversations` (persist chat history)
-3. Run a one-time embedding job on Railway:
-   ```bash
-   python3 src/embed_documents.py --model openai-small
-   ```
-4. Deploy the web service (Railway uses `Procfile`):
-   ```bash
-   python3 src/api.py
-   ```
+- Docker and Docker Compose installed
+- `chunks_contextual.jsonl` built locally (see Development Setup above)
+- Embeddings uploaded to the Qdrant instance (see step 3)
 
-### Option 2: Managed Qdrant (separate service)
+### 2. Configure environment
 
-If you host Qdrant elsewhere, set:
-- `QDRANT_URL=https://your-qdrant-host`
-- `QDRANT_API_KEY=...` (if required)
+Copy `.env.example` to `.env` and fill in your keys:
 
-Then run the same embedding command once and deploy the API.
+```bash
+cp .env.example .env
+```
 
-### Notes
-- The collection name defaults to `sevanbot_openai-small`. Override with `COLLECTION_NAME`.
-- The chunks file defaults to `chunks_contextual.jsonl`. Override with `CHUNKS_FILE`.
+```dotenv
+# Required
+ANTHROPIC_API_KEY=your_key_here
+OPENAI_API_KEY=your_key_here
+APP_PASSWORD=your_password_here
+
+# Optional
+ANTHROPIC_MODEL=claude-sonnet-4-20250514   # default model for chat
+# COLLECTION_NAME=sevanbot_openai-small    # override collection name
+# CHUNKS_FILE=chunks_contextual.jsonl      # override chunks file path
+```
+
+### 3. Start the services
+
+```bash
+docker compose up -d
+```
+
+This starts:
+- **app** — FastAPI server on port `8000` (not exposed publicly; put a reverse proxy in front)
+- **qdrant** — Vector DB on `127.0.0.1:6333` (localhost only)
+
+### 4. Load embeddings (one-time)
+
+The Qdrant volume starts empty. Run the embedding job once to populate it:
+
+```bash
+# From the host, pointing at the local Qdrant container
+QDRANT_URL=http://localhost:6333 \
+OPENAI_API_KEY=sk-... \
+python3 src/embed_documents.py --model openai-small
+```
+
+Or run it inside the container if you prefer:
+
+```bash
+docker compose exec app python3 src/embed_documents.py --model openai-small
+```
+
+After this, the `qdrant_data` volume persists the index across restarts.
+
+### 5. Reverse proxy (VPS)
+
+Expose port `8000` via nginx or Caddy with HTTPS. Example Caddy config:
+
+```
+yourdomain.com {
+    reverse_proxy localhost:8000
+}
+```
+
+### Incremental updates
+
+When you add new articles and re-chunk:
+
+```bash
+python3 src/chunk_documents.py --context-mode llm
+docker compose exec app python3 src/embed_documents.py --model openai-small --incremental
+```
+
+### Volumes
+
+| Volume | Contents |
+|--------|----------|
+| `qdrant_data` | Qdrant index (vectors + BM25) |
+| `conversations` | Chat history (one JSON per conversation) |
+
+Back these up before re-deploying if you want to preserve data.
 
 ## Project Structure
 
 ```
 src/
+  api.py               # FastAPI backend (streaming chat, conversation CRUD)
   main.py              # Pipeline orchestrator
-  download_articles.py # Fetches articles from sources
-  convert_to_md.py     # HTML to Markdown conversion
-  chunk_documents.py   # Semantic chunking for embeddings
-sources/               # Raw HTML files
-formatted/             # Converted Markdown files
-  substack/
-  sevan/
-chunks.jsonl           # Chunked documents ready for embedding
+  download_articles.py # Fetches articles from Substack / SevanNisanyan.com
+  convert_to_md.py     # HTML → Markdown conversion
+  chunk_documents.py   # Semantic chunking with contextual enrichment
+  embed_documents.py   # Embedding generation (OpenAI or local models)
+  contextual_utils.py  # Claude Haiku context generation with prompt caching
+  answer_rag.py        # CLI for single-query RAG testing
+  test_retrieval.py    # Retrieval strategy comparison CLI
+  smoke_impersonation.py # Smoke tests for chat/RAG quality
+  rag/                 # Answer generation module (config, prompts, Claude client)
+  retrieval/           # Retrieval module (dense, sparse, hybrid, RRF fusion)
+static/
+  index.html           # Single-file chat frontend (HTML + CSS + JS)
+chunks_contextual.jsonl  # Chunked + enriched documents (BM25 + embedding source)
 ```
 
 ## Chunking Strategy
-
-Documents are chunked for optimal RAG performance:
 
 - **Primary split**: Paragraphs (semantic boundaries)
 - **Fallback**: Sentences if paragraph > 400 tokens
 - **Minimum size**: 150 tokens (merges small paragraphs)
 - **Overlap**: 1 sentence between chunks for context continuity
 - **Filtering**: Removes footnotes, images, Ottoman transliteration examples
+- **Context enrichment**: Metadata prepend (simple) or LLM-generated summary (optional)
 
-Output: `chunks.jsonl` with ~7,100 chunks (avg 1,265 chars each)
+Output: `chunks_contextual.jsonl` with ~6,850 chunks (avg ~1,265 chars each)
 
-## TODO: Retrieval Evaluation (Post-Deployment)
+## Planned
 
-Once the RAG system is operational, implement quantitative evaluation to measure retrieval quality:
-
-### Evaluation Metrics
-- **Recall@K**: % of relevant chunks retrieved in top K results (target: >90% @ K=10)
-- **MRR (Mean Reciprocal Rank)**: Average position of first relevant result (target: >0.7)
-- **NDCG**: Ranking quality metric
-- **Latency**: End-to-end retrieval time (target: <500ms)
-
-### Evaluation Dataset
-Create ground truth dataset with 50-100 real user queries:
-```json
-{
-  "query": "Osmanlı'da azınlık hakları",
-  "relevant_docs": ["doc_123", "doc_456"],
-  "difficulty": "medium"
-}
-```
-
-### Comparison Scenarios
-1. **Simple vs LLM context**: Does LLM-generated context improve retrieval accuracy?
-2. **Dense vs Hybrid search**: Does BM25 + vector fusion outperform vector-only?
-3. **With vs without reranking**: Does cross-encoder reranking improve top-K results?
-
-### Implementation
-- `src/evaluate_retrieval.py`: Automated evaluation harness
-- `eval_queries.json`: Hand-curated query dataset
-- Track metrics over time to measure improvements
-
-**Data collection strategy**: Log real user queries + clicked results to build ground truth organically.
-
----
+- **Cross-encoder reranking** — Improve answer quality by reranking retrieved chunks before generation (`bge-reranker-v2-m3` or Cohere Rerank 3.5)
+- **Retrieval evaluation harness** — Automated Recall@K and MRR measurement against a hand-curated query dataset (`eval_queries.json`)
+- **Streaming in impersonation mode** — Token-by-token output for the impersonation persona
+- **Query decomposition** — Break complex multi-part questions into sub-queries before retrieval
 
 ## Implementation Notes
 
-### Embedding Model Decision
+### Embedding Model
 
-**Chosen**: OpenAI `text-embedding-3-small` (1536 dims) / `text-embedding-3-large` (3072 dims)
+**Chosen**: OpenAI `text-embedding-3-small` (1536 dims) for production
 
-**Rationale**:
-- **Performance**: text-embedding-3-large ranks 2nd globally on MTEB (64.6%), outperforming multilingual-e5-large-instruct (62%)
-- **Multilingual**: Massive improvements (31.4% → 54.9% on MIRACL benchmark)
-- **Operational**: Zero local RAM usage (critical for 8GB systems), API-based
-- **Cost-effective**: $0.05 (small) / $0.35 (large) for full corpus (~6,850 chunks)
-- **Incremental updates**: Only pay for new chunks (<$0.001 for 100 new chunks)
+- Zero local RAM (API-based, critical for small VPS)
+- $0.05 for full corpus (~6,850 chunks); incremental updates cost <$0.001 per 100 chunks
+- Multilingual: strong on Turkish via MIRACL benchmarks
+- `text-embedding-3-large` (3072 dims) available for higher quality at 7x cost
 
-- **text-embedding-3-small (1536 dims)**
-  - Cost: $0.05 for full corpus
-  - Speed: Faster inference
-  - Lower Qdrant storage
-  - Quality: 62.3% MTEB score
+### Vector Database
 
-- **text-embedding-3-large (3072 dims)**
-  - Cost: $0.35 for full corpus (7x more)
-  - Storage: 2x dimensions = 2x Qdrant disk space
-  - Quality: 64.6% MTEB score (+2.3% better retrieval)
-  - Turkish: Likely better on multilingual tasks
+**Chosen**: Qdrant with named Docker volume
 
-**Alternative considered**: `intfloat/multilingual-e5-large-instruct` (560M params, 1024 dims) - leads Turkish TR-MTEB benchmarks but requires 2-3GB RAM and doesn't support incremental updates without re-embedding.
+- Native hybrid search (dense + sparse/BM25)
+- Self-hosted, no cloud dependency
+- Healthcheck ensures app waits for Qdrant to be ready before starting
 
-### Vector Database Decision
+### Retrieval
 
-**Chosen**: Qdrant with local storage
+Three strategies, selectable at query time:
 
-**Rationale**:
-- Native hybrid search support (dense + sparse/BM25)
-- Local deployment option (no cloud dependency)
-- Better suited for RAG: optimized for vector similarity + filtering
-- pgvector alternative considered but Qdrant offers better retrieval performance
+| Strategy | Method | Best For |
+|----------|--------|----------|
+| Dense | Vector similarity (Qdrant) | Semantic / conceptual queries |
+| Sparse | BM25 with Turkish stemming | Exact terms, proper nouns |
+| Hybrid | RRF fusion of dense + sparse | General purpose (default) |
 
-### Contextual Retrieval
-
-Implemented LLM-based context generation using Claude Haiku:
-- Generates semantic context for each chunk
-- Prompt caching reduces cost by ~10x
-- Cost: ~$2-3 for full corpus
-- Fallback: Simple metadata prepending (free, instant)
+Adaptive retrieval uses a Claude LLM planner to choose strategy and parameters per query.
